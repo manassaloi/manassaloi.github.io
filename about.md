@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Manas J Saloi. I’m a Product Manager living in Bangalore. I’m currently part of the Transport team at [Go-Jek](https://www.go-jek.com/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the past I have worked for [Kony](https://www.kony.com/), [Kore.ai](https://kore.ai/), [CouponDunia (Part of Times Internet now)](https://www.coupondunia.in/), [Craftsvilla](https://www.craftsvilla.com/) and [Directi](https://www.directi.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I spend my time [tweeting](https://twitter.com/manas_saloi), [reading](https://www.goodreads.com/user/show/9698257-manas-saloi), [writing](https://www.linkedin.com/in/manassaloi/detail/recent-activity/posts/) & [travelling](https://solitarywankers.quora.com/)
+
+You can stalk me on [Linkedin](https://www.linkedin.com/in/manassaloi/) & [Medium](https://medium.com/@manas_saloi)
+
+
+
+
 
 
 [jekyll-organization]: https://github.com/jekyll
