@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
 My name is Manas J Saloi. I’m a Product Manager living in Bangalore. I’m currently part of the Transport team at [Go-Jek](https://www.go-jek.com/).
