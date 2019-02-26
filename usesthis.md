@@ -6,93 +6,53 @@ permalink: /usesthis/
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done
 
-Hardware
+## Hardware
 
-MacBook Pro (Space Grey, 15-inch, 2018)
++ MacBook Pro (Space Grey, 15-inch, 2018): Work computer. Use it as my personal device too ;)
 
-Work computer. Use it as my personal device too ;)
++ One Plus 5: The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
 
-One Plus 5
++ Apple In-Ear Headphones: Borrowing from my girlfriend till I get my own :)
 
-The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
++ Kindle Paperwhite: I bought it in 2015. It is probably my most prized possession
 
-Apple In-Ear Headphones
++ Apple Pencil: Got it with my iPad. Super helpful to create handwritten notes
 
-Borrowing from my girlfriend till I get my own :)
+## Software
 
-Kindle Paperwhite
+# On Laptop
 
-I bought it in 2015. It is probably my most prized possession
++ Sketch: Got a license thanks to Go-Jek. Takes care of all my prototyping needs (also when I need to make memes)
 
-Apple Pencil
++ Atom: Typing this on Atom  
 
-Got it with my iPad. Super helpful to create handwritten notes
++ Google Chrome: My primary browser. Bookmark Manager says I have got 6000+ bookmarks there. I use [AdblockPlus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) to stop the annoying Youtube ads
 
-Software
++ Microsoft Office Suite: Can't live without Excel as a Product Manager
 
-On Laptop
++ Slack: For Office Communication
 
-Sketch
++ Zoom: For conferencing
 
-Got a license thanks to Go-Jek. Takes care of all my prototyping needs (also when I need to make memes)
+# On iPad
 
-Atom
++ iBooks: To read epubs
 
-Typing this on Atom  
-
-Google Chrome
-
-My primary browser. Bookmark Manager says I have got 6000+ bookmarks there. I use [AdblockPlus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)to stop the annoying Youtube ads
-
-Microsoft Office Suite
-
-Can't live without Excel as a Product Manager
-
-Slack
-
-For Office Communication
-
-Zoom
-
-For conferencing
-
-On iPad
-
-iBooks
-
-To read epubs
-
-Notes
-
-For handwritten notes
++ Notes: For handwritten notes
 
 
-On Phone
+# On Phone
 
-Loop Habits Tracker
++ Loop Habits Tracker: To track habits
 
-To track habits
++ Castbox: To listen to podcasts
 
-Castbox
++ Pedometer/ Pacer: To count steps
 
-To listen to podcasts
++ InkPad Notepad: Primary note taking app on my Phone. I live my live through it
 
-Pedometer and Pacer
++ Headspace: For meditating
 
-To count steps
++ Lithium: To read ebooks on my phone
 
-InkPad Notepad
-
-Primary note taking app on my Phone. I live my live through it
-
-Headspace
-
-For meditating
-
-Lithium
-
-To read ebooks on my phone
-
-Twitter App
-
-Ranting on Twitter is  therapy
++ Twitter App: Ranting on Twitter is  therapy
