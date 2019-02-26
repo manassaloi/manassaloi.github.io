@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  Content © 2019 Manas J Saloi, unless otherwise specified
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: manas_saloi
-github_username:  manassaloi
+#twitter_username: manas_saloi
+#github_username:  manassaloi
 
 # Build settings
 markdown: kramdown

@@ -11,10 +11,3 @@ In the past I have worked for [Kony](https://www.kony.com/), [Kore.ai](https://k
 I spend my time [tweeting](https://twitter.com/manas_saloi), [reading](https://www.goodreads.com/user/show/9698257-manas-saloi), [writing](https://www.linkedin.com/in/manassaloi/detail/recent-activity/posts/) & [travelling](https://solitarywankers.quora.com/)
 
 You can stalk me on [Linkedin](https://www.linkedin.com/in/manassaloi/) & [Medium](https://medium.com/@manas_saloi)
-
-
-
-
-
-
-[jekyll-organization]: https://github.com/jekyll
