@@ -1,0 +1,194 @@
+---
+layout: post
+title:  "2017: A Product Manager’s Year in Review"
+
+---
+
+
+I know, I know. Another end of the year listicle. Grrrr… In all probability you have already got a dozen of these bookmarked; never to open again. But I promise that this blog post comprises of the absolute best I read/learned last year: books, tweets, blog posts and life lessons.
+
+**Non Fiction books:**
+
+* [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](https://www.goodreads.com/book/show/31920777-american-kingpin)
+
+* [Smarter Faster Better: The Secrets of Being Productive in Life and Business](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
+* [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](https://www.goodreads.com/book/show/18490568-age-of-ambition)
+
+* [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
+
+* [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well)
+
+* [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.goodreads.com/book/show/29905580-the-upstarts)
+
+* [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/book/show/31823677-tools-of-titans)
+
+* [Made to Stick: Why Some Ideas Survive and Others Die](https://www.goodreads.com/book/show/69242.Made_to_Stick)
+
+* [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy](https://www.goodreads.com/book/show/183392.It_s_Your_Ship)
+
+* [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
+
+* [Homo Deus: A Brief History of Tomorrow](https://www.goodreads.com/book/show/28092870-homo-deus)
+
+* [Shoe Dog: A Memoir by the Creator of NIKE](https://www.goodreads.com/book/show/27220736-shoe-dog)
+
+* [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals)
+
+* [How Will You Measure Your Life?](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life)
+
+* [Being Mortal: Medicine and What Matters in the End](https://www.goodreads.com/book/show/20696006-being-mortal)
+
+**Fiction:**
+
+* [Turtles All the Way Down](https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down)
+
+* [The Forty Rules of Love](https://www.goodreads.com/book/show/6642715-the-forty-rules-of-love)
+
+* [The Museum of Innocence](https://www.goodreads.com/book/show/6282753-the-museum-of-innocence)
+
+* [Post Office](https://www.goodreads.com/book/show/51504.Post_Office)
+
+* [The Illicit Happiness of Other People](https://www.goodreads.com/book/show/13707645-the-illicit-happiness-of-other-people)
+
+**Favourite tweets:**
+
+* “It doesn’t exist until it’s shipped. Don’t care if you worked on something for 5 years. If it’s not out yet, it doesn’t exist.” [https://twitter.com/jasonfried/status/935629319854067713](https://twitter.com/jasonfried/status/935629319854067713)
+
+* “There’s a concept known as financial compounding, but most people don’t know about intellectual compounding. Buffett and Munger employed this to great effect and to accumulate mental models such that they can make large decisions quickly. Intuition is simply reading a lot.” [https://twitter.com/zaoyang/status/940409514875961344](https://twitter.com/zaoyang/status/940409514875961344)
+
+* “You can only iterate on something after it’s been released. Prior to release, you’re just making the thing. Even if you change it, you’re just making it. Iterating is when you change/improve after it’s out. So if you want to iterate, SHIP.” [https://twitter.com/jasonfried/status/935555293014036480](https://twitter.com/jasonfried/status/935555293014036480)
+
+* “Reminder: Typing document.body.contentEditable = true; into DevTools makes *all* of the text on a page editable. Useful for prototyping” [https://twitter.com/addyosmani/status/362718222925053952](https://twitter.com/addyosmani/status/362718222925053952)
+
+* “Productivity is for machines, not for people. There’s nothing meaningful about packing some number of work units into some amount of time, or squeezing more into less. Think about how effective you’re being, not how productive you’re being.” [https://twitter.com/jasonfried/status/936991970395938816](https://twitter.com/jasonfried/status/936991970395938816)
+
+**Best lessons:**
+
+* *“TREAT THE GYM LIKE A SPA.*
+
+*Yes. It has to feel good. I tell people this a lot — go to the gym, and just sit there, and read a magazine, and then go home. And do this every day. Go to the gym, don’t even work out. Just GO. Because the habit of going to the gym is more important than the work out. Because it doesn’t matter what you do. You can have fun — but as long as you’re having fun, you continue to do it. But what happens is you get a trainer, your whole body is sore, you can’t feel your legs, and you’re not coming back the next day — you might not come back for a year! I worked my way up to 2 hours a day. I ENJOY my workouts. They are my peace, my joy — I get my whole head together! I value that time more than my shower! And it really gets me together. But it’s a habit.*
+
+*There are times when — I’m not even kidding — there are times when I”m in the middle of a work out, and actually woke up because i am so engrained with going to the gym and being there — it’s that much of a habit to me. The first thing I do in the morning is work out — I lay out my workout clothes the night before, and just hop in ’em. So lay out your clothes, and go to the gym, and relax.*
+
+*HaAHAHAH!*
+
+*But sooner or later, you WILL work out.”*
+
+— Terry Crews
+
+The mindset to persist with something (even if you don’t enjoy it in the beginning) is the most important thing in the world. Be it reading, working out or doing side projects. You don’t have to work out everyday. Just try showing up at the gym instead for half an hour.
+
+* *“If you don’t do something well don’t do it unless you are willing to spend time improving it”*
+
+— Triple H (WWE Wrestler)
+
+Earlier I used to spend hours daily reading random blog posts on any topic under the sun. Be it Dev, Data Sciences, Marketing or Sales: I had to read it all. Over the past year I have tried my best to cut down on junk reading and only focus on Product, Strategy and UX.
+
+Apart from that, In 2017:
+
+* I started 2–3 side projects, learned dev ops (mostly AWS: how to run instances, set route53, SSL etc). But the more I got into this, the more I realised that dev is just not my thing. I had quit my developer job 3 years back and moved to Product because I knew I could never put in the hours required to become a 10X dev, someone who was the best at his job. Also I was more passionate about Product and the business side of startups.
+
+* I spent hours trying to become better at Poker. I read books. Invested quite a bit of money playing online Poker. But even after months I could not see much improvement. I kept doing the same elementary mistakes: making decisions based on emotions instead of math. I did not know if I was ever going to be good enough to play Poker at a professional level. Was I going to spend years trying to perfect my Poker game? I was not sure. So I quit cold turkey.
+
+* I did the same thing with Table Tennis and a lot of other things I had picked up over the last few years. I realised that if I was not willing to invest my time and energy in becoming good at a particular hobby/project it was just best to quit and put the effort in something else.
+
+* *“If you have a 10-year plan of how to get [somewhere], you should ask: Why can’t you do this in 6 months?”*
+
+— Peter Thiel
+
+I like setting personal and professional goals for myself. [I have yearly goals which I sometime post online](https://www.quora.com/What-do-you-want-in-2015/answer/Manas-J-Saloi). One of them is to visit at least 10 countries by the time I turn 30. Due to various reasons I could never find time to take long holidays over the last few years. This time I cut down on short holidays, took fewer leaves and managed to do a [2 week backpacking trip across South East Asia](https://solitarywankers.quora.com/Banana-Pancake-Trail-Vietnam).
+
+This lesson is not simply about compressing 10 year goals into 6 months. Think of all your long term goals. Ask yourself : What would it take for you to complete those now/in the next month itself.
+
+* *“Instead of focusing how the world will be in 20 years think about what won’t change in that time frame”*
+
+— Jeff Bezos
+
+This is not just a solid business advice; it can be a thought exercise for your life too. Forget what you would want over the next 2 decades. Ask: What would you not want instead.
+
+Here are some of the things I would never want in my life (not just now but even after 20 years):
+
+* Wear suits/formals to work.
+
+* Work in a place with a lot of bureaucracy and micro management.
+
+* Be with someone just because I have no one else.
+
+Lets think in terms of career. What would employers/businesses want even after 20 years? I can safely bet that the core traits of an ideal employee would not change over time. Every employer would want hardworking folks who have a growth mindset even after 2 decades.
+
+Hence I would rather focus on those aspects instead of worrying about when AI is going to replace me.
+
+* *“Strong views weakly held”*
+
+— Paul Safe
+
+If you open Twitter now, you will find a bunch of people arguing with each other on the basis of their opinions (inspite of facts which state otherwise). Go to any company and you will find at least a few leaders who are unwilling to accept that they are wrong and keep holding on to their beliefs. Your beliefs should be subject to change on the basis of fresh evidence.
+
+* *“Skin in the game”*
+
+— Nassim Nicholas Taleb
+
+A lot of people giving startup advice on Twitter (including new VCs) have never even worked for a startup. They have not slept at night wondering where the next round of funding would come from to keep the lights on.
+
+Don’t make decisions for others, spew opinions without having skin in the game.
+
+* *“Greatness comes from compound interest, whether it’s in investments or it’s in relationships.”*
+
+— Naval Ravikant
+
+Long term thinking matters. Instead of transactional short term relationships it is wise to invest in things which build over time.
+
+**Best blog posts read this year:**
+
+* [https://medium.com/@chenyuz/18-product-insights-from-the-man-behind-china-s-wechat-13f60254cfaf](https://medium.com/@chenyuz/18-product-insights-from-the-man-behind-china-s-wechat-13f60254cfaf)
+
+* [https://www.farnamstreetblog.com/2017/06/thought-experiment-how-einstein-solved-difficult-problems/](https://www.farnamstreetblog.com/2017/06/thought-experiment-how-einstein-solved-difficult-problems/)
+
+* [https://medium.com/flow/lazy-leadership-8ba19e34f959](https://medium.com/flow/lazy-leadership-8ba19e34f959)
+
+* [http://www.saffo.com/02008/07/26/strong-opinions-weakly-held/](http://www.saffo.com/02008/07/26/strong-opinions-weakly-held/)
+
+* [https://www.quora.com/At-age-25-would-you-pursue-a-good-paying-corporate-job-that-makes-you-unhappy-or-a-hobby-that-makes-you-happy-but-has-no-guarantee-to-pay-the-bills-What-would-you-advise/answer/Oliver-Emberton](https://www.quora.com/At-age-25-would-you-pursue-a-good-paying-corporate-job-that-makes-you-unhappy-or-a-hobby-that-makes-you-happy-but-has-no-guarantee-to-pay-the-bills-What-would-you-advise/answer/Oliver-Emberton)
+
+* [http://highexistence.com/4-types-of-love-radically-impact-relationships/](http://highexistence.com/4-types-of-love-radically-impact-relationships/)
+
+* [https://hbr.org/2005/03/what-great-managers-do](https://hbr.org/2005/03/what-great-managers-do)
+
+* [http://blog.ycombinator.com/tencents-chief-exploration-officer-david-wallerstein-on-wechat-qq-and-gaming/](http://blog.ycombinator.com/tencents-chief-exploration-officer-david-wallerstein-on-wechat-qq-and-gaming/)
+
+* [https://blog.startuppulse.net/why-do-fads-fade-the-inevitable-death-of-flappy-bird-1bbda20478e0](https://blog.startuppulse.net/why-do-fads-fade-the-inevitable-death-of-flappy-bird-1bbda20478e0)
+
+* [http://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/](http://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
+
+* [https://blog.intercom.com/rice-simple-prioritization-for-product-managers/](https://blog.intercom.com/rice-simple-prioritization-for-product-managers/)
+
+* [https://medium.com/@jgolden/lessons-learned-scaling-airbnb-100x-b862364fb3a7](https://medium.com/@jgolden/lessons-learned-scaling-airbnb-100x-b862364fb3a7)
+
+* [https://news.greylock.com/the-new-moats-53f61aeac2d9](https://news.greylock.com/the-new-moats-53f61aeac2d9)
+
+* [https://hitenism.com/amazon-working-backwards/](https://hitenism.com/amazon-working-backwards/)
+
+* [https://library.gv.com/10x-not-10-34ba4eb91130](https://library.gv.com/10x-not-10-34ba4eb91130)
+
+* [https://medium.com/@nickbaum/its-my-fault-that-google-shut-down-google-reader-29c3cd09248](https://medium.com/@nickbaum/its-my-fault-that-google-shut-down-google-reader-29c3cd09248)
+
+* [https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac)
+
+* [http://www.vanschneider.com/the-broken-window-theory](http://www.vanschneider.com/the-broken-window-theory)
+
+* [https://medium.com/the-year-of-the-looking-glass/avoiding-the-camel-f3e98c701016](https://medium.com/the-year-of-the-looking-glass/avoiding-the-camel-f3e98c701016)
+
+* [https://sivers.org/expire](https://sivers.org/expire)
+
+* [http://www.paulgraham.com/work.html](http://www.paulgraham.com/work.html)
+
+* [https://medium.com/@cory/keith-rabois-on-off-rcrd-with-cory-levy-take-1-interview-transcript-b2a5ffbeffa5](https://medium.com/@cory/keith-rabois-on-off-rcrd-with-cory-levy-take-1-interview-transcript-b2a5ffbeffa5)
+
+* [https://medium.com/career-and-motivation/how-to-think-about-your-career-e3595add4186](https://medium.com/career-and-motivation/how-to-think-about-your-career-e3595add4186)
+
+Have a great 2018!
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

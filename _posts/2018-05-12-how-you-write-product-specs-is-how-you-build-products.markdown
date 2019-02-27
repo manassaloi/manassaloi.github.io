@@ -5,8 +5,6 @@ title:  "How you write Product Specs is how you build products"
 ---
 
 
-# How you write Product Specs is how you build products
-
 In my 5 years of working as a Developer and then as a Product Manager I have come to understand the importance of a well written spec.
 
 When I started out in Product, I used to write long-winded emails which I passed off as a product spec. Then I stopped the practice of writing a spec altogether when I realised most people don’t even read the doc and I had to explain all features in person.
