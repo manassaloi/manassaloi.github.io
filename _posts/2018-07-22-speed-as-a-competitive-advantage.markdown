@@ -39,5 +39,3 @@ Lastly remember that speed only works when you know where you are going. **You m
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
-
-![undefined](https://cdn-images-1.medium.com/max/2800/1*Xv3XV-DgnRK9WjRs90xGMA@2x.png)
