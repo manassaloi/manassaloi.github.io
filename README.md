@@ -1,6 +1,6 @@
 # manassaloi.github.io
 
-This is the data for my personal website. In this website you can find more info about me and blogposts that I write about product management, design, programming and more.
+This is the data for my personal website. In this website you can find more info about me and blogposts that I write about product management, design, programming and more
 
 ## Attributes
 
