@@ -73,7 +73,7 @@ title:  "10 Steps for Landing a Job at a Startup"
     *Regards,*
     *Manasjyoti Saloi*
 
-I have removed the names for Privacy reasons. I don’t know how good the Cover Letter is but it did help me get the Interview. Don’t send generic Cover letters/ mails. Let the Cover Letter compliment your CV and give the HR another reason to hire you.
+    I have removed the names for Privacy reasons. I don’t know how good the Cover Letter is but it did help me get the Interview. Don’t send generic Cover letters/ mails. Let the Cover Letter compliment your CV and give the HR another reason to hire you.
 
 * **Learn each and everything you can about the StartUp you are applying for.**
   I used to stalk the founders on the Web, learn everything I could about them as well as their StartUp (both present and past) and it helped me get their interest during the Interview.
