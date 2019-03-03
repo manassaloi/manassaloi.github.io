@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll,  Benjamin Yoskovitz"
+title:  "Lean Analytics: Use Data to Build a Better Startup Faster - Alistair Croll,  Benjamin Yoskovitz"
 
 ---
 
