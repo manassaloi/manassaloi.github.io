@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Mature Optimization Handbook by Carlos Bueno"
+title:  "The Mature Optimization Handbook - Carlos Bueno"
 
 ---
 
