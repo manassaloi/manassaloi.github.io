@@ -20,7 +20,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ## Software
 
-# On Laptop
+### On Laptop
 
 + Sketch: Got a license thanks to Go-Jek. Takes care of all my prototyping needs (also when I need to make memes)
 
@@ -34,14 +34,14 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + Zoom: For conferencing
 
-# On iPad
+### On iPad
 
 + iBooks: To read epubs
 
 + Notes: For handwritten notes
 
 
-# On Phone
+### On Phone
 
 + Loop Habits Tracker: To track habits
 
