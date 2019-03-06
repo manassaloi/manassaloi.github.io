@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Managing Oneself - Peter Drucker"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

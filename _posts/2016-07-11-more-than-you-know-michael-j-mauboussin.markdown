@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

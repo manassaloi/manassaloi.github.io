@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Lean from the Trenches - Henrik Kniberg"
+tags: booksummaries
+categories: booksummaries
+
 
 ---
 

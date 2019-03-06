@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Deepwork — Cal Newport"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

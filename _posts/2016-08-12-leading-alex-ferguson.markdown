@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Leading: Learning from Life and My Years at Manchester United - Alex Ferguson,  Michael Moritz"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

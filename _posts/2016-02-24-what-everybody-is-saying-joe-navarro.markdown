@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "What Every Body is Saying: An Ex-FBI Agent's Guide to Speed - Reading People by Joe Navarro,  Marvin Karlins"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Designing for Emotion - Aarron Walter"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

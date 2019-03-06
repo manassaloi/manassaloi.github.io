@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Smarter Faster Better: The Secrets of Being Productive in Life and Business - Charles Duhigg"
+tags: booksummaries
+categories: booksummaries
 
 ---
 

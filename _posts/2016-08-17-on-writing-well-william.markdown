@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser"
+tags: booksummaries
+categories: booksummaries
+
 ---
 
 1. Remove all unnecessary words. Focus on simplicity

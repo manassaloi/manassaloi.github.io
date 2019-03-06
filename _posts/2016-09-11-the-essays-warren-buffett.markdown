@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "The Essays of Warren Buffett: Lessons for Corporate America - Lawrence A. Cunningham, Warren E. Buffett "
+tags: booksummaries
+categories: booksummaries
+
 ---
 
 The book ‘The Essays of Warren Buffett: Lessons for Corporate America’ is a must read for anyone who wants to learn how one of the most celebrated money managers of last century operates. I read the 3rd edition and am sharing my favourite parts from the book here.
