@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Radical Candor: Be a Kickass Boss Without Losing Your Humanity — Kim Scott"
+title:  "Radical Candor: Be a Kickass Boss Without Losing Your Humanity - Kim Scott"
 tags: booksummaries
 categories: booksummaries
 
