@@ -8,51 +8,53 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ## Hardware
 
-+ MacBook Pro (Space Grey, 15-inch, 2018): Work computer. Use it as my personal device too ;)
++ [MacBook Pro (Space Grey, 15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek](https://www.go-jek.com/). Use it as my personal device too ;)
 
-+ One Plus 5: The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
++ [One Plus 5](https://www.oneplus.in/5): The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
 
 + Apple In-Ear Headphones: Borrowing from my girlfriend till I get my own :)
 
-+ Kindle Paperwhite: I bought it in 2015. It is probably my most prized possession
++ Kindle Paperwhite (Wi-fi model): I bought it in 2015. It is probably my most prized possession
 
-+ Apple Pencil: Got it with my iPad. Super helpful to create handwritten notes
++ [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Super helpful for creating rough mocks & also take notes during meetings
+
++ [Apple Pencil](https://www.apple.com/in/apple-pencil/): Bought it along with with my iPad. It has been a life changer. Super helpful to create handwritten notes & also draw on Procreate (when you are in the mood for it)
 
 ## Software
 
 ### On Laptop
 
-+ Sketch: Got a license thanks to Go-Jek. Takes care of all my prototyping needs (also when I need to make memes)
++ [Sketch](https://www.sketchapp.com/): Got a license thanks to Go-Jek. Fulfils all my prototyping needs (also when I need to make memes)
 
-+ Atom: Typing this on Atom  
++ [Atom](https://atom.io/): Typing this on Atom. I like Sublime Editor too
 
 + Google Chrome: My primary browser. Bookmark Manager says I have got 6000+ bookmarks there. I use [AdblockPlus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) to stop the annoying Youtube ads
 
-+ Microsoft Office Suite: Can't live without Excel as a Product Manager
++ [Microsoft Office Suite](https://www.office.com/): Can't live without Excel as a Product Manager
 
-+ Slack: For Office Communication
++ [Slack](https://slack.com/): For Office Communication
 
-+ Zoom: For conferencing
++ [Zoom](https://zoom.us/): Best Video Conferencing tool out there. Go-Jek runs on Zoom
 
 ### On iPad
 
-+ iBooks: To read epubs
++ [iBooks](https://itunes.apple.com/in/app/ibooks/id364709193?mt=8): To read epubs on my iPad when I am bored of reading on my Phone
 
-+ Notes: For handwritten notes
++ [Notes](https://itunes.apple.com/us/app/notes/id1110145109): To take handwritten notes using my Apple Pencil during meetings
+
++ [Procreate](https://procreate.art/): The only software I did not feel bad paying for
 
 
 ### On Phone
 
-+ Loop Habits Tracker: To track habits
++ [Loop Habits Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN): To build new habits & track them
 
-+ Castbox: To listen to podcasts
++ [Castbox](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast): To listen to podcasts during my commute
 
-+ Pedometer/ Pacer: To count steps
++ [Pedometer](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)/ [Pacer](https://play.google.com/store/apps/details?id=cc.pacer.androidapp): To count steps
 
-+ InkPad Notepad: Primary note taking app on my Phone. I live my live through it
++ [InkPad Notepad](https://play.google.com/store/apps/details?id=com.workpail.inkpad.notepad.notes): Primary note taking app on my Phone. I live my live through it
 
-+ Headspace: For meditating
++ [Headspace](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): For meditating
 
-+ Lithium: To read ebooks on my phone
-
-+ Twitter App: Ranting on Twitter is  therapy
++ [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader): Have read dozens of ebooks on my phone thanks to this app
