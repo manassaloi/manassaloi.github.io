@@ -139,7 +139,7 @@ List of books I've found useful
 + [Design as Art - Bruno Munari](https://www.goodreads.com/book/show/6095883-design-as-art)
 + [Ways of Seeing - John Berger](https://www.goodreads.com/book/show/2784.Ways_of_Seeing)
 
-### Negotiations and Psychology
+### Psychology
 
 + [Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle) - Deepak Malhotra](https://www.goodreads.com/book/show/27037559-negotiating-the-impossible)
 + [Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
