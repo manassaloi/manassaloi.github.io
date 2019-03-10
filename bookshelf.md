@@ -6,7 +6,7 @@ permalink: /bookshelf/
 
 List of books I've found useful  
 
-### Biographies, Company Origins/Stories & Start-up Stories
+### Biographies & Start-up Stories
 
 + [Shoe Dog: A Memoir by the Creator of NIKE - Phil Knight](https://www.goodreads.com/book/show/27220736-shoe-dog)
 + [The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality - Blake J. Harris](https://www.goodreads.com/book/show/34017056-the-history-of-the-future)
