@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-This is a list of books I've found useful
+List of books I've found useful  
 
 ### Biographies, Company Origins/Stories & Start-up Stories
 
@@ -205,3 +205,5 @@ This is a list of books I've found useful
 + [Kafka on the Shore - Haruki Murakami](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
 + [The Stranger - Albert Camus](https://www.goodreads.com/book/show/49552.The_Stranger)
 + [A Man Called Ove - Fredrik Backman](https://www.goodreads.com/book/show/18774964-a-man-called-ove)
+
+Find the complete list of books I have read here: **[GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
