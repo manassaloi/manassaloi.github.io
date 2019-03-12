@@ -6,7 +6,7 @@ permalink: /usesthis/
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done
 
-## Hardware
+### Hardware
 
 + [MacBook Pro (Space Grey, 15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek](https://www.go-jek.com/). Use it as my personal device too ;)
 
@@ -20,9 +20,9 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Apple Pencil](https://www.apple.com/in/apple-pencil/): Bought it along with with my iPad. It has been a life changer. Super helpful to create handwritten notes & also draw on Procreate (when you are in the mood for it)
 
-## Software
+### Software
 
-### On Laptop
+#### On Laptop
 
 + [Sketch](https://www.sketchapp.com/): Got a license thanks to Go-Jek. Fulfils all my prototyping needs (also when I need to make memes)
 
@@ -36,7 +36,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Zoom](https://zoom.us/): Best Video Conferencing tool out there. Go-Jek runs on Zoom
 
-### On iPad
+#### On iPad
 
 + [iBooks](https://itunes.apple.com/in/app/ibooks/id364709193?mt=8): To read epubs on my iPad when I am bored of reading on my Phone
 
@@ -45,7 +45,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Procreate](https://procreate.art/): The only software I did not feel bad paying for
 
 
-### On Phone
+#### On Phone
 
 + [Loop Habits Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN): To build new habits & track them
 

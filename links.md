@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-## (Transitioning to a PM role)
+### (Transitioning to a PM role)
 
 Resources I found helpful while transitioning to a PM role from Dev (back in 2014). These are as relevant today as it was 4 years back.
 
@@ -64,7 +64,7 @@ Book excerpt from PM Interview Questions
 
 [Human-Centered Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction)
 
-## (People)
+### (People)
 
 **1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
 
@@ -146,7 +146,7 @@ fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovet
 
 fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
 
-## (Blogs)
+### (Blogs)
 
 **1/ [Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
 
@@ -196,7 +196,7 @@ fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-me
 
 fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
 
-## (Newsletters)
+### (Newsletters)
 
 1/ [CBInsights](https://www.cbinsights.com/newsletter)
 
@@ -222,7 +222,7 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 12/ [PMHQ Weekly Product Reads](https://www.productmanagerhq.com/)
 
-## (Podcasts)
+### (Podcasts)
 
 **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
 
@@ -248,6 +248,6 @@ fav: [https://tim.blog/2018/08/27/drew-houston/](https://tim.blog/2018/08/27/dre
 
 fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com/single-post/billmaris)
 
-## (Books)
+### (Books)
 
 **[Exhaustive list on GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
