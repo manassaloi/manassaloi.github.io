@@ -198,29 +198,29 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 ## (Newsletters)
 
-**1/ [CBInsights](https://www.cbinsights.com/newsletter)**
+1/ [CBInsights](https://www.cbinsights.com/newsletter)
 
-**2/ [Reforge](https://www.reforge.com/blog/)**
+2/ [Reforge](https://www.reforge.com/blog/)
 
-**3/ [Axios](https://www.axios.com/newsletters)** (Pro Rata and Login)
+3/ [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
 
-**4/ [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)**
+4/ [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)
 
-**5/ [The Ken](https://the-ken.com/)**
+5/ [The Ken](https://the-ken.com/)
 
-**6/ [Howard Lindzon](http://howardlindzon.com/subscribe/)**
+6/ [Howard Lindzon](http://howardlindzon.com/subscribe/)
 
-**7/ [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)**
+7/ [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)
 
-**8/ [Snippets by Social Capital](https://medium.com/@snippetsfromsc)**
+8/ [Snippets by Social Capital](https://medium.com/@snippetsfromsc)
 
-**9/ [Data Elixir](https://dataelixir.com/)**
+9/ [Data Elixir](https://dataelixir.com/)
 
-**10/ [Oversharing](https://oversharing.substack.com/welcome)**
+10/ [Oversharing](https://oversharing.substack.com/welcome)
 
-**11/ [Prioritised by Mind the Product](https://www.mindtheproduct.com/product-management-newsletter/)**
+11/ [Prioritised by Mind the Product](https://www.mindtheproduct.com/product-management-newsletter/)
 
-**12/ [PMHQ Weekly Product Reads](https://www.productmanagerhq.com/)**
+12/ [PMHQ Weekly Product Reads](https://www.productmanagerhq.com/)
 
 ## (Podcasts)
 
