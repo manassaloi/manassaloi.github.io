@@ -94,6 +94,7 @@ List of books I've found useful
 + [Seeking Wisdom: From Darwin To Munger - Peter Bevelin](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
 + [The Checklist Manifesto: How to Get Things Right - Atul Gawande](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
 + [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
++ [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey](https://www.goodreads.com/book/show/25733994-the-productivity-project)
 
 ### Investing
 
@@ -135,6 +136,7 @@ List of books I've found useful
 
 ### Visual Design and Art
 
++ [Paul Rand: A Designer's Art - Paul Rand](https://www.goodreads.com/book/show/163436.Paul_Rand)
 + [Thoughts on Design - Paul Rand](https://www.goodreads.com/book/show/2888995-thoughts-on-design)
 + [Design as Art - Bruno Munari](https://www.goodreads.com/book/show/6095883-design-as-art)
 + [Ways of Seeing - John Berger](https://www.goodreads.com/book/show/2784.Ways_of_Seeing)
