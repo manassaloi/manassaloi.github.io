@@ -5,6 +5,7 @@ tags: booksummaries
 categories: booksummaries
 
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
 
 Despite the circumstances and solemn sense of many of these meetings, David had a way of leaving every meeting on a high note. He would acknowledge the challenges before us while reminding each team why their work was important and what success would eventually look like. Even after painful meetings that lasted multiple hours without any sense of closure, David still managed to bring it together at the end in a way where we all left with energy—something along the lines of, “Hey, I know this is rough and we’ve got some serious work to do, but I also know we’ve got a good plan and the right people,” and adding something funny and uplifting at the end
 

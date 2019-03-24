@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+
 The very first thing I tell my new students on the first day of a workshop is that good writing is about telling the truth.
 
  So you might start by writing down every single thing you can remember from your first few years in school. Start with kindergarten. Try to get the words and memories down as they occur to you. Don’t worry if what you write is no good, because no one is going to see it.
