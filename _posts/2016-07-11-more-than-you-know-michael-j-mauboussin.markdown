@@ -5,9 +5,6 @@ tags: booksummaries
 categories: booksummaries
 
 ---
-
-
-
 I recently completed [Michael J. Mauboussin’s book ‘More Than You Know: Finding Financial Wisdom in Unconventional Places](https://www.goodreads.com/book/show/33331.More_Than_You_Know)’. In this book Mauboussin, who is one of Wall Street’s most creative and influential minds, offers provocative new ways of thinking about the stock market, investing, and how we make decisions. I am sharing my favourite parts from the book here. The blog post has been broken down into multiple sub sections to improve readability.
 
 ## Probabilistic thinking

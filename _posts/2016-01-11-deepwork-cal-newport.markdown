@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
 
 Make sure you have time in your schedule for this book. It is also good to take notes as you read as it might get a bit too much to take in and retain.
 

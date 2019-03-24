@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+
 1. Remove all unnecessary words. Focus on simplicity
 
 1. Don’t adopt a fake style. Be honest. Be authentic. Be credible

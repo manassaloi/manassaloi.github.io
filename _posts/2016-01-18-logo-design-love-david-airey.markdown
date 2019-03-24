@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+
 #### The seven ingredients for your iconic logo
 
 * Keep it simple. The simplest solution is often the most effective. Why? Because a simple logo helps meet most of the other requirements of iconic design.
