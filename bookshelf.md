@@ -61,6 +61,7 @@ List of books I've found useful
 + [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization - Dave Logan](https://www.goodreads.com/book/show/2741559-tribal-leadership)
 + [How to Win Friends and Influence People - Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 + [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp](https://www.goodreads.com/book/show/1317946.Managing_Humans)
++ [Making Things Happen: Mastering Project Management - Scott Berkun](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)
 
 ### Product & Strategy
 
