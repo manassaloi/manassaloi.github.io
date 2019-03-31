@@ -20,6 +20,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Apple Pencil](https://www.apple.com/in/apple-pencil/): Bought it along with with my iPad. It has been a life changer. Super helpful to create handwritten notes & also draw on Procreate (when you are in the mood for it)
 
++ [Gizga Cable Organiser Manager](https://www.amazon.in/gp/product/B01MSEMS0K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1): Organizing and concealing all types of cables
+
 ### Software
 
 #### On Laptop
