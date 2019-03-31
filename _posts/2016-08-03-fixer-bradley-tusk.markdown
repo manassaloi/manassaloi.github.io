@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 The Fixer Framework is follows a series of questions and answers for various scenarios you might face as a startup operating in a highly regulated area or in a market full of powerful incumbents
 

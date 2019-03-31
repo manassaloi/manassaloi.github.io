@@ -8,7 +8,7 @@ categories: booksummaries
 
 I recently completed [“Powerful: Building a Culture of Freedom and Responsibility” by Patty McCord](https://www.goodreads.com/book/show/36417234-powerful). In her book, she shares what she learned working as a Chief Talent Officer at Netflix and elsewhere in Silicon Valley.
 
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 ## People don’t care about free sushi
 

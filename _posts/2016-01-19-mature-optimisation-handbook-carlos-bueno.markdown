@@ -5,7 +5,7 @@ tags: booksummaries
 categories: booksummaries
 
 ---
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 A problem definition must be falsifiable. You have to risk being wrong to have a chance at gaining the truth. Let’s start with a bad definition and make it better.“WidgetFactoryServer is too slow.”What does “slow” mean here?
 

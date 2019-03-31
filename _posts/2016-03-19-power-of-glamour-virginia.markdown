@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 Each ad offers multilayered glamour. Glimpsing only their partial profiles, we project ourselves into the role of the young condo dwellers. They invite us to imagine sharing their new life, being them or being with them. And they in turn contemplate the scene beyond their windows and feel the pull of its glamour—the promise of a skyline’s mysteriously glistening windows or a river’s passage toward unknown destinations
 

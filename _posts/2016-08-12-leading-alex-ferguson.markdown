@@ -5,7 +5,7 @@ tags: booksummaries
 categories: booksummaries
 
 ---
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Lets start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 He told me never to let all the players’ contracts expire around the same time because it allows them to collude against the manager and the club. I’d never thought about that before Jimmy mentioned it to me but, afterwards, I paid very close attention to making sure we staggered the contracts.
 
