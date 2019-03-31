@@ -162,6 +162,7 @@ List of books I've found useful
 + [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love - Cal Newport](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 + [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
 + [Linchpin: Are You Indispensable? - Seth Godin](https://www.goodreads.com/book/show/7155145-linchpin)
++ [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
 
 ###  History
 
