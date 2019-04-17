@@ -47,6 +47,7 @@ List of books I've found useful
 ### Leading & Managing
 
 + [High Output Management - Andrew S. Grove](https://www.goodreads.com/book/show/324750.High_Output_Management)
++ [The Making of a Manager: What to Do When Everyone Looks to You - Julie Zhuo](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true)
 + [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
 + [The New One Minute Manager - Kenneth H. Blanchard](https://www.goodreads.com/book/show/22103881-the-new-one-minute-manager)
 + [It's Your Ship: Management Techniques from the Best Damn Ship in the Navy - D. Michael Abrashoff](https://www.goodreads.com/book/show/183392.It_s_Your_Ship)
