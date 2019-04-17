@@ -12,7 +12,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [One Plus 5](https://www.oneplus.in/5): The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
 
-+ Apple In-Ear Headphones: Borrowing from my girlfriend till I get my own :)
++ [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there
 
 + Kindle Paperwhite (Wi-fi model): I bought it in 2015. It is probably my most prized possession
 
