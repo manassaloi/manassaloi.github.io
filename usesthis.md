@@ -10,9 +10,9 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [MacBook Pro (Space Grey, 15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek](https://www.go-jek.com/). Use it as my personal device too ;)
 
-+ [One Plus 5](https://www.oneplus.in/5): The best bang for the buck. The size is just perfect, as well as the button feedback, and being able to unlock it with Touch ID. The screen and performance have no equal, and the camera quality is incredible
++ [One Plus 5](https://www.oneplus.in/5): The best bang for the buck
 
-+ [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there
++ [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range
 
 + Kindle Paperwhite (Wi-fi model): I bought it in 2015. It is probably my most prized possession
 
