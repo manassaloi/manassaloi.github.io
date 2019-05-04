@@ -9,6 +9,7 @@ List of books I've found useful
 ### Biographies & Start-up Stories
 
 + [Shoe Dog: A Memoir by the Creator of NIKE - Phil Knight](https://www.goodreads.com/book/show/27220736-shoe-dog)
++ [Return to the Little Kingdom: Steve Jobs, the Creation of Apple, and How It Changed the World - Michael Moritz](https://www.goodreads.com/book/show/6937258-return-to-the-little-kingdom)
 + [The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality - Blake J. Harris](https://www.goodreads.com/book/show/34017056-the-history-of-the-future)
 + [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal - Nick Bilton](https://www.goodreads.com/book/show/18656827-hatching-twitter)
 + [Who Is Michael Ovitz? - Michael Ovitz](https://www.goodreads.com/book/show/40092129-who-is-michael-ovitz)
@@ -63,6 +64,7 @@ List of books I've found useful
 + [How to Win Friends and Influence People - Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 + [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 + [Making Things Happen: Mastering Project Management - Scott Berkun](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)
++ [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt,  Jonathan Rosenberg](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
 
 ### Product & Strategy
 
@@ -100,6 +102,7 @@ List of books I've found useful
 
 ### Investing
 
++ [Narrative and Numbers: The Value of Stories in Business - Aswath Damodaran](https://www.goodreads.com/book/show/30151811-narrative-and-numbers)
 + [You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits - Joel Greenblatt](https://www.goodreads.com/book/show/116184.You_Can_Be_a_Stock_Market_Genius)
 + [The Zurich Axioms - Max Gunther](https://www.goodreads.com/book/show/1176121.The_Zurich_Axioms)
 + [More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin](https://www.goodreads.com/book/show/33331.More_Than_You_Know)
@@ -148,6 +151,7 @@ List of books I've found useful
 + [Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle) - Deepak Malhotra](https://www.goodreads.com/book/show/27037559-negotiating-the-impossible)
 + [Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 + [Nonviolent Communication: A Language of Life - Marshall B. Rosenberg,  Arun Gandhi](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
++ [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 
 ### Mindset
 
