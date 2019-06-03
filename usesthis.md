@@ -22,6 +22,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Gizga Cable Organiser Manager](https://www.amazon.in/gp/product/B01MSEMS0K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1): Organizing and concealing all types of cables
 
++ [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2): Only to play FIFA 19 :)
+
++ [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price
+
 ### Software
 
 #### On Laptop
