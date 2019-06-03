@@ -35,6 +35,8 @@ List of books I've found useful
 + [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.goodreads.com/book/show/17660462-the-everything-store)
 + [In the Plex: How Google Thinks, Works, and Shapes Our Lives - Steven Levy](https://www.goodreads.com/book/show/7841446-in-the-plex)
 + [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.goodreads.com/book/show/98233.Founders_at_Work)
++ [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made - Jason Schreier](https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels)
++ [I'm Feeling Lucky: The Confessions of Google Employee Number 59 - Douglas Edwards](https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky)
 
 ### Company Building Playbook
 
@@ -44,6 +46,9 @@ List of books I've found useful
 + [High Growth Handbook - Elad Gil](https://www.goodreads.com/book/show/40536148-high-growth-handbook)
 + [Built to Last: Successful Habits of Visionary Companies - James C. Collins,  Jerry I. Porras](https://www.goodreads.com/book/show/4122.Built_to_Last)
 + [Good to Great: Why Some Companies Make the Leap... and Others Don't - James C. Collins](https://www.goodreads.com/book/show/76865.Good_to_Great)
++ [Insanely Simple: The Obsession That Drives Apple's Success - Ken Segall](https://www.goodreads.com/book/show/13383957-insanely-simple)
++ [Only the Paranoid Survive - Andrew S. Grove](https://www.goodreads.com/book/show/66863.Only_the_Paranoid_Survive)
++ [Be Our Guest: Perfecting the art of customer service - Walt Disney Company](https://www.goodreads.com/book/show/205979.Be_Our_Guest)
 
 ### Leading & Managing
 
@@ -77,7 +82,6 @@ List of books I've found useful
 + [The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business - Clayton M. Christensen](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma)
 + [Lean Analytics: Use Data to Build a Better Startup Faster - Alistair Croll,  Benjamin Yoskovitz](https://www.goodreads.com/book/show/16033602-lean-analytics)
 
-
 ### Life & Living
 
 + [Being Mortal: Medicine and What Matters in the End - Atul Gawande](https://www.goodreads.com/book/show/20696006-being-mortal)
@@ -106,6 +110,8 @@ List of books I've found useful
 + [You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits - Joel Greenblatt](https://www.goodreads.com/book/show/116184.You_Can_Be_a_Stock_Market_Genius)
 + [The Zurich Axioms - Max Gunther](https://www.goodreads.com/book/show/1176121.The_Zurich_Axioms)
 + [More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin](https://www.goodreads.com/book/show/33331.More_Than_You_Know)
++ [Charlie Munger: The Complete Investor - Tren Griffin](https://www.goodreads.com/book/show/25530069-charlie-munger)
++ [The 5 Mistakes Every Investor Makes and How to Avoid Them: Getting Investing Right - Peter Mallouk](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them)
 
 ### Venture Capital
 
@@ -128,6 +134,7 @@ List of books I've found useful
 + [Talking to Humans - Giff Constable](https://www.goodreads.com/book/show/23314559-talking-to-humans)
 + [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp](https://www.goodreads.com/book/show/25814544-sprint)
 + [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
++ [Emotional Design: Why We Love (or Hate) Everyday Things - Donald A. Norman](https://www.goodreads.com/book/show/841.Emotional_Design)
 
 ### Branding, Marketing & Sales
 
@@ -168,6 +175,8 @@ List of books I've found useful
 + [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
 + [Linchpin: Are You Indispensable? - Seth Godin](https://www.goodreads.com/book/show/7155145-linchpin)
 + [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
++ [The McKinsey Edge: Success Principles from the World's Most Powerful Consulting Firm - Shu Hattori](https://www.goodreads.com/book/show/26271798-the-mckinsey-edge)
++ [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane](https://www.goodreads.com/book/show/11910905-the-charisma-myth)
 
 ###  History
 
