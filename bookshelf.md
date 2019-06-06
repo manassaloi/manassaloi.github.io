@@ -90,6 +90,7 @@ List of books I've found useful
 + [Awareness: Conversations with the Masters - Anthony de Mello](https://www.goodreads.com/book/show/94318.Awareness)
 + [Striking Thoughts: Bruce Lee's Wisdom for Daily Living - Bruce Lee,  John Little](https://www.goodreads.com/book/show/259311.Striking_Thoughts)
 + [30 Lessons for Living: Tried and True Advice from the Wisest Americans - Karl Pillemer](https://www.goodreads.com/book/show/11376196-30-lessons-for-living)
++ [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 
 ### Habits & Productivity
 
