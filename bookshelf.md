@@ -177,6 +177,8 @@ List of books I've found useful
 + [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
 + [The McKinsey Edge: Success Principles from the World's Most Powerful Consulting Firm - Shu Hattori](https://www.goodreads.com/book/show/26271798-the-mckinsey-edge)
 + [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane](https://www.goodreads.com/book/show/11910905-the-charisma-myth)
++ [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
++ [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
 
 ###  History
 
