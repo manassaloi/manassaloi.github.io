@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Questions for your Grandparents"
-
+title:  "30 Lessons for Living: Tried and True Advice from the Wisest Americans - Karl Pillemer"
+tags: booksummaries
+categories: booksummaries
 ---
 
 
