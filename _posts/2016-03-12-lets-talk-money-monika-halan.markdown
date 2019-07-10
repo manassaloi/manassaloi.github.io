@@ -258,7 +258,7 @@ There are some products that even if held to term are bad for your money box. I 
   + **Retirement fund**
      + This cell has a mix of products. The core is your PF and PPF. The rest is in equity funds. What kind of funds? The further away from retirement you are, the more risk you can take. For people in their thirties, a larger allocation to mid- , small-cap and sector funds would not hurt if chosen well. But if you are already in your late forties or early fifties, stay conservative with large-cap, diversified equity and multi-cap funds
 
-  + **Gold and real estate**
+  + **Gold**
     + Gold has its own cell. But it is tiny. No more than 5–10 per cent of your total portfolio is in gold, and that too paper gold, not jewellery. The government’s sovereign bond issue is very good and if you don’t need the money for the next seven years, you can begin to build a gold laddering system. It is useful for inflation protection at short notice and for use in marriages of the kids
 
   + **Real estate**
