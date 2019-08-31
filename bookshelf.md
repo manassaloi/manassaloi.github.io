@@ -37,6 +37,8 @@ List of books I've found useful
 + [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.goodreads.com/book/show/98233.Founders_at_Work)
 + [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made - Jason Schreier](https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels)
 + [I'm Feeling Lucky: The Confessions of Google Employee Number 59 - Douglas Edwards](https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky)
++ [Startup: A Silicon Valley Adventure - Jerry Kaplan](https://www.goodreads.com/book/show/1171250.Startup)
+
 
 ### Company Building Playbook
 
@@ -81,6 +83,10 @@ List of books I've found useful
 + [Hooked: How to Build Habit-Forming Products - Nir Eyal](https://www.goodreads.com/book/show/22668729-hooked)
 + [The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business - Clayton M. Christensen](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma)
 + [Lean Analytics: Use Data to Build a Better Startup Faster - Alistair Croll,  Benjamin Yoskovitz](https://www.goodreads.com/book/show/16033602-lean-analytics)
++ [Platform Revolution - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary](https://www.goodreads.com/book/show/25622861-platform-revolution)
++ [7 Powers: The Foundations of Business Strategy - Hamilton Wright Helmer](https://www.goodreads.com/book/show/32816087-7-powers)
++ [Shape Up: Stop Running in Circles and Ship Work that Matters - Ryan Singer,  Jason Fried](https://www.goodreads.com/book/show/46823986-shape-up)
+
 
 ### Life & Living
 
@@ -91,6 +97,7 @@ List of books I've found useful
 + [Striking Thoughts: Bruce Lee's Wisdom for Daily Living - Bruce Lee,  John Little](https://www.goodreads.com/book/show/259311.Striking_Thoughts)
 + [30 Lessons for Living: Tried and True Advice from the Wisest Americans - Karl Pillemer](https://www.goodreads.com/book/show/11376196-30-lessons-for-living)
 + [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
++ [When Breath Becomes Air - Paul Kalanithi](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air)
 
 ### Habits & Productivity
 
@@ -105,7 +112,7 @@ List of books I've found useful
 + [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 + [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey](https://www.goodreads.com/book/show/25733994-the-productivity-project)
 
-### Investing
+### Investing & Personal Finance
 
 + [Narrative and Numbers: The Value of Stories in Business - Aswath Damodaran](https://www.goodreads.com/book/show/30151811-narrative-and-numbers)
 + [You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits - Joel Greenblatt](https://www.goodreads.com/book/show/116184.You_Can_Be_a_Stock_Market_Genius)
@@ -113,6 +120,12 @@ List of books I've found useful
 + [More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin](https://www.goodreads.com/book/show/33331.More_Than_You_Know)
 + [Charlie Munger: The Complete Investor - Tren Griffin](https://www.goodreads.com/book/show/25530069-charlie-munger)
 + [The 5 Mistakes Every Investor Makes and How to Avoid Them: Getting Investing Right - Peter Mallouk](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them)
++ [Bulls, Bears and Other Beasts - Santosh Nair](https://www.goodreads.com/book/show/32716919-bulls-bears-and-other-beasts)
++ [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market - Peter Lynch,  John Rothchild](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street)
++ [I Will Teach You to Be Rich - Ramit Sethi](https://www.goodreads.com/book/show/4924862-i-will-teach-you-to-be-rich)
++ [Let's Talk Money - Monika Halan](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
++ [Stock Market Wizards: Interviews with America's Top Stock Traders - Jack D. Schwager](https://www.goodreads.com/book/show/164131.Stock_Market_Wizards)
+
 
 ### Venture Capital
 
@@ -180,6 +193,9 @@ List of books I've found useful
 + [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane](https://www.goodreads.com/book/show/11910905-the-charisma-myth)
 + [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
 + [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
++ [McKinsey Mind - Ethan M. Rasiel,  Paul N. Friga](https://www.goodreads.com/book/show/296153.McKinsey_Mind)
++ [The Alliance: Managing Talent in the Networked Age - Reid Hoffman](https://www.goodreads.com/book/show/20763746-the-alliance)
+
 
 ###  History
 
@@ -226,5 +242,8 @@ List of books I've found useful
 + [Kafka on the Shore - Haruki Murakami](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
 + [The Stranger - Albert Camus](https://www.goodreads.com/book/show/49552.The_Stranger)
 + [A Man Called Ove - Fredrik Backman](https://www.goodreads.com/book/show/18774964-a-man-called-ove)
++ [Flowers for Algernon - Daniel Keyes](https://www.goodreads.com/book/show/36576608-flowers-for-algernon)
++ [Dark Matter - Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter)
++ [Sharp Objects - Gillian Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects)
 
 Find the complete list of books I have read here: **[GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
