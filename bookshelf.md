@@ -195,6 +195,8 @@ List of books I've found useful
 + [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
 + [McKinsey Mind - Ethan M. Rasiel,  Paul N. Friga](https://www.goodreads.com/book/show/296153.McKinsey_Mind)
 + [The Alliance: Managing Talent in the Networked Age - Reid Hoffman](https://www.goodreads.com/book/show/20763746-the-alliance)
++ [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Career - Alex Banayans](https://www.goodreads.com/book/show/36739769-the-third-door)
++ [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 
 
 ###  History
