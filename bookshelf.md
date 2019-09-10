@@ -150,22 +150,23 @@ List of books I've found useful
 + [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 + [Emotional Design: Why We Love (or Hate) Everyday Things - Donald A. Norman](https://www.goodreads.com/book/show/841.Emotional_Design)
 
-### Branding, Marketing & Sales
+### Marketing & Sales
 
 + [Made to Stick: Why Some Ideas Survive and Others Die - Chip Heath,  Dan Heath](https://www.goodreads.com/book/show/69242.Made_to_Stick)
 + [Difference: The one-page method for reimagining your business and reinventing your marketing - Bernadette Jiwa](https://www.goodreads.com/book/show/20746217-difference)
 + [SPIN Selling: Situation Problem Implication Need-payoff - Neil Rackham](https://www.goodreads.com/book/show/833015.SPIN_Selling)
-+ [Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins](https://www.goodreads.com/book/show/20578350-hello-my-name-is-awesome)
 + [Trust Me, I'm Lying: Confessions of a Media Manipulator - Ryan Holiday](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)
 + [Marketing Warfare - Al Ries,  Jack Trout](https://www.goodreads.com/book/show/2595.Marketing_Warfare)
 + [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](https://www.goodreads.com/book/show/641604.Purple_Cow)
 
-### Visual Design and Art
+### Visual Design, Art & Branding
 
 + [Paul Rand: A Designer's Art - Paul Rand](https://www.goodreads.com/book/show/163436.Paul_Rand)
 + [Thoughts on Design - Paul Rand](https://www.goodreads.com/book/show/2888995-thoughts-on-design)
 + [Design as Art - Bruno Munari](https://www.goodreads.com/book/show/6095883-design-as-art)
 + [Ways of Seeing - John Berger](https://www.goodreads.com/book/show/2784.Ways_of_Seeing)
++ [Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins](https://www.goodreads.com/book/show/20578350-hello-my-name-is-awesome)
++ [Logo Design Love: A Guide to Creating Iconic Brand Identities - David Airey](https://www.goodreads.com/book/show/6728983-logo-design-love)
 
 ### Psychology
 
