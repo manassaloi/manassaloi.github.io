@@ -38,7 +38,7 @@ categories: booksummaries
 
 + Your task is to build alignment with regard to the employee’s specific mission objective, not his entire life. As we’ve said, your company is not a family—you don’t have to unconditionally support your employees’ values and aspirations, but you do have to respect them
 
-+ Three Steps to Building Alignment
++ **Three Steps to Building Alignment**
   1. ESTABLISH AND DISSEMINATE THE COMPANY’S CORE MISSION AND VALUES
   2. LEARN EACH INDIVIDUAL EMPLOYEE’S CORE ASPIRATIONS AND VALUES
   3. WORK TOGETHER TO ALIGN EMPLOYEE, MANAGER, AND COMPANY
