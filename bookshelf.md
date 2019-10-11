@@ -38,10 +38,12 @@ List of books I've found useful
 + [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made - Jason Schreier](https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels)
 + [I'm Feeling Lucky: The Confessions of Google Employee Number 59 - Douglas Edwards](https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky)
 + [Startup: A Silicon Valley Adventure - Jerry Kaplan](https://www.goodreads.com/book/show/1171250.Startup)
++ [Super Pumped: The Battle for Uber - Mike Isaac](https://www.goodreads.com/book/show/44573628-super-pumped)
 
 
 ### Company Building Playbook
 
++ [Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake Masters](https://www.goodreads.com/book/show/18050143-zero-to-one)
 + [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 + [Running Lean: Iterate from Plan A to a Plan That Works - Ash Maurya](https://www.goodreads.com/book/show/13078769-running-lean)
 + [The Fixer: My Adventures Saving Startups from Death by Politics - Bradley Tusk](https://www.goodreads.com/book/show/38649807-the-fixer)
@@ -198,6 +200,7 @@ List of books I've found useful
 + [The Alliance: Managing Talent in the Networked Age - Reid Hoffman](https://www.goodreads.com/book/show/20763746-the-alliance)
 + [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Career - Alex Banayans](https://www.goodreads.com/book/show/36739769-the-third-door)
 + [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
++ [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 
 
 ###  History
@@ -227,6 +230,7 @@ List of books I've found useful
 
 ### Fiction
 
++ [Harry Potter - J.K. Rowling](https://www.goodreads.com/series/45175-harry-potter)
 + [Siddhartha - Hermann Hesse](https://www.goodreads.com/book/show/52036.Siddhartha)
 + [1Q84 - Haruki Murakami](https://www.goodreads.com/book/show/6443834-1q84)
 + [The Three-Body Problem (Remembrance of Earth's Past #1) - Liu Cixin](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
@@ -248,5 +252,6 @@ List of books I've found useful
 + [Flowers for Algernon - Daniel Keyes](https://www.goodreads.com/book/show/36576608-flowers-for-algernon)
 + [Dark Matter - Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter)
 + [Sharp Objects - Gillian Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects)
++ [Stoner - John Williams](https://www.goodreads.com/book/show/166997.Stoner)
 
 Find the complete list of books I have read here: **[GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
