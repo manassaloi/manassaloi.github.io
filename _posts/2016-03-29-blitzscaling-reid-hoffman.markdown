@@ -15,12 +15,24 @@ categories: booksummaries
   * Stage 4 (City): 1000s of employees
   * Stage 5 (Nation): 10000s of employees  
 
-  
++ **THE THREE BASICS OF BLITZSCALING**
+  + BLITZSCALING IS BOTH AN OFFENSIVE STRATEGY AND A DEFENSIVE STRATEGY
+  + BLITZSCALING THRIVES ON POSITIVE FEEDBACK LOOPS, IN THAT THE COMPANY THAT GROWS TO SCALE FIRST REAPS SIGNIFICANT COMPETITIVE ADVANTAGES
+  + DESPITE ITS INCREDIBLE ADVANTAGES AND POTENTIAL PAYOFFS, BLITZSCALING ALSO COMES WITH MASSIVE RISKS
+
++ **THE THREE KEY TECHNIQUES OF BLITZSCALING**
+  + BUSINESS MODEL INNOVATION
+  + STRATEGY INNOVATION
+  + MANAGEMENT INNOVATION
+
 + If you want to find your best business model, you should try to design one that maximizes four key growth factors and minimizes two key growth limiters.
 
 **DESIGNING TO MAXIMIZE GROWTH: THE FOUR GROWTH FACTORS**
 
 **GROWTH FACTOR #1: MARKET SIZE**
+
++ The most basic growth factor to consider for your business model is market size. A big market has both a large number of potential customers and a variety of efficient channels for reaching those customers. That last point is important; a market consisting of “everyone in the world” might seem large, but it isn’t reachable in any efficient way. We’ll discuss this in greater depth when we look at distribution as a key growth factor
+
 **GROWTH FACTOR #2: DISTRIBUTION**
 
 + Distribution techniques fall into two general categories: leveraging existing networks and virality.
@@ -53,6 +65,8 @@ categories: booksummaries
   * Compatibility and Standards: The use of one technology product encourages the use of compatible products. (Example: within the Microsoft Office suite, Word’s dominance meant that its document file format became the standard; this has allowed it to destroy competitors like WordPerfect and fend off open-source solutions like OpenDocument.)
 
 **GROWTH LIMITER #1: LACK OF PRODUCT/MARKET FIT**
+
++ Product/market fit enables rapid growth, while the lack of it makes growth expensive and difficult. Unfortunately, it’s far easier to define product/market fit than it is to establish it!
 
 **GROWTH LIMITER #2: OPERATIONAL SCALABILITY**
 
@@ -94,8 +108,6 @@ categories: booksummaries
 + Would she be able to answer those questions? If you asked another employee, would he give the same answers? When organizations have strong cultures, their employees give consistent answers and act accordingly
 
 + Xiaomi’s response to this crisis demonstrates both the fierce competitiveness of Lei Jun and the amazing tempo possible in China. The company attacked its distribution problems with a rapid, massive effort to build up its off-line sales channel, opening one hundred Mi Home retail stores in a single year, with a target of opening two thousand stores by 2019. In the first quarter of 2017, an astounding 34 percent of Xiaomi’s smartphone sales in China came from its one hundred retail stores, which the company claims generate sales per square foot second only to Apple’s famed Apple Stores. In 2017, IDC reported that Xiaomi’s sales had rebounded 59 percent from the previous year, placing it back among the world’s top five smartphone makers
-
-
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
