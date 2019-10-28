@@ -24,7 +24,7 @@ Most of my 1–1s with my manager are around how to improve in all of the above
 
 At a small company everyone knows everyone and there is lesser need for filters. At a bigger org the focus should be on reducing misunderstandings, layering your message, thinking who exactly is the real recipient of your message and writing accordingly
 
-Here is an amazing post by Boz on the subject:[ Communication is the job](https://web.archive.org/web/20190131140713/http://boz.com/articles/communication-is-the-job.html)
+Here is an amazing post by Boz on the subject:[Communication is the job](https://web.archive.org/web/20190131140713/http://boz.com/articles/communication-is-the-job.html)
 
 I have to admit I am pretty bad at this having worked only in smaller startups till now
 
