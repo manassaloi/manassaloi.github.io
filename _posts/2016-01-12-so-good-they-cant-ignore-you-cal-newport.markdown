@@ -46,6 +46,6 @@ d) Keep making small bets and find adjacent spaces/sectors. Don’t be stagnant 
 
 e) Keep asking what you can offer to the world. What is your mission. But before all that focus on gaining enough career capital. Be a purple cow.
 
-So Good They Can’t Ignore you is a follow up of DeepWork and reading both one after another would give you a better perspective of career capital and how it works. What more I like about these books are the real life examples from various fields that Cal has given that make it relevant for everyone working professional.
+So Good They Can’t Ignore you is best read after DeepWork (book by the same author) and reading both one after another would give you a better perspective of career capital and how it works. What more I like about these books are the real life examples from various fields that Cal has given that make it relevant for everyone working professional.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
