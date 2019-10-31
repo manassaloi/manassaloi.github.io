@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Manas J Saloi. I’m a Product Manager living in Bangalore. I’m currently part of the Transport team at [Go-Jek](https://www.go-jek.com/).
+Hello! I am Manas J Saloi. I’m a Product Manager living in Bangalore. Currently part of the Transport Product team at [Go-Jek](https://www.go-jek.com/) where I look after the booking experience (how you book your ride basically) on all our ride hailing products
 
 In the past I have worked for [Kore.ai](https://kore.ai/), [CouponDunia (Part of Times Internet now)](https://www.coupondunia.in/), [Craftsvilla](https://www.craftsvilla.com/) and [Directi](https://www.directi.com/)
 
