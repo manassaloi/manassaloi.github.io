@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update on my personal OKRs"
+title:  "Product Market fit vs Business Market fit"
 
 ---
 I wrote a thread recently on Product Market fit vs Business Market fit. Turning it into a blogpost (with some minor edits)
