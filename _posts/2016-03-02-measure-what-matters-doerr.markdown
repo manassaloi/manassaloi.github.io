@@ -103,7 +103,7 @@ categories: booksummaries
   - KEY RESULTS
     - Perform A/B tests, learn, and iterate on ways to acquire new students and engage existing students.
     - Increase mobile monthly active users (MAU) to 150k.
-    - Create internal tools to track key growth metrics. 
+    - Create internal tools to track key growth metrics.
     - Launch features to enable instructors to create more engaging videos.
 
 - We grade them with a color scale to measure how well we did: 0.0–0.3 is red 0.4–0.6 is yellow 0.7–1.0 is green.
@@ -124,11 +124,20 @@ categories: booksummaries
 
 - Aspirational OKRs: The set of aspirational OKRs will by design exceed the team’s ability to execute in a given quarter. The OKRs’ priority should inform team members’ decisions on where to spend the remaining time they have after the group’s commitments are met. In general, higher priority OKRs should be completed before lower priority OKRs. Aspirational OKRs and their associated priorities should remain on a team’s OKR list until they are completed, carrying them forward from quarter to quarter as necessary. Dropping them from the OKR list because of lack of progress is a mistake, as it disguises persistent problems of prioritization, resource availability, or a lack of understanding of the problem/solution. Corollary: It is good to move an aspirational OKR to a different team’s list if that team has both the expertise and bandwidth to accomplish the OKR more effectively than the current OKR owner. Team managers are expected to assess the resources required to accomplish their aspirational OKRs and ask for them each quarter, fulfilling their duty to express known demand to the business. Managers should not expect to receive all the required resources, however, unless their aspirational OKRs are the highest priority goals in the company after the committed OKRs.
 
-- More Litmus Tests Some simple tests to see if your OKRs are good: If you wrote them down in five minutes, they probably aren’t good. Think. If your objective doesn’t fit on one line, it probably isn’t crisp enough. If your KRs are expressed in team-internal terms (“Launch Foo 4.1”), they probably aren’t good. What matters isn’t the launch, but its impact. Why is Foo 4.1 important? Better: “Launch Foo 4.1 to improve sign-ups by 25 percent.” Or simply: “Improve sign-ups by 25 percent.” Use real dates. If every key result happens on the last day of the quarter, you likely don’t have a real plan. Make sure your key results are measurable: It must be possible to objectively assign a grade at the end of the quarter. “Improve sign-ups” isn’t a good key result. Better: “Improve daily sign-ups by 25 percent by May 1.” Make sure the metrics are unambiguous. If you say “1 million users,” is that all-time users or seven-day actives? If there are important activities on your team (or a significant fraction of its effort) that aren’t covered by OKRs, add more. For larger groups, make OKRs hierarchical—have high-level ones for the entire team, more detailed ones for subteams. Make sure that the “horizontal” OKRs (projects that need multiple teams to contribute) have supporting key results in each subteam.
+- More Litmus Tests Some simple tests to see if your OKRs are good:
+  - If you wrote them down in five minutes, they probably aren’t good. Think
+  - If your objective doesn’t fit on one line, it probably isn’t crisp enough
+  - If your KRs are expressed in team-internal terms (“Launch Foo 4.1”), they probably aren’t good. What matters isn’t the launch, but its impact. Why is Foo 4.1 important? Better: “Launch Foo 4.1 to improve sign-ups by 25 percent.” Or simply: “Improve sign-ups by 25 percent.”
+  - Use real dates. If every key result happens on the last day of the quarter, you likely don’t have a real plan
+  - Make sure your key results are measurable: It must be possible to objectively assign a grade at the end of the quarter
+  - “Improve sign-ups” isn’t a good key result. Better: “Improve daily sign-ups by 25 percent by May 1.”
+  - Make sure the metrics are unambiguous. If you say “1 million users,” is that all-time users or seven-day actives?
+  - If there are important activities on your team (or a significant fraction of its effort) that aren’t covered by OKRs, add more
+  - For larger groups, make OKRs hierarchical—have high-level ones for the entire team, more detailed ones for subteams. Make sure that the “horizontal” OKRs (projects that need multiple teams to contribute) have supporting key results in each subteam
 
 - Brainstorm Annual and Q1 OKRs for Company Senior leaders start brainstorming top-line company OKRs. If you’re setting OKRs for Q1, this is also the time to set your annual plan, which can help guide the direction of company.
 
-- Communicate Company-wide OKRs for Upcoming Year and Q1 Finalize company OKRs and communicate them to everyone. Start of quarter Communicate Team Q1 OKRs Based on the company’s OKRs, teams develop their own OKRs
+- Communicate Company-wide OKRs for Upcoming Year and Q1 Finalize company OKRs and communicate them to everyone. Start of quarter Communicate Team Q1 OKRs Based on the company’s OKRs, teams develop their own OKRs.
 
 - Communicate Team Q1 OKRs Based on the company’s OKRs, teams develop their own OKRs and share them at their meetings.
 
@@ -138,13 +147,35 @@ categories: booksummaries
 
 - Employees Reflect and Score Q1 OKRs Toward the end of the quarter, contributors score their OKRs, perform a self-assessment, and reflect on what they have accomplished.
 
-- Goal Planning and Reflection To help facilitate this conversation, a manager might ask a contributor the following: What OKRs do you plan to focus on to drive the greatest value for your role, your team, and/or the company? Which of these OKRs aligns to key initiatives in the organization? Progress Updates To get the contributor talking, a manager might pose these questions: How are your OKRs coming along? What critical capabilities do you need to be successful? Is there anything stopping you from attaining your objectives? What OKRs need to be adjusted—or added, or eliminated—in light of shifting priorities?
+- Goal Planning and Reflection To help facilitate this conversation, a manager might ask a contributor the following:
+  - What OKRs do you plan to focus on to drive the greatest value for your role, your team, and/or the company?
+  - Which of these OKRs aligns to key initiatives in the organization?
 
-- Manager-led Coaching To prepare for this conversation, the manager should consider the following questions: What behaviors or values do I want my report to continue to exhibit? What behaviors or values do I want the report to start or stop exhibiting? What coaching can I provide to help the report fully realize his or her potential? During the conversation, the leader might ask: What part of your job most excites you? What (if any) aspect of your role would you like to change?
+- Progress Updates To get the contributor talking, a manager might pose these questions:
+  - How are your OKRs coming along? What critical capabilities do you need to be successful?
+  - Is there anything stopping you from attaining your objectives?
+  - What OKRs need to be adjusted—or added, or eliminated—in light of shifting priorities?
+
+- Manager-led Coaching To prepare for this conversation, the manager should consider the following questions:
+  - What behaviors or values do I want my report to continue to exhibit?
+  - What behaviors or values do I want the report to start or stop exhibiting?
+  - What coaching can I provide to help the report fully realize his or her potential?
+  - During the conversation, the leader might ask: What part of your job most excites you? What (if any) aspect of your role would you like to change?
 
 - Upward Feedback To elicit candid input from a contributor, the manager might ask: What are you getting from me that you find helpful? What are you getting from me that impedes your ability to be effective? What could I do for you that would help you to be more successful?
 
-- Career Growth To tease out a contributor’s career aspirations, a manager might ask: What skills or capabilities would you like to develop to improve in your current role? In what areas do you want to grow to achieve your career goals? What skills or capabilities would you like to develop for a future role? From a learning, growth, and development standpoint, how can I and the company help you get there? Prepping for Performance Conversations Before launching a performance conversation with a contributor, some prep work is in order. Specifically, leaders should consider the following: What were the contributor’s main objectives and responsibilities in the period in question? How has the contributor performed? If the contributor is underperforming, how should he or she course-correct? If the contributor is performing well or exceeding expectations, what can I do to sustain a high level of performance without burnout? When is the contributor most engaged? When is the contributor least engaged? What strengths does the contributor bring to the work? What types of learning experience might benefit this contributor? Over the next six months, what should the contributor’s focus be? Meeting expectations in his or her current role? Maximizing contributions in the current role? Or preparing for the next opportunity—be it a new project, expanded responsibility, or new role?
+- Career Growth To tease out a contributor’s career aspirations, a manager might ask:
+  - What skills or capabilities would you like to develop to improve in your current role?
+  - In what areas do you want to grow to achieve your career goals?
+  - What skills or capabilities would you like to develop for a future role?
+  - From a learning, growth, and development standpoint, how can I and the company help you get there?
+
+- Prepping for Performance Conversations Before launching a performance conversation with a contributor, some prep work is in order. Specifically, leaders should consider the following:
+  - What were the contributor’s main objectives and responsibilities in the period in question?
+  - How has the contributor performed? If the contributor is underperforming, how should he or she course-correct?
+  - If the contributor is performing well or exceeding expectations, what can I do to sustain a high level of performance without burnout?   - When is the contributor most engaged? When is the contributor least engaged?
+  - What strengths does the contributor bring to the work? What types of learning experience might benefit this contributor?
+  - Over the next six months, what should the contributor’s focus be? Meeting expectations in his or her current role? Maximizing contributions in the current role? Or preparing for the next opportunity—be it a new project, expanded responsibility, or new role?
 
 - Contributors, too, should prepare for performance conversations. Specifically, they can ask themselves: Am I on track to meet my objectives? Have I identified areas of opportunity? Do I understand how my work connects to broader milestones? What feedback can I give my manager?
 
