@@ -208,7 +208,7 @@ List of books I've found useful
 + [Valley of Genius: The Uncensored History of Silicon Valley As Told by the Hackers, Founders, and Freaks Who Made It Boom - Adam Fisher](https://www.goodreads.com/book/show/36382335-valley-of-genius)
 + [Make It New: A History of Silicon Valley Design (The MIT Press) - Barry M. Katz,  John Maeda](https://www.goodreads.com/book/show/26835353-make-it-new)
 + [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China - Evan Osnos](https://www.goodreads.com/book/show/18490568-age-of-ambition)
-[Maximum City: Bombay Lost and Found - Suketu Mehta](https://www.goodreads.com/book/show/4364.Maximum_City)
++ [Maximum City: Bombay Lost and Found - Suketu Mehta](https://www.goodreads.com/book/show/4364.Maximum_City)
 
 ### Mind Broadening
 
