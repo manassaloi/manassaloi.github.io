@@ -256,7 +256,7 @@ fav: [https://overcast.fm/+SYJmMaA0U](https://overcast.fm/+SYJmMaA0U)
 
 fav: [https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o](https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o)
 
-**9/ [Venture Stories Podcast by Village Global(https://www.villageglobal.vc/podcast/)**
+**9/ [Venture Stories Podcast by Village Global](https://www.villageglobal.vc/podcast/)**
 
 fav: [https://overcast.fm/+LDKfmOiHQ](https://overcast.fm/+LDKfmOiHQ)
 
