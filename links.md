@@ -248,6 +248,30 @@ fav: [https://tim.blog/2018/08/27/drew-houston/](https://tim.blog/2018/08/27/dre
 
 fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com/single-post/billmaris)
 
+**7/ [Product Hunt Radio](https://www.producthunt.com/radio)**
+
+fav: [https://overcast.fm/+SYJmMaA0U](https://overcast.fm/+SYJmMaA0U)
+
+**8/ [Below the Line with James Beshara](https://anchor.fm/belowtheline)**
+
+fav: [https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o](https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o)
+
+**9/ [Venture Stories Podcast by Village Global(https://www.villageglobal.vc/podcast/)**
+
+fav: [https://overcast.fm/+LDKfmOiHQ](https://overcast.fm/+LDKfmOiHQ)
+
+**10/ [Animal Spirits Podcast](https://animalspiritspod.libsyn.com/)**
+
+fav: [https://animalspiritspod.libsyn.com/the-least-happy-age-ep109](https://animalspiritspod.libsyn.com/the-least-happy-age-ep109)
+
+**11/ [Invest Like the Best](http://investorfieldguide.com/podcast/)**
+
+fav: [http://investorfieldguide.com/rabois/](http://investorfieldguide.com/rabois/)
+
+**12/ [This Week In Startups](https://thisweekinstartups.com/)**
+
+fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
+
 ### (Books)
 
 **[Exhaustive list on GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
