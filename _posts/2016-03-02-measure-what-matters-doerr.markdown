@@ -56,8 +56,6 @@ categories: booksummaries
 
 - Alignment doesn’t mean redundancy. At MyFitnessPal, every OKR has a single owner, with other teams linking up as needed. As I see it, co-ownership weakens accountability. If an OKR fails, I don’t want two people blaming each other.
 
-- For an OKR system to function effectively, the team deploying it—whether a group of top executives or an entire organization—must adopt it universally. No exceptions, no opt-outs. Yes,
-
 - For an OKR system to function effectively, the team deploying it—whether a group of top executives or an entire organization—must adopt it universally. No exceptions, no opt-outs.
 
 - As we track and audit our OKRs, we have four options at any point in the cycle: Continue : If a green zone (“on track”) goal isn’t broken, don’t fix it. Update : Modify a yellow zone (“needs attention”) key result or objective to respond to changes in the workflow or external environment. What could be done differently to get the goal on track? Does it need a revised time line? Do we back-burner other initiatives to free up resources for this one? Start : Launch a new OKR mid-cycle, whenever the need arises. Stop : When a red zone (“at risk”) goal has outlived its usefulness, the best solution may be to drop it. *
