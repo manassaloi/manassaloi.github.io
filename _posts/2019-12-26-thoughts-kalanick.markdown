@@ -58,3 +58,6 @@ But he literally changed how we take a ride. Or order food. Or send parcels
 Oh, I forgot to mention dozens of companies which started post Uber, raised Billions of funding, employs hundred thousand+ people (including me ;) )
 
 **/end**
+
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

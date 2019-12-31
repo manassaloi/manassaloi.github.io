@@ -53,3 +53,6 @@ Solving problem 3 and 4 are far harder
 Learned this lesson in my previous startups. Hence sharing
 
 **/Productgyaankhatam**
+
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

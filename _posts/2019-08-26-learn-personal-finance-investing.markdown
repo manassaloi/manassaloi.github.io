@@ -23,5 +23,3 @@ Read in the past which are super good: [The Essays of Warren Buffett: Lessons fo
 Will be adding summaries to a few more books I read this year including [Random walk down Wall Street](https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street), [The Dhandho Investor](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor)
 
 **/threadends**
-
-Since my tweets auto delete in 7 days, I have to keep creating these blogposts so that I can link to these threads later :)
