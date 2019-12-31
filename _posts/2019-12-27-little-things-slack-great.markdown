@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Little things which make Slack great "
+title:  "Little things which make Slack great"
 
 ---
 Slack is an amazing product to use because their creators have put a lot of thought into their product. They have nailed down the experience on flows/things which people used to take for granted in enterprise software
