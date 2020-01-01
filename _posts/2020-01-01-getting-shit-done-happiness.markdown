@@ -18,11 +18,11 @@ Most people never realise that saying YES to one thing means saying NO to anothe
 
 **A few examples:**
 
-While commuting to office: you can either day dream, watch what your friends are doing on Instagram, or read a book/listen to a podcast
+While commuting to office: you can either daydream, watch what your friends are doing on Instagram, or read a book/listen to a podcast
 
 I always somehow lean towards a new podcast episode
 
-**Why?** Because watching what my friends did on their weekend on Instagram doesn't gave me any value or happiness. So why waste my time in the first place?
+**Why?** Because learning what my friends did on their weekend on Instagram doesn't add any value to my life. So why waste my time in the first place?
 
 Okay, I don't even have Instagram but you get my point
 
