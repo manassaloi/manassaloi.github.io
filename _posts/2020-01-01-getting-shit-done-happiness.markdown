@@ -47,11 +47,11 @@ Hence it is something I do from time to time but not everyday
 
 **3/ Saying No**
 
-I have become pretty good with saying No. I commit to social events pretty rarely. In the last decade I have probably attended 1 marriage, that too of a first cousin who was super insistent on me attending
+I have become pretty good with saying No. I rarely commit to social events. In the last decade I have probably attended 1 marriage, that too of a first cousin who was super insistent on me attending
 
-Birthday events? Nope
-Meeting random relatives who I don't care about? Nope
-Attending parties where a bunch of strangers chit chat over beer and keep asking "so whats up"? Nope
+- Birthday events? Nope
+- Meeting random relatives who I don't care about? Nope
+- Attending parties where a bunch of strangers chit chat over beer and keep asking "so whats up"? Nope
 
 
 Based on my limited experience of attending social events, I would just sit in a corner and read a book or shit post on Twitter. So why make me as well as the host uncomfortable
@@ -61,6 +61,8 @@ Surprisingly the people who I consider friends have still been with me in spite 
 **4/ Sunk cost fallacy**
 
 It is a big trap. Don't fall for it
+
+**Learn to let go of things when you see diminishing returns**
 
 I was the representative of my hostel in college. I spent my entire 2nd year in building connections, student politics, aiming for a bigger role in the student council. When I realised it was just a giant waste of time, I stopped caring about politics and moved on
 
@@ -80,7 +82,7 @@ Same with Fifa. Played it for years. Have not bought Fifa 20 till now. Don't pla
 
 One day I will realise Twitter is a giant waste of my time, and I will just pick up something new to spend my time on
 
-I have probably picked up, and left more things than most people who are in my age group. But each new thing helped me learn something about myself. And gave me a fleeting sense of happiness if not permanent. So I don't regret anything
+**I have probably picked up, and left more things than most people who are in my age group**. But each new thing helped me learn something about myself. And gave me a fleeting sense of happiness if not permanent. So I don't regret anything
 
 
 **So 4 high level strategies/thoughts for this year: Evaluate Opportunity cost, Think 10/10/10, Saying No, Don't fall for Sunk Cost fallacy**
