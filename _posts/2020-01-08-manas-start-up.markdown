@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yo Manas, Who don't you startup man?"
+title:  "Yo Manas, Why don't you startup man?"
 
 ---
 
