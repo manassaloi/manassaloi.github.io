@@ -126,7 +126,9 @@ Don't think I have such a personality 
 
 You want to take the risk and see what happens
 
-Again, both are not true for me. I am from a middle class background. I don't think I have earned enough that I can spend the next 5 years working on something "just to see if something happens"
+Again, both are not true for me. I am from a middle class background. I don't think I have earned enough that I can spend the next 10 years working on something "just to see if something happens"
+
+I also feel that [job security is a myth](https://hackernoon.com/getting-laid-off-in-tech-4e3efed8649b), [it can all go to zero](https://feld.com/archives/2018/01/can-go-zero.html) and it is foolish to believe the [good days will last forever](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
 
 **11/ You are willing to commit the next 5-10 years of your life on your startup. You need to have one or more reasons mentioned above apart from this time commitment bit**
 
