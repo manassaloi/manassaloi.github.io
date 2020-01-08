@@ -44,7 +44,7 @@ Is the status quo bad enough for me to spend the next 10 years of my life fixing
 
 [Nice post on autonomy vs impact](https://avichal.com/2017/03/20/autonomy-vs-impact/)
 
-I have been lucky enough to become a [manager one year out of college](!https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/). I started taking calls on what to build, how to build, influence the direction of products, move metrics when most of my peers were just getting started on the corporate ladder
+I have been lucky enough to become a [manager one year out of college](https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/). I started taking calls on what to build, how to build, influence the direction of products, move metrics when most of my peers were just getting started on the corporate ladder
 
 Thanks to mostly working for startups, I have always had a certain level of autonomy and control 
 
