@@ -30,6 +30,6 @@ Would you remain in your company?
 
 What would you do?
 
-**P.S** A lot of people did not get this post on Twitter. To understand replace <your company> with India
+**P.S** A lot of people did not get this post on Twitter. To understand replace <your company> with India, <CEO> with PM Modi, and read the post again
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
