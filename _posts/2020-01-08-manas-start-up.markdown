@@ -42,13 +42,13 @@ Is the status quo bad enough for me to spend the next 10 years of my life fixing
 
 **3/ You want more autonomy and control**
 
-[Nice post on autonomy vs impact](!https://avichal.com/2017/03/20/autonomy-vs-impact/)
+[Nice post on autonomy vs impact](https://avichal.com/2017/03/20/autonomy-vs-impact/)
 
 I have been lucky enough to become a [manager one year out of college](!https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/). I started taking calls on what to build, how to build, influence the direction of products, move metrics when most of my peers were just getting started on the corporate ladder
 
 Thanks to mostly working for startups, I have always had a certain level of autonomy and control 
 
-[My linkedin](!https://www.linkedin.com/in/manassaloi/) has enough examples of products I have shipped in the past and also recos from my past managers
+[My linkedin](https://www.linkedin.com/in/manassaloi/) has enough examples of products I have shipped in the past and also recos from my past managers
 
 For a couple of months at Coupondunia, I was even given % of revenue earned from Cashboss (the first product I built from scratch) 
 
@@ -130,7 +130,7 @@ Again, both are not true for me. I am from a middle class background. I don't th
 
 **11/ You are willing to commit the next 5-10 years of your life on your startup. You need to have one or more reasons mentioned above apart from this time commitment bit**
 
-I have always been the [kind of person who does a lot of things, has hobbies and hates be married to a particular interest](! https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
+I have always been the [kind of person who does a lot of things, has hobbies and hates be married to a particular interest](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
 
 Giving 10 years of my life to something unless it is for reason 1/ or 2/ mentioned above sounds stupid to me
 
@@ -144,7 +144,7 @@ This is a post written from my POV. On reasons I have not started up. Your circu
 
 Self explanatory ;)
 
-This post is something I wrote after making a statement on Twitter about why people should not startup just to [chase prestige](!https://www.bennettnotes.com/post/obsessed-with-success-and-prestige/)
+This post is something I wrote after making a statement on Twitter about why people should not startup just to [chase prestige](https://www.bennettnotes.com/post/obsessed-with-success-and-prestige/)
 
 Thanks for reading it. Next time someone asks me this question, I will just send them this post
 
