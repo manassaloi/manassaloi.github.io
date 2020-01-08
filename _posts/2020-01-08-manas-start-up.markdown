@@ -142,7 +142,13 @@ But then again it is just my opinion and you can tell me to shove it up my ass. 
 
 This is a post written from my POV. On reasons I have not started up. Your circumstances might be different
 
-**12/ You are trying to find a reason for doing a startup and not 10 to not**
+
+**12/ You should be optimistic to the point of delusion about your startup**
+
+Deep down I am a cynic
+
+
+**13/ You are trying to find a reason for doing a startup and not 12 to not**
 
 Self explanatory ;)
 
