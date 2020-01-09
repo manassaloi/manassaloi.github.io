@@ -7,7 +7,7 @@ title:  "Yo Manas, Why don't you startup man?"
 When someone asks me this question, they always follow up with a statement like
 
 - Working for some one else will never make you rich
-- If you are such a smartass who keeps telling other people how do things, it only makes sense that you have skin in the game
+- If you are such a smartass who keeps telling other people how do things, it only makes sense that you have more skin in the game
 - You will never achieve the autonomy and impact you seek if you work for someone else
 
 I have had so many people ask me this question that I have formed a standard answer by now
