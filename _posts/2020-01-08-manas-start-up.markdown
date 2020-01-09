@@ -65,11 +65,19 @@ Do I feel bad for myself because I could not achieve the same? No
 Because of reasons mentioned in 1/ and 2/ and others which I will share below. Just wanted to point out that you can have autonomy and control without starting up yourself too
 
 
-**4/ You want to accelerate your learning/ growth**
+**4/ You want to accelerate your learning/ growth. You want to have a bigger impact**
 
-This is a fair reason. Building your own high growth startup is one sure way of hacking the corporate ladder ladder. And also learn more in a shorter time frame. I would argue though that you can have a similar learning while working at a fast growing startup as a TL or PM
+This is a fair reason. Building your own high growth startup is one sure way of hacking the corporate ladder ladder. And also learn more in a shorter time frame. I would argue though that you can have a similar learning/impact while working at a fast growing startup as a TL or PM
 
-**5/ You want to make money**
+
+**5/ You are working at 10% capacity**
+
+You think that you are not making enough impact. [Your style of work is: do the minimal work possible to do the job](https://news.ycombinator.com/item?id=21961560). You think doing a startup would be the thing which will help you get out of your comfort zone
+
+Maybe this is true for some people, but for me whenever I face this I just change my role (take more responsibilities) or change my job
+
+
+**6/ You want to make money**
 
 You know that there is enough dry powder in the valley (even India). Pizza startups are suddenly worth Billions. People who are probably not smarter than you are getting richer by the day. Everyone is telling you that working for some one will never make you rich
 
@@ -92,17 +100,17 @@ You still want new companies to give you more than a standard hike during salary
 
 Yes, I do. But only because I think I am good. I have worked very hard to reach where I am right now. And if I learn that people are getting paid much more to deliver the same value to an Org, I will seek parity in terms of pay and designation. Again, I am just human and not a Saint
 
-**6/ You want to get into Harvard. A startup will look good in your resume**
+**7/ You want to get into Harvard. A startup will look good in your resume**
 
 I don't want to get into a B School (for now). I can't imagine running around completing assignments, arguing for more marks/better grades in my papers/courses. Did all of that once in my life (during my undergrad days). Have no interest in repeating
 
 Also everyone now is trying to hack their B School applications by putting in their co-founder credentials. Not sure how long this trick will work
 
-**7/ You are in Tech /Design /Marketing and want to get into Management**
+**8/ You are in Tech /Design /Marketing and want to get into Management**
 
 I have seen people do start ups and then jumping into a PM role a few years later (thanks to acquisition by a bigger company). Not relevant for me
 
-**8/ You want to get into VC**
+**9/ You want to get into VC**
 
 To be honest the VC world fascinates me. I worship people like Bill Gurley and have always followed this industry
 
@@ -116,13 +124,13 @@ Starting up looks like the easiest and quickest option out of all four
 
 Still think you need a bigger motivation/purpose to startup than an Associate/Principal role at some VC firm
 
-**9/ You have an extreme personality. You are the kind of person who can't just work for others. You will be a shitty employee if you work at another company**
+**10/ You have an extreme personality. You are the kind of person who can't just work for others. You will be a shitty employee if you work at another company**
 
 aka The Steve Jobs path
 
 Don't think I have such a personality 
 
-**10/ You have a safety net thanks to earning a lot of money early in your career or have family money**
+**11/ You have a safety net thanks to earning a lot of money early in your career or have family money**
 
 You want to take the risk and see what happens
 
@@ -130,7 +138,7 @@ Again, both are not true for me. I am from a middle class background. I don't th
 
 I also feel that [job security is a myth](https://hackernoon.com/getting-laid-off-in-tech-4e3efed8649b), [it can all go to zero](https://feld.com/archives/2018/01/can-go-zero.html) and it is foolish to believe that the [good days will last forever](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
 
-**11/ You are willing to commit the next 5-10 years of your life on your startup. You need to have one or more reasons mentioned above apart from this time commitment bit**
+**12/ You are willing to commit the next 5-10 years of your life on your startup. You need to have one or more reasons mentioned above apart from this time commitment bit**
 
 I have always been the [kind of person who does a lot of things, has hobbies and hates be married to a particular interest](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
 
@@ -143,17 +151,19 @@ But then again it is just my opinion and you can tell me to shove it up my ass. 
 This is a post written from my POV. On reasons I have not started up. Your circumstances might be different
 
 
-**12/ You should be optimistic to the point of delusion about your startup**
+**13/ You should be optimistic to the point of delusion about your startup**
 
 Deep down I am a cynic
 
 
-**13/ You are trying to find a reason for doing a startup and not 12 to not**
+**14/ You are trying to find a reason for doing a startup and not 13 to not**
 
 Self explanatory ;)
 
 This post is something I wrote after making a statement on Twitter about why people should not startup just to [chase prestige](https://www.bennettnotes.com/post/obsessed-with-success-and-prestige/)
 
 Thanks for reading it. Next time someone asks me this question, I will just send them this post
+
+**P.S** A friend mentioned that you can always do side projects and for that you don't need a 10 year commitment. That is true, but this post is more around starting a VC scale fast growing business and not a side project. I encourage people to do side projects to learn new things. Side projects are fun :)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
