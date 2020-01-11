@@ -4,6 +4,8 @@ title:  "Short rant on Twitter Topics"
 
 ---
 
+I wrote a [thread](https://twitter.com/manas_saloi) today on why twitter topics implementation sucks. Turning it into a blogpost (with some minor edits) because threads on twitter also suck
+
 **/threadstarts**
 
 lets start the thread on why topics launch is a disaster (at least for people like me who used to rely on topics to discover interesting content)
