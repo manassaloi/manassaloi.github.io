@@ -222,6 +222,14 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 12/ [PMHQ Weekly Product Reads](https://www.productmanagerhq.com/)
 
+13/ [Circle of Competence](https://www.circleofcompetence.co/)
+
+14/ [Morning Brew](https://www.morningbrew.com/daily/stories/)
+
+15/ [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
+
+16/ [StrictlyVC](https://www.strictlyvc.com/)
+
 ### (Podcasts)
 
 **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
@@ -271,6 +279,11 @@ fav: [http://investorfieldguide.com/rabois/](http://investorfieldguide.com/raboi
 **12/ [This Week In Startups](https://thisweekinstartups.com/)**
 
 fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
+
+**13/ [Starting Greatness](https://greatness.floodgate.com/)**
+
+fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
+
 
 ### (Books)
 

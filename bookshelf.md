@@ -39,6 +39,7 @@ List of books I've found useful
 + [I'm Feeling Lucky: The Confessions of Google Employee Number 59 - Douglas Edwards](https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky)
 + [Startup: A Silicon Valley Adventure - Jerry Kaplan](https://www.goodreads.com/book/show/1171250.Startup)
 + [Super Pumped: The Battle for Uber - Mike Isaac](https://www.goodreads.com/book/show/44573628-super-pumped)
++ [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company - Robert Iger](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime)
 
 
 ### Company Building Playbook
@@ -74,6 +75,7 @@ List of books I've found useful
 + [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 + [Making Things Happen: Mastering Project Management - Scott Berkun](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)
 + [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt,  Jonathan Rosenberg](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
++ [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 
 ### Product & Strategy
 
@@ -127,6 +129,7 @@ List of books I've found useful
 + [I Will Teach You to Be Rich - Ramit Sethi](https://www.goodreads.com/book/show/4924862-i-will-teach-you-to-be-rich)
 + [Let's Talk Money - Monika Halan](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
 + [Stock Market Wizards: Interviews with America's Top Stock Traders - Jack D. Schwager](https://www.goodreads.com/book/show/164131.Stock_Market_Wizards)
++ [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel](https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street)
 
 
 ### Venture Capital
@@ -180,6 +183,7 @@ List of books I've found useful
 ### Mindset
 
 + [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
++ [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
 
 ### Decision Making
 
