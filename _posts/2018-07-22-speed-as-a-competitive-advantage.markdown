@@ -13,7 +13,7 @@ There are 2 types of decisions you make everyday at work:
 
 1. **Critical** irreversible decisions which require a lot of planning and discussion
 
-2.** Non-critical** reversible ones which can be decided on the spot and can be changed later
+2. **Non-critical** reversible ones which can be decided on the spot and can be changed later
 
 I feel we spend most of our time over thinking the easily reversible ones. Here is an example: While building Reminders for [Flock](https://flock.com/in/) we had to decide on the interaction for repeat functionality. See the screen below.
 
@@ -21,11 +21,11 @@ I feel we spend most of our time over thinking the easily reversible ones. Here 
 
 We had to communicate to the user that she can use ‘Repeat Weekly’ for her reminder. This is the kind of thing which earlier took hours of discussion. Eager to show off our deep knowledge of UX we would endlessly argue without any data or usability testing to back our claim.
 
-This time we just decided to go with two different options based on our hunch : Weekly and Custom. Later we removed the Custom option and just kept Weekly as we realised having 2 options was confusing our users during the initial testing. After the feature was built we took it and did usability testing on a few more users. This time we realised that the best option was to keep one option but with Weekly (Custom) as the micro copy.
+This time we just decided to go with two different options based on our hunch: **Weekly and Custom**. Later we removed the Custom option and just kept Weekly as we realised having 2 options was confusing our users during the initial testing. After the feature was built we took it and did usability testing on a few more users. This time we realised that the best option was to keep one option but with Weekly (Custom) as the micro copy.
 
 During the development of Reminders we decided to start with the best guess possible regarding copy/interactions and then **iterate fast** to arrive on the best version of the product.
 
-In the absence of data what we generally try to pass as fact is just our opinion. Don’t waste hours on discussing opinions when you can validated anything with data/usability testing later.** It is fatal to wait for consensus**. Here at [Flock](https://flock.com/in/) we have spent months trying to perfect our product building process. In our meetings we bring all required data which can help us arrive at a decision faster.
+In the absence of data what we generally try to pass as fact is just our opinion. Don’t waste hours on discussing opinions when you can validated anything with data/usability testing later.**It is fatal to wait for consensus**. Here at [Flock](https://flock.com/in/) we have spent months trying to perfect our product building process. In our meetings we bring all required data which can help us arrive at a decision faster.
 
 Want other ideas?
 
