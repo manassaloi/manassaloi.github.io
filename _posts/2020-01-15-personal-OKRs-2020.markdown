@@ -4,13 +4,15 @@ title:  "Personal OKRs for 2020"
 
 ---
 
-Here are the Objectives I set for myself this year and progress on each of the KRs
+Objectives I set for myself this year and progress on each KRs:
 
 ![Personal OKRs 2020 part 1](/assets/img/OKRS1_2020.png)
 
 ![Personal OKRs 2020 part 2](/assets/img/OKRS2_2020.png)
 
-An update on my 2019 OKRs: [2019 Personal OKRs]()
+I will update this blogpost as the year progresses
+
+An update on my 2019 OKRs: [2019 Personal OKRs](https://manassaloi.com/2019/11/01/personal-OKRs-update-2019.html)
 
 If you want to learn more about OKRs, here is a post which might help: [Summary of Measure What Matters](https://manassaloi.com/booksummaries/2016/03/02/measure-what-matters-doerr.html)
 
