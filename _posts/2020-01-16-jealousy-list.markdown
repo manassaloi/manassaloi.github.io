@@ -15,7 +15,7 @@ A thread
 Please inko tag na kare. Just follow them if you want
 
 
-**1/ Bill Gurley sir**
+**1/ Bill Gurley**
 
 kya sochta hain. kya likhta hai. upar se suna hain poker bhi khelta hain. amazing stud insaan. mera sapna hain inke jaisa smart banna
 
@@ -68,13 +68,13 @@ banda full bakchodi karta hain twitter pe. but kaam mein bhi stud. seems like su
 
 ye padho: [Spend Time with A+ People in Other Industries](https://medium.com/@hunterwalk/spend-time-with-a-people-in-other-industries-db055054e70a)
 
-**8/ Mike Isaac aka rat king/**
+**8/ Mike Isaac aka rat king**
 
 superpumped ka author. grade a fun bakchod guy on twitter. ab superpumped HBO show banna wala hain. true inspiration
 
 read [his book on Uber](https://www.goodreads.com/en/book/show/44573628) if you have not already
 
-**9/ Chamath Sir**
+**9/ Chamath**
 
 Chamath to chamath hain aur kya bolu
 
