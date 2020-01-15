@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update on my personal OKRs"
+title:  "Update on my 2019 personal OKRs"
 
 ---
 I have been sharing my goals publicly for quite some time now

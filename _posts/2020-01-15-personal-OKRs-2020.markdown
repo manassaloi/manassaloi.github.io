@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Personal OKRs for 2020"
+
+---
+
+Here are the Objectives I set for myself this year and progress on each of the KRs
+
+![Personal OKRs 2020 part 1](/assets/img/OKRS1_2020.png)
+
+![Personal OKRs 2020 part 2](/assets/img/OKRS2_2020.png)
+
+An update on my 2019 OKRs: [2019 Personal OKRs]()
+
+If you want to learn more about OKRs, here is a post which might help: [Summary of Measure What Matters](https://manassaloi.com/booksummaries/2016/03/02/measure-what-matters-doerr.html)
+
+If you are lazy, watch this video: [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
