@@ -4,7 +4,7 @@ title:  "Twitter Rules"
 
 ---
 
-I like writing rules for myself. The idea of organising my thoughts on any topic in a structured way gets me excited. So it was inevitable I would create this post
+I like writing rules for myself. The idea of organising my thoughts on any topic in a structured way gets me excited. My goal is to have rules for everything like [this guy](https://github.com/nikitavoloboev/knowledge/blob/master/focusing/rules.md). So it was inevitable I would create this post
 
 **Here are my Twitter rules:**
 
