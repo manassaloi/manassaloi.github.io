@@ -54,4 +54,10 @@ I like writing rules for myself. The idea of organising my thoughts on any topic
  - If I feel like I had posted something earlier which will be interesting for people who did not manage to read it the first time, I post the same tweet again
  - But then again let's accept that it is harder to retweet your tweets when they go away in a week. Another argument for deleting your tweets ;)
 
+- Don't respond to Twitter replies unless there is something valuable to add
+
+- You have free right to post snarky replies if you are in a bad mood though and someone had replied to your tweet with something stupid or unhelpful like 'Disagree'
+
+- If you disagree with these rules, just know that these are mine and not yours. I probably don't care about your opinion anyway
+
  If you still want to follow me on Twitter after reading this post, go here: [@manas_saloi](http://twitter.com/manas_saloi)
