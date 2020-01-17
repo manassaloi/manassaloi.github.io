@@ -58,7 +58,8 @@ I like writing rules for myself. The idea of organising my thoughts on any topic
 
 - You have the right to post snarky replies if you are in a bad mood though and someone had posted some stupid reply to your tweet
 
+- You have the right to remind people that you don't care about their opinion if they disagree with something you posted
 
-**Note:** If you disagree with these rules, just know that these are mine and not yours. I probably don't care about your opinion anyway
+**Note:** If you disagree with these rules, just know that these are mine and not yours
 
 **P.S** If you still want to follow me on Twitter after reading this post, go here: [@manas_saloi](http://twitter.com/manas_saloi)
