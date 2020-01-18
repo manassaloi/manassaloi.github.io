@@ -10,6 +10,8 @@ One of my [KRs for 2020](https://manassaloi.com/2020/01/15/personal-OKRs-2020.ht
 
 ### Intermediate reads:
 
+[Amazon Prime and other Subscription Businesses: How do you Value a Subscriber?](https://25iq.com/2017/07/15/amazon-prime-and-other-subscription-businesses-how-do-you-value-a-subscriber/)
+
 [All Revenue is not created equal](http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)
 
 [Dangerous seduction of LTV](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
