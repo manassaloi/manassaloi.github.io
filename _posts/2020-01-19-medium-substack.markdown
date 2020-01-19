@@ -7,7 +7,7 @@ I had written this as a reply to a comment on [my Substack thread written today]
 
 **/startthread**
 
-Disclaimer: These are my initial thoughts on this topic. So might seem a little incoherent. I think writing as I am thinking
+**Disclaimer:** These are my initial thoughts on this topic. So might seem a little incoherent. I think writing as I am thinking
 
 Medium got popular because of the ease of discovery of content on its platform
 
@@ -15,11 +15,9 @@ Most people who signed up did so to consume content
 
 Very few actually wrote a post initially
 
-In terms of creation / consumption ratio
+**In terms of creation / consumption ratio:** fb(pure social media) > twitter (microblog medium) > quora (you already know what to answer) > medium > wordPress > substack
 
-fb(pure social media) > twitter (microblog medium) > quora (you already know what to answer) > medium > wordPress> substack
-
-Ratio of people who have signed up / people who have read something on that platform would be similar
+**Ratio of people who have signed up / people who have read something on that platform would be similar**
 
 So very few people will jump on to Substack just because some thought leaders/early adopters are writing there
 
@@ -59,7 +57,7 @@ Same with Substack
 Substrack <-> Author
 Author <-> Reader
 
-Both of them have different biz models but it is interesting how
+**Both of them have different biz models but it is interesting how**
 
 1. in both supply gets the demand for the platform and help it grow
 2. the platform does not form a tight relationship with the end user
@@ -71,6 +69,6 @@ Tab tak itna hi
 
 **/end**
 
-**P.S** Someone rightly pointed that Amazon vs Shopify is a much better comparison. It is true. I completely missed it 
+**P.S** Someone rightly pointed that Amazon vs Shopify is a much better comparison. It is true. I completely missed it
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
