@@ -6,7 +6,7 @@ title:  "Random Design Gyaan - Ticker on Swiggy"
 
 A collection of random thoughts on product design which I shared recently on Twitter
 
-### Ticker on Swiggy
+## Ticker on Swiggy
 
 Love how Swiggy uses a ticker to show more info in the ratings section of the restaurant page. The ticker starts with rating and number of ratings. Then the number of ratings changes to show feedback on packaging, portion etc
 
@@ -20,11 +20,11 @@ I have not seen many apps use a ticker and it was surprising to discover it on S
 You can also tap and access feedback around portion size, taste etc
 
 
-### Pending orders on Google Pay
+## Pending orders on Google Pay
 
 Google Pay seriously needs a card called 'ongoing order' at the top of its home screen
 
-![Ongoing order in Pay](/assets/img/sgoogle_pay__ongoing_order.png)
+![Ongoing order in Pay](/assets/img/google_pay__ongoing_order.png)
 
 If you initiate a payment using UPI on some merchant platform you have to wait till you get the UPI pay notification which takes you to the merchant screen inside Google Pay
 
@@ -36,7 +36,7 @@ If your system knows there is a pending transaction just show it on the home scr
 
 This is hardly some original thought. This is what Amazon does on its homepage too
 
-### New user experience on Apple products
+## New user experience on Apple products
 
 Something Apple is still amazing at: first time user experience for a new product
 
@@ -45,3 +45,5 @@ Especially if you are an existing iPhone user
 Setting up the new phone is almost like magic
 
 Disclaimer: Not an iPhone user. But have heard multiple people gush about it
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
