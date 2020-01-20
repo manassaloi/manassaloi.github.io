@@ -63,9 +63,9 @@ Author <-> Reader
 2. the platform does not form a tight relationship with the end user
 3. once supply gets powerful they can churn and take users with them
 
-I will write a bigger post on explaining both models in terms of acquisition strategies, CAC, relationships with various stakeholders and how these new platforms relying on supply growing demand and help prevent churn
+I will write a longer post on explaining both models in terms of acquisition strategies, CAC, relationships with various stakeholders and how these new platforms relying on supply growing demand and help prevent churn
 
-Tab tak itna hi
+For now this is all I have. If you don't see a more detailed post on this topic within the next 2 months, feel free to remind me on [Twitter]((http://twitter.com/manas_saloi))
 
 **/end**
 
