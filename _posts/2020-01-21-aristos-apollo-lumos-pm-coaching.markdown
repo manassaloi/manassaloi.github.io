@@ -117,10 +117,10 @@ Think of more +ve and -ve traits and write more stories about them (3 hours)
 + [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 + [The right way to ask the right research questions](https://www.intercom.com/blog/product-research-right-questions/)
 + Revise how to solve the 4 type of design interview Problems
-  + Generic product design
+  + Generic product
   + Go crazy
-  + Generic company design
-  + Specific company design
+  + Generic company
+  + Specific company 
 + Things which can’t be covered in a week but you need to do to understand Design better
   + [Coursera Course on HCD](https://www.coursera.org/learn/human-computer-interaction)
   + Read
