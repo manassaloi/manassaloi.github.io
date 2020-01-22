@@ -31,8 +31,7 @@ I have to admit I am pretty bad at this having worked only in smaller startups t
 We cannot help but communicate and our failure to embrace that reality can leave our teams in a state of information insecurity. Instead, we need to own our responsibility and be proactive.
 
 One of the advice someone at a big VC firm gave me after I left my last job was:
-
-Manas you are good at your job but you are super raw. You need polish. Go work at a bigger place like Linkedin/ Amazon where you have to learn how to work with dozens of people on a daily basis
+'Manas you are good at your job but you are super raw. You need polish. Go work at a bigger place like Linkedin/ Amazon where you have to learn how to work with dozens of people on a daily basis'
 
 **3/ Pause, calm down and reflect**
 
@@ -40,7 +39,7 @@ My boss gave me a rule of thumb: Anytime you want to rant/ be brutal with someon
 
 **4/ 2/3 rule of likability**
 
-As a manager if you are rated 2/3 by your team it is good. 3/3 means you are probably being pushover or optimising on likability.
+As a manager if you are rated 2/3 by your team it is good. 3/3 means you are probably being a pushover or optimising on likability.
 
 1/3 probably means you are a shitty manager. So 2/3 is probably the sweet spot
 
