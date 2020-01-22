@@ -38,7 +38,7 @@ Also this is a volunteering thing for me and we don't owe each other anything :)
 
 With this I started the first 3 batches for my experimental PM coaching program. Experimental because I am just doing it as a one off thing for free. I wanted to do something good for the world and this was my way of helping people who wanted to get into Product but had no clue how to
 
-I am sharing the study plan for Aristos here because quite a few people DM'ed me asking for the same
+I am sharing the study plan for Aristos here because a few people DM'ed me asking for the same
 
 **Topics to cover in this program:** Case studies, Data, Strategy, Prioritisation/Roadmapping, Tech
 
