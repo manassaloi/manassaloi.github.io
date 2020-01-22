@@ -39,7 +39,7 @@ Also this is a volunteering thing for me and we don't owe each other anything :)
 
 With this I started the first 3 batches for my experimental PM coaching program. Experimental because I am just doing it as a one off thing for free. I wanted to do something good for the world and this was my way of helping people who wanted to get into Product but had no clue how to
 
-Note: I did not send the message in bullet points. I am not a psychopath. The formatting was getting messed up in markdown. So had to turn it into this format for better readability
+**Note:** I did not send the message in bullet points. I am not a psychopath. The formatting was getting messed up in markdown. So had to turn it into this format for better readability
 
 I am sharing the study plan for Aristos here because a few people DM'ed me asking for the same
 
