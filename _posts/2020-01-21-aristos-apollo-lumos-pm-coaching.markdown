@@ -43,7 +43,18 @@ With this I started the first 3 batches for my experimental PM coaching program.
 
 I am sharing the study plan for Aristos here because a few people DM'ed me asking for the same
 
-**Topics to cover in this program:** Case studies, Data, Strategy, Prioritisation/Roadmapping, Tech
+**Topics we will cover in this program:**
++ Behavioral
++ Design
++ Case studies
+  + Guesstimates
+  + GTM
+  + Strategy
+  + Marketing
++ Data
++ Strategy
++ Prioritisation/Roadmapping
++ Tech
 
 ## Session 1 (Kick Off + Get started in Design and Behavioral) (2 weeks study plan)
 Date: Thursday 12th December
