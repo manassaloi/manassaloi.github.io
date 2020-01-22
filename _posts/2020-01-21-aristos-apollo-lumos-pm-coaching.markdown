@@ -4,30 +4,37 @@ title:  "Aristos Apollo Lumos - PM Coaching I"
 
 ---
 
-*More than 50 requests/applications (at last count) came for this experimental program
-My initial plan was to only select 3 people who I know well from Twitter + have some product experience
-But I realised that would not be fair. Hence I ended up saying Yes to ~20 people out of ~50
-Saying YES to you meant saying NO to 30+ people
+I sent this long message to Aristos, Apollo and Lumos (3 Whatsapp groups) on 13th December
+
+**/messagestarts**
+
++ More than 50 requests/applications (at last count) came for this experimental program.
+My initial plan was to only select 3 people who I know well from Twitter + have some product experience.
+But I realised that would not be fair. Hence I ended up saying Yes to ~20 people out of ~50.
+Saying YES to you meant saying NO to 30+ people.
 20 people can't be mentored through 1 group. Hence I have divided people into 3 groups
-Aristos (Batch 1): Have read Crack the PM interview, some already have some PM experience, need more focused guidance and structured training to reach next level, applied/DMed early
-My expectation is that people in this group will take this as a P0 and not something they are doing on the side with 5 other things
-Will get more 1-1s as well as sessions
++ **Aristos (Batch 1):** Have read Crack the PM interview, some already have some PM experience, need more focused guidance and structured training to reach next level, applied/DMed early.
+My expectation is that people in this group will take this as a P0 and not something they are doing on the side with 5 other things.
+Will get more 1-1s as well as sessions.
 Has 5 people. We had a 2 hour call yesterday and people have already got assignments/things to read before our next call
 Batch size wont change
-Apollo (Batch 2): Probably have not read Crack the PM interview or appeared in PM interviews. Have idea about Product Management, but not immediately looking for a PM role
-Maybe even don't know what RCA, User stories, P0 bugs, Usability testing, AARRR etc means
-OR Just got unlucky, applied late and could not make it to Aristos
++ **Apollo (Batch 2):** Probably have not read Crack the PM interview or appeared in PM interviews. Have idea about Product Management, but not immediately looking for a PM role.
+Maybe even don't know what RCA, User stories, P0 bugs, Usability testing, AARRR etc means.
+OR Just got unlucky, applied late and could not make it to Aristos.
 Has 5 people. Batch size wont change
-Lumos (Batch 3): Applied late and could not make it to Aristos and Apollo
++ **Lumos (Batch 3):** Applied late and could not make it to Aristos and Apollo.
 OR People who just want to learn/get started with product management, not into active job search mode, are not willing/can't put in the hours that Aristos and Apollo folks will
-Has 10 people. Number might go up slightly
-The next batch of Aristos and Apollo will come from these folks
-If you want to put in more hours, do more assignments, want more mentorship and fast track this course then you can always move up batches
-In a similar way if you think things are moving too fast then you can always move to a batch which suits your pace of learning/effort you are willing to put in
-Note: PM at a good company is one of the toughest jobs to get. You get grilled on strategy, prioritization, day to day management of a team, design, data, customer research, tech during interviews. So we will need to prepare accordingly
-Hence if you are not attending sessions/doing assignments regularly then you will be asked to move down a batch or will be requested to leave. Because there will be someone else who deserves your place and willing to put in the required hours
+Has ~10 people
+
++ The next batch of Aristos and Apollo will come from these folks if they do well
++ If you want to put in more hours, do more assignments, want more mentorship and fast track this course then you can always move up batches
++ In a similar way if you think things are moving too fast then you can always move to a batch which suits your pace of learning/effort you are willing to put in
++ Note: PM at a good company is one of the toughest jobs to get. You get grilled on strategy, prioritization, day to day management of a team, design, data, customer research, tech during interviews. So we will need to prepare accordingly
++ Hence if you are not attending sessions/doing assignments regularly then you will be asked to move down a batch or will be requested to leave. Because there will be someone else who deserves your place and willing to put in the required hours
 Also this is a volunteering thing for me and we don't owe each other anything :)
-All the best*
++ All the best
+
+**/endmessage**
 
 With this I started the first 3 batches for my experimental PM coaching program. Experimental because I am just doing it as a one off thing for free. I wanted to do something good for the world and this was my way of helping people who wanted to get into Product but had no clue how to
 
@@ -137,4 +144,4 @@ Date: Sunday 5th January
 ## Session 5 (Get better in Data and Case Studies)
 Date: Last week of Jan
 
-<To be Continued>
+**To be Continued..**
