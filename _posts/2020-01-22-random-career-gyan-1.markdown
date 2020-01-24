@@ -4,7 +4,7 @@ title:  "Random Career Gyaan 1 - How to think about a job switch"
 
 ---
 
-One of the good things about being a Gyaandu: Some people take you seriously and note down your gyaan. I was doing an 1-1 session with a candidate from Aristos recently. Afterwards he asked me if I wanted to share the notes he took with the rest of the world. I was like why not. A new blogpost where I won't have to think about new content sounds amazing. So I am just copy pasting his notes here (with minor edits. minor edits = me mostly taking out the "." at the end of each sentence)
+One of the good things about being a Gyaandu: Some people take you seriously and note down your gyaan. I was doing an 1-1 session with a candidate from Aristos recently. Afterwards he asked me if I wanted to share the notes he took with the rest of the world. I was like why not. A new blogpost where I won't have to think about new content sounds amazing. So I am just copy pasting his notes here (with minor edits. minor edits = me mostly taking out the "." at the end of random sentences)
 
 ## Resume
 
