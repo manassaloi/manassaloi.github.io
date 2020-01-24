@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Random Design Gyaan - Ticker on Swiggy"
+title:  "Random Design Gyaan 1 - Ticker on Swiggy"
 
 ---
 
