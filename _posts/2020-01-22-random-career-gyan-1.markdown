@@ -54,7 +54,7 @@ Structuring and articulating your thoughts will come with experience eventually.
 
 ## Salary Negotiation
 + Don’t index your expected salary on your current salary
-+ Talk to show that you’re on top of things [Show yourself as a smart person who has leverage](https://docs.google.com/document/d/1YaDssjoCDZJK-RvAjsNKJ_UO479jhdKkv-qFpgmFYsI/edit) (listen to this Sarah Tavel podcast & how Pinterest got a $40mn pre-round)
++ Talk to show that you’re on top of things [Show yourself as a smart person who has leverage](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ZjBjYTA0L3BvZGNhc3QvcnNz&episode=OGQ1YTc1MjItZjg0Ny02NWZkLTlmYTgtNmZlNTAzZmU5ZTli) (listen to this Sarah Tavel podcast & how Pinterest got a $40mn pre-round)
 + Stand your ground and don’t seem desperate
 + Talk about your leverage instead of focusing on theirs
 + Read [this post on salary negotiation](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
