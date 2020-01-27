@@ -6,7 +6,7 @@ title:  "[Product Spec] Emoji Reactions on Twitter Messages"
 
 I keep getting Twitter DMs like these regularly
 
-![Request Product Spec](/assets/img/request_product__spec.png)
+![Product Spec request](/assets/img/request_product_spec.png)
 
 Finally spent my afternoon today writing a Product spec for Emoji reactions to Twitter messages (which launched a couple of days back)
 
