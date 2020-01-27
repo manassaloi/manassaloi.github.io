@@ -50,8 +50,6 @@ Spam calls karke credit card dilwane mein jitna effort daalte hain uska 10% effo
 
 ## Rating HDFC website across 10 commandments of good products
 
-Just crosschecked, HDFC site is at a solid 0/10
-https://medium.com/swlh/the-10-commandments-of-good-products-d1d0a97b30ee
-
+Just crosschecked, HDFC site is at a solid 0/10 based on [10 commandments of good products](https://medium.com/swlh/the-10-commandments-of-good-products-d1d0a97b30ee)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
