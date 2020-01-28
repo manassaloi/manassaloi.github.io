@@ -10,7 +10,7 @@ I keep getting Twitter DMs like these regularly
 
 So I decided to spend my afternoon today writing a Product spec for Emoji reactions to Twitter messages (which launched a couple of days back)
 
-You can find the link here: [Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)
+## You can find the link here: [Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)
 
 Feel free to use this template
 
