@@ -32,7 +32,7 @@ Whenever I am asked by someone to do something, I always wonder if this thing wo
 
 **2/  10/10/10**  
 
-I prefer picking up/ doing things which I know will make me happy in 10 mins, 10 months and 10 years
+I prefer picking up/ doing things which I know will make me happy in 10 mins, 10 months and 10 years.
 Also things which I won't regret in the same time frames
 
 Listening to podcasts makes me happy now. It would make me happy 10 years later too. I won't regret spending hours listening to smart people talk about their ideas
