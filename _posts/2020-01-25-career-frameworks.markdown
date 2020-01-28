@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frameworks for your professional life"
+title:  "16 Frameworks for your career"
 
 ---
 

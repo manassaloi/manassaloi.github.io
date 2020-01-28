@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frameworks for your personal life"
+title:  "26 frameworks for your life"
 
 ---
 
