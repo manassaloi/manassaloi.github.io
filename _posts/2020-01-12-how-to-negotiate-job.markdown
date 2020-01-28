@@ -68,7 +68,16 @@ Here is a reply I had sent once
 
 I waited out for sometime and sure enough I got the offer I wanted
 
-So yeah, Just know what you want. Do your interviews well and good things will follow!
+Once you and the company get in alignment on the final offer, make sure you get it in writing. I had my first job offer (which I got on campus) rescinded. Why? Because the company had preponed the joining date and I could not join on that day. I had confirmed with the HR manager that it would not be an issue and I would be allowed to join on the original date. And hence I was pretty relaxed about the whole thing. But the day before joining they sent me a mail saying I could not join anymore because I did not join along with the rest of the freshers of my campus. When I questioned the HR, she told me point blank that since there is nothing "in writing" and all discussions I had was over a phone call, there is no proof that some concession was made for me
+
+I have had friends who got options at early stage startups but never got a document mentioning the same. As expected, they never really got the options later in spite of it being promised before joining
+
+Know that exploding offers are given just to put pressure on you. Companies spend months trying to hire the right candidate. They won't change their mind if you take an extra week to decide. I took more than a month to decide which offer to take (I had 3 options). Though out the process I was in touch with the TA, Hiring Manager and even other members of the Interview Panel. If you are good they will wait. Unless you are being super un reasonable and they know you are just fishing for other offers and keeping them as a backup option
+
+If you don't get the desired base pay, know that there is always a scope to get a higher joining bonus added or load more stock options to your package. Most TAs as well as Hiring Managers focus on keeping the base pay as low as possible. This is because they don't want a huge salary gap between two people working in the same role. To compensate they would always be willing to negotiate on the other components of the job package: Joining bonus, Retention bonus, ESOPs, RSUs and maybe even the job title
+
+The best way to get companies to up their offer and compete for your signature is by signalling value. The easiest way to signal value is by getting offers from places, that the company considers superior to them or direct competitors
+
 
 **</threadends>**
 
