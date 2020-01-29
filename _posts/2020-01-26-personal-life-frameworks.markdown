@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "26 frameworks for your life"
+title:  "28 frameworks for your life"
 
 ---
 
@@ -57,6 +57,10 @@ Some of the most important frameworks/models/ideas I learned in the last few yea
 25. [Identify Leaders By Giving People Assignments](https://feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html); simple, yet elegant way to triage an overwhelming amount of inbound requests to figure out who is really going to make shit happen
 
 26. [Think in bets](https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf); you can't tell the quality of a decision from the outcome
+
+27. [Horizontal relationships vs Vertical ones](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked); vertical relationships are hierarchical, where you see others as being either inferior or superior to you while horizontal ones are egalitarian, you see others as your equals
+
+28. [All problems are interpersonal relationship problems](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked); we are all suffering in interpersonal relationships
 
 **Note:** I will keep expanding this list
 
