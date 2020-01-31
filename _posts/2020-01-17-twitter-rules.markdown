@@ -62,6 +62,8 @@ I like writing rules for myself. The idea of organising my thoughts on any topic
 
 - You are not on Twitter to change people's opinion on any subject or to make them like you. So don't waste time explaining your views
 
-**Note:** If you disagree with these rules, just know that these are mine and not yours
+- If people come and tell you, "Don't about X and not Y", "Stick to X" tell them to go fuck themselves
+
+**Note:** If people disagree with these rules, just let them know that these are your rules and not theirs. They are free to do whatever the fuck they want
 
 **P.S** If you still want to follow me on Twitter after reading this post, go here: [@manas_saloi](http://twitter.com/manas_saloi)
