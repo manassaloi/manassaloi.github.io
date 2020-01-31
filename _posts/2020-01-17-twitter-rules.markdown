@@ -4,7 +4,7 @@ title:  "Twitter Rules"
 
 ---
 
-I like writing rules for myself. The idea of organising my thoughts on any topic in a structured way gets me excited. My goal is to have rules for everything like [this guy](https://github.com/nikitavoloboev/knowledge/blob/master/focusing/rules.md). So it was inevitable I would create this post
+I like writing rules for myself. The idea of organising my thoughts on any topic in a structured way gets me excited. My goal is to have rules for everything like [this guy](https://github.com/nikitavoloboev/knowledge/blob/master/focusing/rules.md). So it was inevitable I would create this post one day considering I spend so much time on Twitter
 
 **Here are my Twitter rules:**
 
@@ -59,6 +59,8 @@ I like writing rules for myself. The idea of organising my thoughts on any topic
 - You have the right to post snarky replies if you are in a bad mood though and someone had posted some stupid reply to your tweet
 
 - You have the right to remind people that you don't care about their opinion if they disagree with something you posted
+
+- You are not on Twitter to change people's opinion on any subject or to make them like you. So don't waste time explaining your views
 
 **Note:** If you disagree with these rules, just know that these are mine and not yours
 
