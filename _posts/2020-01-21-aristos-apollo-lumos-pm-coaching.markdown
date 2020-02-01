@@ -102,7 +102,7 @@ Date: Thursday 19th December
   + Sleeping pillow
   + ATM
 + Read and memorise the gist of the 20 stories you created for NSTAR (1 hour)
-Think of more +ve and -ve traits and write more stories about them (3 hours)
+  + Think of more +ve and -ve traits and write more stories about them (3 hours)
 + Learn how to do think about products better (3 hours)
   + Read this [Product Critique post](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
   + Critique 3 apps which are on your phone
@@ -113,15 +113,19 @@ Think of more +ve and -ve traits and write more stories about them (3 hours)
 + Learn how to give feedback to Designers (2 hours)
   + [Peek Inside a Facebook Design Critique](https://medium.com/facebook-design/peek-inside-a-facebook-design-critique-c4833efda26e#.oawuouciy)
   + [Four Things Working at Facebook Has Taught Me About Design Critique](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3#.j8knra4y5)
-+ [UX Laws](https://lawsofux.com/)
-+ [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-+ [The right way to ask the right research questions](https://www.intercom.com/blog/product-research-right-questions/)
-+ Revise how to solve the 4 type of design interview Problems
++ More design Reads (2 days)
+  + [How to develop an eye for Design](https://uxdesign.cc/how-to-develop-an-eye-for-design-c5a4c64bb26c)
+  + [UX Laws](https://lawsofux.com/)
+  + [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+  + [The right way to ask the right research questions](https://www.intercom.com/blog/product-research-right-questions/)
+  + [How popular web apps handle their signup/on boarding experiences](https://www.useronboard.com/user-onboarding-teardowns/)
+  + [Growth & UX case studies](https://growth.design/case-studies/)
++ Revise how to solve the 4 type of design interview Problems (1 day)
   + Generic product
   + Go crazy
   + Generic company
-  + Specific company 
-+ Things which can’t be covered in a week but you need to do to understand Design better
+  + Specific company
++ Things which can’t be covered in a week but you need to do to understand Design better (Complete at your own space)
   + [Coursera Course on HCD](https://www.coursera.org/learn/human-computer-interaction)
   + Read
     + Design of Everyday things (Honest confession: I have not completed the book)
