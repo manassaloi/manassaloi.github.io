@@ -8,6 +8,10 @@ One of my [KRs for 2020](https://manassaloi.com/2020/01/15/personal-OKRs-2020.ht
 
 **As part of it I am planning to read the following:**
 
+### Beginner reads:
+
+[Unit Economics](https://www.investingcity.org/post/unit-economics)
+
 ### Intermediate reads:
 
 [Amazon Prime and other Subscription Businesses: How do you Value a Subscriber?](https://25iq.com/2017/07/15/amazon-prime-and-other-subscription-businesses-how-do-you-value-a-subscriber/)
