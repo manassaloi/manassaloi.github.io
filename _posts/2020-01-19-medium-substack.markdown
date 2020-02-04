@@ -65,6 +65,10 @@ Author <-> Reader
 
 I will write a longer post on explaining both models in terms of acquisition strategies, CAC, relationships with various stakeholders and how these new platforms relying on supply growing demand and help prevent churn
 
+One important difference between Substack vs Traditional newsletters: Subscription process for a new newsletter is a single step instead of 2 (traditional enter email and then verify) if you are already logged in to substack as a reader
+
+I am assuming this has led to dramatic improvement in conversion of the subscription funnel
+
 For now this is all I have. If you don't see a more detailed post on this topic within the next 2 months, feel free to remind me on [Twitter]((http://twitter.com/manas_saloi))
 
 **/end**
