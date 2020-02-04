@@ -58,6 +58,6 @@ What I have found most helpful in my 1-1s with my manager
 - Generally 1-1s are sacred and you should not miss them
 - 1-1s are also the time for honest conversations. If you are not using them for that, you are losing out
 
-Related read, not on first 1-1s, but first 90 days in a new role: [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days)
+Related book, not on first 1-1s, but first 90 days in a new role: [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
