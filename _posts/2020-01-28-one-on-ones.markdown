@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1:1s: How to do a proper One on One"
+title:  "[1:1] How to do a proper One on One"
 
 ---
 
