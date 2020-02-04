@@ -35,7 +35,7 @@ I got this message from him a couple of days back. Needless to say the 1-1 went 
 
 ![One on one](/assets/img/one_on_one.png)
 
-There are a bunch of resources on how to do an 1-1 already: [One on One Meetings: The Only Guide Managers Need](https://getlighthouse.com/blog/one-on-one-meetings-template-great-leaders/), [Awkward 1:1s: How To Get Honest Feedback](https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880), [The Update, The Vent, and The Disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/), [One-on-ones are my most valuable meetings; here’s how I run them](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade), [The One on One](https://svpg.com/coaching-tools-the-one-on-one/), [The one-on-one meeting template for your end of the year review](https://medium.com/know-your-team-blog/the-one-on-one-meeting-template-for-your-end-of-the-year-review-735c5fb557d), [The Making of a Manager 1-1](https://manassaloi.com/booksummaries/2016/05/06/making-manager-julie.html)
+There are a bunch of resources on how to do an 1-1 already: [One on One Meetings: The Only Guide Managers Need](https://getlighthouse.com/blog/one-on-one-meetings-template-great-leaders/), [Awkward 1:1s: How To Get Honest Feedback](https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880), [The Update, The Vent, and The Disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/), [One-on-ones are my most valuable meetings; here’s how I run them](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade), [The One on One](https://svpg.com/coaching-tools-the-one-on-one/), [The one-on-one meeting template for your end of the year review](https://medium.com/know-your-team-blog/the-one-on-one-meeting-template-for-your-end-of-the-year-review-735c5fb557d), [The Making of a Manager 1-1](https://manassaloi.com/booksummaries/2016/05/06/making-manager-julie.html), [The 5 mistakes you’re likely making in your one-on-one](https://m.signalvnoise.com/the-5-mistakes-youre-likely-making-in-your-one-on-one-meetings-with-direct-reports/),
 
 If you have read the posts, you know by now that there is no singular way to do 1-1s. So use the time to align with your manager on
 - where are you now (in terms of responsibilities, impact)
@@ -57,5 +57,7 @@ What I have found most helpful in my 1-1s with my manager
 - Take notes during the 1-1 if it is a sit down meeting. Else go on a walk and then add the MOM later. I prefer walking 1-1s whenever we are both in the same location
 - Generally 1-1s are sacred and you should not miss them
 - 1-1s are also the time for honest conversations. If you are not using them for that, you are losing out
+
+Related read, not on first 1-1s, but first 90 days in a new role: [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
