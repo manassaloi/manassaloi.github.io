@@ -42,7 +42,7 @@ They could have asked this much before their botched IPO.
 
 [No more tap beer](https://vox.com/the-goods/2018/10/31/18049142/wework-beer-wine-policy)
 
-We know all about []**Droom's growth:**](https://the-ken.com/story/perhaps-the-most-ingenious-story-of-the-indian-internet-startup-ecosystem-of-this-decade/), []**Oyo's:**](https://nytimes.com/2020/01/13/technology/oyo-hotel-india-softbank.html)
+We know all about [**Droom's growth:**](https://the-ken.com/story/perhaps-the-most-ingenious-story-of-the-indian-internet-startup-ecosystem-of-this-decade/), [**Oyo's:**](https://nytimes.com/2020/01/13/technology/oyo-hotel-india-softbank.html)
 
 Maybe they could have asked if this was the only way to grow
 
