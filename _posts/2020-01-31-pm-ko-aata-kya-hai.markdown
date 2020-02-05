@@ -61,11 +61,11 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - But we did well. [The new business took off](https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi/)
 
-- I also started not just reading but building better habits/models to learn more and incorporate the learnings in my day to day work
-  - [Framework on how to learn](https://manassaloi.com/2019/03/08/how-to-learn.html)
-  - [How to negotiate](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
-  - [How to make decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
-  - [Habits to improve productivity](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
+- I started not just reading but building better habits/models to learn more and incorporate the learnings in my day to day work
+  - [Framework on how to learn](https://manassaloi.com/2019/03/08/how-to-learn.html)
+  - [How to negotiate](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
+  - [How to make decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
+  - [Habits to improve productivity](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
 
 - As you can see I also have folders for everything I read and liked
 
