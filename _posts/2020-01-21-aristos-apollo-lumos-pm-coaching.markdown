@@ -161,7 +161,7 @@ Date: Sunday 5th January
   + Record and play back the audio to check flow
   + Incorporate all the feedback given during the session in your behavioral answers
 
-## Session 5 (Become better in Data and Case Studies (2 weeks study plan)
+## Session 5 (Become better in Data and Case Studies (3 weeks study plan)
 Date: Tuesday 5th February
 
 + Practice how to solve the following types of data interview problems (1 week)
@@ -173,11 +173,12 @@ Date: Tuesday 5th February
   + Experimentation questions (How would you roll out feature X, How would you run an A/B test)
 + Create dashboards for all the different type of businesses mentioned in Lean Analytics book (3 days)
   + Example. In e-commerce you can assume that you are the PM for Check Out flow for Amazon
-+ Items shared in our Aristos whatsapp group (2 weeks)
++ Items shared in our Aristos whatsapp group (1 week)
   + Shaadi.com case study
   + Character limit of tweets discussion. Think how you would tackle the same problem
   + Start reading the bookmarks on Data Analytics and Growth
-+ Understand in depth (1 week)
++ Understand in depth (4 days)
+  + Metrics
   + North Star
   + Top level metrics
   + Conversions
@@ -199,10 +200,19 @@ Date: Tuesday 5th February
   + Churn
   + NPS
   + CSAT
-+ Advanced Topics (2 weeks)
++ Advanced Topics (1 month, Do at your own pace)
   + [Series of posts on Engagement, There are 7](https://medium.com/sequoia-capital/engagement-part-vii-summary-and-product-implications-3b9e2044b328)
   + [So you want to understand LTV and Churn]
   + User accounting [(6 part series, check table at the bottom)](https://medium.com/swlh/diligence-at-social-capital-part-5-depth-of-usage-and-quality-of-revenue-b4dd96b47ca6)
++ Extra reading material (1 month, Do at your own pace)
+  + [Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-expanded-648329d60804#.6i4qz2nqh)
+  + [All data related posts in Seq Cap's Medium Channel](https://medium.com/sequoia-capital)
+  + [Growth Studies](https://growthhackers.com/growth-studies)
+  + [Brian Balfour's essays](https://brianbalfour.com/essays)
+  + [The Power User Curve](https://andrewchen.co/power-user-curve/)
+  + [10 important metrics](https://andrewchen.co/power-user-curve/)
+  + [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
+  + [16 More Startup Metrics](https://a16z.com/2015/09/23/16-more-metrics/)
 
 
 
