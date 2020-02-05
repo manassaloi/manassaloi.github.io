@@ -11,7 +11,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - TBH I became a PM because it was the only job where I could be good/amazing at multiple things
 
- **kind of a brag thread. ignore if you wish**
+**kind of a brag thread. ignore if you wish**
 
 - I have heard this joke/comment so many times in my life from various ICs (devs/designer), that I have learned to not engage and just live with it
 
@@ -62,7 +62,6 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 - But we did well. [The new business took off](https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi/)
 
 - I also started not just reading but building better habits/models to learn more and incorporate the learnings in my day to day work
-
   - [Framework on how to learn](https://manassaloi.com/2019/03/08/how-to-learn.html)
   - [How to negotiate](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
   - [How to make decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
@@ -99,7 +98,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 - Finally this is the reason I read so much. And why with every passing year I want to be at least 10% better in some skill
 
 - Because I never wanted
-  -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
+  -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
   -  to be the person who became a PM because he could not be good in anything
 
 **/end**
