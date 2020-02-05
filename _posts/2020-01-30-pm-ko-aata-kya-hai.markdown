@@ -102,6 +102,7 @@ Because I never wanted
 -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
 -  to be the person who became a PM because he could not be good in anything
 
+
 **/end**
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
