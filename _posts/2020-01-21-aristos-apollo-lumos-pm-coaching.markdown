@@ -172,9 +172,38 @@ Date: Tuesday 5th February
   + Dashboard creation (What would the dashboard of the PM of Facebook Newsfeed look like)
   + Experimentation questions (How would you roll out feature X, How would you run an A/B test)
 + Create dashboards for all the different type of businesses mentioned in Lean Analytics book (3 days)
-Example. In Ecommerce you can assume that you are the PM for Check Out flow for Amazon
-+ Shaadi.com case study shared on Aristos whatsapp group (1 day)
-+ Go through the character limit of tweets discussion on Aristos Whatsapp group and think how you would tackle the same problem (1 day)
-+ Start reading the bookmarks on Data Analytics and Growth shared on the Whatsapp
+  + Example. In e-commerce you can assume that you are the PM for Check Out flow for Amazon
++ Items shared in our Aristos whatsapp group (2 weeks)
+  + Shaadi.com case study
+  + Character limit of tweets discussion. Think how you would tackle the same problem
+  + Start reading the bookmarks on Data Analytics and Growth
++ Understand in depth (1 week)
+  + North Star
+  + Top level metrics
+  + Conversions
+  + Funnels
+  + Cohort analysis
+  + RFM analysis
+  + Histograms
+  + Pirate Metrics (AARRR)
+  + Product funnels
+  + User funnels
+  + A/B testing
+  + ABCs of A/B test [(Part 1)](https://medium.com/@ur.pratibha/abcs-of-a-b-test-explained-right-from-the-basics-part-1-33221b5ecf42),[(Part 2)](https://medium.com/@ur.pratibha/abcs-of-a-b-test-explained-right-from-the-basics-part-2-99e7f6ca76a4)
++ Read up on (1 week)
+  + CAC
+  + LTV
+  + ARPU
+  + [Correlation vs Causation](https://amplitude.com/blog/2017/01/19/causation-correlation)
+  + Unit economics
+  + Churn
+  + NPS
+  + CSAT
++ Advanced Topics (2 weeks)
+  + [Series of posts on Engagement, There are 7](https://medium.com/sequoia-capital/engagement-part-vii-summary-and-product-implications-3b9e2044b328)
+  + [So you want to understand LTV and Churn]
+  + User accounting [(6 part series, check table at the bottom)](https://medium.com/swlh/diligence-at-social-capital-part-5-depth-of-usage-and-quality-of-revenue-b4dd96b47ca6)
+
+
 
 **To be Continued..**
