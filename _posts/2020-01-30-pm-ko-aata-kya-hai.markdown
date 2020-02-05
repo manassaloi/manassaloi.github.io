@@ -11,7 +11,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - TBH I became a PM because it was the only job where I could be good/amazing at multiple things
 
-- kind of a brag thread. ignore if you wish
+ **kind of a brag thread. ignore if you wish**
 
 - I have heard this joke/comment so many times in my life from various ICs (devs/designer), that I have learned to not engage and just live with it
 
@@ -63,10 +63,10 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - I also started not just reading but building better habits/models to learn more and incorporate the learnings in my day to day work
 
- - [Framework on how to learn](https://manassaloi.com/2019/03/08/how-to-learn.html)
- - [How to negotiate](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
- - [How to make decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
- - [Habits to improve productivity](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
+  - [Framework on how to learn](https://manassaloi.com/2019/03/08/how-to-learn.html)
+  - [How to negotiate](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
+  - [How to make decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
+  - [Habits to improve productivity](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
 
 - As you can see I also have folders for everything I read and liked
 
@@ -85,22 +85,22 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 - I know people think the job of a PM is the easiest
 
 - But try
- - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
- - debating with a designer about interaction on a button without understanding design yourself
+  - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
+  - debating with a designer about interaction on a button without understanding design yourself
 
 - Remember that no one reports to you. You have no explicit or implicit authority
 
 - But if they respect you then it is 90% of the job done
 
 - Relevant posts:
- - [Authority and Merit](https://medium.com/@jack/authority-merit-80ad140f990b)
- - [Influence over Authority](https://boz.com/articles/influence-over-authority)
+  - [Authority and Merit](https://medium.com/@jack/authority-merit-80ad140f990b)
+  - [Influence over Authority](https://boz.com/articles/influence-over-authority)
 
 - Finally this is the reason I read so much. And why with every passing year I want to be at least 10% better in some skill
 
 - Because I never wanted
- -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
- -  to be the person who became a PM because he could not be good in anything
+  -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
+  -  to be the person who became a PM because he could not be good in anything
 
 **/end**
 
