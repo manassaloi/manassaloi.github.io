@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PM ko aata kya hain"
+title:  PM ko aata kya hain
 
 ---
 Recently wrote a thread on the PM role. Turning it into a blogpost (with some minor edits)
@@ -85,7 +85,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - But try
   - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
-  - debating with a designer about interaction on a button without understanding design yourself
+  - debating with a designer about interaction on a button without understanding design yourself
 
 - Remember that no one reports to you. You have no explicit or implicit authority
 
