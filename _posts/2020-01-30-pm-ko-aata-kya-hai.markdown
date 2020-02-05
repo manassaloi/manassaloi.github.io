@@ -11,11 +11,11 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - TBH I became a PM because it was the only job where I could be good/amazing at multiple things
 
-<kind of a brag thread. ignore if you wish>
+- <kind of a brag thread. ignore if you wish>
 
 - I have heard this joke/comment so many times in my life from various ICs (devs/designer), that I have learned to not engage and just live with it
 
-but I could have mentioned how
+- but I could have mentioned how
 
 - I was one of the earliest members of Redbus' team in North East and single handedly doubled their partnerships in the 2 months I was interning with them
 
@@ -84,7 +84,7 @@ but I could have mentioned how
 
 - I know people think the job of a PM is the easiest
 
-But try
+- But try
  - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
  - debating with a designer about interaction on a button without understanding design yourself
 
