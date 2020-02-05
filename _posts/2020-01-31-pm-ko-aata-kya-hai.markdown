@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PM ko aata kya hain
+title: "PM ko aata kya hain"
 
 ---
 Recently wrote a thread on the PM role. Turning it into a blogpost (with some minor edits)
