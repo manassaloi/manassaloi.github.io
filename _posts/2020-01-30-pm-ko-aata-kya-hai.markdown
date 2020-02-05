@@ -84,7 +84,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 - I know people think the job of a PM is the easiest
 
 - But try
-  - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
+  - convincing your TL about cutting scope of a project without understanding the underlying tech changes required
   - debating with a designer about interaction on a button without understanding design yourself
 
 - Remember that no one reports to you. You have no explicit or implicit authority
@@ -93,13 +93,13 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - Relevant posts:
   - [Authority and Merit](https://medium.com/@jack/authority-merit-80ad140f990b)
-  - [Influence over Authority](https://boz.com/articles/influence-over-authority)
+  - [Influence over Authority](https://boz.com/articles/influence-over-authority)
 
 - Finally this is the reason I read so much. And why with every passing year I want to be at least 10% better in some skill
 
 - Because I never wanted
   -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega"
-  -  to be the person who became a PM because he could not be good in anything
+  -  to be the person who became a PM because he could not be good in anything
 
 **/end**
 
