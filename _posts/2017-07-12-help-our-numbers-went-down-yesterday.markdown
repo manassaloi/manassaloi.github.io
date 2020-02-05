@@ -20,7 +20,7 @@ Were the API response times same as usual? For this I would look at New Relic* d
 Did any new build go out yesterday?
 I would open Crashlytics* to see crash rate and if there was any spike in it
 
-3. **What does yesterday’s hourly data say**? Checking this report is always the easiest way to confirm if something broke.
+3. **What does yesterday’s hourly data say?** Checking this report is always the easiest way to confirm if something broke.
 
 Example: Between 2PM to 5PM there were no transactions recorded. It means something happened during that period which let to overall conversion drop.
 
