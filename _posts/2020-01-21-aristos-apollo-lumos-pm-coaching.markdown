@@ -161,7 +161,20 @@ Date: Sunday 5th January
   + Record and play back the audio to check flow
   + Incorporate all the feedback given during the session in your behavioral answers
 
-## Session 5 (Get better in Data and Case Studies)
-Date: Last week of Jan
+## Session 5 (Become better in Data and Case Studies (2 weeks study plan)
+Date: Tuesday 5th February
+
++ Practice how to solve the following types of data interview problems (1 week)
+  + RCA questions (RANDOM DOC) (Aditya’s notes)
+  + Company specific feature dev data questions (Think of it as you creating the first 2 pages of [this spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)) (Also check the Swiggy Restaurant app case study we did)
+  + Company’s most important metrics questions (Refer to discussions around North Star and top 5 metrics for Amazon Ecommerce PM)
+  + Generic company feature question (You are the PM of X. How will you measure success of Y features)
+  + Dashboard creation (What would the dashboard of the PM of Facebook Newsfeed look like)
+  + Experimentation questions (How would you roll out feature X, How would you run an A/B test)
++ Create dashboards for all the different type of businesses mentioned in Lean Analytics book (3 days)
+Example. In Ecommerce you can assume that you are the PM for Check Out flow for Amazon
++ Shaadi.com case study shared on Aristos whatsapp group (1 day)
++ Go through the character limit of tweets discussion on Aristos Whatsapp group and think how you would tackle the same problem (1 day)
++ Start reading the bookmarks on Data Analytics and Growth shared on the Whatsapp
 
 **To be Continued..**
