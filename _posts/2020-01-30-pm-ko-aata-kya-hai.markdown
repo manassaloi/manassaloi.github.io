@@ -11,7 +11,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - TBH I became a PM because it was the only job where I could be good/amazing at multiple things
 
-- <kind of a brag thread. ignore if you wish>
+- kind of a brag thread. ignore if you wish
 
 - I have heard this joke/comment so many times in my life from various ICs (devs/designer), that I have learned to not engage and just live with it
 
