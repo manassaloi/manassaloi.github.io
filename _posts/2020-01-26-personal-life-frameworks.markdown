@@ -6,7 +6,7 @@ title:  "28 frameworks for your life"
 
 Some of the most important frameworks/models/ideas I learned in the last few years which have helped me in my personal life
 
-1. [The worst case scenario](https://medium.com/desk-of-van-schneider/the-worst-case-scenario-52a348012a35#.dz3gegowc): If everything goes wrong, whats my personal worst case scenario, and is it really that bad?
+1. [The worst case scenario](https://medium.com/desk-of-van-schneider/the-worst-case-scenario-52a348012a35#.dz3gegowc): If everything goes wrong, whats your personal worst case scenario, and is it really that bad?
 
 2. [Write down everything](https://byrslf.co/write-down-everything-a811df6db771): Organize your thoughts. Develop your philosophy. Get ready to contribute from Day 1
 
