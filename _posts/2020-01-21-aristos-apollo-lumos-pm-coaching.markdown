@@ -123,7 +123,7 @@ Date: Thursday 19th December
   + [The Only UX Reading List Ever](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff)
   + [The 5 pillars of interaction design](https://thenextweb.com/dd/2015/03/03/the-5-pillars-of-interaction-design/)
 + Revise how to solve the 4 type of design interview Problems (1 day)
-  + Generic product
+  + Generic product (Design X for Y)
   + Go crazy
   + Generic company
   + Specific company
