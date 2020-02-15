@@ -210,7 +210,7 @@ Date: Tuesday 5th February
   + [Growth Studies](https://growthhackers.com/growth-studies)
   + [Brian Balfour's essays](https://brianbalfour.com/essays)
   + [The Power User Curve](https://andrewchen.co/power-user-curve/)
-  + [10 important metrics](https://andrewchen.co/power-user-curve/)
+  + [10 important metrics](https://tomtunguz.com/your-startups-10-most-important-metrics/)
   + [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
   + [16 More Startup Metrics](https://a16z.com/2015/09/23/16-more-metrics/)
 
