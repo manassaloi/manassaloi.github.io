@@ -47,7 +47,10 @@ I read them long back. Have to re read and take notes
 - [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/)
 - [Wardley maps](https://medium.com/wardleymaps)
 - [The Strategy Paradox](https://www.amazon.com/Strategy-Paradox-Committing-Success-Failure/dp/0385516223)
-- [Competition Demystified](https://www.amazon.com/dp/1591841801/)   
+- [Competition Demystified](https://www.amazon.com/dp/1591841801/)
+- [Strategy Beyond the Hockey Stick](https://www.goodreads.com/en/book/show/37916972)  
+- [Certain to Win](https://www.amazon.com/Certain-Win-Strategy-Applied-Business-ebook/dp/B0793SDYSM)
+- [The Luxury Strategy](https://www.goodreads.com/book/show/4717945-the-luxury-strategy)
 
 ### Additional links
 
@@ -56,10 +59,15 @@ I read them long back. Have to re read and take notes
 - [Can You Say What Your Strategy Is?](https://eclass.aueb.gr/modules/document/file.php/DET162/Session%201/Can%20you%20say%20what%20your%20strategy%20is.pdf)
 - [The Five Competitive Forces That Shape Strategy](http://www.ibbusinessandmanagement.com/uploads/1/1/7/5/11758934/porters_five_forces_analysis_and_strategy.pdf)
 - [Spolsky's Strategy Letters](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
+- [Commoditizing your complement](https://www.gwern.net/Complement)
 - [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)
+- [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
 - [How to Define Your Product Strategy, 12 part series](https://medium.com/@gibsonbiddle/intro-to-product-strategy-60bdf72b17e3)
 - [Know Your Customers’ “Jobs to Be Done”](Know Your Customers’ “Jobs to Be Done”)
+- [All Strategy Is Local](https://hbr.org/2005/09/all-strategy-is-local)
 - [Measuring the Moat](https://hurricanecapital.wordpress.com/2016/11/02/measuring-the-moat-updated-version/)
+- [Taxonomy of Moat Destruction](https://drive.google.com/file/d/1SJacJkx5Yyao9xzkfnxNWCHnUFnZLc8e/view)
+- [Functionalization Theory](https://kevin.sekniqi.com/functionalization-theory/)
 - [A Dozen Things I’ve Learned About Strategy, Business and Investing From Michael Porter](https://25iq.com/2013/08/26/a-dozen-things-ive-learned-about-strategy-business-and-investing-from-michael-porter-2/)
 - [What is Good Product Strategy?](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429)
 - [6 Steps to Make Your Strategic Plan Really Strategic](https://hbr.org/2018/08/6-steps-to-make-your-strategic-plan-really-strategic)
