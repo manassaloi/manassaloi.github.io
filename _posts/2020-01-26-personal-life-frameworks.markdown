@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "28 frameworks for your life"
+title:  "31 frameworks for your life"
 
 ---
 
@@ -61,6 +61,12 @@ Some of the most important frameworks/models/ideas I learned in the last few yea
 27. [Horizontal relationships vs Vertical ones](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked); vertical relationships are hierarchical, where you see others as being either inferior or superior to you while horizontal ones are egalitarian, you see others as your equals
 
 28. [All problems are interpersonal relationship problems](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked); we are all suffering in interpersonal relationships
+
+29. [Share stories, not advice](https://lethain.com/share-stories-not-advice/); try to share stories instead of giving advice, especially in circumstances where I’m missing most of the context
+
+30. [Boring life](https://medium.com/@micah/the-boring-life-88a1146b0b35#.hz4w3cyax); chose to be actively boring
+
+31. [Regret minimization framework](https://awealthofcommonsense.com/2016/10/the-jeff-bezos-regret-minimization-framework/); what will you regret doing/not doing when you are 80?
 
 **Note:** I will keep expanding this list
 
