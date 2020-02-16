@@ -203,7 +203,7 @@ Date: Tuesday 5th February
   + CSAT
 + Advanced Topics (1 month, Do at your own pace)
   + [Series of posts on Engagement, There are 7](https://medium.com/sequoia-capital/engagement-part-vii-summary-and-product-implications-3b9e2044b328)
-  + [So you want to understand LTV and Churn]
+  + [So you want to understand LTV and Churn](https://manassaloi.com/2020/01/14/so-you-want-to-understand-ltv-churn.html)
   + User accounting [(6 part series, check table at the bottom)](https://medium.com/swlh/diligence-at-social-capital-part-5-depth-of-usage-and-quality-of-revenue-b4dd96b47ca6)
 + Extra reading material (1 month, Do at your own pace)
   + [Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-expanded-648329d60804#.6i4qz2nqh)
