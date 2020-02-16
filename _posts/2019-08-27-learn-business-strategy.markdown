@@ -66,6 +66,7 @@ I read them long back. Have to re read and take notes
 - [Your Strategic Plans Probably Aren’t Strategic, or Even Plans](https://hbr.org/2018/04/your-strategic-plans-probably-arent-strategic-or-even-plans)
 - [WTF is Strategy?](https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
+- [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 - [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b)
 - [Four fits for 100M+ growth](https://brianbalfour.com/four-fits-growth-framework)
 - [How to Run a Quarterly Product Strategy Meeting](https://medium.com/@gibsonbiddle/how-to-run-a-quarterly-product-strategy-meeting-a-board-meeting-for-product-3a14c4d53d1b)
