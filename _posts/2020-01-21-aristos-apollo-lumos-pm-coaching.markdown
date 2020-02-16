@@ -165,7 +165,8 @@ Date: Sunday 5th January
 Date: Tuesday 5th February
 
 + Practice how to solve the following types of data interview problems (1 week)
-  + RCA questions (RANDOM DOC) (Aditya’s notes)
+  + RCA questions from [RANDOM DOC](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.jgq4oumakmh)
+  + [Intro to Analytics](https://segment.com/academy/intro/)
   + Company specific feature dev data questions (Think of it as you creating the first 2 pages of [this spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)) (Also check the Swiggy Restaurant app case study we did)
   + Company’s most important metrics questions (Refer to discussions around North Star and top 5 metrics for Amazon Ecommerce PM)
   + Generic company feature question (You are the PM of X. How will you measure success of Y features)
