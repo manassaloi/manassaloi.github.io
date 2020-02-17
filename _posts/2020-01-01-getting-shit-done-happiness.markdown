@@ -4,7 +4,7 @@ title:  "How to get shit done"
 
 ---
 
-A few people have asked me how [I manage to do so many things in a year](https://manassaloi.com/2019/11/01/personal-OKRs-update.html) when it feels like I am 24*7 on twitter 
+A few people have asked me how [I manage to do so many things in a year](https://manassaloi.com/2019/11/01/personal-OKRs-update-2019.html) when it feels like I am 24*7 on twitter 
 
 I have written about my workflow [here](https://manassaloi.com/2016/01/14/11-habits-change-life.html), [here](https://manassaloi.com/2019/03/05/55-books-read.html), [here](https://manassaloi.com/2019/03/08/how-to-learn.html) and [here](https://manassaloi.com/2019/11/24/build-measure-learn.html), and [here](https://manassaloi.com/2019/03/07/macro-micro-learning.html)
 
