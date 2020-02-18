@@ -20,14 +20,14 @@ For me, instead of aspiring to live the life of a specific person, I think of th
 
 Some of them which I can think of right now are
 
-a) Being strategic like Ben Thompson
-b) Operating like Keith Rabois
-c) Storytelling like Seth Godin
-d) Being as fit as Rabois, who is not just a world class operator, but also a VC and a fitness enthusiast
-e) Thinking and writing like Paul Graham
+- Being strategic like Ben Thompson
+- Operating like Keith Rabois
+- Storytelling like Seth Godin
+- Being as fit as Rabois, who is not just a world class operator, but also a VC and a fitness enthusiast
+- Thinking and writing like Paul Graham
 
 My aim is to close the gaps (where I am right now vs where I want to be) over the next decade or so
 
-Thanks for reading
+Thanks for reading!
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
