@@ -22,7 +22,7 @@ The only way they could have survived was by dramatically reducing both which it
 
 Blue Apron definitely had initial PM fit and a [reported](https://techcrunch.com/2015/06/09/blue-apron-cooks-up-135-million-in-series-d-funding/) three million meals a month way back in 2015, and at $10/pop, had yearly revenue of $360 million
 
-They had also raised []~300 million over 6 rounds of funding](https://angel.co/company/blue-apron/funding)
+They had also raised [~300 million over 6 rounds of funding](https://angel.co/company/blue-apron/funding)
 
 But as I wrote in my Capital as a moat post last month, raising enormous capital through private markets does not always work in the long run because it lets you blitzscale without asking hard fundamental questions about your business
 
