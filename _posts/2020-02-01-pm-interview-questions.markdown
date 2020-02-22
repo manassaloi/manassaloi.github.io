@@ -101,4 +101,6 @@ You are the PM for seller/supply side on Flipkart. How will you resurrect your c
 
 **/ends**
 
+P.S I will keep adding more questions to this list. I did not want to overwhelm people by adding 50+ questions in the main thread :)
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
