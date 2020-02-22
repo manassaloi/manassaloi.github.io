@@ -12,7 +12,15 @@ One of my [KRs for 2020](https://manassaloi.com/2020/01/15/personal-OKRs-2020.ht
 
 [Unit Economics](https://www.investingcity.org/post/unit-economics)
 
+[23 SaaS metrics for fundraising + optimization](https://www.intercom.com/blog/saas-metrics-for-fundraising/)
+
+[A Detailed Look at Blue Apron’s Challenging Unit Economics](https://www.linkedin.com/pulse/detailed-look-blue-aprons-challenging-unit-economics-daniel-mccarthy/)
+
+[Thread on Blue Apron and what Subscription businesses should learn from its implosion](https://twitter.com/adam_keesling/status/1176992941488738304)
+
 ### Intermediate reads:
+
+[SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
 
 [Amazon Prime and other Subscription Businesses: How do you Value a Subscriber?](https://25iq.com/2017/07/15/amazon-prime-and-other-subscription-businesses-how-do-you-value-a-subscriber/)
 
