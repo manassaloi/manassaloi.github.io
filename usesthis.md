@@ -6,7 +6,7 @@ permalink: /usesthis/
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done
 
-### Hardware
+## Hardware
 
 + [MacBook Pro (Space Grey, 15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek](https://www.go-jek.com/). Use it as my personal device too ;)
 
@@ -26,7 +26,11 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price
 
-### Software
++ [Mi Smart Band 4](https://www.mi.com/in/mi-smart-band-4/): I took a lot of time deciding between this and a Fitbit. TBH I am quite happy with this one
+
++
+
+## Software
 
 #### On Laptop
 
@@ -55,12 +59,20 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Loop Habits Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN): To build new habits & track them
 
-+ [Castbox](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast): To listen to podcasts during my commute
++ [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_IN): To listen to podcasts during my commute
 
 + [Pedometer](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)/ [Pacer](https://play.google.com/store/apps/details?id=cc.pacer.androidapp): To count steps
 
 + [InkPad Notepad](https://play.google.com/store/apps/details?id=com.workpail.inkpad.notepad.notes): Primary note taking app on my Phone. I live my live through it
 
-+ [Headspace](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): For meditating
-
 + [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader): Have read dozens of ebooks on my phone thanks to this app
+
++ [AnyBooks](https://play.google.com/store/apps/details?id=co.anybooks&hl=en_US): Is slowly replacing Lithium as my default app to read books on my phone
+
++ [Insight Timer - Free Meditation App](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2&hl=en_IN): I prefer this free app over paying for Headspace now
+
++ [Mi fit app](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=en_IN): Pairs with my Mi fit
+
++ [Splitwise](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_IN): To share expenses with friends and family
+
++ [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium
