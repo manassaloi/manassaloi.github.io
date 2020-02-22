@@ -10,13 +10,15 @@ Now it is worth $57M. A 97% decline
 
 And it is considering selling itself
 
-[A post written in 2017 by an Assistant Professor of Marketing at Emory University](https://www.linkedin.com/pulse/blue-aprons-ipo-filing-implies-troubling-customer-daniel-mccarthy/) had pointed out why Churn was the most important thing to consider for valuing Blue Apron (more than Revenue or AOV). And that Blue Apron was doomed from the start
+[A post written in 2017 by an Assistant Professor of Marketing at Emory University](https://www.linkedin.com/pulse/blue-aprons-ipo-filing-implies-troubling-customer-daniel-mccarthy/) had pointed out why Churn was the most important thing to consider for valuing Blue Apron (more than Revenue or AOV)
 
 It mentions
 - Rising CAC over time
 - And a high churn over the same period
 
 The only way they could have survived was by dramatically reducing both which it seems they failed to do
+
+[So Blue Apron was doomed from the start](https://twitter.com/adam_keesling/status/1176992941488738304)
 
 Blue Apron definitely had initial PM fit and a [reported](https://techcrunch.com/2015/06/09/blue-apron-cooks-up-135-million-in-series-d-funding/) three million meals a month way back in 2015, and at $10/pop, had yearly revenue of $360 million
 
