@@ -4,11 +4,11 @@ title: "Blue Apron"
 
 ---
 
-Blue Apron was valued at $2B on the private market in 2015
+Meal-Kit Service Blue Apron was [valued at $2B on the private market in 2015](https://angel.co/company/blue-apron/funding)
 
-Now it is worth $57M. A 97% decline
+[It was seeking $3.2 Billion Valuation With IPO](https://fortune.com/2017/06/19/blue-apron-ipo-2/)
 
-And it is considering selling itself
+Now it is worth $57M. A 97% decline. [And it is considering selling itself](https://techcrunch.com/2020/02/18/blue-apron-is-considering-selling-itself/)
 
 [A post written in 2017 by an Assistant Professor of Marketing at Emory University](https://www.linkedin.com/pulse/blue-aprons-ipo-filing-implies-troubling-customer-daniel-mccarthy/) had pointed out why Churn was the most important thing to consider for valuing Blue Apron (more than Revenue or AOV)
 
@@ -27,8 +27,10 @@ They had also raised []~300 million over 6 rounds of funding](https://angel.co/c
 But as I wrote in my Capital as a moat post last month, raising enormous capital through private markets does not always work in the long run because it lets you blitzscale without asking hard fundamental questions about your business
 
 And for Blue Apron, the biggest question always was:
-- **How would they retain customers after the initial novelty factor wore off?**
-- **Will they find alternate channels for growth which was cheap and thereby reduce their rising CAC? As their churn was high, the only way their business model would have worked was by acquiring customers cheaply**
+- How would they retain customers after the initial novelty factor wore off?
+- Will they find alternate channels for growth which was cheap and thereby reduce their rising CAC?
+
+As their churn was high, the only way their business model would have worked was by acquiring customers cheaply
 
 I have always heard good things about Blue Apron (atleast on Twitter), and I am sure a lot of people will be disappointed if the service shuts down
 
