@@ -6,9 +6,9 @@ title:  "A simple Growth Model for your Start-Up"
 
 (Get me some good old growth hacking yo!)
 
-The term ‘Growth Hacking’ has become pretty mainstream. It also makes a lot of people flinch. We can debate on semantics but one thing I’m sure we all unequivocally agree on — Every startup needs a framework/model for growth; a focused approach for scaling its organisation and user base. And let’s face it, ad hoc experiments or ‘hacks’ that worked for someone else on the Internet are far from it.
+- The term ‘Growth Hacking’ has become pretty mainstream. It also makes a lot of people flinch. We can debate on semantics but one thing I’m sure we all unequivocally agree on — Every startup needs a framework/model for growth; a focused approach for scaling its organisation and user base. And let’s face it, ad hoc experiments or ‘hacks’ that worked for someone else on the Internet are far from it.
 
-Andy John, VP of growth at WealthFront who has been on the early growth teams at Facebook, Quora, Twitter has come up with a simple foundation model to measure growth:
+- Andy John, VP of growth at WealthFront who has been on the early growth teams at Facebook, Quora, Twitter has come up with a simple foundation model to measure growth:
 
 ![[Source](https://medium.com/greylock-perspectives/building-a-growth-model-for-your-company-a7a82c55782e#.5esna6jra), [Greylock Partners](undefined)](https://cdn-images-1.medium.com/max/2000/0*iolpUQn_HMq6Kjqo.png)*[Source](https://medium.com/greylock-perspectives/building-a-growth-model-for-your-company-a7a82c55782e#.5esna6jra), [Greylock Partners](undefined)*
 
@@ -22,7 +22,7 @@ Andy John, VP of growth at WealthFront who has been on the early growth teams at
 
 Most of the tactics mentioned in this blog only work if you have achieved Product-Market fit and are solving a real problem. I will try to use the framework/model used by Andy Johns and try to come up with tactics your own growth team can implement to achieve scale for your startup.
 
-**Growth = Market Expansion * Vertical Expansion (More categories) * Merchants per vertical * Products per Merchant * Traffic to Site/ App * Conversion on each Page/ Screen * Increase in Average Ticket Size**
+## Growth = Market Expansion * Vertical Expansion (More categories) * Merchants per vertical * Products per Merchant * Traffic to Site/ App * Conversion on each Page/ Screen * Increase in Average Ticket Size**
 
 You can use this formula to devise the top line growth of your startup. On the face of it, it appears to be relevant to only e-commerce but perhaps you can tweak it to make it work for your business model.
 
@@ -34,13 +34,13 @@ The more the markets you are in the more the number of potential users you will 
 
 For a food tech company which is currently operating in the metros it might mean expansion to more tier 1 cities. Here are a few things you can do as part of the food tech’s growth team to help plan this better:
 
-1) Check traffic to your site/app from Google Analytics.
+- Check traffic to your site/app from Google Analytics.
 
 Go to Google Analytics -> Audience ->Geo -> Location. Check the top 10 cities are getting visits from. If you are present on just 5 of them expanding to the rest makes sense if that’s something you can afford to do.
 
-2) There are a few more steps to do before launching in these new markets though. Run Facebook teaser ads (targeting users of that particular cities) announcing your arrival. Take them to a ‘Coming soon’ page. This can be used to gauge interest of potential users.
+- There are a few more steps to do before launching in these new markets though. Run Facebook teaser ads (targeting users of that particular cities) announcing your arrival. Take them to a ‘Coming soon’ page. This can be used to gauge interest of potential users.
 
-3) Check volume of searches for keywords like ‘Online food order’ etc from these new cities you want to expand too.
+- Check volume of searches for keywords like ‘Online food order’ etc from these new cities you want to expand too.
 
 These are just a few of the things you can do. The goal is to make better decisions based on data.
 
@@ -54,7 +54,7 @@ If you are a marketplace the list of categories/products you add can be endless.
 
 - If you are a women’s fashion app and realize that a lot of people are searching for Women’s party wear it can be an obvious move to add this category. And once you are done you can create a separate feed on your homepage highlighting the latest collection of party wear clothing items.
 
-3.Whenever a new brand related to party wear is on boarded you can send an email/push notification to your users who have expressed an interest in party wear in the past.
+- Whenever a new brand related to party wear is on boarded you can send an email/push notification to your users who have expressed an interest in party wear in the past.
 
 **c) Merchants per vertical**
 
@@ -76,7 +76,7 @@ User growth (over any given period) = New user signups + Reactivations of curren
 
 I found this really interesting formula for user growth in this blog post : [Build a Growth Machine Like Andy Johns](https://medium.com/mobile-growth/build-a-growth-machine-like-andy-johns-83c8dcc9b40a#.dp5tpmcmz)
 
-Lets try to go through all the components:
+**Lets try to go through all the components:**
 
 **New User SignUps (Acquisition)**
 
