@@ -40,7 +40,7 @@ So if you had to create a business equation for Swiggy, what would be the variab
 - Delivery fleet
 - Trust and Reliability
 
-Swiggy's food delivery experience = Diverse choices * Lower price * Faster delivery * Superior product experience * Bigger delivery fleet * High reliability and Trust
+### Business equation of food delivery business= Diverse choices * Lower price * Faster delivery * Superior product experience * Bigger delivery fleet * High reliability and Trust
 
 Lets assume, the overall product (basic features) was same for all of these products. And like most on demand apps Swiggy raised enough money, and used the capital to acquire new customers quickly and grow
 
@@ -48,7 +48,7 @@ So what were the differentiators in the early days?
 
 Lets go through the other variables in Swiggy's business equation
 
-### Diverse choices/ Good restaurant inventory
+#### Diverse choices/ Good restaurant inventory
 
 There was no barrier to supply (restaurant or delivery boys) acquisition in 2014-15. Unlike now, where some restaurant chains have exclusive partnership with Swiggy or Zomato, there was no such thing back in the days when Swiggy entered the market
 
@@ -56,7 +56,7 @@ And since Swiggy did their own delivery they could onboard as many restaurants a
 
 Swiggy soon had most the restaurants in the neighborhood. I was in Mumbai when I first heard of Swiggy, and you could see that Swiggy's selection of restaurants was vastly superior to TinyOwl or FoodPanda's. As long as you were willing to pay a deliver fee, you could rely on them to fulfill your order from most nearby restaurants
 
-### Speed of delivery
+#### Speed of delivery
 
 Swiggy realised much early on that the product experience for a food delivery was not restricted to the look and feel of the app. If you have to have give a 10X experience to your users, you need to own the delivery experience
 
@@ -64,7 +64,7 @@ With their superior allocation tech, and high supply of delivery boys, they ensu
 
 Before Swiggy, you could never order from MacDonald's or KFC. Because you would always get soggy fries. Swiggy not only allowed you to order items from more places, but also allowed you to order items which were not possible on FoodPanda or TinyOwl
 
-### Trust and Reliability
+#### Trust and Reliability
 
 Sharing live location of your delivery boy was a game changer. Before that you had to pray to God that the delivery guy was on the way to the restaurant and would get your food eventually. I remember ordering from FoodPanda before that, where sometimes you had to wait for an hour before realising the order was cancelled
 
@@ -78,7 +78,7 @@ What about post order customer support? You just had to use Swiggy's Help sectio
 
 Fun fact: Last time I used FoodPanda was in 2018 (to order the 49 Rs Biryaani once). The delivery boy was not assigned even after an hour and I had to use their Support. I realised then that FoodPanda's customer support chat did not store chat history, and every time you came back to the app, it would create a new ticket and chat channel, and you had to explain to the Support person about your issue all over again
 
-### Delivery Fleet
+#### Delivery Fleet
 
 Swiggy spent a lot of money and time in building their delivery fleet. And also training them. In a 3 sided marketplace, you can only win if you have enough supply liquidity in both restaurants and delivery fleet
 
