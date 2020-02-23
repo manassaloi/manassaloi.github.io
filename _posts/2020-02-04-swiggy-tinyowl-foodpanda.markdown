@@ -40,7 +40,7 @@ So if you had to create a business equation for Swiggy, what would be the variab
 - Delivery fleet
 - Trust and Reliability
 
-### Business equation of food delivery business= Diverse choices * Lower price * Faster delivery * Superior product experience * Bigger delivery fleet * High reliability and Trust
+### Business equation of a food delivery business = Diverse choices * Lower price * Faster delivery * Superior product experience * Bigger delivery fleet * High reliability and Trust
 
 Lets assume, the overall product (basic features) was same for all of these products. And like most on demand apps Swiggy raised enough money, and used the capital to acquire new customers quickly and grow
 
