@@ -28,8 +28,6 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Mi Smart Band 4](https://www.mi.com/in/mi-smart-band-4/): I took a lot of time deciding between this and a Fitbit. TBH I am quite happy with this one
 
-+
-
 ## Software
 
 #### On Laptop
