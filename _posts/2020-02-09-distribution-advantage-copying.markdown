@@ -10,7 +10,7 @@ I think Instagram copying Snapchat was the right thing
 
 And Microsoft should just shamelessly copy Slack's features without trying to be original
 
-Most companies I know spend a lot of time iterating on [showstopper](http://www.defmacro.org/2013/09/26/products.html) features, which every competitor has already, compared to focusing on [game changers](http://www.defmacro.org/2013/09/26/products.html). Please don't!
+Most companies I know spend a lot of time iterating on [showstopper](http://www.defmacro.org/2013/09/26/products.html) features, which every competitor has already, compared to focusing on [gamechangers](http://www.defmacro.org/2013/09/26/products.html). Please don't!
 
 Example. If you are a music streaming company launching today, instead of trying to be original with the Profile section, or with how the Like button should look, focus on creating a game changing feature like Spotify's Discover Weekly (Not the UI but the algorithm which powers it)
 
