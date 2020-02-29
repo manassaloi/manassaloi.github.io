@@ -29,6 +29,8 @@ title:  "My favourite posts on designing a new feature"
 
 - [Redesigning Android Emoji](https://medium.com/google-design/redesigning-android-emoji-cb22e3b51cc6)
 
+- [Medium's Heart to Clap journey](https://medium.engineering/-b10bec20de1d)
+
 **Note:** I will keep adding more interesting posts I find to this list
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
