@@ -282,7 +282,7 @@ fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
 
 **13/ [Starting Greatness](https://greatness.floodgate.com/)**
 
-fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
+fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
 
 
 ### (Books)
