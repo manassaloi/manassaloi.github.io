@@ -102,5 +102,4 @@ categories: booksummaries
   - Attend the biannual Value Investing Congress (www .valueinvestingcongress.com)
   - If an investor runs a portfolio of 5 to 10 stocks and holds them for one to three years, he or she needs to come up with an investment idea or two just every few months. The combination of Magic Formula, VIC, Value Line, OID, Value Investor Insight, Portfolio Reports, Super Investor Insight, Guru Focus, and the various business publications are all likely to drop a few fifty-cent dollars right into your lap
 
-
   Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
