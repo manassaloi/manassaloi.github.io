@@ -3,7 +3,7 @@ layout: post
 title: "2 characteristics of great businesses"
 
 ---
-**1/The best businesses don't just cater to the existing market, but also lead to TAM expansion**
+**1/ The best businesses don't just cater to the existing market, but also lead to TAM expansion**
 
 Zoom did not just solve video conferencing for businesses who needed it. It also allowed people to start remote first companies
 
@@ -28,8 +28,7 @@ People took roadside autos earlier. Now they spend more to get the convenience o
 I know people would argue about discounts, but I am sure a lot of people would continue without discounts too
 
 Wrapping up, 2 characteristics of a great businesses:
-
-1/ Unlocks use cases for more people. Makes new things possible
-2/ Changes behavior and  increases category spend
+- Unlocks use cases for more people. Makes new things possible
+- Changes behavior and  increases category spend
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
