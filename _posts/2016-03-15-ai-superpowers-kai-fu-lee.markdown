@@ -5,6 +5,7 @@ tags: booksummaries
 categories: booksummaries
 
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 - Today, successful AI algorithms need three things: big data, computing power, and the work of strong—but not necessarily elite—AI algorithm engineers
 

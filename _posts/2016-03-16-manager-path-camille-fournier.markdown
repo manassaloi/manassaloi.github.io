@@ -5,6 +5,7 @@ tags: booksummaries
 categories: booksummaries
 
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 - Listening is the first and most basic skill of managing people. Listening is a precursor to empathy, which is one of the core skills of a quality manager
 
