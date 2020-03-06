@@ -34,7 +34,7 @@ categories: booksummaries
  
 - Inchworm isn’t a revolutionary new idea; it’s just an observation of how you improve over time and something you likely never thought about previously
   
-- Understanding the concept of inchworm starts by looking more closely at the natural range that exists in the quality of your poker or mental game
+- [Understanding the concept of inchworm starts by looking more closely at the natural range that exists in the quality of your poker or mental game](http://jaredtendlerpoker.com/tmgp-graphics/)
   
 - As long as you’re playing poker, you’ll always have aspects of your game that represent the peak of your ability, and the flip side, your worst. Always. Perfect poker isn’t possible over a large number of hands. There are times you play perfectly and other times that you don’t. Poker is a dynamic game that’s becoming more competitive. This means that the definition of perfection, even just solid play, is a moving target. As long as your game evolves, that means you’re learning. If you’re learning, that means there’s range in the quality of your decision making
  
