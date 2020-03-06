@@ -35,11 +35,11 @@ categories: booksummaries
 
 - How do we get a list of distressed businesses or industries? There are many sources, but here are six to begin with:
   -  If you read the business headlines on a daily basis, you’ll find plenty of stories about publicly traded businesses. Many of these news clips reflect negative news about a certain business or industry. For example, Tyco’s stock collapsed when the Dennis Kozlowski scandal was front and center. Martha Stewart’s prison sentence clobbered that stock
-  -  Value Line publishes a weekly summary of the stocks that have lost the most value in the preceding 13 weeks. It is another terrific indicator of distress. This list of 40 stocks routinely shows price drops of 20 percent to 70 percent over that period. The ones with the largest drops are likely the most distressed
+  -  Value Line publishes a weekly summary of the stocks that have lost the most value in the preceding 13 weeks. It is another terrific indicator of distress. This list of 40 stocks routinely shows price drops of 20 percent to 70 percent over that period. The ones with the largest drops are likely the most distressed
   -  There is a publication called Portfolio Reports (www .portfolioreports.com) that is published monthly. It lists the 10 most recent stock purchases by 80 of the top value managers. It gleans this information from the various filings that institutional investors are required by law to make. Portfolio Reports lists the buying patterns of such luminaries as Seth Klarman of Baupost, Lou Simpson of GEICO, Marty Whitman of Third Avenue, Peter Cundill of the Cundill Group, Bruce Sherman of Private Capital Management, and Warren Buffett
- - If you’d like to avoid the subscription price tag for Portfolio Reports, then much of that data can be gleaned by looking directly at the public filings (e.g., SEC Form 13-F) that institutional investors have to make
- -  Take a look at Value Investors Club (VIC; www. valueinvestorsclub.com). It is a wonderful web site started and managed by Joel Greenblatt of Gotham Capital
- - Last, but certainly not least, please read The Little Book That Beats the Market by Joel Greenblatt
+  - If you’d like to avoid the subscription price tag for Portfolio Reports, then much of that data can be gleaned by looking directly at the public filings (e.g., SEC Form 13-F) that institutional investors have to make
+  -  Take a look at Value Investors Club (VIC; www. valueinvestorsclub.com). It is a wonderful web site started and managed by Joel Greenblatt of Gotham Capital
+  - Last, but certainly not least, please read The Little Book That Beats the Market by Joel Greenblatt
 
 - Between these sources, there are now a plethora of candidate distressed businesses to examine. How can we ever get our arms around all of them? Well, we don’t. We begin by eliminating all businesses that are either not simple businesses or fall squarely outside our circle of competence. What’s left is a very small handful of simple, well-understood businesses under distress
 
