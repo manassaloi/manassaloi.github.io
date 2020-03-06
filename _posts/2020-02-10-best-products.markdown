@@ -3,16 +3,15 @@ layout: post
 title: "2 characteristics of great businesses"
 
 ---
+**1/The best businesses don't just cater to the existing market, but also lead to TAM expansion**
 
-The best businesses don't just cater to the existing market, but also lead to TAM expansion
-
-1. Zoom did not just solve video conferencing for businesses who needed it. It also allowed people to start remote first companies
+Zoom did not just solve video conferencing for businesses who needed it. It also allowed people to start remote first companies
 
 Think about how many freelancers as well as new businesses started once they realised they did not need a physical presence and they could get into a meeting with anyone from anywhere
 
 If I wanted I could just start a PM coaching business from my home
 
-2. The best businesses increase category spending
+**2/ The best businesses increase category spending**
 
 People earlier would spend 2K on a maid, 2K on groceries and, and eat out 4-5 times in a month. Spend on food was probably not more than 8-10K, if your salary was say 1L
 
