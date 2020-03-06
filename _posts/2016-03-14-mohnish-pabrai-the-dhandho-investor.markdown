@@ -26,7 +26,9 @@ categories: booksummaries
 8. LOOK FOR LOW-RISK, HIGH-UNCERTAINTY BUSINESSES
  
 9. IT’S BETTER TO BE A COPYCAT THAN AN INNOVATOR
- 
+
+**More notes:**
+
 - Trying to figure out the variance between prices and underlying intrinsic value, for most businesses, is usually a waste of time. The market is mostly efficient. However, there is a huge difference between mostly and fully efficient. It is this critical gap that is responsible for Mr. Buffett not being a street corner bum
 
 - Markets aren’t fully efficient because humans control its auction-driven pricing mechanism
