@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HOW -> WHAT -> WHY"
+title: "How -> What -> Why"
 
 ---
 
