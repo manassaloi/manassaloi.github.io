@@ -130,6 +130,7 @@ List of books I've found useful
 + [Let's Talk Money - Monika Halan](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
 + [Stock Market Wizards: Interviews with America's Top Stock Traders - Jack D. Schwager](https://www.goodreads.com/book/show/164131.Stock_Market_Wizards)
 + [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel](https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street)
++ [The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor)
 
 
 ### Venture Capital
@@ -173,21 +174,24 @@ List of books I've found useful
 + [Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins](https://www.goodreads.com/book/show/20578350-hello-my-name-is-awesome)
 + [Logo Design Love: A Guide to Creating Iconic Brand Identities - David Airey](https://www.goodreads.com/book/show/6728983-logo-design-love)
 
-### Psychology
+### Psychology & Negotiations
 
 + [Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle) - Deepak Malhotra](https://www.goodreads.com/book/show/27037559-negotiating-the-impossible)
 + [Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 + [Nonviolent Communication: A Language of Life - Marshall B. Rosenberg,  Arun Gandhi](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
 + [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
++ [Never Split the Difference - Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
 ### Mindset
 
 + [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 + [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
++ [https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
 
 ### Decision Making
 
 + [The 5 Elements of Effective Thinking - Edward B. Burger,  Michael Starbird](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
++ [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts - Annie Duke](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
 
 ### Career
 
