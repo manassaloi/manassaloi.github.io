@@ -43,8 +43,8 @@ Not sure which type of payments will dominate in the future. For me atleast it i
 
 **P.S** Here is a comment left on Twitter by [Divyanshu](https://twitter.com/DivDagar) which I found interesting  
 
-*"I can see WhatsApp Payments easily capturing friend to friend transactions. Idk about transaction to strangers/merchants. If they allow payments without the extra step of adding their number to contacts, then yeah, it will replace Google Pay no doubt.
+*I can see WhatsApp Payments easily capturing friend to friend transactions. Idk about transaction to strangers/merchants. If they allow payments without the extra step of adding their number to contacts, then yeah, it will replace Google Pay no doubt.
 
-Idk if they plan to or will stay content with capturing half of the total transactions people use UPI apps for"*
+Idk if they plan to or will stay content with capturing half of the total transactions people use UPI apps for*
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
