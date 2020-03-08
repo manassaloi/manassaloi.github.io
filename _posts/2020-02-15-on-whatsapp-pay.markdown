@@ -28,11 +28,11 @@ I think the next game changing features for facilitating commerce on Whatsapp wi
 
 In the future there will be 2 types of P2P payments:
 
-- Payment to those in your network
+**1/ Payment to those in your network**
 
 I think Whatsapp Pay will win here considering most of your network is already there. If you don't want to pay at present you would be allowed to open a tab for later settlement through the Splitwise type feature (which Whatsapp should build in the future)
 
-- Payments to people who you don't want in your network/One time payments
+**2/ Payments to people who you don't want in your network/One time payments**
 
 For that you will use UPI on Google Pay or Phonepe
 
