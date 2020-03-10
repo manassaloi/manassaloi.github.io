@@ -7,7 +7,7 @@ title: "Keith Rabois - How to Operate"
 I am not sure where I had first discovered the summary to [Rabois' How to Operate talk](https://www.youtube.com/watch?v=6fQHLK1aIBs). But whoever summarised this did a great job, and I am just copy pasting the summary here so that I can share it with people who want to learn about how to be a better operator
 
 
-1. MAKE IT IDIOT PROOF
+- MAKE IT IDIOT PROOF
 
 Build a company that if idiots ran, nobody would notice.
 
@@ -15,7 +15,7 @@ They used to joke that if Martians took over eBay, it would take six months befo
 
 "Invest in businesses any idiot could run because someday one will" - Peter Lynch.
 
-2. BE A DOCTOR
+- BE A DOCTOR
 
 The key to successful operations is to identify when an issue is a cold, and when it is something more serious.
 
@@ -23,7 +23,7 @@ A cold = A little annoyance that will fade away.
 
 However, sometimes something that appears like a cold can actually be fatal.
 
-3. BE AN EDITOR
+- BE AN EDITOR
 
 COO's should see the company like an editor sees the first draft of a novel. You should take out the red pen and start striking anything that is getting in the way.
 
@@ -31,7 +31,7 @@ The more you simplify, the better people will perform.
 
 Complexity = Failure in teams.
 
-3. CLARIFY
+- CLARIFY
 
 Ask yourself, what are the 1-3 things that matter for this company?
 
@@ -39,21 +39,21 @@ ONLY focus on these things.
 
 With each elimination of what's not on this list, you can improve performance by 30-50%.
 
-4. ENSURE CONSISTENT VOICE
+- ENSURE CONSISTENT VOICE
 
 You can pick up one article in the Economist - and it always feels like it has been written by the same person.
 
 You should try to make your company always have the same tone of voice in its output.
 
-5. DELEGATE  
+- DELEGATE  
 
 Remember, you're an EDITOR. You must delegate most of the work to the WRITERS (i.e. product, marketing, sales etc)
 
-6. OWN EVERYTHING
+- OWN EVERYTHING
 
-Even though you delegate, you must take what @jockowillink calls "extreme ownership" over everything that goes on. It's your fault if it goes wrong.
+Even though you delegate, you must take what Jocko Willink calls "extreme ownership" over everything that goes on. It's your fault if it goes wrong.
 
-7. TASK RELEVANT MATURITY
+- TASK RELEVANT MATURITY
 
 How do you know when to delegate and when to micromanage?
 
@@ -61,7 +61,7 @@ Low confidence in your own opinion + Low consequences =  Delegate. Let people ma
 
 High confidence in your own opinion + High consequences = Don't delegate.
 
-8. MAKE SURE YOU NEVER GET THIS RESPONSE
+- MAKE SURE YOU NEVER GET THIS RESPONSE
 
 Avoid situations where you state what to do and the employee responds with "Okay, you're the boss"
 
@@ -69,7 +69,7 @@ You will burn social capital over time by doing this.
 
 (Note - this is so true. The worst manager I have ever had did this)
 
-9. AMMUNITION VS BARRELS
+- AMMUNITION VS BARRELS
 
 Ammunition = Average employees.
 Barrels = Great employees.
@@ -80,7 +80,7 @@ How to spot a barrel? Watch when people start going to an individuals desk who t
 
 Give barrels equity.
 
-10. THIEL'S ONE RESPONSIBILITY
+- THIEL'S ONE RESPONSIBILITY
 
 Peter Thiel used to insist at PayPal that every single person was only responsible for ONE thing.
 
@@ -88,7 +88,7 @@ He would not talk to you about anything else.
 
 Everyone rebelled against this, BUT, It made people focus on the A+ problems...
 
-11. A+ PROBLEMS VS B+ PROBLEMS
+- A+ PROBLEMS VS B+ PROBLEMS
 
 A+ problem = The most difficult problem that will change the company
 B+ problem = Second and third most important problem
@@ -97,7 +97,7 @@ Employees avoid A+ problems, and take the easy route out by focusing on B+.
 
 Thiel would only talk A+ problems.
 
-12. BE TRANSPARENT
+- BE TRANSPARENT
 
 Have glass walls for meeting rooms. People worry more when meetings go on behind closed doors.
 
@@ -105,7 +105,7 @@ Patrick Collison at Stripe does email transparency. Everyone can read every emai
 
 Steve Jobs did transparent compensation at Next.
 
-13. DON'T LET OBJECTIVES GO AWRY
+- DON'T LET OBJECTIVES GO AWRY
 
 If you measure only one thing, the company tends to optimize for that. And often at the expense of something else that's important.
 
@@ -116,7 +116,7 @@ Make sure you have PAIRING METRICS that oppose one another.
 
 Measure the fraud rate AND the customer service.
 
-14. PONDER ANOMALOUS DATA
+- PONDER ANOMALOUS DATA
 
 At LinkedIn, 30% of new users clicked on their own profile.
 
@@ -126,7 +126,7 @@ Upon further digging, they realized this was people checking out their own profi
 
 Anamolous data can give you key insights about your customer.
 
-15. HOW YOU DO ANYTHING IS HOW YOU DO EVERYTHING
+- HOW YOU DO ANYTHING IS HOW YOU DO EVERYTHING
 
 Bill Walsh took the 49ers from the worst team in the league to winning super bowls.
 
@@ -137,13 +137,13 @@ His point was that if the organization does everything exactly the right way, th
 
 Steve Jobs insisted on immaculate circuit design despite the fact nobody outside of Apple would ever see it.
 
-16. SERVE GOOD FOOD
+- SERVE GOOD FOOD
 
 Serve your staff good food at lunchtime.
 
 What do they do when they don't like the food? Complain about the shit food rather than brainstorm ideas.
 
-17. CREATE A CULT
+- CREATE A CULT
 
 "Every good startup is a cult" - Peter Thiel
 
@@ -151,7 +151,7 @@ This is why you should never have shared office space.
 
 It's hard to start a cult when you are sharing your office with other people.
 
-18. BEST MANAGERS = BEST PERFORMERS
+- BEST MANAGERS = BEST PERFORMERS
 
 At PayPal, they only promoted people who were kicking ass at their discipline. They didn't believe in general mangers.
 
@@ -163,11 +163,11 @@ When you don't promote the best people, you demotivate other members of staff.
 
 There's nothing more demotivating than knowing you are better at your job than your boss is.
 
-19. AUDIT YOUR CALENDER (Best till last!)
+- AUDIT YOUR CALENDER (Best till last!)
 
 Whenever Keith is working with a CEO who isn't thriving, he asks them to write their priorities down on a piece of paper.
 
-And then pulls up their calenders..
+And then pulls up their calenders.
 
 50% of CEO's will say that recruiting is their number one priority, however, it doesn't match in their calendar.
 
