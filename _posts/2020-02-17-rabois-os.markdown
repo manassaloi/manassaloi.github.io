@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keith Rabois Operating System"
+title: "Keith Rabois - How to Operate"
 
 ---
 
