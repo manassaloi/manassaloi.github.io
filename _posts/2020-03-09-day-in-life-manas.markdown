@@ -10,7 +10,7 @@ I get a lot of questions on Twitter around how I manage my time. To answer that 
 
 - 10.10 AM: After replying to a few messages on Slack, opened Twitter. Spent 10-15 mins before opening Reddit, and spending some time there too. Realised I was still sleepy
 
-- <Slept for another hour>
+<Slept for another hour>
 
 - 11.30 AM: Replied to more Slack messages. Got to know there was a meeting setup at 2 PM. Should have turned on Out of Office on Calendar. Started reading
 
@@ -24,9 +24,9 @@ I get a lot of questions on Twitter around how I manage my time. To answer that 
 
 - 2.30 PM: Caught Ricky Gervais fever. Turned on his monologues from past Golden Globe Events
 
-- <Next 3-4 hours was just me reading more books, with Gervais playing in the background. Whenever I got bored, I would tweet, scroll Reddit, or read some newsletters in my Inbox>
+<Next 3-4 hours was just me reading more books, with Gervais playing in the background. Whenever I got bored, I would tweet, scroll Reddit, or read some newsletters in my Inbox>
 
-- <Slept for another hour>
+<Slept for another hour>
 
 - 7.00 PM: Took a bath. Read a bit
 
@@ -36,7 +36,7 @@ I get a lot of questions on Twitter around how I manage my time. To answer that 
 
 - 11.30 PM: Knew I would complete a books pretty soon. So added a few books to my To-Read list. Downloaded a few new ones to my phone
 
-- <Late dinner>
+<Late dinner>
 
 - 11.50 PM: Felt like reading a new book. Started reading Whistleblower. Got hooked. Knew there was no way I was stopping till I completed the book
 
