@@ -47,3 +47,6 @@ I get a lot of questions on Twitter around how I manage my time. To answer that 
 - 4.00-4.30 AM: Must have slept by then
 
 **Note:** Most days I am in office by 11.00 AM and leave by 7.00 PM. And since my girlfriend had gone home for Holi, I pretty much had the day for myself. My days are pretty much the same apart from the office hours. Maybe I would swap an hour of reading with watching Parks and Rec with my girlfriend during dinner time. I go to play football twice a week, and meet friends once or twice during the week
+
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
