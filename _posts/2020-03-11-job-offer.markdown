@@ -4,11 +4,13 @@ title: "How to think about a job offer"
 
 ---
 
+I wrote a thread today on how to think about job offers. Turning it into a blogpost
+
+**/threadstarts**
+
 Whenever I find myself repeating the same gyaan, I turn the gyaan into a [blogpost and share](https://manassaloi.com/2020/01/17/twitter-rules.html)
 
 (so that I can share the link next time, instead of spending half an hour saying the same thing)
-
-This is a thread on how to think about job offers
 
 1/n
 
@@ -132,8 +134,8 @@ I am giving analogies of investing when discussing salaries with great irony con
 
 Wrapping up, you should use the 2 frameworks mentioned above to think about ESOPs and In hand:
 
-1. upside maximization vs downside protection
-2. alpha generation
+**1. upside maximization vs downside protection**
+**2. alpha generation**
 
 Regarding other components like joining bonus, and retention bonus,
 
@@ -155,6 +157,6 @@ Fuck that. Ask for 6 months and later settle for 1 if needed (which is generally
 
 Hope this helps!
 
-/end
+**/end**
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
