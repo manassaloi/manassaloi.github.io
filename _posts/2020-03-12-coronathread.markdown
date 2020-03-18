@@ -149,7 +149,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 55/ [Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 
-56/ [Secrets of Game Feel and Juice | Game Design Basics](https://www.youtube.com/watch?v=216_5nu4aVQ)
+56/ [Secrets of Game Feel and Juice](https://www.youtube.com/watch?v=216_5nu4aVQ)
 
 57/ [Humble Dollar's financial guide](https://humbledollar.com/money-guide/main-menu/)
 
@@ -157,7 +157,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 59/ [Memos from Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos)
 
-60/ [History of Philosophy visualised | A summary of the history of philosophy showing the positive/negative connections between ideas](https://www.denizcemonduygu.com/philo/browse/)
+60/ [History of Philosophy visualised](https://www.denizcemonduygu.com/philo/browse/)
 
 61/ [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 
@@ -207,7 +207,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 84/ [Peter Thiel on "The Portal"](https://www.youtube.com/watch?v=nM9f0W2KD5s)
 
-85/ [Drinking from the Firehose | A weekly(-ish) newsletter on commerce, media, science, tech, investing, & internet culture by Alex Taussig](https://firehose.substack.com/)
+85/ [A weekly(-ish) newsletter on commerce, media, science, tech, investing, & internet culture by Alex Taussig](https://firehose.substack.com/)
 
 86/ [All Tonguz' S1 analysis posts](https://tomtunguz.com/categories/s-1-analysis/)
 
@@ -233,11 +233,11 @@ I am currently doing this course for undergrads, Spring 2020
 
 97/ [Product Growth with Gustaf Alströmer](https://www.startups.com/library/videos/series/product-growth)
 
-98/ [Awesome Sci-Fi | Sci-Fi worth consuming](https://github.com/sindresorhus/awesome-scifi)
+98/ [Sci-Fi worth consuming](https://github.com/sindresorhus/awesome-scifi)
 
 99/ [Building Your Startup Financial Model](https://visible.vc/blog/financial-modeling-for-startups/)
 
-100/ [Read old posts from HN by changing date filter | HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+100/ [Read old posts from HN by changing date filter](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 I think 100 is a good number to end this thread
 
