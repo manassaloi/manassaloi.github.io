@@ -6,15 +6,14 @@ title:  "Random Career Gyaan 2 - Be a purple cow"
 
 **/startthread**
 
-A thread of random things I am thinking about
-
 **Note:** There is no structure in this thread. I generally don't plan my threads. Just keep making things up as I go
+
+1/n A thread of random things I am thinking about
 
 1/ Live streaming my kitchen
 
 If I was a restaurant today, I would do that
 
-1/n
 This is just not related to this coronavirus outbreak
 
 When there are 300 restaurants on Swiggy, there are only a few ways to differentiate: Menu, Price and Hygiene
