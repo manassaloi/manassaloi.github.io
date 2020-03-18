@@ -4,7 +4,7 @@ title: "The Coronavirus WFH Reading List - 100 of the best"
 
 ---
 
-I shared a list of items from my to-read bookmarks folder on Twitter recently. If you are looking for things to read/watch during the next few weeks (while you are working from home hopefully), you will find it useful
+I shared a list of items from my to-read bookmarks folder on Twitter recently. If you are looking for things to read/watch during the next few weeks (while you are working from home hopefully), you might find it useful
 
 Copy pasting the thread here with minor edits
 
