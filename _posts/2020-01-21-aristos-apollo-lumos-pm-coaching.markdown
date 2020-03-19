@@ -56,7 +56,7 @@ I am sharing the study plan for Aristos here because a few people DM'ed me askin
 + Prioritisation/Roadmapping
 + Tech
 
-## Session 1 (Kick Off + Get started in Design and Behavioral) (2 weeks study plan)
+## Session 1 (Kick Off + Get started with Design and Behavioral) (2 weeks study plan)
 Date: Thursday 12th December
 
 + Prepare a list of companies you want to apply to (tier 1, tier 2, tier 3) (3 days)
@@ -83,7 +83,7 @@ Date: Thursday 12th December
   + Framework given in Crack the PM Interview
 + Complete Crack the PM Interview (1 week)
 
-## Session 2 (Become better in Design and Behavioral) (3 weeks study plan)
+## Session 2 (Become better with Design and Behavioral) (3 weeks study plan)
 Date: Thursday 19th December
 
 + Revise Design section of Crack the PM Interview (1 day)
@@ -136,7 +136,7 @@ Date: Thursday 19th December
     + Designing for Emotion - Aarron Walter
 + Revise from the RANDOM DOC (This is a doc where I shared my own frameworks and showed how to solve few design problems)
 
-## Session 3 (Get started in Data and Case Studies) (2 weeks study plan)
+## Session 3 (Get started with Data and Case Studies) (2 weeks study plan)
 Date: Friday 27th December
 
 + Read all the Case Study Frameworks (2 days)
@@ -161,7 +161,7 @@ Date: Sunday 5th January
   + Record and play back the audio to check flow
   + Incorporate all the feedback given during the session in your behavioral answers
 
-## Session 5 (Become better in Data and Case Studies (3 weeks study plan)
+## Session 5 (Become better with Data and Case Studies) (3 weeks study plan)
 Date: Tuesday 5th February
 
 + Practice how to solve the following types of data interview problems (1 week)
@@ -215,6 +215,83 @@ Date: Tuesday 5th February
   + [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
   + [16 More Startup Metrics](https://a16z.com/2015/09/23/16-more-metrics/)
 
+## Session 6 (Practice session on Data and Case Studies) (3 weeks study plan)
+Date: Thursday 5th March
 
++ Practice session
+  + You’re the PM for Zomato Gold. Your CEO comes up with an idea to offer zomato gold for food deliveries as well. Figure out whether to do it or not?
+    +  Things to consider here
+      + North star
+      + User
+      + Product funnel
+      + Conversions
+      + Histograms
+      + Cohorts
+      + RFM analysis
+      + Pirate metrics
+      + Business equation (what levers impact the business)
+      + Flywheel
+      + Correlation with high-level metrics (top down and bottoms up)
+      + A/B testing
+      + Metrics like: CAC, LTV, ARPU, Unit economics, churn
+  + You’re the PM of Uber and have a hypothesis that making the ‘Confirm Booking’ button bigger will lead to more conversions. How will you plan an experiment for this?
+      + North star
+      + Absolute orders
+      + Conversions
+      + Demand side and supply side
+      + Total supply hours
+      + Surge
+      + Supply utilization
+      + Service areas
+      + Service types
+      + Entire product funnel
+      + Conversion of service types
++ Complete study material of previous sessions if not done already (1 month, Do at your own pace)
++ Correlation vs Causation discussion
++ Factors to consider whether to roll-out a new feature/product directly, in phases or via a A/B test
++ [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.fkqjtooy8ysh)
+
+## Session 7 (Get started with Roadmaps, Prioritisation, Planning, Stakeholder management & General Gyaan) (3 weeks study plan)
+Date: Thursday 19th March
+
++ OKRs (1 week)
+  + [Measure What Matters - John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters)
++ Creating a roadmap (1 week)
+  + [9 principles of excellent product roadmaps](https://www.davidtuite.com/principles-of-excellent-product-roadmaps/)
+  + [The 666 roadmap](https://medium.com/@padday/the-666-roadmap-36c55edb5fd1#.ez5tezsd9)
+  + [Themes: A Small Change to Product Roadmaps](https://medium.com/uie-brain-sparks/themes-a-small-change-to-product-roadmaps-with-large-effects-a9a9a496b800)
+  + [How we build our Product Roadmap at Asana](https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad)
+  + [Where Great Product Roadmap Ideas Come From](https://medium.com/swlh/where-great-product-roadmap-ideas-come-from-6392ccd0a3e3)
+  + [Airbnb Roadmap template](https://docs.google.com/spreadsheets/d/1zlx3RuidNOW40Zf7gh07p2SqoR53Ungv9JFT-PhHwxI/edit#gid=184965050)
+  + [Public product roadmap of Hotjar](https://help.hotjar.com/hc/en-us/sections/115003375028-Product-Roadmap)
+  + [JTBD: Outcome based Product Roadmapping](https://medium.com/@adamdarcy/jtbd-outcome-based-product-roadmapping-b6e3438b7f0c)
+  + [How to use feedback to create a roadmap](https://mixpanel.com/blog/2019/10/10/product-gaps/)
+  + [40 Roadmap Item Questions](https://cutle.fish/blog/40-roadmap-item-questions)
++ Prioritisation (1 week)
+  + [20 Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
+  + [How to Prioritize a Product Roadmap](https://www.sachinrekhi.com/how-to-prioritize-a-product-roadmap)
+  + [#now, #next, #later](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645)
+  + [Before you plan your product roadmap](https://www.intercom.com/blog/before-you-plan-your-product-roadmap/)
+  + [The first rule of prioritization: No snacking](https://www.intercom.com/blog/first-rule-prioritization-no-snacking/)
+  + [Pandora's prioritisation framework](https://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/)
+  + [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+  + [RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+  + [Adam Nash's 3-Bucket Product Planning Guide](https://coda.io/@adamnash/adam-nashs-3-bucket-product-planning-guide)
+  + [Gamechanger, Showstopper, Distraction](http://www.defmacro.org/2013/09/26/products.html)
+  + [Making mid-course corrections to your roadmap](https://productcoalition.com/making-mid-course-corrections-to-your-roadmap-832823b00ae#.8x6c1fnj8)
++ Top down vs Bottoms up Planning
++ Planning improvement on user funnel vs product funnel
++ How to collect insights
++ Inputs to a planning process
++ Output documents
++ Timelines
++ Why vs What vs How
++ Stakeholder management
++ Gap analysis
++ [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.ri9cqwjbr327)
++ New PM reading list (2 months, Do at your own pace) [Summaries here](https://manassaloi.com/booksummaries/)
+  + [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
+  + [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
+  + [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
 
 **To be Continued..**
