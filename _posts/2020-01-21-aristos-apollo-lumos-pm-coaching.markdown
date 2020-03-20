@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aristos Apollo Lumos - PM Coaching I"
+title:  "Aristos Apollo Lumos - PM Coaching"
 
 ---
 
@@ -254,7 +254,7 @@ Date: Thursday 5th March
 ## Session 7 (Get started with Roadmaps, Prioritisation, Planning, Stakeholder management & General Gyaan) (3 weeks study plan)
 Date: Thursday 19th March
 
-+ OKRs 
++ OKRs
   + [Measure What Matters - John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters)
 + Creating a roadmap
   + [9 principles of excellent product roadmaps](https://www.davidtuite.com/principles-of-excellent-product-roadmaps/)
