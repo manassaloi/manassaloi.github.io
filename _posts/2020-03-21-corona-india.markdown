@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Coronavirus rant"
+image: '/assets/img/coronavirus.png'
 
 ---
 
