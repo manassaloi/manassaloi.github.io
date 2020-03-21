@@ -21,11 +21,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manas_saloi
 github_username:  manassaloi
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/agenda.png
+
+twitter:
+  username: manas_saloi
+  card: summary_large_image
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   # - jekyll-seo-tag
 
 # Exclude from processing.
