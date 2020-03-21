@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/agenda.png
+      image: /assets/img/manas.png
 
 twitter:
   username: manas_saloi
