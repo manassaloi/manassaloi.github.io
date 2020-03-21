@@ -29,7 +29,7 @@ defaults:
 
 twitter:
   username: manas_saloi
-  card: summary_large_image
+  card: summary
 
 # Build settings
 markdown: kramdown
