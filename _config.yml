@@ -30,7 +30,7 @@ defaults:
 twitter:
   username: manas_saloi
   card: summary_large_image
-  image: /assets/img/manas.png
+  image: https://manassaloi.com/assets/img/coronavirus.png
 
 # Build settings
 markdown: kramdown
