@@ -3,6 +3,7 @@ layout: post
 title:  "So good they can't ignore you - Cal Newport"
 tags: booksummaries
 categories: booksummaries
+image: '/assets/img/agenda.png'
 
 ---
 
