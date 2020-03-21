@@ -14,7 +14,7 @@ These are my notes from Managing Oneself by Peter F. Drucker. Drucker was an Aus
 
 * Here are some of the steps to do well in your career
 
-First and foremost, **concentrate on your strengths**. Put yourself where your strengths can produce results. Second,** work on improving your strengths**. Analysis will rapidly show where you need to improve skills or acquire new ones. It will also show the gaps in your knowledge — and those can usually be filled
+First and foremost, **concentrate on your strengths**. Put yourself where your strengths can produce results. Second,**work on improving your strengths**. Analysis will rapidly show where you need to improve skills or acquire new ones. It will also show the gaps in your knowledge — and those can usually be filled
 
 Third, **discover where your intellectual arrogance is disabling ignorance and overcome it**
 
