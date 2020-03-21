@@ -30,6 +30,7 @@ defaults:
 twitter:
   username: manas_saloi
   card: summary_large_image
+  image: /assets/img/manas.png
 
 # Build settings
 markdown: kramdown
