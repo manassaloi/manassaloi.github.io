@@ -31,6 +31,7 @@ twitter:
   username: manas_saloi
   card: summary
   image: https://manassaloi.com/assets/img/manas.png
+  domain: https://manassaloi.com
 
 # Build settings
 markdown: kramdown
