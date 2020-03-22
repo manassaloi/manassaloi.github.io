@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coronavirus rant"
-image: '/assets/img/coronavirus.png'
+image: 'https://manassaloi.com/assets/img/coronavirus.png'
 
 ---
 
