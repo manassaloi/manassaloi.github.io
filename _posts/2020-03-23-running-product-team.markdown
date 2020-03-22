@@ -19,30 +19,30 @@ They will also include the
 I plan to create templates and best practices for the following over the next 3 months. If I think there are better resources out there for the same, I will link them instead of creating a new document
 
 
-- Vision and Strategy for the company (Long term) (Why)
+- **Vision and Strategy for the company** (Long term) (Why)
   - Company vision
   - Company goals, objectives
   - Company OKRs
   - Off-site template
   - Quarterly Retrospective
 
-- Vision and Strategy for product teams (Long term) (Why)
+- **Vision and Strategy for product teams** (Long term) (Why)
   - Team OKRs
   - Team charter
   - Team vision
   - Team members
 
-- Team planning (Medium term) (What) (How)
+- **Team planning** (Medium term) (What) (How)
 
   - Weekly Product Planning silent meeting
   - Monthly review
 
-- Creating your backlog and prioritisation (Long term) (Mid term) (What)
+- **Creating your backlog and prioritisation** (Long term) (Mid term) (What)
   - Backlog
   - Prioritised items
   - Status of current items
 
-- Running the team (Mid term) (Short term) (How)
+- **Running the team** (Mid term) (Short term) (How)
   - Inception
   - Naming a team
   - Team work planning
@@ -61,7 +61,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Slack workflow
   - Ice cream parties
 
-- Creating a new feature (Short term) (What) (How)
+- **Creating a new feature** (Short term) (What) (How)
   - Naming the project
   - Pitch doc
   - [Product spec](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html)
@@ -80,7 +80,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Feature update mail
   - Feature release mail
 
-- Working with other teams/external Stakeholder (Mid term) (What) (How)
+- **Working with other teams/external Stakeholder** (Mid term) (What) (How)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
   - Request for Research
   - Request for Experimentation
@@ -89,7 +89,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Weekly seniors meeting
   - Design review
 
-- Data (Mid term) (Short term)(What) (How)
+- **Data** (Mid term) (Short term)(What) (How)
   - North star
   - Dashboards
   - Daily email with data
