@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Product Manager Talk: “Help! Our numbers went down yesterday"
+title:  " [RCA] Product Manager Talk: “Help! Our numbers went down yesterday"
 
 ---
 
@@ -58,6 +58,8 @@ F) If you find any bug, ping your Developers on [Flock](https://flock.com) and r
 Having data is not enough though. Make it a practice to look at data daily. Set half an hour in your daily schedule just to look at data.
 
 * Or some similar service
+
+**I did another RCA case study here:** [Yesterday youtube’s engagement on their gaming section went down. What happened?](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.p2qtusvvjtkl)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
