@@ -59,7 +59,7 @@ Having data is not enough though. Make it a practice to look at data daily. Set 
 
 * Or some similar service
 
-**I did another RCA case study here:** [Yesterday youtube’s engagement on their gaming section went down. What happened?](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.p2qtusvvjtkl)
+**I did another RCA case study here:** [Yesterday Youtube’s engagement on their gaming section went down. What happened?](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.p2qtusvvjtkl)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
