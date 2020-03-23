@@ -93,5 +93,6 @@ I plan to create templates and best practices for the following over the next 3 
   - North star
   - Dashboards
   - Daily email with data
+  - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
 
 Stay up to date with my latest posts/tweets here: @manas_saloi

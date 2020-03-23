@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " [RCA] Product Manager Talk: “Help! Our numbers went down yesterday"
+title:  "[RCA] Help! Our numbers went down yesterday"
 
 ---
 
@@ -24,7 +24,7 @@ I would open Crashlytics* to see crash rate and if there was any spike in it
 
 Example: Between 2PM to 5PM there were no transactions recorded. It means something happened during that period which let to overall conversion drop.
 
-4. If I am convinced there was no seasonal effect as well as tech I would** check the conversion funnel next.**
+4. If I am convinced there was no seasonal effect as well as tech I would **check the conversion funnel next.**
 
 For a typical e-com company the funnel looks something like this:
 Home -> Category Page -> Product Detail Page -> Cart -> Success Page
