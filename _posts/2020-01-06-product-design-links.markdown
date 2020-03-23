@@ -31,6 +31,8 @@ title:  "My favourite posts on designing a new feature"
 
 - [Medium's Heart to Clap journey](https://medium.engineering/-b10bec20de1d)
 
+- [How our customers helped shape the future of Slack](https://slackhq.com/designing-the-future-of-slack-with-customers)
+
 **Note:** I will keep adding more interesting posts I find to this list
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
