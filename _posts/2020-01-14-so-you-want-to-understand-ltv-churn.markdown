@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want to understand LTV and Churn"
+title:  "So you want to understand LTV and Churn?"
 
 ---
 

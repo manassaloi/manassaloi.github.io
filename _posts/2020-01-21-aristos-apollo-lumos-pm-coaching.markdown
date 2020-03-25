@@ -249,6 +249,7 @@ Date: Thursday 5th March
 + Complete study material of previous sessions if not done already (1 month, Do at your own pace)
 + Correlation vs Causation discussion
 + Factors to consider whether to roll-out a new feature/product directly, in phases or via a A/B test
++ [So you want to understand LTV and Churn?](https://manassaloi.com/2020/01/14/so-you-want-to-understand-ltv-churn.html)
 + [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.fkqjtooy8ysh)
 
 ## Session 7 (Get started with Roadmaps, Prioritisation, Planning, Stakeholder management & General Gyaan) (3 weeks study plan)
@@ -318,4 +319,44 @@ Date: Thursday 19th March
   + [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
   + [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
 
-**To be Continued..**
+## Session 8 (Becoming better with Roadmaps, Prioritisation, Planning, Stakeholder management, Strategy & General Gyaan) (3 weeks study plan)
+Date: Monday 23rd March
+
++ [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.4tkkic71998k)
++ Read everything from [So you want to learn Strategy?](https://manassaloi.com/2019/08/27/learn-business-strategy.html)
++ General gyaan on Strategy
++ Discussion on how we used to created a roadmap and prioritise features at Directi
++ Discussion on how a hypothetical pay later company would create their OKRs, Roadmap, and prioritise their features
++ More reading material
+  + [S-Curves for Trend Forecasting](https://www.lesswrong.com/posts/oaqKjHbgsoqEXBMZ2/)
+  + [Better Framing S-Curves](https://mule.substack.com/p/better-framing-s-curves)
+  + [Invisible asymptotes](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes)
+  + [The Power User Curve](https://andrewchen.co/power-user-curve/)
+
+## Session 9 (Data Recap and Tech)
+Date: Tuesday 24th March
+
++ [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.2hboxrcjop3w)
++ What kind of questions are asked in a Tech round of the PM interview process
++ Brief overview of
+  + Client Server model
+  + Monolith vs Micro services
+  + REST vs SOAP
+  + APIs
+  + Caching
+  + Database design
+  + How to think system design
+  + Web vs Apps
++ Discussion around what happens behind the scenes when you  
+  + load the Estimate screen of Uber
+  + open cart page of amazon
+  + like a tweet on Twitter
++ Study material
+  + List of around 500 bookmarks on Tech shared on Aristos Whatsapp group
+  + [Gaurav Sen's system design videos](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+  + [Tushar Roy's Coding made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
++ Complete [Online courses I recommend for aspiring PMs](https://manassaloi.com/2020/01/05/online-courses-PMs.html)
++ Day to Day PM'ing Bookmarks shared on Aristos Whatsapp group
++ General Gyan on Career
+
+**/end**
