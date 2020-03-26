@@ -20,7 +20,7 @@ title:  "Aristos - PM Coaching"
 
 **/start**
 
-## Session 1 (Kick Off + Get started with Design and Behavioral) (2 weeks study plan)
+## Session 1 (Kick Off + Get started with Design and Behavioral) (3 weeks study plan)
 Date: Thursday 12th December
 
 + Prepare a list of companies you want to apply to (tier 1, tier 2, tier 3) (3 days)
@@ -46,6 +46,15 @@ Date: Thursday 12th December
   + Circles method
   + Framework given in Crack the PM Interview
 + Complete Crack the PM Interview (1 week)
++ Go through these links (2 weeks)
+  + [How I became a Product Manager](https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/)
+  + [19 lessons I learned during my first year as a Product Manager](https://www.linkedin.com/pulse/19-lessons-i-learned-during-my-first-year-product-manager-saloi/)
+  + [The PM Interview Website to practice interview questions](https://thepminterview.com/)
+  + [Top 75+ Resources for Product Managers](http://www.sachinrekhi.com/top-resources-for-product-managers)
+  + [How I got my first Valley-based Product Management job in 5 Weeks](https://sites.google.com/site/njulka02/how-i-got-my-first-valley-based-product-management-job-in-5-weeks)
+  + [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1Y8CuRe5DXl4kzbxCeKkSZ0EdEHhDbx5yMULSVZG2pmc/edit)
+  + [Google’s Official Note to Product Management Candidates](https://www.slideshare.net/interviewcoach/googles-offical-note-to-product-managment-candidates)
+  + [36-Day Amazon PM Interview Study Guide](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide)
 
 ## Session 2 (Become better with Design and Behavioral) (3 weeks study plan)
 Date: Thursday 19th December
