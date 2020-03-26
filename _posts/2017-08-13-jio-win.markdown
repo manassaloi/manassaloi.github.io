@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Why Jio will crush all ad networks"
+
+---
+
+To understand Jio's upcoming dominance in this space, we will dig in to the fundamentals of an Ad Network first. Lets start
+
+- The Five Components of an Ad Network
+  - **User:** Who will see the ad
+  - **Advertiser:** One who puts the ads out. Example Flipkart running a re marketing campaign on Facebook
+  - **Publisher:** App/site the ad will be seen. Example Candy Crush showing you the ad run by Flipkart
+  - **Network:** Middleman between the advertiser and the publisher. Inmobi is an ad network. It's SDK is bundled with APKs of thousands of publishers and they decide which ad to be shown on the publisher. They also talk to advertisers and get them onboard.
+  - **Data:** On what basic of which you will show ads
+
+Okay Manas, tell me why Candy Crush can't directly talk to Flipkart and cut out Inmobi/ any other ad network?
+
+Because Candy Crush then will have to talk to each and every advertiser which is a pain. And example Flipkart wants to target only Maharashtrian Male users between 20-30 on Android, and get them to install Flipkart, then Candy Crush by itself wont be able to give the scale that Flipkart wants. Inmobi can show the same ad on 100 different apps which has the SDK installed and get Flipkart the number of installs it want
+
+Generally revenue split is 30/70. Say Flipkart pays 10 rs per install. Inmobi keeps 3 rs, Candy Crush as the publisher gets 7. Got it?
+
+Google which shows ads to high intent users based on their keywords
+
+Facebook which gathers a lot of info about you and lets advertisers target you based on your interests: you liked a particular page, you recently changed your relationship status, you are in a particular city etc
+
+Inmobi which ties up with thousands of publishers and gets data across various domains and creates a rich profile of your device based on that
+
+The better the data the better the targeting. Facebook knows everything about you, so it makes sense for an advertiser to run a highly targeted campaign on Facebook
+
+Google and Facebook are Publisher + Network tied together. They show ads mostly on their properties and let advertisers run campaigns using their marketing tools. They are the biggest/ most sophisticated networks which can get you a scale no other networks can
+
+Inmobi with 1.5 billion devices come close
+
+There are other networks too. But not at the scale of Google, Facebook, Inmobi. Times' Columbia might be doing well too. When I talk to my friends who have started up, most of them mention Facebook and Google as the main channels for acquisition
+
+Okay. Enough background. Gets get back to Jio
+
+JIO IS SOON GOING TO BE EVERYWHERE
+
+Jio Gigafiber and Jio 4g will soon be biggest ISPs in India considering Reliance always goes big
+
+Think about all those Jio apps installed on the phones of these users using Jio. The myJio app has 100 million installs+ already. More the apps/publishers, more the inventory for publishers to run ads
+
+More apps being used -> more data within Jio ecosystem
+
+ISPs already collect anonymised data. But Jio can not only collect data from ISPs but always have dozens of publishers. Soon like you login to Act fibernet with your username, you will probably login to Jio using your jiomail or jio phone number
+
+All they need is to build an ad network instead of selling data to random ad networks. After Google and Facebook, I think Times has the biggest number of apps/publishers on board (which are all sending anonymised data to their Columbia network though which advertisers can target users using apps in which Times Internet Limited has a data sharing agreement)
+
+Jio will play on another level altogether considering it is the only player out there which has a massive offline presence. Soon Jio will just connect reliance offline data (collected at reliance fresh etc) to their online profiles. Much richer data. Much varied data. Much wow
+
+Tell me more
+
+Sure.
+
+- To create a rich profile for an user as an ad network you need access to the following data sources:
+  - **SMSes:** If you can read SMSes you can create a rich profile of the users based on their transactions.I am sure all fintech apps like Walnut are doing it. That is how they extend credit lines. Example, if I know you bought from Makemytrip twice in the last month, I can classify you as a frequent flier. If you order from Swiggy every other day, you are a Foodie. Jio knows what SMSes you are getting
+  - **Apps:** A range of apps owned by you where people are either consuming content or doing transactions. I know which news are you consuming, what kind of music do you like, which services you are using. If you are paying your bills using Jio wallet, I know which services you use. Once you have distribution you can always launch more apps in the future. Uber competitor? Swiggy competitor? Makemytrip competitor? Why not. You are Reliance. You can do whatever the fuck you want
+  - **OS:** If I am manufacturing devices and shipping my own OS I would know exactly which apps are on your phone and data consumed on each. Earlier you could easily get access to this info even as a third party app before Google got serious about privacy. Yaay to Privacy! If you are Jio, you will soon decide which apps are pre bundled in the OS on your devices just like Google did with Android. Google is not dumb. They won't be left out when it comes to the next billion (or two) users. This explains their investment in KaiOS
+  - **Omni channel:** As I wrote before Reliance will be the only serious Omni Channel player. People will soon be buying from Reliance Fresh, Reliance Trendz both online and offline. They will be using the same phone number during check out as well as online payments. They will connect both mediums and create rich profiles which will be a goldmine for potential advertisers
+  - **ISP:** Lastly, but the most important bit, all big players including Google, Facebook and now Jio are trying to become ISPs. Local ISPs are already collecting a lot of anonymised data which they sell to advertisers. But since these ISPs are not ad networks, or publishers they can't capture the actual value from this data. Enter Google, Facebook and Jio
+
+In the near people will use their Gmail or Jio phone number or FacebookID to use Internet. These 3 will be the biggest ISPs in the emerging markets. This is not dissimilar from how you login to Act Fibernet using your Act id. The holy grail of tracking is tracking at ISP level which gets you access to all data (irrespective of whether you own the apps or not)
+
+I know there are any regulations to this. But then laws change when you are Jio. And the easiest argument to make is that Google already has to all our data anyway (thanks to Android). So who cares
+
+- When you are an Internet companies, the 2 most popular ways to make money are:
+  - Ads
+  - Subscriptions
+
+The next billion users coming online won't pay you a subscription fee. So all the value capture will happen through ads. And I think that is Jio's play. I am sure an ad network is the next big thing Jio will build
+
+Or maybe, they can just buy Inmobi ;)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
