@@ -58,4 +58,4 @@ Another interesting possibility. What if Dropbox instead of rewarding users with
 
 If you liked this post, you should read the book Hooked: [How to Build Habit-Forming Products by Nir Eyal](https://www.goodreads.com/book/show/22668729-hooked).
 
-P.S I share most of my learnings here: @manas_saloi
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
