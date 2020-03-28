@@ -10,9 +10,9 @@ I picked up [Kitchen Confidential](https://www.goodreads.com/book/show/33313.Kit
 
 One year later, I am still thinking about this book
 
-Here is the note I had created while reading the book. It contains similarities I noticed between being a PM and a Chef
+Here is the note I had created while reading the book. It contains similarities I noticed between being a PM and a Chef:
 
-1. You constantly deal with high pressure situations. TBH I constantly keep thinking that I will mess some some big release and get fired. Thank God it has not happened till now
+1. You constantly have to deal with high pressure situations. TBH I constantly keep thinking that I will mess some some big release and get fired. Thank God it has not happened till now
 2. In both jobs, over communication is key to avoid fuck ups. See any Gordon Ramsey video and you will see him constantly shouting a others
 3. In spite of fuckups which will happen eventually, you will have to remain calm. There have been days when I have just wanted to come home early after a bad day, but I remained because there was a deadline we were chasing
 4. There is daily firefighting, at least in the smaller startups. I remember my CBO, at one of my past companies, mailing me on a Saturday evening at 4PM demanding a RCA on why the conversion dropped between 2-3PM compared to our benchmark. A lot of people quit. High churn. There is a lack of processes in beginning
@@ -26,4 +26,4 @@ Here is the note I had created while reading the book. It contains similarities 
 
 This book turned out to be as good as promised. And it is definitely one of the books I will recommend to aspiring PMs going forward
 
-Stay up to date with my latest posts/tweets here: @manas_saloi
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
