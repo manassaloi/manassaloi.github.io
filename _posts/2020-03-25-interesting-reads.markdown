@@ -20,4 +20,4 @@ There is also a private list called 'Explore' which I have created. It is not a 
 I spend 30% of my Twitter time browsing through tweets in this list, while the rest 70% goes in the workflow mentioned above
 
 
-Stay up to date with my latest posts/tweets here: @manas_saloi
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

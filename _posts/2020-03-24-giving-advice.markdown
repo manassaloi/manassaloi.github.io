@@ -29,4 +29,4 @@ This is the same reason I don't give very specific advice too. I keep my advice 
 Because we already know the decision we are going to make. We have always known
 
 
-Stay up to date with my latest posts/tweets here: @manas_saloi
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
