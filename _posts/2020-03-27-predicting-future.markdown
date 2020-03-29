@@ -13,9 +13,9 @@ Soon I got 3 hard disks: 1 250GB, 1 TB and then a 2TB one
 
 If someone had asked me the future of the file storage industry my best guess would have been:
 
-a) Size of hard disks would become smaller
-b) Price would go lower
-c) We would have a hybrid model: physical storage with some of it backed up on the cloud. I remember Seagate giving the option of cloud storage even then
+- Size of hard disks would become smaller
+- Price would go lower
+- We would have a hybrid model: physical storage with some of it backed up on the cloud. I remember Seagate giving the option of cloud storage even then
 
 10 years later I wonder how many of us even have external hard disks
 
@@ -76,9 +76,9 @@ Every one used to pirate movies and songs earlier
 Now people are paying for content
 
 This is again because of 3 trends:
-1/ Things moving to cloud, people using multiple devices, and wanting sync
-2/ Importance of recommendation algos
-3/ Affordable student subscription plans
+- Things moving to cloud, people using multiple devices, and wanting sync
+- Importance of recommendation algos
+- Affordable student subscription plans
 
 Earlier monthly allowance from our parents would hit our bank account in the beginning of the month. If we were not careful, you would be broke by middle of the month
 
