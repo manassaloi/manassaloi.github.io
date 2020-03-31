@@ -30,7 +30,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Team OKRs
   - Team charter
   - Team vision
-  - Team members
+  - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
 
 - **Team planning** (Medium term) (What) (How)
 
@@ -38,18 +38,19 @@ I plan to create templates and best practices for the following over the next 3 
   - Monthly review
 
 - **Creating your backlog and prioritisation** (Long term) (Mid term) (What)
-  - Backlog
-  - Prioritised items
-  - Status of current items
+  - [Backlog](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=192262272)
+  - [Prioritised items](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=192262272)
+  - [Status of current items](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1191664602)
 
 - **Running the team** (Mid term) (Short term) (How)
   - Inception
   - Naming a team
-  - Team work planning
+  - [Projects in Dev Prioritisation & allocation](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=642287720)
+  - [Team Work view](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=203120845)
   - Schedule of features
   - Release planning
   - Skunkworks
-  - Engineering projections
+  - Engineering projects
   - IPM
   - Jira
   - Velocity document
