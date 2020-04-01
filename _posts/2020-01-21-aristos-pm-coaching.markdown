@@ -312,6 +312,7 @@ Date: Tuesday 24th March
 + [Random doc notes](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.2hboxrcjop3w)
 + What kind of questions are asked in a Tech round of the PM interview process
 + [Technical Skills for Non-Technical Product Managers](https://hackernoon.com/technical-skills-for-non-technical-product-managers-cbd202b8dac0)
++ [Technical Study Guide for PM Interviews](https://docs.google.com/document/d/1teR4FuaYGSy_yurssCQKNXMHUKbmNmA4ns1ZihggwnU/edit)
 + [5 Things Every Product Manager Should Know About Software Development](https://medium.com/swlh/5-things-every-product-manager-should-know-about-software-development-77801cc65f94)
 + Brief overview of
   + Client Server model
