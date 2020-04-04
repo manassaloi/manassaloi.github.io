@@ -15,6 +15,6 @@ image: 'https://manassaloi.com/assets/img/twitter_emojis.png'
 - You can use these as release notes too :)
 - A lot of credit goes to my manager for pushing me to write these update mails
 
-This document template is part of my series on [how to run Project teams](https://manassaloi.com/2020/03/23/running-product-team.html). I will be writing more templates over the next few weeks
+[This document template](https://docs.google.com/document/d/1ATci-GiUkTZFCVTQliKr1t3zco_aUJmlvY8jMYmR-80/edit) is part of my series on [how to run Project teams](https://manassaloi.com/2020/03/23/running-product-team.html). I will be writing more templates over the next few weeks
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
