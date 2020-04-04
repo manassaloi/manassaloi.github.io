@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Product Spec] Emoji Reactions on Twitter Messages"
+title:  "[PRODUCT SPEC] Emoji Reactions on Twitter Messages"
 
 ---
 

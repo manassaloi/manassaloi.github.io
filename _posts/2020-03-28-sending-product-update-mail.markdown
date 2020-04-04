@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Product Update Email] Emoji Reactions is LIVE"
+title:  "[PRODUCT UPDATE EMAIL] Emoji Reactions is LIVE"
 ---
 
 - There was a time when I used to hate sending product update emails
@@ -10,6 +10,7 @@ title:  "[Product Update Email] Emoji Reactions is LIVE"
 - The update I wrote is around [Emoji reactions going live](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)
 - Like most things in life I did not spend a lot of time trying to be original, and just copied the best practices I saw being followed  in my current company
 - You can use these as release notes too :)
+- A lot of credit goes to my Manager for forcing me to write these update mails
 
 This document template is part of my series on [how to run Project teams](https://manassaloi.com/2020/03/23/running-product-team.html). I will be writing more templates over the next few weeks
 
