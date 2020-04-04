@@ -8,6 +8,8 @@ permalink: /links/
 
 I used to run a PM coaching course called Aristos: [Aristos - PM Coaching](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
 
+Currently writing a series of posts on [How to run a Product team](https://manassaloi.com/2020/03/23/running-product-team.html)
+
 ### (People)
 
 **1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
