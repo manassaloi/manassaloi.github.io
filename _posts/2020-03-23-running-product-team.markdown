@@ -78,8 +78,8 @@ I plan to create templates and best practices for the following over the next 3 
   - Dev stories
   - Job stories
   - Slack workflow for feature development
-  - Feature update mail
-  - Feature release mail
+  - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
+  - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
