@@ -24,7 +24,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Company goals, objectives
   - Company OKRs
   - Off-site template
-  - Half Yearly Retrospective
+  - [Half Yearly Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
 
 - **Vision and Strategy for product teams** (Long term) (Why)
   - Team OKRs
@@ -61,7 +61,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Showcases
   - Slack workflow
   - Ice cream parties
-  - Quarterly Retrospectives
+  - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
 
 - **Creating a new feature** (Short term) (What) (How)
   - Naming the project
@@ -81,7 +81,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Slack workflow for feature development
   - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
-  - Project Retrospective
+  - [Project Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
