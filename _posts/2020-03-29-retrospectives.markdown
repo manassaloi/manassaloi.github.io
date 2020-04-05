@@ -1,34 +1,36 @@
 ---
 layout: post
-title:  "[RETROS] How to run a Retrospective"
+title:  "[RETROSPECTIVES] How to run a Retrospective"
 ---
 
-- At my current company we do retrospectives at multiple level. There are
-  - Weekly retrospectives, which are done during the start of our IPM meeting
-  - Project retrospectives, which we do for projects which take longer time to shipped than planned
+- At my current company we do retrospectives at multiple level. They are:
+  - Weekly retrospectives, done during the start of our IPM meeting
+  - Project retrospectives, done for projects which take longer to shipped than planned
   - Quarterly team/ org wide retrospectives
-- Weekly retrospectives give us a chance to reflect on the past week. Discuss what went well, what did not, and action items for the things in the what did not go well section
-  - Spend 15 mins running weekly retrospectives
-  - Value honesty over anything. What I do to make sure people are more open? I try to make sure all my screw ups go in the What did not go well section. If I as a PM, who is running the session, don't own up my mistakes, then others will be reluctant to share and own up to their mistakes as well
-  - Everyone make mistakes. The goal of a retrospective is not to blame people. It is to figure out underlying issues which can stop your team from performing at a world class level
-  - I try to make it clear that blame games won't be tolerated. The goal is just to make sure we weed out repeated mistakes. And to set up processes which can catch them because they cause harm
-  - In the What went well section feel free to share all your wins. Even smaller wins. I like to highlight everything from team dinners to on boarding done well. When it comes to success, it is alright to point out team members and highlight their contributions
-  - Last week's pending action items move to the current weeks
-- Project retrospectives
+- **Weekly Retrospectives**
+  - Weekly retrospectives give us a chance to [reflect on the past week, discuss what went well, what did not, and add action items for the things in the what did not go well section](https://docs.google.com/document/d/1d4t_c30qz8MzSHcQlfb94TpW3vZogwaYNTHnHeMeGQM/edit?usp=sharing))
+  - Spend 15-20 mins running weekly retrospectives
+  - Value honesty over anything.
+  - Make sure people are more open. How I do it? I try to make sure all my screw ups go into the "What did not go well" section. If I as a PM, who is running the session, do not own up my mistakes, then others will be reluctant to share and own up to their mistakes as well
+  - Everyone make mistakes. The goal of a retrospective is not to blame people. It is to figure out underlying issues which can stop your team from performing to their full potential
+  - Make it clear that blame games won't be tolerated. The goal is just to make sure we weed out repeated mistakes. And to set up processes which can catch them before they cause harm
+  - In the "What went well section" feel free to share all your wins. However small. I like to highlight everything from team dinners to on boarding's done well. When it comes to success, it is alright to point out team members and highlight their contributions
+  - Move the last week's pending action items to the current week's
+- **Project Retrospectives**
   - Ideally you should run retrospectives for all big projects
-  - We run only for projects which are delivered late. Or which did not go as smoothly as we wanted
+  - We run them only for projects which are delivered late. Or which did not go as smoothly as we wanted
   - The goal of this retrospective is also same as weekly retros
-    - Get everyone who were part of the project
+    - Get everyone who was part of the project
     - Highlight things which went well
-    - Write down timeline of the project
+    - Write down the timeline of the project
     - Ask everyone to tell 3 things which could have been done better
-    - Go deep. Understand the real root causes
+    - Go deep. Understand the real root causes of failure
     - Find process gaps which caused these issues
     - Don't turn it into a blame game
     - Let people share honest feedback
     - Collect action items  
     - Improve your process so that future projects go more smoothly
-- Quarterly Retrospectives
+- **Quarterly Retrospectives**
   - This is done for your team as well as the Org which you are part of
   - Retrospective is part of a larger all hands session which starts by highlighting key wins
   - Create a timeline of key projects delivered
@@ -39,7 +41,7 @@ title:  "[RETROS] How to run a Retrospective"
   - People who don't want to add anything new, can write +1 under these sticky notes
   - Example. Under What went well, someone can add a sticky note highlighting the number of features shipped, or improvement in your north star. Then others can write +1 under the item
   - Add every item in the Retro doc
-  - Due to scarcity of time, discuss only the items which have a lot of votes
+  - Due to paucity of time, discuss only the items which have a lot of votes
   - Have action items for items under 'what did not go well'
 
 
