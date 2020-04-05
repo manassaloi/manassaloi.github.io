@@ -33,14 +33,16 @@ title:  "[RETROSPECTIVES] How to run a Retrospective"
 - **Quarterly Retrospectives**
   - This is done for your team as well as the Org which you are part of
   - Retrospective is part of a larger all hands session which starts by highlighting key wins
+  - Do a safety check: a survey on How safe the team feels about sharing their views in this group
   - Create a timeline of key projects delivered
   - Add an Accomplishment section (check Coinbase' template below)
   - 3 sections: what went well, what did not go well, action items
-  - Since there can be more than 50+ people in an all hands, collecting items for the 3 sections might take time
-  - To make the process easier, bring 3 whiteboards, and let people add sticky notes with items under these 3 sections
+  - A fourth section called 'What's confusing' can also be added
+  - Since there can be more than 50+ people in an all hands, collecting items for the 3 sections might take time. To make the process easier and faster, bring 3 whiteboards, and let people add sticky notes with items under these 3 sections
   - People who don't want to add anything new, can write +1 under these sticky notes
   - Example. Under What went well, someone can add a sticky note highlighting the number of features shipped, or improvement in your north star. Then others can write +1 under the item
-  - Add every item in the Retro doc
+  - Club issues into major themes
+  - Add every theme along with the items in the Retrospective doc
   - Due to paucity of time, discuss only the items which have a lot of votes
   - Have action items for items under 'what did not go well'
 
