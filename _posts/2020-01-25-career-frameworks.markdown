@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "16 Frameworks for your career"
+title:  "17 Frameworks for your career"
 
 ---
 
@@ -37,6 +37,8 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 15. [Always choose growth](https://www.linkedin.com/feed/update/urn:li:activity:6430144105048870912/) -  part of the reason why Google staff are so easy to work with is because the company is growing
 
 16. [A forty year career](https://lethain.com/forty-year-career/); Not four IPOs, not fourteen two-year stints, but forty years
+
+17. [Punch above your weight class](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); Chris Sacca invited himself to meetings and offered to take notes
 
 **Note:** I will keep expanding this list
 

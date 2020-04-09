@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "31 frameworks for your life"
+title:  "38 frameworks for your life"
 
 ---
 
@@ -67,6 +67,20 @@ Some of the most important frameworks/models/ideas I learned in the last few yea
 30. [Boring life](https://medium.com/@micah/the-boring-life-88a1146b0b35#.hz4w3cyax); chose to be actively boring
 
 31. [Regret minimization framework](https://awealthofcommonsense.com/2016/10/the-jeff-bezos-regret-minimization-framework/); what will you regret doing/not doing when you are 80?
+
+32. [80/20](https://manassaloi.com/2020/03/31/80-20.html); lead a pareto life
+
+33. [Money dial](https://www.iwillteachyoutoberich.com/blog/money-dials/); what if you had a money dial?
+
+34. [If you don’t do something well, don’t do it. Unless you wanna spend the time to improve that](https://tim.blog/triple-h-on-the-tim-ferriss-show-transcript/); commit to things you want to spend time improving on
+
+35. [Done is better than perfect](https://medium.com/swlh/the-7-most-powerful-mindsets-that-will-set-you-up-for-rapid-long-term-success-e5ef89819cb2); a life full of MVPs, followed by iterations
+
+36. [Take your 10-year life plan and ask, Why can’t I do this in six months?](https://www.cnbc.com/2017/02/10/heres-what-billionaire-peter-thiel-wishes-hed-known-in-his-20s.html); the peter thiel question
+
+37. [Treat it like a spa](https://www.reddit.com/r/Fitness/comments/2u6hoi/in_the_recent_ama_with_terry_crews_someone_asked/); Terry Crews's gym philosophy you can use for anything in life
+
+38. [Sacca’s Cabin in Truckee](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); have a hangout spot people want to go to
 
 **Note:** I will keep expanding this list
 
