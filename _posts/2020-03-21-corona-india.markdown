@@ -11,7 +11,7 @@ One guy posted on Facebook 'Wow Narendra Modi is the best man. All librandus are
 
 I have seen a variation of this 'we have only 250 cases, we are the best' post so many times over the last one week. I feel I finally have to sit and write why this argument is flawed
 
-Note: I am not Cornovirus expert. I am just someone who spends a lot of time as part of his day job looking at data
+**Note:** I am not Cornovirus expert. I am just someone who spends a lot of time as part of his day job looking at data
 
 Lets start
 
