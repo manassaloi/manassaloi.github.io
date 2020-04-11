@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Statuses on Slack"
+image: 'https://manassaloi.com/assets/img/slack_status.png'
 ---
 
 There are multiple levels of product design thinking
