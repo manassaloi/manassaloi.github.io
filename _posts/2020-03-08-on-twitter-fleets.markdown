@@ -19,7 +19,7 @@ Ephemerality through fleets might not be a strong buy
 
 - Fleets mostly feels like something they are doing as pressure from Activist investors are raising for their failure to innovate on their product
 
-**Counter argument from other folks on the thread:**
+**Counter argument from other folks who replied on my tweet thread:**
 
 - But till stories happened, it wasn't the behavior on Insta either? People would post only nice looking photos once in a while - a habit that stories helped change. Fleets helps for specific use cases like sports/event specific tweets I think
 
