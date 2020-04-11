@@ -30,4 +30,4 @@ In the last 2-3 years, I have spent very less time reading non work/career relat
 
 CURRENT STATUS: I am spending way more time on Pocket. Have also downloaded a bunch of novels on my Kindle
 
-Stay up to date with my shitposts here: [@manas_saloi](http://twitter.com/manas_saloi)
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
