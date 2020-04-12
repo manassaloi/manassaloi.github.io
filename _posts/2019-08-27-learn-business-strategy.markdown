@@ -29,6 +29,8 @@ https://manassaloi.com/booksummaries/2016/03/29/blitzscaling-reid-hoffman.html
 
 6. **[Only the Paranoid Survive](https://manassaloi.com/booksummaries/2016/03/28/paranoids-survive-grove.html)** is a great playbook on surviving 10X changes and has lot of war stories from Intel
 
+7. **[Obviously Awesome](https://manassaloi.com/booksummaries/2017/07/09/obviously-awesome-april.html)** is one of the best books I have read on product positioning
+
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes
 
