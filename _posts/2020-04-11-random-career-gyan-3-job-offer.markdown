@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to think about a job offer"
+title: "Random Career Gyaan 3 - How to think about a job offer"
 
 ---
 
