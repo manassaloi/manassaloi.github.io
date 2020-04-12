@@ -114,7 +114,7 @@ If you don't train X days per week, or your fitness decrease you drop down a tie
 This will drive engagement and later retention
 
 17/n
-I wrote about why Credit cards should look different to drive offline virality here: manassaloi.com/2020/01/20/ran…
+I wrote about why Credit cards should look different to drive offline virality [here](https://manassaloi.com/2020/01/20/random-design-gyaan-1.html)
 
 18/n
 Most startups would shut down if they dared ask the question "What sets us apart?"
