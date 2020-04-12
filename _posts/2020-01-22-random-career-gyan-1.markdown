@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Random Career Gyaan 1 - How to think about a job switch"
+title:  "How to think about a job switch"
 
 ---
 

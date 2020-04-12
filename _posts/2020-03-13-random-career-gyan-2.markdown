@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Random Career Gyaan 2 - Be a purple cow"
+title:  "Be a purple cow"
 
 ---
 
