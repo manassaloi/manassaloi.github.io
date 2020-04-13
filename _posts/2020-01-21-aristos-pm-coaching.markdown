@@ -244,6 +244,7 @@ Date: Thursday 19th March
 + Prioritisation
   + [20 Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
   + [How to Prioritize a Product Roadmap](https://www.sachinrekhi.com/how-to-prioritize-a-product-roadmap)
+  + [How to Move from Outputs to Outcomes](https://amplitude.com/blog/move-from-outputs-to-outcomes)
   + [#now, #next, #later](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645)
   + [Before you plan your product roadmap](https://www.intercom.com/blog/before-you-plan-your-product-roadmap/)
   + [The first rule of prioritization: No snacking](https://www.intercom.com/blog/first-rule-prioritization-no-snacking/)
