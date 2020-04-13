@@ -92,7 +92,7 @@ The goal of an AAR is not to excavate truth for truth’s sake, or to assign cre
 
 - A year ago IDEO decided to scale Givechi’s abilities across the organization. They asked her to create modules of questions teams could ask themselves, then provided those modules to design teams as tools to help them improve. For example, here are a few:
   - The one thing that excites me about this particular opportunity is                          
-  - I confess, the one thing I’m not so excited about with this particular opportunity is                         
+  - I confess, the one thing I’m not so excited about with this particular opportunity is
   - On this project, I’d really like to get better at
 
 - The interesting thing about Givechi’s questions is how transcendently simple they are. They have less to do with design than with connecting to deeper emotions: fear, ambition, motivation. It’s easy to imagine that in different hands, these questions could fall flat and fail to ignite conversation. This is because the real power of the interaction is located in the two-way emotional signaling that creates an atmosphere of connection that surrounds the conversation
