@@ -84,4 +84,6 @@ I read them long back. Have to re read and take notes
 - [The Art of the Strategic Product Roadmap](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
 - [Don’t Let Process Distract You From Finding Strategy](https://thinkgrowth.org/dont-let-process-distract-you-from-finding-strategy-fb00bef53e7b)
 
+Masterclass I did on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
+
 P.S Before I post something on Linkedin I tweet about it here:[@manas_saloi](https://twitter.com/manas_saloi)

@@ -19,7 +19,7 @@ Books I have read in personal finance and investing. Sorted from most helpful an
 9. [You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits — Joel Greenblatt](https://manassaloi.com/booksummaries/2016/03/09/stock-market-genius-joel-reenblatt.html)
 10. [The Dhandho Investor - Mohnish Pabrai](https://manassaloi.com/booksummaries/2016/03/14/mohnish-pabrai-the-dhandho-investor.html)
 11. [A Random Walk Down Wall Street - Burton Malkiel](https://manassaloi.com/booksummaries/2016/03/17/random-walk-wallstreet-malkiel.html)
-
-Read in the past which are super good: [The Essays of Warren Buffett: Lessons for Corporate America — Lawrence A. Cunningham, Warren E. Buffett](https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html), [More Than You Know: Finding Financial Wisdom in Unconventional Places — Michael J. Mauboussin](https://manassaloi.com/booksummaries/2016/07/11/more-than-you-know-michael-j-mauboussin.html)
+12. [The Essays of Warren Buffett: Lessons for Corporate America — Lawrence A. Cunningham, Warren E. Buffett](https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html)
+13. [More Than You Know: Finding Financial Wisdom in Unconventional Places — Michael J. Mauboussin](https://manassaloi.com/booksummaries/2016/07/11/more-than-you-know-michael-j-mauboussin.html)
 
 **/threadends**
