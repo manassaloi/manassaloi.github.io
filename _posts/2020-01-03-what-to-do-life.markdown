@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How should I plan my life"
+title:  "What should I do in my life"
 
 ---
 

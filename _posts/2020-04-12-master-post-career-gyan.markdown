@@ -13,7 +13,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [How to negotiate during a job hunt](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
 - [High Leverage Activities](https://manassaloi.com/2020/01/09/high-leverage-activity.html)
 - [Yo Manas, Why don't you startup man?](https://manassaloi.com/2020/01/08/manas-start-up.html)
-- [https://manassaloi.com/2020/01/03/what-to-do-life.html](https://manassaloi.com/2020/01/03/what-to-do-life.html)
+- [What should I do in life?](https://manassaloi.com/2020/01/03/what-to-do-life.html)
 - [20 lessons from 10 months at Go-Jek](https://manassaloi.com/2019/08/11/20-lessons-gojek.html)
 - [How to make big decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
 - [PM ko aata kya hain](https://manassaloi.com/2020/01/31/pm-ko-aata-kya-hai.html)
