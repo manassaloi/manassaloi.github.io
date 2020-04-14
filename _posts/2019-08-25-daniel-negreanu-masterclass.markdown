@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daniel Negreanu Teaches Poker"
+title:  "[MASTERCLASS] Daniel Negreanu Teaches Poker"
 
 ---
 I completed Daniel Negreanu's poker masterclass recently. Notes from the class:
