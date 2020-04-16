@@ -9,7 +9,7 @@ Every time I go on LinkedIn, I see posts which annoy me to no end. Sometimes it 
 
 I know that a lot people here might feel the same about me
 
-Hence I keep recommending to unfollow me
+Hence I keep recommending people to unfollow me
 
 ![Unfollow me](/assets/img/unfollow_me.png)
 
