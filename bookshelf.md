@@ -40,6 +40,7 @@ List of books I've found useful
 + [Startup: A Silicon Valley Adventure - Jerry Kaplan](https://www.goodreads.com/book/show/1171250.Startup)
 + [Super Pumped: The Battle for Uber - Mike Isaac](https://www.goodreads.com/book/show/44573628-super-pumped)
 + [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company - Robert Iger](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime)
++ [Grinding It Out: The Making of McDonald's - Ray Kroc](https://www.goodreads.com/book/show/498886.Grinding_It_Out)
 
 
 ### Company Building Playbook
@@ -76,6 +77,7 @@ List of books I've found useful
 + [Making Things Happen: Mastering Project Management - Scott Berkun](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)
 + [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt,  Jonathan Rosenberg](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
 + [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
++ [The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle](https://www.goodreads.com/book/show/33517721-the-culture-code)
 
 ### Product & Strategy
 
@@ -90,6 +92,7 @@ List of books I've found useful
 + [Platform Revolution - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary](https://www.goodreads.com/book/show/25622861-platform-revolution)
 + [7 Powers: The Foundations of Business Strategy - Hamilton Wright Helmer](https://www.goodreads.com/book/show/32816087-7-powers)
 + [Shape Up: Stop Running in Circles and Ship Work that Matters - Ryan Singer,  Jason Fried](https://www.goodreads.com/book/show/46823986-shape-up)
++ [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It - April Dunford](https://www.goodreads.com/book/show/45166937-obviously-awesome)
 
 
 ### Life & Living
@@ -173,6 +176,7 @@ List of books I've found useful
 + [Ways of Seeing - John Berger](https://www.goodreads.com/book/show/2784.Ways_of_Seeing)
 + [Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins](https://www.goodreads.com/book/show/20578350-hello-my-name-is-awesome)
 + [Logo Design Love: A Guide to Creating Iconic Brand Identities - David Airey](https://www.goodreads.com/book/show/6728983-logo-design-love)
++ [The Graphic Design Idea Book: Inspiration from 50 Masters - Steven Heller, Gail Anderson](https://www.goodreads.com/book/show/26246256-the-graphic-design-idea-book)
 
 ### Psychology & Negotiations
 
@@ -186,7 +190,7 @@ List of books I've found useful
 
 + [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 + [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
-+ [https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
++ [The Mental Game of Poker - Jared Tendler](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
 
 ### Decision Making
 
@@ -235,6 +239,7 @@ List of books I've found useful
 + [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice - Bill Browder](https://www.goodreads.com/book/show/22609522-red-notice)
 + [Liar's Poker - Michael Lewis](https://www.goodreads.com/book/show/7865083-liar-s-poker)
 + [The Big Short: Inside the Doomsday Machine - Michael Lewis](https://www.goodreads.com/book/show/8032112-the-big-short)
++ [MBS: The Rise to Power of Mohammed bin Salman - Ben Hubbard](https://www.goodreads.com/book/show/52505707-mbs)
 
 ### Fiction
 
