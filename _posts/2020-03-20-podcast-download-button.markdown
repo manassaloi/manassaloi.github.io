@@ -19,4 +19,4 @@ Now to delete a single file you have to press edit button at top, then select th
 So taking bad design decisions seem to be a constant with their team 🤷‍
 
 
-Find more design gyaan here: [@manas_saloi](http://twitter.com/manas_saloi)
+**Find more design gyaan here:** [@manas_saloi](http://twitter.com/manas_saloi)
