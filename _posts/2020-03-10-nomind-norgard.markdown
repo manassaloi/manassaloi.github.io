@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No-mind"
+title: "No-mind: Pomp’s interview of Brian Norgard"
 
 ---
 
