@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Give users a superpower"
+title: "Give your users a superpower"
 image: 'https://manassaloi.com/assets/img/no_filter.png'
 ---
 
