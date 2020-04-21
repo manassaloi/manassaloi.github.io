@@ -132,3 +132,5 @@ We all know how that one turned out
 - To thine own self be true
 
 - Bold business leadership, as Bob describes it, requires integrity, humility, and self- assurance in the face of both triumph and failure. As you chart a course for boundless success in your business, keep in mind the principles Bob lists out: the importance of fostering character traits like curiosity, candor, and optimism; the ability to set your ego aside when coming to the negotiating table; a readiness to evolve and foresee the future needs of consumers. Internalize everything you’ve learned in this class, and you’ll find yourself primed to lead in your industry
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
