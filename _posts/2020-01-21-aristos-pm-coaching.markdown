@@ -7,12 +7,12 @@ title:  "Aristos - PM Coaching"
 **Topics we will cover in this program:**
 + Behavioral
 + Design
++ Data
 + Case studies
   + Guesstimates
   + GTM
   + Strategy
   + Marketing
-+ Data
 + Strategy
 + Prioritisation/Roadmapping
 + Tech
