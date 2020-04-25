@@ -14,7 +14,9 @@ What about the downside? You can lose your job, make enemies, become a pariah, a
 
 In terms of risk vs reward trade-off, you have limited upside, while the downside is unlimited
 
-Hence, I don't post post 90% of my private notes. Because I don't know who I will end up offending. Or worse, how many people will end up judging me because of my honest opinion 
+If you are a VP at some big company, would you really want to risk your job over some silly tweet? You already know the answer to this
+
+Hence, I also don't post post 90% of my private notes. Because I don't know who I will end up offending. Or worse, how many people will end up judging me because of my honest opinion 
 
 On Twitter, you will see 90% of people only putting out tweets/ sharing photos which are tailored to their audience. Things which are "safe"; can get them validation from their tribe. Real discussions, honest opinions are largely missing 
 
