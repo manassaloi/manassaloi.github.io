@@ -19,6 +19,8 @@ I rarely comment on other people's posts. If I don't like someone, I block or mu
 
 I don't come here for debates or discussions. This is the reason I have muted all notifications
 
-This is just a way for me to share my thoughts. Most of them will be shit. Some might be useful to you
+Twitter is a medium for me to share my thoughts. Most of them will be shit. Some might be useful to you
+
+Also, I tweet a lot
 
 So depending on noise vs signal, take a call! Thanks
