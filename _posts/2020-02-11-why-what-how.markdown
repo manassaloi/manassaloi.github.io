@@ -12,7 +12,7 @@ Goal should be to reach a position where you can tell the WHY instead of doing t
 
 Lets take an example of my own growth according to the HOW -> WHAT -> WHY framework
 
-**Before:** As a beginner PM I used to be obsessed with firing the right events, combining multiple events and turning them into a parameter instead of a different event
+**Before:** As a beginner PM I used to be obsessed with firing the right analytics events, combining multiple events and turning them into a parameter instead of a different event
 
 **Now:** Before I even define the events and parameters, I ask WHAT are the questions we are TRYING to answer here with this feature or experiment's launch and WHY are we launching this in the first place
 
