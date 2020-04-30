@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "17 Frameworks for your career"
+title:  "17 Frameworks for your professional life"
 
 ---
 
-Important frameworks/models/ideas I learned in the last few years which have helped me in my career
+Important frameworks/models/ideas I learned in the last few years which have helped me in my professional life
 
 1. [The orange juice test](https://www.intercom.com/blog/the-orange-juice-test/), designed to sort through candidates based on how they can handle difficult situations and tasks
 
