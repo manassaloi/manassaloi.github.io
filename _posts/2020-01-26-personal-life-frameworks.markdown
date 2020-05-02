@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "38 frameworks for your life"
+title:  "39 frameworks for your life"
 
 ---
 
-Some of the most important frameworks/models/ideas I learned in the last few years which have helped me in my personal life
+Some of the most important frameworks/models/principles I learned in the last few years which have helped me in my personal life
 
 1. [The worst case scenario](https://medium.com/desk-of-van-schneider/the-worst-case-scenario-52a348012a35#.dz3gegowc): If everything goes wrong, whats your personal worst case scenario, and is it really that bad?
 
@@ -81,6 +81,8 @@ Some of the most important frameworks/models/ideas I learned in the last few yea
 37. [Treat it like a spa](https://www.reddit.com/r/Fitness/comments/2u6hoi/in_the_recent_ama_with_terry_crews_someone_asked/); Terry Crews's gym philosophy you can use for anything in life
 
 38. [Sacca’s Cabin in Truckee](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); have a hangout spot people want to go to
+
+39. [Get fuck you money](https://thedeepdish.org/fuck-you-money/); a wise man’s life is based around fuck you money
 
 **Note:** I will keep expanding this list
 
