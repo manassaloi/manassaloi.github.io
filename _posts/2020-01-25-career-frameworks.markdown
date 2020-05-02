@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "17 Frameworks for your professional life"
+title:  "[Frameworks] 18 Frameworks for your professional life"
 
 ---
 
@@ -39,6 +39,8 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 16. [A forty year career](https://lethain.com/forty-year-career/); Not four IPOs, not fourteen two-year stints, but forty years
 
 17. [Punch above your weight class](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); Chris Sacca invited himself to meetings and offered to take notes
+
+18. [optimise for Rate-of-learning early in your career](https://kyletibbitts.com/rate-of-learning-the-most-valuable-startup-compensation-56dddc17fa42); it can be the most valuable compensation for working at a startup
 
 **Note:** I will keep expanding this list
 

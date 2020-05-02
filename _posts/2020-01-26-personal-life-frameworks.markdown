@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "39 frameworks for your life"
+title:  "[Frameworks] 39 frameworks for your life"
 
 ---
 
