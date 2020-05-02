@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[RETROSPECTIVES] How to run a Retrospective"
+title:  "[Retrospectives] How to run a Retrospective"
 ---
 
 - At my current company we do retrospectives at multiple level. They are:

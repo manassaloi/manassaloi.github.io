@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[CAREER GYAAN MASTER POST] How to think about your career"
+title: "[Career Gyaan Master Post] How to think about your career"
 
 ---
 

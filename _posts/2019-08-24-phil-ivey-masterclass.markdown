@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[MASTERCLASS] Phil Ivey Teaches Poker Strategy"
+title:  "[Masterclass] Phil Ivey Teaches Poker Strategy"
 
 ---
 I completed Phil Ivey's Poker Strategy masterclass recently. Notes from the class:

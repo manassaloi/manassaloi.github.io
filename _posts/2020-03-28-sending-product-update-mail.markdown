@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[PRODUCT UPDATE EMAIL] Emoji Reactions is LIVE"
+title:  "[Product Update Email] Emoji Reactions is LIVE"
 image: 'https://manassaloi.com/assets/img/twitter_emojis.png'
 ---
 

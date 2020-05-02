@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[MASTERCLASS] Bob Iger teaches Business Strategy and Leadership"
+title:  "[Masterclass] Bob Iger teaches Business Strategy and Leadership"
 image: 'https://manassaloi.com/assets/img/bob_iger.png'
 ---
 

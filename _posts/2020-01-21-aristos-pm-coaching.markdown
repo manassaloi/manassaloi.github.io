@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aristos - PM Coaching"
+title:  "[PM Coaching] Aristos"
 
 ---
 
