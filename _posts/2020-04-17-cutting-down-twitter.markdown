@@ -15,6 +15,6 @@ Another reason: The number of deaths due to Coronavirus, people like Irfan Khan 
 
 Also, I have realized that there are so many things I want to learn in life. Get better at. And no matter how many books I read on design, I won't be a designer unless I spend hours daily on Sketch, and Procreate. Being good at something takes time. This is not just true for Design. It is also true for writing, coding, investing, photography, learning new languages
 
-Let's see if I can stick to it. I will add this to my personal OKRs so that I can track it better :)
+Let's see if I can stick to it
 
 You can still check my Twitter profile here if you are interested: [@manas_saloi](http://twitter.com/manas_saloi)
