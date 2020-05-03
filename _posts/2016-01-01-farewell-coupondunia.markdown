@@ -10,11 +10,11 @@ Yesterday was my last working day at CouponDunia. In the last year or so I moved
 
 **/start**
 
-So today is my last day and this is probably the final mail which goes out carrying my signature 'Manas Saloi | Product Manager - Cashboss'. This was good while it lasted. I am grateful for the opportunity I got at such a young age. Thank you Sameer.
+So today is my last day and this is probably the final mail which goes out carrying my signature 'Manas Saloi, Product Manager - Cashboss'. This was good while it lasted. I am grateful for the opportunity I got at such a young age. Thank you Sameer.
 
 I think it was sheer luck that you chose to trust someone like me who lacked the necessary experience to create and lead a new business unit. And I can never be thankful enough. Not just for this. But for all the other things you have done for me since then.
 
-The time when I literally wrote :
+The time when I literally wrote:
 
 "Actually this is the first time I have been in a PM role. In my last job everything I did was related to some task I had to complete in a day or two. Mostly development work which I could show in daily sprint meetings. As a PM when I do stand ups now I don't have much to say. So maybe I have been feeling a little guilty thinking I have not been doing enough. Imposter syndrome maybe?"
 during my 2nd month here (when I was feeling clueless and was doubting my own abilities) and you replied :
