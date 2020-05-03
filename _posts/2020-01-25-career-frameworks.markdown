@@ -24,7 +24,7 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 9. [Introductions and the “forward intro email”](https://also.roybahat.com/introductions-and-the-forward-intro-email-14e2827716a1)
 
-10. [Stretching, Executing, Coasting](https://blog.pragmaticengineer.com/stretching-executing-coasting/) - and Pacing Yourself to Avoid Burnout and why you need a balance of all 3
+10. [Stretching, Executing, Coasting](https://web.archive.org/web/20191106203634/https://blog.pragmaticengineer.com/stretching-executing-coasting/) - and Pacing Yourself to Avoid Burnout and why you need a balance of all 3
 
 11. [Most people won't](https://bryce.vc/post/64889707700/most-people-wont)
 
