@@ -8,7 +8,7 @@ People say good byes are not official unless you write a long blog post on Linke
 
 Yesterday was my last working day at CouponDunia. In the last year or so I moved to Mumbai, worked on my first ever product, built it from scratch and then scaled it to a million+ users. It was an amazing experience working with so many smart folks. While leaving I sent a farewell note to the company which I am republishing here. It is part thank you+good bye, part lessons learnt till now working for a bunch of startups. Hope it helps anyone who is planning to venture into the fast pace crazy startup world.
 
-                               ..........
+**/start**
 
 So today is my last day and this is probably the final mail which goes out carrying my signature 'Manas Saloi | Product Manager - Cashboss'. This was good while it lasted. I am grateful for the opportunity I got at such a young age. Thank you Sameer.
 
@@ -32,7 +32,7 @@ I want to name other people who I have got to know/become friends with during my
 
 I know the right thing would be to end this here when everything is all good and happy. But then I am leaving. So might not get another chance to say a few things which I have been meaning to say for quite a long time now. A bunch of career/life advice for people who are still new. I have experimented quite a bit in my life till now and hence probably am in a place where I can write all this. Might seem pretentious but these are the kind of things I wish someone had told me 2 years back when I was passing out of college. It would be up to you what you make out of it.
 
-1. Life is hard. No shit right? It is a massive optimization problem where there are multiple variables involved - career, family, relationships, freedom, hobbies and a bunch of other stuff. You will never be good in all these. So just pick the ones most important to you and be the best you can be. I wanted to build stuff since I was a college. Worked on my own startup idea. Failed. Joined a bunch of companies/startups knowing that sooner or later I would like a leadership position in one or start up myself. For me it was never about the next job which will give me a 30% hike. It was about reaching the next level. When I was a developer all I could care about was how much my lead knew and how quickly I could know as much as him.
+-  Life is hard. No shit right? It is a massive optimization problem where there are multiple variables involved - career, family, relationships, freedom, hobbies and a bunch of other stuff. You will never be good in all these. So just pick the ones most important to you and be the best you can be. I wanted to build stuff since I was a college. Worked on my own startup idea. Failed. Joined a bunch of companies/startups knowing that sooner or later I would like a leadership position in one or start up myself. For me it was never about the next job which will give me a 30% hike. It was about reaching the next level. When I was a developer all I could care about was how much my lead knew and how quickly I could know as much as him.
 
 Soft Dev -> Lead -> Architect -> VP -> CEO
 
@@ -46,11 +46,11 @@ Shia says it better : https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
 If you are just showing up at your job daily for the heck of it then a 10/20 % hike every year is all that you can hope for. Don't crib about other people being on higher salaries. Acquire skills which will help you reach there. But in case you are looking for stability and a better work life balance instead join a MNC. Startups are hard. Start up life is max risk, max reward. You will listen about people getting 50-100% hikes. You will also listen about 100s of people getting fired. In my own humble opinion startups are the only way to gain ownership, make sure your work stand out and create value faster. But you don't have to believe me or the media hype. Ask yourself what you actually want.
 
-2. Work for someone who roots for you.
+-  Work for someone who roots for you.
 
 Over multiple internships and jobs this is one of the biggest lessons I have learnt. Always work for someone who is way smarter than you. Someone who pushes you and tells you when you screw up. Someone who roots for you and wants you to do well. I think you Sameer have been all that for me. I know we have had our share of disagreements over things in the past, but I can't thank you enough for being there. Always listening. Giving me advice. It meant a lot for someone who was quite new here.
 
-3. Why/ Why should people give a sh*t?
+-  Why/ Why should people give a sh*t?
 
 ^ This is one of the most important questions you will ever ask yourself.
 
@@ -62,7 +62,7 @@ Want to launch another product? Good. But why should people care?
 
 I read a book called Lynchpin by Seth Godin last year and it changed how I looked at the whole concept of 'working'. It was scary to realize that since I was just another average coder I could easily be replaced by someone superior. If you are not the best at what you do there is no job security. Job security is a myth. This truth led to me rethinking my whole approach to life/work.
 
-4. Create value.
+-  Create value.
 
 Always be creating value. Relationships, life, out of work activities, jobs. Does not matter where you are. Ask why should someone be interested in you? Why should someone hire you?
 
@@ -77,13 +77,13 @@ Working in SEO? Learn how to run Facebook campaigns too. Maybe even take up Goog
 
 You are a Dev working on node? Learn angular too. The value of a full stack developer is >>>> than a guy who just somewhat knows one language/one part of the stack.
 
-5. Network.
+-  Network.
 
 Network like crazy. If you know enough people and are good enough you will never have to worry about job security. Surround yourself with crazy smart people. Proximity is power. Ask yourself how can you help more people?
 
 Remember Inbound >> Outbound (In marketing and in life)
 
-6. Life is too short.
+- Life is too short.
 
 I can never go back to my school days and do all the things I missed. Can never get back my college days. I am in my mid 20s now and soon this decade will also pass. All I have is my time and what I can do with it.
 
@@ -100,3 +100,6 @@ You guys wanted a speech. I am really bad at that. So I wrote this super long ma
 Stay in touch
 
 Manas Saloi
+
+
+**/end**
