@@ -33,4 +33,6 @@ What I call the Life Math Money guide
 
 13. TBH if I was super vella in life I would just do this as an experiment and see how many months it takes me to gain 10K followers. But then again there are better things to do in life and I am not jobless (yet) :)
 
+**Note:** This post can be used as a guide to become prominent on any social media platform. I have seen so many people on Twitter/Quora becoming famous just by associating themselves with famous VCs/ entrepreneurs
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
