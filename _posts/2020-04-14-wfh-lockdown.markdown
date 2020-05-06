@@ -14,8 +14,8 @@ I read somewhere that the key to living a long interesting life is to have varie
 
 And experiences is something for which you need to go out
 
-You can listen to a concert online..but it is not the same  
-You can watch a travel vlog.. but it is not the same
+You can listen to a concert online, but it is not the same  
+You can watch a travel vlog, but it is not the same
 
 Hence my hypothesis is that though people will appreciate occasional WFHs, video calls, webinars, the world will move back to how it was a few months back; provided we find the Covid-19 cure of course
 
