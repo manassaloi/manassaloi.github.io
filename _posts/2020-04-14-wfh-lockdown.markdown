@@ -19,6 +19,6 @@ You can watch a travel vlog, but it is not the same
 
 Hence my hypothesis is that though people will appreciate occasional WFHs, video calls, webinars, the world will move back to how it was a few months back; provided we find the Covid-19 cure of course
 
-Lets wait a couple of years, and see ;)
+Lets wait a couple of years and see.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
