@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "So you want to do a pre-mortem/post-mortem?"
+title:  "Pre-mortem & post-mortem"
 ---
 
-A few good reads on how to do a pre-mortem and a post-mortem:
+A few good reads on how to do a pre-mortem and post-mortem:
 
 - [How to Use Pre-mortems to Prevent Problems, Blunders, and Disasters](https://medium.com/@shreyashere/how-to-use-pre-mortems-to-prevent-problems-blunders-and-disasters-6ecc6df6e22a)
 - [Premortem: Prevent Failures by Recognizing Patterns](https://tsmith.com/blog/2018/premortem/)
