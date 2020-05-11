@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Push vs Pull"
+---
+
+- [Pushing data on Kafka > Exposing an API endpoint for consumption by another team](https://blog.gojekengineering.com/how-kafka-solved-a-culture-problem-at-gojek-600e690e8eb1)
+- Getting automated email daily, with your most important metrics, on your inbox > You going to your dashboard occasionally to check data
+- Keeping the UI flexible so that you can push changes in layout from backend > Needing client release
+- Push notifications with your reminders/ calendar events > You having to check the app
+- Alert emails/calls when things break > You opening a dashboard and figuring it out after the outage happened
+
+
+Push > Pull
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

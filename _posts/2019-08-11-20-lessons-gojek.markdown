@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "20 lessons from 10 months at Go-Jek"
+title:  "20 lessons from 10 months at Gojek"
 
 ---
 

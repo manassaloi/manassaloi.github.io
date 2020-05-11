@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[PM Master Post] How to run a product team"
+title:  "[Project Apollo] How to run a product team"
 ---
 
-I wish I had hold of something like this when I started my Product Management career. There are lot of books on the macro aspects like Strategy. And there are books on the micro like how to run an agile process. But none of them have been able to tie the macro with the micro. Or given easily customisable templates which people can use at their own companies. This is my humble attempt to fix that
+I wish I had hold of something like this when I started my Product Management career. There are lot of books on the macro aspects like Strategy. And there are books on the micro like how to run an agile process. But none of them have been able to tie the macro with the micro. Or given easily customisable templates which people can use at their own companies. This Project is my humble attempt to fix that
 
 
 This post as well as the templates will be written keeping the following aspects in mind
@@ -58,6 +58,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Ice cream meter
   - [1 on 1s](https://manassaloi.com/2020/01/28/one-on-ones.html)
   - Demos
+  - [Essential Manage meetings](https://github.com/ajahne/essential-manager-meetings/tree/master/templates)
   - Showcases
   - Slack workflow
   - Ice cream parties
