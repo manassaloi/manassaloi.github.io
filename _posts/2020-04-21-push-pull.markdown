@@ -10,6 +10,6 @@ title: "Push vs Pull"
 - Alert emails/calls when things break > You opening a dashboard and figuring it out after the outage happened
 
 
-Push > Pull
+**Push > Pull**
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
