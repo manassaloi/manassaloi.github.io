@@ -65,8 +65,6 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader): Have read dozens of ebooks on my phone thanks to this app
 
-+ [AnyBooks](https://play.google.com/store/apps/details?id=co.anybooks&hl=en_US): Is slowly replacing Lithium as my default app to read books on my phone
-
 + [Insight Timer - Free Meditation App](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2&hl=en_IN): I prefer this free app over paying for Headspace now
 
 + [Mi fit app](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=en_IN): Pairs with my Mi fit
