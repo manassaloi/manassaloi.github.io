@@ -5,31 +5,31 @@ title: "Product Management Principles & Frameworks"
 ---
 
 ## Principles
-
 - [Pass the Orange test](https://www.intercom.com/blog/the-orange-juice-test/)
 - [Truth Seeker](https://www.sachinrekhi.com/the-best-product-managers-are-truth-seekers)
 - [Bias for action](https://www.amazon.jobs/en/principles)
 - [Have backbone](https://www.amazon.jobs/en/principles)
 - [Simplify](https://twitter.com/BrianNorgard/status/1233105282118455296)
 - [Over communicate](https://manassaloi.com/2019/08/11/20-lessons-gojek.html)
-- Energy curator
-- Culture of high performance
-- Consistency
+- [Energy curator](https://manassaloi.com/2020/03/15/energy-curator.html)
+- [Culture of high performance](https://hackernoon.com/25-hints-youre-working-on-a-high-performing-team-c4d02f27dd3?source=rss------ux-5)
+- [Insist on the Highest Standards](https://www.amazon.jobs/en/principles)
+- [Consistency](https://blog.stephsmith.io/how-to-be-great/)
 - [Strong opinion weakly held](https://boz.com/articles/strong-opinions)
 - [First principles](https://fs.blog/2018/04/first-principles/)
 - [Take extreme ownership](https://twitter.com/jeremysliew/status/1098721536507367425)
 - [Best things are taken, not given](https://sriramk.com/stuff-ive-learned-at-microsoft)
 - [Do all 3: Produce, Arrange, Impress](https://twitter.com/shreyas/status/1256652582447017985)
-- Be the lazy PM
+- [Lazy leadership](https://medium.com/flow/lazy-leadership-8ba19e34f959)
 - [80/20](https://manassaloi.com/2020/03/31/80-20.html)
+- [Values driven](https://twitter.com/jmspool/status/1028325798384726017)
 
 
 ## Product Development & Design
-
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Work backwards](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
-- Data driven
+- [Data informed, not driven](https://manassaloi.com/2020/03/02/data-driven.html)
 - [Focus on velocity, not speed](https://fs.blog/2018/03/speed-velocity/)
 - [Design sprints](https://designsprintkit.withgoogle.com/planning/overview)
 - Trust - Ownership - Accountability
@@ -78,14 +78,13 @@ title: "Product Management Principles & Frameworks"
 - [Settings need not be part of your MVP](https://twitter.com/DavidSacks/status/1172978856883417088)
 - product as functions
 - Short term impatient. Long term patient from Dara Uber
-- Value creation vs value protection
 - Bi-focal Vision
-- Movement != Progress
-- Understand 2nd order effects; Charleston's fence
-- Levers, Dials, Pulleys
-- Business equation
-- Creativity = Capped downside (HN comment)
-- Design UX for good actors and systems for bad
+- Don't confuse movement with progress
+- [Understand 2nd order effects; Chesterton’s Fence](https://fs.blog/2020/03/chestertons-fence/)
+- [Adjust your levers, dials, and Pulleys](https://manassaloi.com/2020/02/18/levers-dials-pulleys.html)
+- [Write your business equation](https://manassaloi.com/2020/02/04/swiggy-tinyowl-foodpanda.html)
+- [Be creative when you face a capped downside, and an uncapped upside](https://news.ycombinator.com/item?id=22579240)
+- [Design UX for good actors and systems for bad](https://mobile.twitter.com/vikramadhiman/status/1105853246793342976?s=19)
 - [Know your levers, dials and pulleys](https://manassaloi.com/2020/02/18/levers-dials-pulleys.html)
 - [Focus on high leverage activities](https://manassaloi.com/2020/01/09/high-leverage-activity.html)
 - [Use speed as a competitive advantage](https://manassaloi.com/2018/07/22/speed-as-a-competitive-advantage.html)
@@ -102,42 +101,41 @@ title: "Product Management Principles & Frameworks"
 - Elevate and delegate
 - Type 1 vs type 2
 - Urgency Important Eisenhower
-- [AND vs OR](https://twitter.com/anguyenrex/status/1093128951101341697)
-- [Values driven](https://twitter.com/jmspool/status/1028325798384726017)
+- [Value creation vs value protection]
+- [Choose AND over OR](https://twitter.com/anguyenrex/status/1093128951101341697)
 - [foster conditions conducive to high decision quality and high decision velocity](https://medium.com/@johnpcutler/decision-quality-decision-velocity-f99bb01d3afc)
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
 
 
 ## Meeting
-- Mail vs Meeting
-- [An Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
+- [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
 - [Write down your thoughts](https://twitter.com/nrmehta/status/1069805106021851136)
 - [Hold off until necessary](https://twitter.com/ViableBen/status/1074473220198166528)
 - [Steer into the Objection](https://manassaloi.com/2020/02/22/steer-into-objection.html)
-- [Always send a MOM](https://manassaloi.com/2020/03/22/mom-update.html)
+- [Always send a MOM afterwards](https://manassaloi.com/2020/03/22/mom-update.html)
 
 ## Managing
 - [Always choose hard talk](https://medium.com/craft-ventures/happy-talk-versus-hard-talk-d2b9585597)
 - [Make sure the trust battery is not low](https://firstround.com/review/use-this-equation-to-determine-diagnose-and-repair-trust/)
 - [Trust is the currency of good management](https://twitter.com/marcprecipice/status/791738151051988993)
-- [Pre-mortem for work relationships](https://medium.com/swlh/what-could-go-wrong-conducting-pre-mortems-on-your-work-relationships-fc25f88c2e31)
-- Stakeholder management framework
+- [Do pre-mortem for work relationships](https://medium.com/swlh/what-could-go-wrong-conducting-pre-mortems-on-your-work-relationships-fc25f88c2e31)
 - [Keep your team motivated](https://twitter.com/mwseibel/status/1096436630347407360)
 - [Push ownership down the ladder](https://twitter.com/tacertain/status/1166039964582199297)
 - [Tackle preventable problems](https://twitter.com/shreyas/status/1218724150312751104)
 - [Build a team that ships](https://nav.al/build-a-team-that-ships)
 
 ## Stakeholder Management
-- [Managing a Hero meeting](https://twitter.com/sriramk/status/1226959362918215680)
+- [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
 
 ## Data
-- [Accurate vs Automation vs Accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
+- [Data should be accurate, automation, and accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
 - [Correlation doesn't imply causation](https://amplitude.com/blog/2017/01/19/causation-correlation)
 
 ## Communication
-- [Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+- [Use pyramid principle for communication](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
 - [Write like a Amazon PM](https://mobile.twitter.com/destraynor/status/1258372157706510336)
-- [Military email](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
+- [Write military email](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
+- [Give blunt, effective feedback](https://wavelength.asana.com/workstyle-effective-feedback/)
 - [Ideas should be communicable in a napkin. Break down your ideas to the most simplified form](https://twitter.com/DavidSacks/status/475073311383105536)
 - [Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
 - [Stop conversations as soon as there are diminishing returns](https://twitter.com/scottbelsky/status/1024672328284684290)
