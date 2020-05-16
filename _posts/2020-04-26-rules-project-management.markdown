@@ -18,7 +18,8 @@ A few rules of project management:
   - Done
   - Delayed
   - At-Risk
-6. Keeping multiple trackers does not lead to better project management. You just need a single source of truth, which can be even a google sheet. Keep it simple7. Different stakeholders have different needs when it comes to status. Your CEO or VP won't have time to go into the details of each individual project. For them a simple card on asana with the status updated regularly would work. For active collaborators who need more context, make sure they can get more details in your spec. I always keep the status for a project at the top of [my spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit). If they need more granular info they can always scroll below and see details on completion of each milestone. Follow the pyramid principle for communication. For PM, EM, and devs working on the project, the micro details regarding individual stories are kept on Jira. Tools and their stakeholders:
+6. Keeping multiple trackers does not lead to better project management. You just need a single source of truth, which can be even a google sheet. Keep it simple
+7. Different stakeholders have different needs when it comes to status. Your CEO or VP won't have time to go into the details of each individual project. For them a simple card on asana with the status updated regularly would work. For active collaborators who need more context, make sure they can get more details in your spec. I always keep the status for a project at the top of [my spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit). If they need more granular info they can always scroll below and see details on completion of each milestone. Follow the pyramid principle for communication. For PM, EM, and devs working on the project, the micro details regarding individual stories are kept on Jira. Tools and their stakeholders:
   - Asana board with card regarding the project - CEO, VP- Status at the top of the spec - Different collaborators who might or might not be active collaborators
   - Detailed milestones and their completion % - Active collaborators for the project
   - Status on stories for each milestone on Jira - For devs and PM
@@ -32,8 +33,8 @@ A few rules of project management:
 14. Delays are okay. Waking up one day before release and telling there are 10 things broken which will delay the release is not.
 15. If dependent items are not resolved, keep escalating till they are. If the dependent person is X, then escalate to their boss Y. If you don't get a response then escalate to Y's boss Z.
 16. Take extreme ownership of your work.
-17. Communicate early, and often. I don't worry about overcommunication. It is under communication which has always caused issues for people. Not the other. 
-18.[Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
+17. Communicate early, and often. I don't worry about overcommunication. It is under communication which has always caused issues for people. Not the other
+18. [Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
 19. [Steer into objections early](https://manassaloi.com/2020/02/22/steer-into-objection.html)
 20. Follow the communication rules followed here: [Lessons from working at Gojek](https://manassaloi.com/2019/08/11/20-lessons-gojek.html)
 
