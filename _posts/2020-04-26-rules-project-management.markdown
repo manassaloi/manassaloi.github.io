@@ -4,7 +4,7 @@ title:  "Project Management Rules"
 image: 'https://manassaloi.com/assets/img/project_management_rules.png'
 ---
 
-A few rules of project management:
+Following these rules will help you to manage a big project more effectively:
 
 1. Every task should be assigned to a single directly responsible individual 
 2. If a task is assigned to a team, then it is not assigned to anyone
