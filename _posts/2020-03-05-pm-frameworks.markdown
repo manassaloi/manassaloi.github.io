@@ -25,7 +25,7 @@ title: "Product Management Principles & Frameworks"
 - [Values driven](https://twitter.com/jmspool/status/1028325798384726017)
 
 
-## Product Development & Design
+## Product development & Design
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Work backwards](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
@@ -124,8 +124,11 @@ title: "Product Management Principles & Frameworks"
 - [Tackle preventable problems](https://twitter.com/shreyas/status/1218724150312751104)
 - [Build a team that ships](https://nav.al/build-a-team-that-ships)
 
-## Stakeholder Management
+## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
+
+## Project management
+- [Following these rules will help you to manage a big project more effectively](https://manassaloi.com/2020/04/26/rules-project-management.html)
 
 ## Data
 - [Data should be accurate, automation, and accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
