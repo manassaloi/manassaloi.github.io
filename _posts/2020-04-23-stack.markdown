@@ -10,3 +10,5 @@ This is a system people in our company have started following recently, and we h
 The lack of nonverbal cues, with the video being off, leads to frequent interruptions and with the meeting going nowhere. Zoom meetings will always find it difficult to replace the human connection of an in-person meeting. But small things like these will hopefully help you get more out of your calls.
 
 Note: Raised hands feature is not as helpful because if multiple people want to respond, then you need a way to figure out the order in which they speak. In our case, the first who stacked first gets to speak first, followed by other stacked people.The natural evolution of the raise hands button will be a stack button. Instead of typing "stack", you will be automatically told your position to speak next.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
