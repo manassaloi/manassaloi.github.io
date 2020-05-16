@@ -13,7 +13,7 @@ Things which have helped a lot in improving my mental health:
 
 4. Not reading news. Since I don't use any social media (except LinkedIn and Twitter), I barely know what is happening anymore.
 
-5. Aggressively muting people on LinkedIn who discuss politics. There is no point in debating whether Modi has done a good/bad job vs other state leaders.
+5. Aggressively muting people on LinkedIn who discuss politics. There is no point in debating whether Modi has done a good/bad job vs other state leaders. I also mute people liberally on Twitter. 
 
 6. Not reading covid19 updates. If I need stats on coronavirus I ask my girlfriend. I used to check coronavirus news every 5 mins in March.
 
