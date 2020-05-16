@@ -10,20 +10,21 @@ A few rules of project management:
 2. If a task is assigned to a team, then it is not assigned to anyone
 3. All discussions regarding a project should happen in the relevant public channel on Slack. No private DMs allowed.
 4. A task should remain in 2 states:
-  - Waiting for a timeline
-  - Has a timeline
+ - Waiting for a timeline
+ - Has a timeline
 5. A task's status should be one of these:
-  - Yet to be picked
-  - In progress
-  - Done
-  - Delayed
-  - At-Risk
+ - Yet to be picked
+ - In progress
+ - Done
+ - Delayed
+ - At-Risk
 6. Keeping multiple trackers does not lead to better project management. You just need a single source of truth, which can be even a google sheet. Keep it simple
 7. Different stakeholders have different needs when it comes to status. Your CEO or VP won't have time to go into the details of each individual project. For them a simple card on asana with the status updated regularly would work. For active collaborators who need more context, make sure they can get more details in your spec. I always keep the status for a project at the top of [my spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit). If they need more granular info they can always scroll below and see details on completion of each milestone. Follow the pyramid principle for communication. For PM, EM, and devs working on the project, the micro details regarding individual stories are kept on Jira. Tools and their stakeholders:
-  - Asana board with card regarding the project - CEO, VP- Status at the top of the spec - Different collaborators who might or might not be active collaborators
-  - Detailed milestones and their completion % - Active collaborators for the project
-  - Status on stories for each milestone on Jira - For devs and PM
-  - Google sheet with every dev is working on - For your team 
+ - Asana board with card regarding the project - CEO, VP- Status at the top of the spec - Different collaborators who might or might not be active collaborators
+ - Detailed milestones and their completion %
+ - Active collaborators for the project
+ - Status on stories for each milestone on Jira - For devs and PM
+ - Google sheet with every dev is working on - For your team 
 8. Keep the trackers updated. I update my trackers on Monday (time-based) or when there is a big update, say something moved to Production (event-driven project management)
 9. Escalate blockers early
 10. Send regular status updates. I send out a weekly mail for each big project I am working on, where I highlight the following: status, % completion, details on milestones, blockers, if we are on track to meet the timeline. Everyone who is part of the project, or needs info about the project, gets cc'ed on this mail. This is the same MOM mail, which is resent as a status update mail.
