@@ -50,6 +50,7 @@ I read them long back. Have to re read and take notes.
 
 ### Additional links
 
+- [Good Product Strategy, Bad Product Strategy](https://medium.com/@shreyashere/good-product-strategy-bad-product-strategy-826cdfe74818)
 - [Strategy and Tactics](https://medium.com/@radoshi/strategy-and-tactics-e8ee921665a2)
 - [How to Master the Craft of Strategy](https://medium.com/evergreen-business-weekly/how-to-master-the-craft-of-strategy-why-one-decision-can-make-your-company-and-how-to-get-it-right-d0346c62731d)
 - [Can You Say What Your Strategy Is?](https://eclass.aueb.gr/modules/document/file.php/DET162/Session%201/Can%20you%20say%20what%20your%20strategy%20is.pdf)
