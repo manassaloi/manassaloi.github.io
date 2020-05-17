@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Management Principles & Frameworks"
+title: "[Project Lumos] Product Management Principles & Frameworks"
 
 ---
 

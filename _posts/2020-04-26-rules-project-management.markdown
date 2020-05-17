@@ -8,12 +8,12 @@ Following these rules will help you to manage a big project more effectively.
 
 1. Every task should be assigned to a single directly responsible individual 
 2. If a task is assigned to a team, then it is not assigned to anyone
-3. All discussions regarding a project should happen in the relevant public channel on Slack. No private DMs allowed.
+3. All discussions regarding a project should happen in the relevant public channel on Slack. No private DMs allowed
 4. A task should remain in 2 states:
  - Waiting for a timeline
  - Has a timeline
 5. A task's status should be one of these:
- - Yet to be picked
+ - Yet to be picked
  - In progress
  - Done
  - Delayed
@@ -27,13 +27,13 @@ Following these rules will help you to manage a big project more effectively.
  - Google sheet with every dev is working on - For your team 
 8. Keep the trackers updated. I update my trackers on Monday (time-based) or when there is a big update, say something moved to Production (event-driven project management)
 9. Escalate blockers early
-10. Send regular status updates. I send out a weekly mail for each big project I am working on, where I highlight the following: status, % completion, details on milestones, blockers, if we are on track to meet the timeline. Everyone who is part of the project, or needs info about the project, gets cc'ed on this mail. This is the same MOM mail, which is resent as a status update mail.
+10. Send regular status updates. I send out a weekly mail for each big project I am working on, where I highlight the following: status, % completion, details on milestones, blockers, if we are on track to meet the timeline. Everyone who is part of the project, or needs info about the project, gets cc'ed on this mail. This is the same MOM mail, which is resent as a status update mail
 11. [Push > Pull](https://manassaloi.com/2020/04/21/push-pull.html)
-12. Always highlight external dependencies on email. Slack is ephemeral. Messages get missed. The more important the info, the more critical the dependency, the more you need to make sure that the info is captured and communicated well.
-13. Avoid last-minute surprises. I have always hated last-minute bad news as a manager. And I make sure I avoid giving the same to my own boss. Keep giving frequent updates so that blockers are highlighted much before they delay your project.
-14. Delays are okay. Waking up one day before release and telling there are 10 things broken which will delay the release is not.
-15. If dependent items are not resolved, keep escalating till they are. If the dependent person is X, then escalate to their boss Y. If you don't get a response then escalate to Y's boss Z.
-16. Take extreme ownership of your work.
+12. Always highlight external dependencies on email. Slack is ephemeral. Messages get missed. The more important the info, the more critical the dependency, the more you need to make sure that the info is captured and communicated well
+13. Avoid last-minute surprises. I have always hated last-minute bad news as a manager. And I make sure I avoid giving the same to my own boss. Keep giving frequent updates so that blockers are highlighted much before they delay your project
+14. Delays are okay. Waking up one day before release and telling there are 10 things broken which will delay the release is not
+15. If dependent items are not resolved, keep escalating till they are. If the dependent person is X, then escalate to their boss Y. If you don't get a response then escalate to Y's boss Z
+16. Take extreme ownership of your work
 17. Communicate early, and often. I don't worry about overcommunication. It is under communication which has always caused issues for people. Not the other
 18. [Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
 19. [Steer into objections early](https://manassaloi.com/2020/02/22/steer-into-objection.html)
