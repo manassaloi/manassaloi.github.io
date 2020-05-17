@@ -95,17 +95,17 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Focus on processes, not tools](https://manassaloi.com/2020/03/07/on-tools.html)
 - [Know what winning looks like](https://manassaloi.com/2020/03/30/vision-winning.html)
 - [Give your users a superpower](https://manassaloi.com/2020/04/15/user-superpower.html)
+- [Product Dev is not done by a committee](https://boz.com/articles/strong-opinions)
 
 ## Decision making
-- Product Dev is not done by a committee. You need a strong decision maker. Does not mean you don't need design. But bystander effect comes into picture
-- Elevate and delegate
-- Type 1 vs type 2
-- Urgency Important Eisenhower
-- [Value creation vs value protection]
+- [How I take big decisions](On making good decisions)
+- [Elevate and delegate](https://gduverger.com/elevate-and-delegate/)
+- [Type 1 vs type 2](https://themusingsofthebigredcar.com/jeff-bezos-on-decisionmaking/)
+- [Use Eisenhower matrix](https://jamesclear.com/eisenhower-box)
+- [Value creation vs value protection](https://delian.io/lessons-2)
 - [Choose AND over OR](https://twitter.com/anguyenrex/status/1093128951101341697)
-- [foster conditions conducive to high decision quality and high decision velocity](https://medium.com/@johnpcutler/decision-quality-decision-velocity-f99bb01d3afc)
+- [Foster conditions conducive to high decision quality and high decision velocity](https://medium.com/@johnpcutler/decision-quality-decision-velocity-f99bb01d3afc)
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
-
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
