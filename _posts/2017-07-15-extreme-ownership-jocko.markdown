@@ -496,7 +496,7 @@ When leading up the chain of command, use caution and respect. But remember, if 
 
 - Beyond this, there are countless other leadership dichotomies that must be carefully balanced. Generally, when a leader struggles, the root cause behind the problem is that the leader has leaned too far in one direction and steered off course. Awareness of the dichotomies in leadership allows this discovery, and thereby enables the correction.
 
-## SUMMARISING THE DICHOTOMY OF LEADERSHIP
+## THE DICHOTOMY OF LEADERSHIP
 
 A good leader must be:
  - confident but not cocky;
