@@ -21,7 +21,7 @@ Check out my material from my PM coaching course called Aristos: [Aristos - PM C
 - [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 
-### (People I follow and learn more)
+### (People I learn from)
 
 **1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
 
