@@ -63,6 +63,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Slack workflow
   - Ice cream parties
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
+  - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
 - **Creating a new feature** (Short term) (What) (How)
   - Naming the project
