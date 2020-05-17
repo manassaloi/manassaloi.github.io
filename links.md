@@ -8,9 +8,20 @@ permalink: /links/
 
 Check out my material from my PM coaching course called Aristos: [Aristos - PM Coaching](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
 
-At present I am writing a series of posts on [How to run a Product team](https://manassaloi.com/2020/03/23/running-product-team.html)
+### (Links you might find interesting)
 
-### (People)
+- [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
+- [Product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
+- [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
+- [Learn poker](https://manassaloi.com/2020/04/07/learning-poker.html)
+- [Learn personal finance and investing](https://manassaloi.com/2019/08/26/learn-personal-finance-investing.html)
+- [Learn business strategy](https://manassaloi.com/2019/08/27/learn-business-strategy.html)
+- [Plan your personal OKRs](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
+- [Learn football](https://manassaloi.com/2020/02/02/learning-football.html)
+- [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
+- [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
+
+### (People I follow and learn more)
 
 **1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
 
@@ -92,7 +103,7 @@ fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovet
 
 fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
 
-### (Blogs)
+### (Blogs I read regularly)
 
 **1/ [Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
 
@@ -142,7 +153,7 @@ fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-me
 
 fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
 
-### (Newsletters)
+### (Newsletters I have subscribed to)
 
 1/ [CBInsights](https://www.cbinsights.com/newsletter)
 
@@ -176,7 +187,7 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 16/ [StrictlyVC](https://www.strictlyvc.com/)
 
-### (Podcasts)
+### (Podcasts I listen to)
 
 **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
 
@@ -231,6 +242,6 @@ fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
 fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
 
 
-### (Books)
+### (Books I recommend)
 
 **[Exhaustive list on GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
