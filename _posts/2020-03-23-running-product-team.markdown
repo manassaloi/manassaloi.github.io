@@ -53,15 +53,15 @@ I plan to create templates and best practices for the following over the next 3 
   - Engineering projects
   - IPM
   - Jira
-  - Velocity document
-  - Sprint retrospectives
-  - Ice cream meter
+  - [Velocity tracker](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1212677191)
+  - [Weekly Sprint retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
+  - [Ice cream meter](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=19952379)
   - [1 on 1s](https://manassaloi.com/2020/01/28/one-on-ones.html)
   - Demos
   - [Essential Manage meetings](https://github.com/ajahne/essential-manager-meetings/tree/master/templates)
   - Showcases
   - Slack workflow
-  - Ice cream parties
+  - [Ice cream meter](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=19952379)
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
