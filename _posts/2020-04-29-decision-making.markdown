@@ -2,6 +2,10 @@
 layout: post
 title:  "On making good decisions"
 ---
+
+A template which I use for making big decisions: [Taking a decision on X](https://docs.google.com/document/d/19lXmZuv8YIA1jej7UHDh1f-uyanNsTjFB_QaYZNq_Zw/edit#)
+
+The template is inspired from the following resources I have read on decision making:
 - [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
 - [DACI](https://www.atlassian.com/team-playbook/plays/daci)
 - [Eisenhower matrix](https://jamesclear.com/eisenhower-box)
