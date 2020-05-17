@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Management Rules"
+title:  "Project management rules"
 image: 'https://manassaloi.com/assets/img/project_management_rules.png'
 ---
 
