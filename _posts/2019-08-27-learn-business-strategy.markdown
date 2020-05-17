@@ -8,33 +8,24 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 ### Frameworks from some of my fav books on Strategy
 
-1. **My fav one: Thiel’s 7 questions**
-You can find more here: https://manassaloi.com/booksummaries/2019/08/23/zero-one-peter-thiel.html
-He also explains how Tesla is different from other cleantech companies (check the end of the post)
-Zero to One is a must read if you work in startups/planning to startup
+1. **[My fav one: Thiel’s 7 questions](https://manassaloi.com/booksummaries/2019/08/23/zero-one-peter-thiel.html)**: He explains how Tesla is different from other clean tech companies (check the end of the post). Zero to One is a must read if you work in startups/planning to startup.
 
-2. **Hamilton’s 7 powers:** Scale economics, Network economics, Counter positioning, Switching cost, Branding, Cornered resources, Process power
-Something you should read if you are interested in business strategy
-Link to notes from the book including explanation of all the 7 powers: https://manassaloi.com/booksummaries/2019/08/22/seven-powers-hamilton-helmer.html
+2. **[Hamilton’s 7 powers:](https://manassaloi.com/booksummaries/2019/08/22/seven-powers-hamilton-helmer.html)** Scale economics, Network economics, Counter positioning, Switching cost, Branding, Cornered resources, Process power. Something you should read if you are interested in business strategy.
 
-3. **Munger’s 5 elements which create moats:** Supply-Side Economies of Scale and Scope, Demand-Side Economies of Scale (Network Effects), Brand, Regulation, Patents and Intellectual Property
-See the last section of this blogpost to read more on the same: [Charlie Munger: The Complete Investor](https://manassaloi.com/booksummaries/2016/03/07/charlier-munger-griffin.html)
+3. **[Munger’s 5 elements which create moats:]((https://manassaloi.com/booksummaries/2016/03/07/charlier-munger-griffin.html))** Supply-Side Economies of Scale and Scope, Demand-Side Economies of Scale (Network Effects), Brand, Regulation, Patents and Intellectual Property.
 
-4. **Platform revolution** has a bunch of frameworks to think about how to build and grow a platform. It is highly relevant if you are working in a startup in the on demand space
-Full summary here: Platform Revolution: [How Networked Markets Are Transforming the Economy](https://manassaloi.com/booksummaries/2016/03/21/platform-revolution-parker-choudary.html)
+4. **[Platform revolution]((https://manassaloi.com/booksummaries/2016/03/21/platform-revolution-parker-choudary.html))** has a bunch of frameworks to think about how to build and grow a platform. It is highly relevant if you are working in a startup in the on demand space.
 
-5. **Blitzscaling** is a good read if you want to understand how to build hyper growth business
-It also has a lot of frameworks for growth: things which can turbocharge it or limit it
-https://manassaloi.com/booksummaries/2016/03/29/blitzscaling-reid-hoffman.html
+5. **[Blitzscaling]((https://manassaloi.com/booksummaries/2016/03/29/blitzscaling-reid-hoffman.html))** is a good read if you want to understand how to build hyper growth business. It also has a lot of frameworks for growth: things which can turbocharge it or limit it.
 
-6. **[Only the Paranoid Survive](https://manassaloi.com/booksummaries/2016/03/28/paranoids-survive-grove.html)** is a great playbook on surviving 10X changes and has lot of war stories from Intel
+6. **[Only the Paranoid Survive](https://manassaloi.com/booksummaries/2016/03/28/paranoids-survive-grove.html)** is a great playbook on surviving 10X changes and has lot of war stories from Intel.
 
-7. **[Obviously Awesome](https://manassaloi.com/booksummaries/2017/07/09/obviously-awesome-april.html)** is one of the best books  on product positioning
+7. **[Obviously Awesome](https://manassaloi.com/booksummaries/2017/07/09/obviously-awesome-april.html)** is one of the best books  on product positioning.
 
-8. **[Blue Ocean Strategy](https://docs.google.com/document/d/1sx28G6cSbBjksvc0RoojQK4PiY1XgEPMHaenJvGRUWo/edit)** is one of the first strategy books I ever read
+8. **[Blue Ocean Strategy](https://docs.google.com/document/d/1sx28G6cSbBjksvc0RoojQK4PiY1XgEPMHaenJvGRUWo/edit)** is one of the first strategy books I ever read.
 
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
-I read them long back. Have to re read and take notes
+I read them long back. Have to re read and take notes.
 
 ### Books I plan to read in the future
 
@@ -55,6 +46,7 @@ I read them long back. Have to re read and take notes
 - [Strategy Beyond the Hockey Stick](https://www.goodreads.com/en/book/show/37916972)  
 - [Certain to Win](https://www.amazon.com/Certain-Win-Strategy-Applied-Business-ebook/dp/B0793SDYSM)
 - [The Luxury Strategy](https://www.goodreads.com/book/show/4717945-the-luxury-strategy)
+- [The End of Competitive Advantage](https://www.goodreads.com/book/show/15824360-the-end-of-competitive-advantage)
 
 ### Additional links
 
