@@ -10,7 +10,7 @@ title:  "On making good decisions"
 - [Durable Decisions](https://medium.com/swlh/durable-decisions-ceed2e93ee0b)
 - [Decision Disagreement Framework - How we encourage disagreements at Matter](https://matterapp.com/blog/decision-disagreement-framework-how-we-encourage-disagreements-at-matter/)
 - [Making Good Decisions as a Product Manager](https://blackboxofpm.com/making-good-decisions-as-a-product-manager-c66ddacc9e2b)
-- [Presidential briefings for key decisions]()
+- [Presidential briefings for key decisions](https://manassaloi.com/2020/04/30/presidential-decision.html)
 - [How to make big decisions](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html)
 - [The Art of Decision Making as a Product Manager](https://www.sachinrekhi.com/the-art-of-decision-making-as-a-product-manager)
 - [3 Frameworks For Making Complex Decisions](https://rushabhdoshi.com/2020/02/14/3-frameworks-for-making-complex-decisions.html)
@@ -25,3 +25,5 @@ title:  "On making good decisions"
 - [6 Tips for Making “Wicked Hard Decisions”](https://medium.com/speroventures/6-tips-for-making-wicked-hard-decisions-c933aee0eb60)
 - [Quality of outcome vs quality of decision](https://tomtunguz.com/outcome-quality-decision-quality/)
 - [Pinterest Founder Ben Silbermann’s Lessons on Decision Making, Values, and Taking Time for Yourself](https://medium.com/@villageglobal/pinterest-founder-ben-silbermanns-lessons-on-decision-making-values-and-taking-time-for-yourself-5c76c1517a38)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
