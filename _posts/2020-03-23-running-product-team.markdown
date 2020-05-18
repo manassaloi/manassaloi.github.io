@@ -69,7 +69,7 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Creating a new feature** (Short term) (What) (How)
   - Naming the project
-  - Pitch doc
+  - [Pitch doc](https://docs.google.com/document/d/1ez5NflYwy9DxhAXzg2AA2p0eMLVWg3QgxHatg3Td1zA/edit?usp=sharing)
   - [Product spec](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html)
   - Design spec
   - Design checklist
