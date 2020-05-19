@@ -35,6 +35,7 @@ I read them long back. Have to re read and take notes.
 - [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
 - [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 - [Understanding Michael Porter](https://www.amazon.com/dp/B005OVTMAY/)
+- [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
 - [The Lords of Strategy](https://www.amazon.com/gp/product/1591397820/)
 - [Great by Choice](https://www.amazon.com/gp/product/0062120999/)
 - [Modern Monopolies](https://www.goodreads.com/en/book/show/26114480)
