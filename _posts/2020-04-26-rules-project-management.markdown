@@ -20,7 +20,8 @@ Following these rules will help you to manage a big project more effectively.
  - At-Risk
 6. Keeping multiple trackers does not lead to better project management. You just need a single source of truth, which can be even a google sheet. Keep it simple
 7. Different stakeholders have different needs when it comes to status. Your CEO or VP won't have time to go into the details of each individual project. For them a simple card on asana with the status updated regularly would work. For active collaborators who need more context, make sure they can get more details in your spec. I always keep the status for a project at the top of [my spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit). If they need more granular info they can always scroll below and see details on completion of each milestone. Follow the pyramid principle for communication. For PM, EM, and devs working on the project, the micro details regarding individual stories are kept on Jira. Tools and their stakeholders:
- - Asana board with card regarding the project - CEO, VP- Status at the top of the spec - Different collaborators who might or might not be active collaborators
+ - Asana board with card regarding the project - CEO, VP
+ - Status at the top of the spec - Different collaborators who might or might not be active collaborators
  - Detailed milestones and their completion %
  - Active collaborators for the project
  - Status on stories for each milestone on Jira - For devs and PM
@@ -38,6 +39,29 @@ Following these rules will help you to manage a big project more effectively.
 18. [Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
 19. [Steer into objections early](https://manassaloi.com/2020/02/22/steer-into-objection.html)
 20. Follow the communication rules followed here: [Lessons from working at Gojek](https://manassaloi.com/2019/08/11/20-lessons-gojek.html)
+21. Share information in the Slack Channel where the most number of people can gain context on an issue. If you have to tag people later on it is also easier
+22. Don't create temporary private DMs with multiple people
+23. [Measure your communication](https://manassaloi.com/2020/02/05/measuring-communication.html)
+24. You don't need to wait for something to go live on Production to share an update. If the project is running ahead of schedule, even better. Share an update on the Slack channel praising your developer
+25. Be quick to praise others. Take blame if things don't go as per the plan. Most managers do the opposite
+26. When things don't go per plan, people turn every discussion into a blame gaming session. Keep reiterating that you are in this together, and you will do your best till the end
+27. In case a project fails, make sure you highlight both the good and the bad. Most people focus only on the bad. Write a post-mortem report with learnings, and share the next steps
+28. Pin all relevant documents on the Slack channel.
+  - Pin spec as the master doc on the Slack channel
+  - Asana card for the project
+  - Jira epic
+  - Roll out plan (when you are in the endgame)
+29. If it is a FYI, then mark it as such. Don't let people assume that there is an action item for them
+30. [Remember that owner's word weighs a ton](https://m.signalvnoise.com/the-owners-word-weighs-a-ton/)
+31. For every project, no matter how you want to manage it, the following info should be easily accessible
+  - what is the plan
+  - what has been executed till now
+  - what are the next steps
+  - are we on track to meet the deadline
+  - open items not closed till now
+  - potential blockers
+  - DRI to whom people should reach out if they have any query
+32. Identify external stakeholders with whom you would need to coordinate for launch. Add them on Slack so that they have full context
 
 I am working on a master post of all principles and frameworks I use as a PM here: [PM frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 

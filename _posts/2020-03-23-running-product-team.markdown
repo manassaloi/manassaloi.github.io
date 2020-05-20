@@ -34,7 +34,7 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Team planning** (Medium term) (What) (How)
 
-  - Weekly Product Planning silent meeting
+  - [Weekly Product Planning silent meeting](https://docs.google.com/document/d/1s_ejLtOuOU2cwW2qcVbMlNxmJIm61I8V7zpHcKGN1Ow/edit?usp=sharing) 
   - Monthly review
 
 - **Creating your backlog and prioritisation** (Long term) (Mid term) (What)
