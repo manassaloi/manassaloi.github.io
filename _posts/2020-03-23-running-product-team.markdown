@@ -34,7 +34,7 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Team planning** (Medium term) (What) (How)
 
-  - [Weekly Product Planning silent meeting](https://docs.google.com/document/d/1s_ejLtOuOU2cwW2qcVbMlNxmJIm61I8V7zpHcKGN1Ow/edit?usp=sharing) 
+  - [Weekly Product Planning silent meeting](https://docs.google.com/document/d/1s_ejLtOuOU2cwW2qcVbMlNxmJIm61I8V7zpHcKGN1Ow/edit?usp=sharing)
   - Monthly review
 
 - **Creating your backlog and prioritisation** (Long term) (Mid term) (What)
@@ -96,10 +96,13 @@ I plan to create templates and best practices for the following over the next 3 
   - Weekly seniors meeting
   - Design review
 
-- **Data** (Mid term) (Short term)(What) (How)
+- **Data** (Mid term) (Short term) (What) (How)
   - North star
   - Dashboards
   - Daily email with data
   - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
+
+- **Project Management** (Short term) (How)
+  - [Project management how-tos](https://manassaloi.com/2020/04/26/rules-project-management.html)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
