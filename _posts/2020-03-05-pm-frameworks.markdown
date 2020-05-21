@@ -99,6 +99,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 
 ## Decision making
 - [How I take big decisions](On making good decisions)
+- [Framing problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 - [Elevate and delegate](https://gduverger.com/elevate-and-delegate/)
 - [Type 1 vs type 2](https://themusingsofthebigredcar.com/jeff-bezos-on-decisionmaking/)
 - [Use Eisenhower matrix](https://jamesclear.com/eisenhower-box)

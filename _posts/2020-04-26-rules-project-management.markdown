@@ -62,6 +62,7 @@ Following these rules will help you to manage a big project more effectively.
   - potential blockers
   - DRI to whom people should reach out if they have any query
 32. Identify external stakeholders with whom you would need to coordinate for launch. Add them on Slack so that they have full context
+33. If there are multiple items marked as P0, then you don't have a P0
 
 I am working on a master post of all principles and frameworks I use as a PM here: [PM frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 
