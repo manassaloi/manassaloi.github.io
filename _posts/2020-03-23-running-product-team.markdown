@@ -74,15 +74,15 @@ I plan to create templates and best practices for the following over the next 3 
   - [Product spec](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html)
   - Design spec
   - Design checklist
-  - Backend spec
-  - Frontend spec
+  - [Backend spec](https://docs.google.com/document/d/1CB33dYpiK6JrgJl7_swlPUFz-Y-St8E9GnpuzzohdbY/edit?usp=sharing)
+  - [Frontend tech spec](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
   - Milestone planning
   - QA checklist
   - Product development Checklist
   - Acceptance criteria
   - User stories
   - Dev stories
-  - Job stories
+  - [Job stories](https://www.intercom.com/blog/accidentally-invented-job-stories/)
   - Slack workflow for feature development
   - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
