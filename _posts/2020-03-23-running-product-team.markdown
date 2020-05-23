@@ -90,9 +90,9 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
-  - Request for Research
-  - Request for Experimentation
-  - Request for BI
+  - [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing)
+  - [Request for Experimentation](https://docs.google.com/document/d/1VRKPa29HHHGqFsFEPqPUthg2955A_BAzzbDuVFKyPmU/edit?usp=sharing)
+  - [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing)
   - Weekly meeting with external stakeholders
   - Weekly seniors meeting
   - Design review
