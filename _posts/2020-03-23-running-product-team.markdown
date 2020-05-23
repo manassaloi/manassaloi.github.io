@@ -96,7 +96,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing)
   - Weekly meeting with external stakeholders
   - Weekly seniors meeting
-  - Design review
+  - [Design review](https://manassaloi.com/2020/05/02/design-reviews.html)
 
 - **Data** (Mid term) (Short term) (What) (How)
   - North star
