@@ -30,6 +30,7 @@ We like involving Design as early as we can in the product development process. 
 - Polishing work happens to get the feature to the final state: Production-ready
 - We incorporate more feedback from pre-alpha and alpha users
 - The feature is finally shipped and we get the kudos or the brickbats from our users ;)
+- We also do [design jams](https://manassaloi.com/2020/03/04/design-jam.html) and [design sprints](https://www.gv.com/sprint/) sometime. But it is not done for each feature
 
 **Best resources on how to do design reviews**
 
