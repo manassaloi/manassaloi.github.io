@@ -55,6 +55,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [IPM](https://manassaloi.com/2020/05/01/running-IPM.html)
   - [Stand-ups](https://manassaloi.com/2020/05/01/running-IPM.html)
   - Jira
+  - [Sprints](https://manassaloi.com/2020/05/01/running-IPM.html)
   - [Velocity tracker](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1212677191)
   - [Weekly Sprint retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Ice cream meter](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=19952379)
@@ -76,12 +77,12 @@ I plan to create templates and best practices for the following over the next 3 
   - Design checklist
   - [Backend spec](https://docs.google.com/document/d/1CB33dYpiK6JrgJl7_swlPUFz-Y-St8E9GnpuzzohdbY/edit?usp=sharing)
   - [Frontend tech spec](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
-  - Milestone planning
+  - [Milestone planning](https://docs.google.com/document/d/1CB33dYpiK6JrgJl7_swlPUFz-Y-St8E9GnpuzzohdbY/edit?usp=sharing)
   - QA checklist
   - Product development Checklist
   - Acceptance criteria
-  - User stories
-  - Dev stories
+  - [User stories](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.b2fqwtvw6ni5)
+  - [Dev stories](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
   - [Job stories](https://www.intercom.com/blog/accidentally-invented-job-stories/)
   - Slack workflow for feature development
   - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
