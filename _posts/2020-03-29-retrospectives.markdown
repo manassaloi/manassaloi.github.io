@@ -35,6 +35,8 @@ title:  "[Retrospectives] How to run a Retrospective"
   - Retrospective is part of a larger all hands session which starts by highlighting key wins
   - Do a safety check: a survey on How safe the team feels about sharing their views in this group
   - Create a timeline of key projects delivered
+  - A timeline of things which did not go well can be helpful too
+  - In one retro I attended the moderator drew a timeline for the year, and he put both success and failures for each month. It was helpful to see the months where we outperformed vs the months our delivery slowed 
   - Add an Accomplishment section (check Coinbase' template below)
   - 3 sections: what went well, what did not go well, action items
   - A fourth section called 'What's confusing' can also be added
