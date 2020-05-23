@@ -12,20 +12,24 @@ We like involving Design as early as we can in the product development process. 
 - PM brainstorms with Designer
 - PM explains product principles
 - PM and Design come up with design principles
-- PM explains the prioritisation order for the problems he/she wants Design help
+- PM explains the prioritization order for the problems he/she wants Design help
 - Design works on the wireframes, mostly low fidelity, based on the priority order
-- Designer starts working on the design spec
+- The designer starts working on the design spec
 - Design review is set up for this project
 - Feedback is shared and added as MOM to the spec, and also shared on the Slack channel for the project
-- Designer and PM works on the feedback collected
-- Designer shares the first cut wireframes with more designers in their weekly design review, which involves not just this project but other projects that designers in the Org are working currently on
+- Designer and PM work on the feedback collected
+- The designer shares the first cut wireframes with more designers in their weekly design review, which involves not just this project but other projects that designers in the Org are working currently on
 - Additional feedback is collected and incorporated
 - Devs and QAs are also part of the design reviews from the beginning
-- So we avoid bringing unrealistic specs as well as designs to devs. By unrealistic I meant designs which will take months to build. We discuss alternate ways we can solve the problem. We see if there can be any any scope cut: things which can be pushed to later milestones or just removed from the requirements
+- So we avoid bringing unrealistic specs as well as designs to devs. By unrealistic I meant designs that will take months to build. We discuss alternate ways we can solve the problem. We see if there can be any scope cut: things which can be pushed to later milestones or just removed from the requirements
 - After multiple iterations, and multiple design reviews the wireframes are frozen
 - Now that the happy flow is clear we start focusing on the edge cases. Also errors
 - One these are done, we send the designs to a central IXD team which help us get the final high fidelity designs
 - Designs are uploaded on [Abstract](https://www.abstract.com/) and the link is shared with Devs
+- Post dev there are more review sessions held
+- Polishing work happens to get the feature to the final state: Production-ready
+- We incorporate more feedback from pre-alpha and alpha users
+- The feature is finally shipped and we get the kudos or the brickbats from our users ;)
 
 **Best resources on how to do design reviews**
 
