@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Stand-ups][IPM] Running a Stand-up and Iteration Planning Meetings"
+title:  "[Stand-ups][IPM][Sprints] Running Stand-up, Sprints and Iteration Planning Meetings"
 ---
 
 ## Stand-up
@@ -27,6 +27,25 @@ I run weekly Iteration Planning Meetings (IPMs) for the sub-streams I run inside
 - Most of the times we are done within 40-45 mins. In that case, I end the meeting early. I hate doing meetings for the sake of it, and instead of expanding the meeting to fit the time slot, I prefer people going back to their work
 - Note that we don't discuss Jira during the IPM. For me as a PM, I generally just care about whether we are meeting timelines for each milestone of the project. I don't like obsessing over each story of a sprint. I let the developers cut their own stories with their TL. Over planning a sprint as well as micromanaging on a daily level has never given me any joy
 - I update all the trackers that I maintain async. Read my rules for [Project management](https://manassaloi.com/2020/04/26/rules-project-management.html)
+
+## Sprints
+
+- One week sprints
+- Backlog grooming meeting 1 day before IPM
+- Dev stories created by devs
+- Estimation of stories done jointly by dev and TL
+- Stories added to backlog
+- Jira board divided into
+  - Up next
+  - Blocked
+  - In progress
+  - Code review/Pending deployment
+  - Pending in QA
+  - Done/ In Production
+- Blocked = Any card which is blocked due to dependency on external teams, or some other reason
+- Done = Shipped to Production
+- Moving something to Integration != Done
+- Epics map to [Dev milestones](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
