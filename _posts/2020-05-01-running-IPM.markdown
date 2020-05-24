@@ -46,6 +46,9 @@ I run weekly Iteration Planning Meetings (IPMs) for the sub-streams I run inside
 - Done = Shipped to Production
 - Moving something to Integration != Done
 - Epics map to [Dev milestones](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
+- Sprints are independent or milestones, which in turn are independent of client releases
+- Milestones for a feature might stretch across multiple sprints
+- Completed features get shipped in the next release
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
