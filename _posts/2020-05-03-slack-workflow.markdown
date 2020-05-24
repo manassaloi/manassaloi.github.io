@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Slack workflow"
+---
+
+- Slack channels for
+  - PM team: Only for PMs
+  - Design channel: to discuss design
+  - Research channel: to discuss research
+  - BI channel: to discuss all things BI/data
+  - Ops channel: to discuss ops
+  - PDG (Product and Development Group) leads
+  - Internal channel for PDG: Only for PDG
+  - Each project: each project needs a dedicated slack channel
+  - Customer Feedback: collect and discuss feedback on all issues
+  - Production Support: in case of prod issue
+  - Alpha channel: share and discuss feedback on alpha build
+  - Pre Alpha channel: share and discuss feedback on pre-alpha build
+  - Deployments channel: to inform people when there is a deployment happening
+  - Release channel: for each new build going out on appstore/playstore
+  - Stream channel (external): where things related to the stream are discussed
+  - Stream channel (core): only core members added. private channel
+
+- For each project create a new channel
+- Pin all documents on the project channel
+- Jira integration with Stream channel (external). All Jira updates posted there. Can be noisy, but the flow which works as of now
+- Standup updates for people who missed posted in Stream channel (core)
+- If you are taking leave etc, you post on Stream channel (external) where there are more people
+- More project workflow info posted here: [Project management rules](https://manassaloi.com/2020/04/26/rules-project-management.html)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
