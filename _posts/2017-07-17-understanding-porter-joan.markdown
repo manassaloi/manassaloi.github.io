@@ -311,7 +311,7 @@ The same is true in a small but growing corner of the food business. Why are con
 
 - Whirlwind’s configuration of activities produces a different kind of value with a different cost profile. Looking at competing value chains side by side highlights those differences. If your value chain looks like everyone else’s, then you are engaged in competition to be the best
 
-![Value chain of donated wheelchair](/assets/img/donated_wheelchair_png)
+![Value chain of donated wheelchair](/assets/img/donated_wheelchair.png)
 
 3. Zero in on price drivers, those activities that have a high current or potential impact on differentiation. Do you or could you create superior value for your customers by performing activities in a distinctive way or by performing activities that competitors don’t perform? Can you create that value without incurring commensurate costs? Buyer value can arise throughout the value chain. It can come from product design, for example, as it does for Whirlwind Wheelchair. It can come from choices in the inputs used or the production process itself, both of which are key to the success of In-N-Out Burger, a chain of over 230 hamburger restaurants that uses only the freshest ingredients and prepares its limited menu on-site. It can be created by the selling experience, as any visitor to an Apple Store will tell you. Or, it can arise from after-sales support activities. Every Apple Store, for example, has a Genius Bar where customers can go for free help with technical questions. Whirlwind’s spare parts policy is another example. Whether the customer is a company or a household, examining how your activities are part of the whole value system is the key to understanding buyer value
 
