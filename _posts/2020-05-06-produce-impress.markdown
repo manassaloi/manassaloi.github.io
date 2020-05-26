@@ -19,4 +19,6 @@ This is the reason I sometimes wish I had remained a developer. Or had picked up
 
 IC role > PM
 
+Credit to [Shreyas Doshi's thread](https://mobile.twitter.com/i/status/1256652582447017985) which inspired this post. 
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
