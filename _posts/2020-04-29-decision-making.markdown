@@ -7,6 +7,7 @@ A template which I use for making big decisions: [Taking a decision on X](https:
 
 The template is inspired from the following resources I have read on decision making:
 - [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
+- [Decisive: How to Make Better Choices in Life and Work - Chip Heath, Dan Heath](https://manassaloi.com/booksummaries/2017/07/16/decisive-health.html)
 - [DACI](https://www.atlassian.com/team-playbook/plays/daci)
 - [Eisenhower matrix](https://jamesclear.com/eisenhower-box)
 - [This Matrix Helps Growing Teams Make Great Decisions](https://firstround.com/review/this-matrix-helps-growing-teams-make-great-decisions/)
