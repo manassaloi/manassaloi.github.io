@@ -8,7 +8,7 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 ### Frameworks from some of my fav books on Strategy
 
-1. **[My fav one: Thiel’s 7 questions](https://manassaloi.com/booksummaries/2019/08/23/zero-one-peter-thiel.html)**: He explains how Tesla is different from other clean tech companies (check the end of the post). Zero to One is a must read if you work in startups/planning to startup.
+1. **[Thiel’s 7 questions](https://manassaloi.com/booksummaries/2019/08/23/zero-one-peter-thiel.html)**: He explains how Tesla is different from other clean tech companies (check the end of the post). Zero to One is a must read if you work in startups/planning to startup.
 
 2. **[Hamilton’s 7 powers:](https://manassaloi.com/booksummaries/2019/08/22/seven-powers-hamilton-helmer.html)** Scale economics, Network economics, Counter positioning, Switching cost, Branding, Cornered resources, Process power. Something you should read if you are interested in business strategy.
 
@@ -23,6 +23,8 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 7. **[Obviously Awesome](https://manassaloi.com/booksummaries/2017/07/09/obviously-awesome-april.html)** is one of the best books  on product positioning.
 
 8. **[Blue Ocean Strategy](https://docs.google.com/document/d/1sx28G6cSbBjksvc0RoojQK4PiY1XgEPMHaenJvGRUWo/edit)** is one of the first strategy books I ever read.
+
+9. **[My fav one: Understanding Michael Porter](https://manassaloi.com/booksummaries/2017/07/17/understanding-porter-joan.html)** If you read this one you don't need to read another strategy book.
 
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes.
