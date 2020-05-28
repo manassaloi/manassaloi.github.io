@@ -23,6 +23,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Lazy leadership](https://medium.com/flow/lazy-leadership-8ba19e34f959)
 - [80/20](https://manassaloi.com/2020/03/31/80-20.html)
 - [Values driven](https://twitter.com/jmspool/status/1028325798384726017)
+- [Produce > Process > Impress](https://manassaloi.com/2020/05/06/produce-impress.html)
 
 
 ## Product development & Design
@@ -32,6 +33,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Data informed, not driven](https://manassaloi.com/2020/03/02/data-driven.html)
 - [Focus on velocity, not speed](https://fs.blog/2018/03/speed-velocity/)
 - [Design sprints](https://designsprintkit.withgoogle.com/planning/overview)
+- [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
 - Trust - Ownership - Accountability
 - [Create a Perfect slice of cake without much dressing](https://www.mindtheproduct.com/the-power-of-the-perfect-slice/)
 - Back loaded vs front loaded
@@ -42,18 +44,16 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Tiny details](https://blog.codinghorror.com/this-is-all-your-app-is-a-collection-of-tiny-details/)
 - P0 Bugs fixed asap. if it is fixed after a month, it probably is not a P0
 - [Have an empty chair](https://hunterwalk.com/2018/04/01/the-empty-chair-at-the-table-during-meetings-who-should-be-in-the-room-that-isnt/)
-- Don't push on Prod
+- [Don't push those untested changes on Production](https://manassaloi.com/2020/03/17/push-prod.html)
 - Checklists
 - Do demos
-- Follow up
-- Push > Pull
+- [Push > Pull](https://manassaloi.com/2020/04/21/push-pull.html)
 - Avoid Next feature fallacy
 - [Done is better than perfect](https://www.fastcompany.com/3001533/truth-about-being-done-versus-being-perfect)
 - [Design an 11-star experience](https://www.linkedin.com/pulse/how-scale-magical-experience-4-lessons-from-airbnbs-reid-hoffman/)
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
-- Macro vs micro
-- Be outcome thinkers; not technology or even problem solvers
-- Every task should have a PIC and a deadline
+- [Macro vs micro](https://medium.com/the-year-of-the-looking-glass/the-two-ways-of-building-ddc1587cb3f6)
+- [Be outcome thinkers](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac)
 - Quick feedback Real customers (QFRC)
 - Do one thing right first
 - Retrospective bundled
@@ -61,23 +61,21 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Be proactive, not reactive](https://twitter.com/ShaneAParrish/status/988435595776049152)
 - [Write science fiction, then make it a reality](https://manassaloi.com/booksummaries/2016/06/06/always-day-one-alex.html)
 - [Best products cut through a straight line](https://twitter.com/BrianNorgard/status/1037772321975484416)
-- Out of sight, out of mind
+- [Out of sight, out of mind](https://medium.com/the-year-of-the-looking-glass/what-you-see-is-what-you-use-5a97677a8c71#.x64zy09xo)
 - [Don't do pretend research](https://twitter.com/jasonfried/status/935617786730213376)
 - [Know if your actual process follows what is written process](https://twitter.com/ReinH/status/986037836603260928)
 - [To iterate, first ship](https://twitter.com/jasonfried/status/935555293014036480)
 - [Product development is a set of sliders](https://twitter.com/BrianNorgard/status/1097197234439872512)
-- Products are not designed by committees
-- 3 levels for product dev: time, scope and quality
 - Fundamental truths. Bezos 10 year what won't change
 - [Design products assuming positive behavior, have systems tackle bad behavior](https://twitter.com/vikramadhiman/status/1105853246793342976)
 - [Hooked model](https://manassaloi.com/2017/08/15/tez-50-million-sauce.html)
 - [Public channels vs Private DMs](https://twitter.com/noah_weiss/status/1108748545224515585)
-- [Do a pre-mortem](https://hunterwalk.com/2012/04/23/the-premortem-preventing-failure-before-you-fail/)
-- [Do a post-mortem]()
+- [Do a pre-mortem](https://manassaloi.com/2020/04/22/premortem-postmortem.html)
+- [Do a post-mortem](https://manassaloi.com/2020/04/22/premortem-postmortem.html)
 - [Have a DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)
 - [Settings need not be part of your MVP](https://twitter.com/DavidSacks/status/1172978856883417088)
-- product as functions
-- Short term impatient. Long term patient from Dara Uber
+- [Product is like a function](http://www.feltpresence.com/functions.html)
+- [Short term impatient, long term patient](https://medium.com/@jmj/short-term-impatient-long-term-patient-922f3f4c484c)
 - Bi-focal Vision
 - Don't confuse movement with progress
 - [Understand 2nd order effects; Chesterton’s Fence](https://fs.blog/2020/03/chestertons-fence/)
@@ -96,6 +94,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Know what winning looks like](https://manassaloi.com/2020/03/30/vision-winning.html)
 - [Give your users a superpower](https://manassaloi.com/2020/04/15/user-superpower.html)
 - [Product Dev is not done by a committee](https://boz.com/articles/strong-opinions)
+- [Controlling Scope is your best option](https://medium.com/@jchyip/four-variables-cost-time-quality-scope-f29b4de8bfdf)
 
 ## Decision making
 - [How I take big decisions](On making good decisions)
