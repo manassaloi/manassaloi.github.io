@@ -9,6 +9,9 @@ We like involving Design as early as we can in the product development process. 
 **Here is how our typical design process looks like**
 
 - PM shares the [product spec](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.b2fqwtvw6ni5)
+- PM adds the WHY behind the feature
+  - It can be either improvement in conversion of a product funnel
+  - or some product [problem](https://manassaloi.com/2019/12/25/ubereats-discovery.html) which has to be fixed
 - PM brainstorms with Designer
 - PM explains product principles
 - PM and Design come up with design principles
@@ -16,12 +19,16 @@ We like involving Design as early as we can in the product development process. 
 - Design works on the wireframes, mostly low fidelity, based on the priority order
 - The designer starts working on the design spec
 - Design review is set up for this project
+- PM comes with the WHAT: the milestones and their scope
+- In some cases the WHY and the WHAT comes even before the PM syncs up with the Designer and the designer works on the HOW
+- In others, the PM and Design jointly works on the WHAT
 - Feedback is shared and added as MOM to the spec, and also shared on the Slack channel for the project
 - Designer and PM work on the feedback collected
 - The designer shares the first cut wireframes with more designers in their weekly design review, which involves not just this project but other projects that designers in the Org are working currently on
 - Additional feedback is collected and incorporated
 - Devs and QAs are also part of the design reviews from the beginning
 - So we avoid bringing unrealistic specs as well as designs to devs. By unrealistic I meant designs that will take months to build. We discuss alternate ways we can solve the problem. We see if there can be any scope cut: things which can be pushed to later milestones or just removed from the requirements
+- All 3 stakeholders jointly work on the HOW
 - After multiple iterations, and multiple design reviews the wireframes are frozen
 - Now that the happy flow is clear we start focusing on the edge cases. Also errors
 - One these are done, we send the designs to a central IXD team which help us get the final high fidelity designs
