@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snapchat and self imposed constraints"
+title:  "Snapchat and self-imposed constraints"
 image: 'https://manassaloi.com/assets/img/snapchat.png'
 ---
 
