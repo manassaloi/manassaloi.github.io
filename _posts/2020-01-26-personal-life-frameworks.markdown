@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 40 frameworks for your life"
+title:  "[Frameworks] 42 frameworks for your life"
 
 ---
 
@@ -85,6 +85,10 @@ Some of the most important frameworks/models/principles I learned in the last fe
 39. [Get fuck you money](https://thedeepdish.org/fuck-you-money/); a wise man’s life is based around fuck you money
 
 40. [20 min optimism rule](https://www.forbes.com/sites/antoinegara/2020/05/19/the-dont-worry-make-money-strategy-trouncing-the-stock-market-by-30-percentage-points/#68c8639e2028); fight natural tendency for smart people to be skeptical and shoot down ideas prematurely
+
+41. [Build a life/career which can't be cancelled](https://www.nytimes.com/2020/05/25/opinion/joe-rogan-spotify-podcast.html); “When you have something that can’t get canceled, you can be free,” - Joe Rogan
+
+42. [Improve your maximum taste](https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/); the theory of maximum taste says that each person’s mind is defined by its upper limit—the best that it habitually consumes and is capable of consuming
 
 **Note:** I will keep expanding this list
 
