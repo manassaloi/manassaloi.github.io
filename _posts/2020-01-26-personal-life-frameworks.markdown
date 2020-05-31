@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 39 frameworks for your life"
+title:  "[Frameworks] 40 frameworks for your life"
 
 ---
 
@@ -83,6 +83,8 @@ Some of the most important frameworks/models/principles I learned in the last fe
 38. [Sacca’s Cabin in Truckee](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); have a hangout spot people want to go to
 
 39. [Get fuck you money](https://thedeepdish.org/fuck-you-money/); a wise man’s life is based around fuck you money
+
+40. [20 min optimism rule](https://www.forbes.com/sites/antoinegara/2020/05/19/the-dont-worry-make-money-strategy-trouncing-the-stock-market-by-30-percentage-points/#68c8639e2028); fight natural tendency for smart people to be skeptical and shoot down ideas prematurely
 
 **Note:** I will keep expanding this list
 
