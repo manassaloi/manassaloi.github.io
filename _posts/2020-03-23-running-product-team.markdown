@@ -15,6 +15,7 @@ They will also include the
 - WHY
 - WHAT
 - HOW
+- WHEN
 
 I plan to create templates and best practices for the following over the next 3 months. If I think there are better resources out there for the same, I will link them instead of creating a new document
 
@@ -41,12 +42,12 @@ I plan to create templates and best practices for the following over the next 3 
   - [Wednesday Weekly Product Sync-up](https://docs.google.com/document/d/1fw93-oEYzzuDcsagZJjYM7Xu3bySbd1ilnOI98ybRfM/edit?usp=sharing)
   - Monthly review
 
-- **Creating your backlog and prioritisation** (Long term) (Mid term) (What)
+- **Creating your backlog and prioritisation** (Long term) (Mid term) (What) (When)
   - [Backlog](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=192262272)
   - [Prioritised items](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=192262272)
   - [Status of current items](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1191664602)
 
-- **Running the team** (Mid term) (Short term) (How)
+- **Running the team** (Mid term) (Short term) (How) (When)
   - Inception
   - Naming a team
   - [Projects in Dev Prioritisation & allocation](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=642287720)
@@ -72,7 +73,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
-- **Creating a new feature** (Short term) (What) (How)
+- **Creating a new feature** (Short term) (Why) (What) (How) (When)
   - Naming the project
   - [Pitch doc](https://docs.google.com/document/d/1ez5NflYwy9DxhAXzg2AA2p0eMLVWg3QgxHatg3Td1zA/edit?usp=sharing)
   - [Product spec](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html)
@@ -92,7 +93,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Project Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
 
-- **Working with other teams/external Stakeholder** (Mid term) (What) (How)
+- **Working with other teams/external Stakeholder** (Mid term) (What) (How) (When)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
   - [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing)
   - [Request for Experimentation](https://docs.google.com/document/d/1VRKPa29HHHGqFsFEPqPUthg2955A_BAzzbDuVFKyPmU/edit?usp=sharing)
@@ -107,7 +108,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Daily email with data
   - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
 
-- **Project Management** (Short term) (How)
+- **Project Management** (Short term) (What) (How) (When)
   - [Project management how-tos](https://manassaloi.com/2020/04/26/rules-project-management.html)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
