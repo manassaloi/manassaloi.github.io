@@ -4,7 +4,7 @@ title:  "Career development plan for PMs"
 
 ---
 
-If you want growth in an org, you need access to the following documents:
+You need to discuss the following with your manager:
 
 1. [Org ladder](https://www.sachinrekhi.com/product-management-career-ladders-at-8-top-technology-firms) - where you stand in the org
 2. [GFW - skill](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Senior%20Group%20Lead) rating across various tracks relevant for a PM
