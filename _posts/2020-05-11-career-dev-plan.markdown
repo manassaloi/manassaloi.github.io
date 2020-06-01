@@ -15,8 +15,8 @@ If you want growth in an org, you need access to the following documents:
 7. [Gap analysis](https://medium.com/@ianmcall/mind-the-gap-analysis-and-get-promoted-e4bb4462ef40) - close the skill gap and level up with your IDP plan
 
 **Other links**:
-- [M Career Skills Map](https://twitter.com/shreyas/status/1264621650663727104)
+- [Career Skills Map](https://twitter.com/shreyas/status/1264621650663727104)
 - [Intercom ladder](https://mobile.twitter.com/Padday/status/1237753130911174656)
-- Product Manager Skills by Seniority Level](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
+- [Product Manager Skills by Seniority Level](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
