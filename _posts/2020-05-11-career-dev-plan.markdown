@@ -13,6 +13,7 @@ You need to discuss the following with your manager:
 5. [1-1 document](https://manassaloi.com/2020/01/28/one-on-ones.html) - for weekly 1-1
 6. [Brag doc](https://jvns.ca/blog/brag-documents/) - to help in promotion
 7. [Gap analysis](https://medium.com/@ianmcall/mind-the-gap-analysis-and-get-promoted-e4bb4462ef40) - close the skill gap and level up with your IDP plan
+8. [Your USP](https://manassaloi.com/2020/02/27/kind-of-PM.html) - what kind of PM do you want yourself to be known as?
 
 **Other links**:
 - [Career Skills Map](https://twitter.com/shreyas/status/1264621650663727104)
