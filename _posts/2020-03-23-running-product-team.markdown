@@ -108,7 +108,11 @@ I plan to create templates and best practices for the following over the next 3 
   - Daily email with data
   - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
 
-- **Project Management** (Short term) (What) (How) (When)
+- **Project management** (Short term) (What) (How) (When)
   - [Project management how-tos](https://manassaloi.com/2020/04/26/rules-project-management.html)
+
+- **Career development** (Mid term) (Long term)
+  - [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
