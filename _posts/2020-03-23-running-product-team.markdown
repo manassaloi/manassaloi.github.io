@@ -20,18 +20,20 @@ I plan to create templates and best practices for the following over the next 3 
 
 
 - **Vision and Strategy for the company** (Long term) (Why)
-  - [Company vision](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
-  - [Company goals, objectives]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
-  - [Company OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
-  - Off-site template
+  - [Company vision](https://manassaloi.com/2020/05/10/vision-mission.html)
+  - [Company goals, objectives](https://manassaloi.com/2020/05/10/vision-mission.html)
+  - [Company OKRs](https://manassaloi.com/2020/05/10/vision-mission.html)
+  - [Off-site template](https://coda.io/@clairehughesjohnson/claires-offsite-toolkit)
   - [Pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
   - [Half Yearly Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
+  - [Quarterly Strategy meeting](https://medium.com/@gibsonbiddle/how-to-run-a-quarterly-product-strategy-meeting-a-board-meeting-for-product-3a14c4d53d1b)
 
 - **Vision and Strategy for product teams** (Long term) (Why)
   - [Team OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
   - [Team charter]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
   - [Team vision]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
+  - [Product Strategy Workshops](https://www.departmentofproduct.com/blog/how-to-run-product-strategy-workshops/)
 
 - **Team planning** (Medium term) (What) (How)
 
