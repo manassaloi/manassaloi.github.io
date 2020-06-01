@@ -20,16 +20,17 @@ I plan to create templates and best practices for the following over the next 3 
 
 
 - **Vision and Strategy for the company** (Long term) (Why)
-  - Company vision
-  - Company goals, objectives
-  - Company OKRs
+  - [Company vision](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
+  - [Company goals, objectives]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
+  - [Company OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
   - Off-site template
+  - [Pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
   - [Half Yearly Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
 
 - **Vision and Strategy for product teams** (Long term) (Why)
-  - Team OKRs
-  - Team charter
-  - Team vision
+  - [Team OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
+  - [Team charter]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
+  - [Team vision]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing))
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
 
 - **Team planning** (Medium term) (What) (How)
