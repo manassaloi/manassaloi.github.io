@@ -2,7 +2,9 @@
 layout: post
 title:  "Vision, mission, values, OKRs, and the pyramid of clarity"
 ---
-Created a[Charter doc template](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing) which you can use for your team
+Created a [Charter doc template](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing) which you can use for your team
+
+OKR template: [here](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
 
 **Best resources on how to draft your vision, mission, values, OKRs and how they all connect together**
 
