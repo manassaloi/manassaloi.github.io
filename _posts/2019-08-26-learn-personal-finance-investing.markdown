@@ -21,5 +21,6 @@ Books I have read in personal finance and investing. Sorted from most helpful an
 11. [A Random Walk Down Wall Street - Burton Malkiel](https://manassaloi.com/booksummaries/2016/03/17/random-walk-wallstreet-malkiel.html)
 12. [The Essays of Warren Buffett: Lessons for Corporate America — Lawrence A. Cunningham, Warren E. Buffett](https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html)
 13. [More Than You Know: Finding Financial Wisdom in Unconventional Places — Michael J. Mauboussin](https://manassaloi.com/booksummaries/2016/07/11/more-than-you-know-michael-j-mauboussin.html)
+14. [From the Rat Race to Financial Freedom - Manoj Arora](https://manassaloi.com/booksummaries/2017/07/20/rat-race-financial-freedom.html)
 
 **/threadends**
