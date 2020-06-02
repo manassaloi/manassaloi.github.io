@@ -4,6 +4,7 @@ title:  "Decisive: How to Make Better Choices in Life and Work - Chip Heath, Dan
 tags: booksummaries
 categories: booksummaries
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 - The core difficulty of decision making: What’s in the spotlight will rarely be everything we need to make a good decision, but we won’t always remember to shift the light. Sometimes, in fact, we’ll forget there’s a spotlight at all, dwelling so long in the tiny circle of light that we forget there’s a broader landscape beyond it.
 

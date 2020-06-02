@@ -5,6 +5,8 @@ tags: booksummaries
 categories: booksummaries
 ---
 
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
+
 Extreme Ownership is a mind-set, an attitude. If leaders exhibit Extreme Ownership and develop a culture of Extreme Ownership within their teams and organizations, the rest falls into place. Soon, a leader no longer needs to be involved in the minor details of decisions but can look up and out to focus on the strategic mission as the team handles the tactical battles. The goal of all leaders should be to work themselves out of a job. This means leaders must be heavily engaged in training and mentoring their junior leaders to prepare them to step up and assume greater responsibilities. When mentored and coached properly, the junior leader can eventually replace the senior leader, allowing the senior leader to move on to the next level of leadership.
 
 ## TAKING EXTREME OWNERSHIP

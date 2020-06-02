@@ -4,6 +4,7 @@ title:  "Understanding Michael Porter: The Essential Guide to Competition and St
 tags: booksummaries
 categories: booksummaries
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 - STRATEGY EXPLAINS how an organization, faced with competition, will achieve superior performance
 
