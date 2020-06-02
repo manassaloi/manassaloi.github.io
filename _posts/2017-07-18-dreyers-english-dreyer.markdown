@@ -52,9 +52,7 @@ categories: booksummaries
 	Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector.
 
 Oh la la, one is intended to merrily note, is Nelson Mandela really an eight-hundred-year-old demigod and a dildo collector?
-Oh la la, I note, even if one sets a series comma, as in:
-
-	Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod, and a dildo collector.
+Oh la la, I note, even if one sets a series comma, as in: Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod, and a dildo collector.
 
 Mandela can still be an eight-hundred-year-old demigod.
 Some sentences don’t need to be repunctuated; they need to be rewritten.
