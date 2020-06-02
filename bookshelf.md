@@ -41,20 +41,20 @@ List of books I've found useful
 + [Super Pumped: The Battle for Uber - Mike Isaac](https://www.goodreads.com/book/show/44573628-super-pumped)
 + [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company - Robert Iger](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime)
 + [Grinding It Out: The Making of McDonald's - Ray Kroc](https://www.goodreads.com/book/show/498886.Grinding_It_Out)
-
++ [No Filter: The Inside Story of Instagram - Sarah Frier](https://www.goodreads.com/book/show/50772888-no-filter)
++ [Big Billion Startup: The Untold Flipkart Story - Mihir Dalal](https://www.goodreads.com/book/show/52346729-big-billion-startup)
++ [How to Turn Down a Billion Dollars: The Snapchat Story - Billy Gallagher](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars)
 
 ### Company Building Playbook
 
-+ [Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake Masters](https://www.goodreads.com/book/show/18050143-zero-to-one)
-+ [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 + [Running Lean: Iterate from Plan A to a Plan That Works - Ash Maurya](https://www.goodreads.com/book/show/13078769-running-lean)
 + [The Fixer: My Adventures Saving Startups from Death by Politics - Bradley Tusk](https://www.goodreads.com/book/show/38649807-the-fixer)
 + [High Growth Handbook - Elad Gil](https://www.goodreads.com/book/show/40536148-high-growth-handbook)
 + [Built to Last: Successful Habits of Visionary Companies - James C. Collins,  Jerry I. Porras](https://www.goodreads.com/book/show/4122.Built_to_Last)
 + [Good to Great: Why Some Companies Make the Leap... and Others Don't - James C. Collins](https://www.goodreads.com/book/show/76865.Good_to_Great)
 + [Insanely Simple: The Obsession That Drives Apple's Success - Ken Segall](https://www.goodreads.com/book/show/13383957-insanely-simple)
-+ [Only the Paranoid Survive - Andrew S. Grove](https://www.goodreads.com/book/show/66863.Only_the_Paranoid_Survive)
 + [Be Our Guest: Perfecting the art of customer service - Walt Disney Company](https://www.goodreads.com/book/show/205979.Be_Our_Guest)
++ [Always Day One: How the Tech Titans Plan to Stay on Top Forever - Alex Kantrowitz](https://www.goodreads.com/book/show/52027218-always-day-one)
 
 ### Leading & Managing
 
@@ -78,21 +78,28 @@ List of books I've found useful
 + [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt,  Jonathan Rosenberg](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
 + [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 + [The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle](https://www.goodreads.com/book/show/33517721-the-culture-code)
++ [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 
 ### Product & Strategy
 
 + [The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture - Scott Belsky](https://www.goodreads.com/book/show/40179007-the-messy-middle)
++ [Only the Paranoid Survive - Andrew S. Grove](https://www.goodreads.com/book/show/66863.Only_the_Paranoid_Survive)
 + [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies - Reid Hoffman](https://www.goodreads.com/book/show/38398157-blitzscaling)
++ [Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake Masters](https://www.goodreads.com/book/show/18050143-zero-to-one)
 + [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs - Ken Kocienda](https://www.goodreads.com/book/show/37638098-creative-selection)
 + [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant - W. Chan Kim](https://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy)
 + [The Power of Glamour: Longing and the Art of Visual Persuasion - Virginia Postrel](https://www.goodreads.com/book/show/16130362-the-power-of-glamour)
 + [Hooked: How to Build Habit-Forming Products - Nir Eyal](https://www.goodreads.com/book/show/22668729-hooked)
 + [The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business - Clayton M. Christensen](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma)
 + [Lean Analytics: Use Data to Build a Better Startup Faster - Alistair Croll,  Benjamin Yoskovitz](https://www.goodreads.com/book/show/16033602-lean-analytics)
++ [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 + [Platform Revolution - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary](https://www.goodreads.com/book/show/25622861-platform-revolution)
 + [7 Powers: The Foundations of Business Strategy - Hamilton Wright Helmer](https://www.goodreads.com/book/show/32816087-7-powers)
 + [Shape Up: Stop Running in Circles and Ship Work that Matters - Ryan Singer,  Jason Fried](https://www.goodreads.com/book/show/46823986-shape-up)
 + [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It - April Dunford](https://www.goodreads.com/book/show/45166937-obviously-awesome)
++ [Escaping the Build Trap: How Effective Product Management Creates Real Value - Melissa Perri](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap)
++ [Competing Against Luck - Clayton M. Christensen](https://www.goodreads.com/book/show/28820024-competing-against-luck)
++ [Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta](https://www.goodreads.com/book/show/13263934-understanding-michael-porter)
 
 
 ### Life & Living
@@ -134,6 +141,7 @@ List of books I've found useful
 + [Stock Market Wizards: Interviews with America's Top Stock Traders - Jack D. Schwager](https://www.goodreads.com/book/show/164131.Stock_Market_Wizards)
 + [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel](https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street)
 + [The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor)
++ [From the Rat Race to Financial Freedom - Manoj Arora](https://www.goodreads.com/book/show/18136642-from-the-rat-race-to-financial-freedom)
 
 
 ### Venture Capital
@@ -186,16 +194,18 @@ List of books I've found useful
 + [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 + [Never Split the Difference - Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
-### Mindset
+### The Art of living & Mindset
 
 + [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 + [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
 + [The Mental Game of Poker - Jared Tendler](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
++ [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
 
 ### Decision Making
 
 + [The 5 Elements of Effective Thinking - Edward B. Burger,  Michael Starbird](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
 + [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts - Annie Duke](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
++ [Decisive: How to Make Better Choices in Life and Work - Chip Heath, Dan Heath](https://www.goodreads.com/book/show/15798078-decisive)
 
 ### Career
 
