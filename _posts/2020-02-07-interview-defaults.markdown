@@ -5,7 +5,7 @@ title: "Interview Defaults"
 ---
 
 Defaults for an interviewee:
-
+0. Don't send your resume as a google doc. It has to always be a PDF. Also done't name it resume03.pdf
 1. Coming on time; I have no clue how someone can come half an hour late for an interview. If you start the interview by making your interviewers waste their time, then you better have a super strong excuse
 2. Not appearing arrogant or passing snarky comments
 3. Showing curiosity; So many candidates waste their chance to ask interesting questions during 'do you have any questions for us' at the end of the interview. That is generally your cue to show why you are different from the other 99% candidates. The fact that you have done your research, and want to know even more about the company, your role, the interviewer
