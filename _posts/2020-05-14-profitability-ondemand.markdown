@@ -4,7 +4,7 @@ title:  "Instacart turns profitable"
 
 ---
 
-**I wrote a twitter thread on on-demand sector a couple of months back. Turning it into a blogpost**
+**I had written a twitter thread on on-demand sector a couple of months back. Turning it into a blogpost**
 
 **/threadstarts**
 
