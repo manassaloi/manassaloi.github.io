@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why did they do this?"
+title: "Understanding product decisions: Why did they do this?"
 
 ---
 
