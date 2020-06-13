@@ -31,5 +31,6 @@ The template is inspired from the following resources I have read on decision ma
 - [Quality of outcome vs quality of decision](https://tomtunguz.com/outcome-quality-decision-quality/)
 - [Pinterest Founder Ben Silbermann’s Lessons on Decision Making, Values, and Taking Time for Yourself](https://medium.com/@villageglobal/pinterest-founder-ben-silbermanns-lessons-on-decision-making-values-and-taking-time-for-yourself-5c76c1517a38)
 - [A Leader’s Guide To Deciding: What, When, and How To Decide](https://medium.learningbyshipping.com/a-leader-s-guide-to-deciding-what-when-and-how-to-decide-f6caf659fa7e)
+- [Naval's 3 decision making heuristics](https://www.youtube.com/watch?v=3tnOc32k7Ac)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

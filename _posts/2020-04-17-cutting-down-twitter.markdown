@@ -17,4 +17,6 @@ I have also realized that there are so many things I want to learn in life. Get 
 
 Let's see if I can stick to it.
 
+13th June Update: I also got rid of my Linkedin feed thanks to [this script](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546) 
+
 You can still check my Twitter profile here if you are interested: [@manas_saloi](http://twitter.com/manas_saloi)
