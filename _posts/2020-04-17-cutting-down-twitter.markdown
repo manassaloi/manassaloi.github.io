@@ -5,7 +5,7 @@ title: "Cutting down my Twitter usage"
 
 Since I am always public about my goals, here is a new one: I will try to limit my time on Twitter to just posting links, maybe apart from the occasional joke or two, if I really can't resist. I had been cutting my time on Twitter over the last few weeks by:
 1. turning off notifications
-2. turning of DMs
+2. turning off DMs. not replying to incoming DMs except from people I know really well
 3. using motion on Desktop web
 4. deleting tweets every 2 days
 
@@ -17,6 +17,6 @@ I have also realized that there are so many things I want to learn in life. Get 
 
 Let's see if I can stick to it.
 
-13th June Update: I also got rid of my Linkedin feed thanks to [this script](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546) 
+13th June Update: I also got rid of my Linkedin feed thanks to [this script](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
 
 You can still check my Twitter profile here if you are interested: [@manas_saloi](http://twitter.com/manas_saloi)
