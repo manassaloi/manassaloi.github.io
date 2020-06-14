@@ -30,3 +30,5 @@ This will be the place where I link to all the self improvement gyaan I have giv
 
 - [Deepwork - Cal Newport](https://manassaloi.com/booksummaries/2016/01/11/deepwork-cal-newport.html)
 - [So good they can't ignore you - Cal Newport](https://manassaloi.com/booksummaries/2016/01/12/so-good-they-cant-ignore-you-cal-newport.html)
+
+**Note:** I will keep expanding this list

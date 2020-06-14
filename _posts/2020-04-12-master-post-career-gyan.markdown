@@ -48,5 +48,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [You and Your Research - Richard Hamming](https://manassaloi.com/2020/05/17/you-research.html)
 - [Keith Rabois - How to Operate](https://manassaloi.com/2020/02/17/rabois-os.html)
 
+**Note:** I will keep expanding this list
+
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
