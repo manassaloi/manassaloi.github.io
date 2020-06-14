@@ -25,10 +25,11 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [How to get shit done](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
 - [11 Habits that changed my life (and will yours too)](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
 
-
 ### Favourite books
 
 - [Deepwork - Cal Newport](https://manassaloi.com/booksummaries/2016/01/11/deepwork-cal-newport.html)
 - [So good they can't ignore you - Cal Newport](https://manassaloi.com/booksummaries/2016/01/12/so-good-they-cant-ignore-you-cal-newport.html)
 
 **Note:** I will keep expanding this list
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -40,7 +40,11 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 17. [Punch above your weight class](https://www.allencheng.com/tools-of-titans-summary-tim-ferriss/); Chris Sacca invited himself to meetings and offered to take notes
 
-18. [optimise for Rate-of-learning early in your career](https://kyletibbitts.com/rate-of-learning-the-most-valuable-startup-compensation-56dddc17fa42); it can be the most valuable compensation for working at a startup
+18. [Pptimise for Rate-of-learning early in your career](https://kyletibbitts.com/rate-of-learning-the-most-valuable-startup-compensation-56dddc17fa42); it can be the most valuable compensation for working at a startup
+
+19. [Work on the most important problems](https://manassaloi.com/2020/05/17/you-research.html); only way to create a big impact
+
+20. [Create your own operating system](https://manassaloi.com/2020/02/17/rabois-os.html); this is Rabois'. I created mine [here](https://manassaloi.com/2020/03/23/running-product-team.html)
 
 **Note:** I will keep expanding this list
 
