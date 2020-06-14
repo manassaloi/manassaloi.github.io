@@ -69,7 +69,6 @@ I plan to create templates and best practices for the following over the next 3 
   - Showcases
   - [Slack workflow](https://manassaloi.com/2020/05/03/slack-workflow.html)
   - [Design jam](https://manassaloi.com/2020/03/04/design-jam.html)
-  - [Ice cream meter](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=19952379)
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
