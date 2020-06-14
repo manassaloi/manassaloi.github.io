@@ -4,11 +4,11 @@ title: "Cutting down my Twitter usage"
 ---
 
 Since I am always public about my goals, here is a new one: I will try to limit my time on Twitter to just posting links, maybe apart from the occasional joke or two, if I really can't resist. I had been cutting my time on Twitter over the last few weeks by:
-1. Turning off notifications. No idea who is quote tweeting me or liking my tweets
-2. Turning off DMs. Not replying to incoming DMs except from people I know really well
-3. Using motion on Desktop web
-4. Deleting tweets every 2 days
-5. Not relying to most comments
+1. Turning off notifications. No idea who is quote tweeting me or liking my tweets.
+2. Turning off DMs. Not replying to incoming DMs except from people I know really well.
+3. Using motion on Desktop web.
+4. Deleting tweets every 2 days.
+5. Not relying to most comments.
 
 I want to take it a step further by cutting down all my shitposting, and only posting tweets which I think are helpful to my followers. Joking on Twitter, dunking on stupid things I see online has run its course. It used to be fun once. Lately, I am spending way more time explaining myself, justifying my views. Time which can be spent on other high ROI activities.
 
