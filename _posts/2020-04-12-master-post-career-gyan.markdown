@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Career Gyaan Master Post] How to think about your career"
+title: "[PM Career Gyaan Master Post] How to think about your career"
 
 ---
 
@@ -22,6 +22,14 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [How to think about a job offer](https://manassaloi.com/2020/04/11/random-career-gyan-3-job-offer.html)
 - [10 Steps for Landing a Job at a Startup](https://manassaloi.com/2019/02/10/10-steps-for-landing-a-job-at-a-startup.html)
 - [How I became a Product Manager](https://manassaloi.com/2018/03/30/how-i-became-pm.html)
+- [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+- [Produce > Process > Impress](https://manassaloi.com/2020/05/06/produce-impress.html)
+- [Maximizers vs Optimizers](https://manassaloi.com/2020/04/18/maximizer-optimizer.html)
+- [PM as energy curator](https://manassaloi.com/2020/03/15/energy-curator.html)
+- [YES and NO](https://manassaloi.com/2020/02/25/yes-no.html)
+- [How -> What -> Why](https://manassaloi.com/2020/02/11/why-what-how.html)
+- [Interview Defaults](https://manassaloi.com/2020/02/07/interview-defaults.html)
+- [PM Interview Questions](https://manassaloi.com/2020/02/01/pm-interview-questions.html)
 
 ### Favourite books on Career
 
@@ -34,5 +42,11 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://manassaloi.com/booksummaries/2016/05/31/startup-of-you-reid-hoffman.html)
 - [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers - Alex Banayan](https://manassaloi.com/booksummaries/2017/07/12/third-door-alex-banayan.html)
 - [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho, Kim Powell, Tahl Raz](https://manassaloi.com/booksummaries/2016/05/04/the-ceo-next-door-elena.html)
+
+### Favourite posts on Career
+
+- [You and Your Research - Richard Hamming](https://manassaloi.com/2020/05/17/you-research.html)
+- [Keith Rabois - How to Operate](https://manassaloi.com/2020/02/17/rabois-os.html)
+
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
