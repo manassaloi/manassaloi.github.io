@@ -158,7 +158,7 @@ List of books I've found useful
 + [Bird by Bird: Some Instructions on Writing and Life - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
 
-### UX
+### UX and Customer development
 
 + [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you - Rob Fitzpatrick](https://www.goodreads.com/book/show/18529000-the-mom-test)
 + [Designing for Emotion - Aarron Walter](https://www.goodreads.com/book/show/12910715-designing-for-emotion)
@@ -166,15 +166,6 @@ List of books I've found useful
 + [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp](https://www.goodreads.com/book/show/25814544-sprint)
 + [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 + [Emotional Design: Why We Love (or Hate) Everyday Things - Donald A. Norman](https://www.goodreads.com/book/show/841.Emotional_Design)
-
-### Marketing & Sales
-
-+ [Made to Stick: Why Some Ideas Survive and Others Die - Chip Heath,  Dan Heath](https://www.goodreads.com/book/show/69242.Made_to_Stick)
-+ [Difference: The one-page method for reimagining your business and reinventing your marketing - Bernadette Jiwa](https://www.goodreads.com/book/show/20746217-difference)
-+ [SPIN Selling: Situation Problem Implication Need-payoff - Neil Rackham](https://www.goodreads.com/book/show/833015.SPIN_Selling)
-+ [Trust Me, I'm Lying: Confessions of a Media Manipulator - Ryan Holiday](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)
-+ [Marketing Warfare - Al Ries,  Jack Trout](https://www.goodreads.com/book/show/2595.Marketing_Warfare)
-+ [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](https://www.goodreads.com/book/show/641604.Purple_Cow)
 
 ### Visual Design, Art & Branding
 
@@ -185,6 +176,15 @@ List of books I've found useful
 + [Hello, My Name Is Awesome: How to Create Brand Names That Stick - Alexandra Watkins](https://www.goodreads.com/book/show/20578350-hello-my-name-is-awesome)
 + [Logo Design Love: A Guide to Creating Iconic Brand Identities - David Airey](https://www.goodreads.com/book/show/6728983-logo-design-love)
 + [The Graphic Design Idea Book: Inspiration from 50 Masters - Steven Heller, Gail Anderson](https://www.goodreads.com/book/show/26246256-the-graphic-design-idea-book)
+
+### Marketing & Sales
+
++ [Made to Stick: Why Some Ideas Survive and Others Die - Chip Heath,  Dan Heath](https://www.goodreads.com/book/show/69242.Made_to_Stick)
++ [Difference: The one-page method for reimagining your business and reinventing your marketing - Bernadette Jiwa](https://www.goodreads.com/book/show/20746217-difference)
++ [SPIN Selling: Situation Problem Implication Need-payoff - Neil Rackham](https://www.goodreads.com/book/show/833015.SPIN_Selling)
++ [Trust Me, I'm Lying: Confessions of a Media Manipulator - Ryan Holiday](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)
++ [Marketing Warfare - Al Ries,  Jack Trout](https://www.goodreads.com/book/show/2595.Marketing_Warfare)
++ [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](https://www.goodreads.com/book/show/641604.Purple_Cow)
 
 ### Psychology & Negotiations
 
