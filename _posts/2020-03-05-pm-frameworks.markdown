@@ -188,6 +188,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [The Silent Meeting Manifesto](https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb)
 - [For Better Presentations, Start with a Villain](https://hbr.org/2015/11/for-better-presentations-start-with-a-villain)
 - [Escalate Early and Often](https://boz.com/articles/escalate-early)
+- [Make narrative your advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
 
 #Random
 - [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
