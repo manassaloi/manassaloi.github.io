@@ -14,3 +14,6 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [Product Leaders as Curators & Editors](https://adamnash.blog/2017/04/18/product-leaders-as-curators-editors/)
 - [Product Manager to Product Leader](https://www.reforge.com/blog/crossing-the-canyon-product-manager-to-product-leader)
 - [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
+- [Skills that help you succeed in your product management career as you get more senior](https://medium.com/@jackiebo/the-surprising-skills-that-help-you-succeed-in-your-product-management-career-as-you-get-more-3a1fcff40f8e)
+- [Hacking Your Product Leader Career](https://medium.com/@gibsonbiddle/hacking-your-product-management-career-cce227a9c39a)
+- [What Your Next Head of Product Looks Like](https://medium.com/speroventures/what-to-look-for-in-your-next-head-of-product-60ad54f2cc5e)

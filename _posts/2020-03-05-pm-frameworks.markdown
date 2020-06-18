@@ -24,6 +24,19 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [80/20](https://manassaloi.com/2020/03/31/80-20.html)
 - [Values driven](https://twitter.com/jmspool/status/1028325798384726017)
 - [Produce > Process > Impress](https://manassaloi.com/2020/05/06/produce-impress.html)
+- [Persistent Models vs. Point-In-Time Goals](https://cutlefish.substack.com/p/tbm-2553-persistent-models-vs-point)
+- [Try to be in your zone of genius](https://blog.alexmaccaw.com/zone-of-genius)
+- [Don't add your 2c](https://sivers.org/2c)
+- [Leadership as a Performing Art](https://www.edbatista.com/2017/04/leadership-as-a-performing-art.html)
+- [Focus + Momentum = Magic](https://www.linkedin.com/feed/update/activity:6627182942542225408/)
+- [Fill the shoes before changing the shoes](https://coda.io/@jerols/the-top-6-things-i-learned-in-my-first-week-as-a-product-manager)
+- [Nobody Cares](https://a16z.com/2011/10/08/nobody-cares/)
+- [Authority derives from merit](https://medium.com/@jack/authority-merit-80ad140f990b)
+- [Avoid success theater](https://medium.com/@johnpcutler/success-theater-b60a1666fe67)
+- [Chief Question Officer](https://blog.usejournal.com/chief-question-officer-444de1793dda)
+- [Avoid Certainty Theater](https://cutle.fish/blog/certainty-theater)
+- [The Manager as Debugger](https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html)
+- [Speak For Yourself](https://boz.com/articles/speak-yourself)
 
 
 ## Product development & Design
@@ -48,6 +61,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - Checklists
 - Do demos
 - [Push > Pull](https://manassaloi.com/2020/04/21/push-pull.html)
+- [Beware of small, rare problems](https://www.intercom.com/blog/good-products-bad-businesses/)
 - Avoid Next feature fallacy
 - [Done is better than perfect](https://www.fastcompany.com/3001533/truth-about-being-done-versus-being-perfect)
 - [Design an 11-star experience](https://www.linkedin.com/pulse/how-scale-magical-experience-4-lessons-from-airbnbs-reid-hoffman/)
@@ -76,6 +90,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Settings need not be part of your MVP](https://twitter.com/DavidSacks/status/1172978856883417088)
 - [Product is like a function](http://www.feltpresence.com/functions.html)
 - [Short term impatient, long term patient](https://medium.com/@jmj/short-term-impatient-long-term-patient-922f3f4c484c)
+- [Opportunity solution tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/?ref=https://product-frameworks.com)
 - Bi-focal Vision
 - Don't confuse movement with progress
 - [Understand 2nd order effects; Chesterton’s Fence](https://fs.blog/2020/03/chestertons-fence/)
@@ -88,6 +103,8 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Use speed as a competitive advantage](https://manassaloi.com/2018/07/22/speed-as-a-competitive-advantage.html)
 - [Avoid scaling prematurely](https://manassaloi.com/2017/08/12/premature-scaling-will-kill-your-start-up.html)
 - [Check support tickets](https://twitter.com/garrytan/status/1134939756255535104)
+- [Win As Second Mover](http://blog.eladgil.com/2012/10/how-to-win-as-second-mover.html)
+- [10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html)
 - [Honest debugging](https://twitter.com/cocoaphony/status/1224364439429881856)
 - [Inputs vs Outputs vs Outcomes](https://twitter.com/Padday/status/1219645868980211712)
 - [Focus on processes, not tools](https://manassaloi.com/2020/03/07/on-tools.html)
@@ -95,6 +112,23 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Give your users a superpower](https://manassaloi.com/2020/04/15/user-superpower.html)
 - [Product Dev is not done by a committee](https://boz.com/articles/strong-opinions)
 - [Controlling Scope is your best option](https://medium.com/@jchyip/four-variables-cost-time-quality-scope-f29b4de8bfdf)
+- [Keep digging](https://m.signalvnoise.com/keep-digging/)
+- [No snacking](https://www.intercom.com/blog/first-rule-prioritization-no-snacking/)
+- [Focus on input](https://www.investingcity.org/post/inputs-vs-outputs)
+- [Be butter](https://www.theslowhunch.net/2019/the-butter-thesis/)
+- [Ship outcomes, not just features](https://www.intercom.com/blog/outcomes-vs-features/)
+- [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553)
+- [Design sequences not stills](https://www.intercom.com/blog/designing-sequences-not-stills/)
+- [3 Stages of Failure](https://jamesclear.com/3-stages-of-failure)
+- [Why now?](https://avichal.com/2017/11/27/why-now/)
+- [Thinking Small, at first](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html?m=1)
+- [Simple, correct, fast](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
+- [Win by Cheating](https://avichal.com/2012/04/08/startups-win-by-cheating/)
+- [By Default, Ship Nothing](https://medium.com/@johnpcutler/by-default-ship-nothing-a5d651422aa3)
+- [Cost, Time, Quality, Scope](https://medium.com/@jchyip/four-variables-cost-time-quality-scope-f29b4de8bfdf)
+- [Make Big Bets](https://medium.com/@ameet/making-big-bets-6eec2a0e1982)
+- [Position, Position, Position!](https://m.signalvnoise.com/position--position--position/)
+- [Value, scale, time](http://gordonbrander.com/pattern/value-scale-time/)
 
 ## Decision making
 - [How I take big decisions](On making good decisions)
@@ -114,7 +148,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Steer into the Objection](https://manassaloi.com/2020/02/22/steer-into-objection.html)
 - [Always send a MOM afterwards](https://manassaloi.com/2020/03/22/mom-update.html)
 
-## Managing
+## Managing and scaling an org
 - [Always choose hard talk](https://medium.com/craft-ventures/happy-talk-versus-hard-talk-d2b9585597)
 - [Make sure the trust battery is not low](https://firstround.com/review/use-this-equation-to-determine-diagnose-and-repair-trust/)
 - [Trust is the currency of good management](https://twitter.com/marcprecipice/status/791738151051988993)
@@ -123,6 +157,13 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Push ownership down the ladder](https://twitter.com/tacertain/status/1166039964582199297)
 - [Tackle preventable problems](https://twitter.com/shreyas/status/1218724150312751104)
 - [Build a team that ships](https://nav.al/build-a-team-that-ships)
+- [Org chart matters](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
+- [Culture is the sum of everyone’s actions, not a slide deck or something written on a wall](https://supercell.com/en/news/10-learnings-10-years/7436/)
+- [Break the Team Goal Down Into Independent Levers](https://www.mindtheproduct.com/what-monzo-learned-from-scaling-its-lending-team/)
+- [It’s terribly difficult to manage unmotivated people. Make your job easier and don’t](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
+- [Pioneers, Settlers, Town Planners](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
+- [10x teams, 10x developers](https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
+- [Dreamers versus detailers](https://medium.com/@gerstenzang/dreamers-versus-detailers-8b43dbedde61)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
@@ -142,5 +183,13 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Ideas should be communicable in a napkin. Break down your ideas to the most simplified form](https://twitter.com/DavidSacks/status/475073311383105536)
 - [Use documentation as cache](https://manassaloi.com/2020/04/19/documentation-cache.html)
 - [Stop conversations as soon as there are diminishing returns](https://twitter.com/scottbelsky/status/1024672328284684290)
+- [Product Reviews](https://avichal.com/2016/08/04/product-reviews/)
+- [Breaking Bad News](https://boz.com/articles/bad-news)
+- [The Silent Meeting Manifesto](https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb)
+- [For Better Presentations, Start with a Villain](https://hbr.org/2015/11/for-better-presentations-start-with-a-villain)
+- [Escalate Early and Often](https://boz.com/articles/escalate-early)
+
+#Random
+- [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
