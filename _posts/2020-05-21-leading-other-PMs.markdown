@@ -13,3 +13,4 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [7 Heuristics for being a Product Director](https://blackboxofpm.com/7-heuristics-for-being-a-product-director-875d7e260516)
 - [Product Leaders as Curators & Editors](https://adamnash.blog/2017/04/18/product-leaders-as-curators-editors/)
 - [Product Manager to Product Leader](https://www.reforge.com/blog/crossing-the-canyon-product-manager-to-product-leader)
+- [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
