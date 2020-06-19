@@ -12,12 +12,12 @@ Check out material from my PM coaching course called Aristos: [Aristos - PM Coac
 
 - [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
 - [Product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
+- [Life, Learning and Productivity](https://manassaloi.com/2020/05/18/learning-master.html)
 - [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
 - [Learn poker](https://manassaloi.com/2020/04/07/learning-poker.html)
 - [Learn personal finance and investing](https://manassaloi.com/2019/08/26/learn-personal-finance-investing.html)
 - [Learn business strategy](https://manassaloi.com/2019/08/27/learn-business-strategy.html)
 - [Plan your personal OKRs](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
-- [Learn football](https://manassaloi.com/2020/02/02/learning-football.html)
 - [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 
