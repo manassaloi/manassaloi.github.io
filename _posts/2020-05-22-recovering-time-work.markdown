@@ -4,7 +4,7 @@ title:  "Getting back your time"
 
 ---
 A few tips to get your time back:
-- [Collaborate async through documentation than](https://manassaloi.com/2020/03/23/running-product-team.html).
+- [Collaborate async through documentation](https://manassaloi.com/2020/03/23/running-product-team.html).
 - End meetings early if you are done discussing the agenda items. Tell people I am giving back your X mins, which always make attendees happy.
 - Send an agenda with the meeting invite. Agenda less meetings lead to people digressing and talking random things, without coming to a decision on the open item for which the meeting was called.
 - 30 min meetings by default.
