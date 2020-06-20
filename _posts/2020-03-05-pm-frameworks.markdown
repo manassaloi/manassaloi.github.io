@@ -129,6 +129,11 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Make Big Bets](https://medium.com/@ameet/making-big-bets-6eec2a0e1982)
 - [Position, Position, Position!](https://m.signalvnoise.com/position--position--position/)
 - [Value, scale, time](http://gordonbrander.com/pattern/value-scale-time/)
+- [The better mousetrap doesn't always win](https://firstround.com/review/take-on-your-competition-with-these-lessons-from-google-maps/)
+- [Retroactively Bundled](https://medium.com/@gerstenzang/retroactively-bundled-cd9c05475bc7#.s0b4huaa9)
+- [The Tax of New](https://medium.com/the-year-of-the-looking-glass/the-tax-of-new-f777ec49f24a)
+- [Design for Continuous Experimentation](https://www.slideshare.net/danmckinley/design-for-continuous-experimentation)
+- [Build a Product with a High-Concept Problem](https://medium.com/the-year-of-the-looking-glass/build-a-product-with-a-high-concept-problem-c6d405cb1e89)
 
 ## Decision making
 - [How I take big decisions](On making good decisions)
@@ -140,6 +145,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Choose AND over OR](https://twitter.com/anguyenrex/status/1093128951101341697)
 - [Foster conditions conducive to high decision quality and high decision velocity](https://medium.com/@johnpcutler/decision-quality-decision-velocity-f99bb01d3afc)
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
+- [SPADE](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
@@ -164,12 +170,15 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Pioneers, Settlers, Town Planners](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
 - [10x teams, 10x developers](https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
 - [Dreamers versus detailers](https://medium.com/@gerstenzang/dreamers-versus-detailers-8b43dbedde61)
+- [Enterprise Value > Team Value > Self Value](https://thinkgrowth.org/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567#.p7ntpsrpj)
+- [Spot and Magnify the Powers of Your Superheroes](https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
 
 ## Project management
 - [Following these rules will help you to manage a big project more effectively](https://manassaloi.com/2020/04/26/rules-project-management.html)
+- [Create your own operator's manual](https://byrslf.co/operators-manual-20201872f369)
 
 ## Data
 - [Data should be accurate, automation, and accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
@@ -190,6 +199,8 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Escalate Early and Often](https://boz.com/articles/escalate-early)
 - [Make narrative your advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
 - [In the absence of knowledge, fear fills the void](https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70#.mwav21yxh)
+- [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
+- [Tell a better story](https://medium.com/@jack_mattr/how-apple-killed-blackberry-20535ea294bb)
 
 #Random
 - [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
