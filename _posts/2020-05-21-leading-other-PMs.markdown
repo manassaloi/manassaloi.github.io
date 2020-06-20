@@ -17,3 +17,5 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [Skills that help you succeed in your product management career as you get more senior](https://medium.com/@jackiebo/the-surprising-skills-that-help-you-succeed-in-your-product-management-career-as-you-get-more-3a1fcff40f8e)
 - [Hacking Your Product Leader Career](https://medium.com/@gibsonbiddle/hacking-your-product-management-career-cce227a9c39a)
 - [What Your Next Head of Product Looks Like](https://medium.com/speroventures/what-to-look-for-in-your-next-head-of-product-60ad54f2cc5e)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
