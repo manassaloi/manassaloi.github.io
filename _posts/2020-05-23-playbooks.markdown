@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Company Running Play books"
+title:  "Company running play books"
 
 ---
 
-- [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
-- [Spotify engineering culture](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+- [Atlassian](https://www.atlassian.com/team-playbook)
+- [Spotify](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 - [Facebook](https://web.archive.org/web/20180131232338/http://benbarry.com/project/facebooks-little-red-book)
 - [Valve](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 - [HubSpot](https://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 - [Netflix](https://www.slideshare.net/reed2001/culture-1798664)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
