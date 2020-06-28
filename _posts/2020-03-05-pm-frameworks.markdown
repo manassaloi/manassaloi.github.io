@@ -172,6 +172,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Dreamers versus detailers](https://medium.com/@gerstenzang/dreamers-versus-detailers-8b43dbedde61)
 - [Enterprise Value > Team Value > Self Value](https://thinkgrowth.org/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567#.p7ntpsrpj)
 - [Spot and Magnify the Powers of Your Superheroes](https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
+- [A CEO should look back only strategically, never with nostalgia](https://medium.com/@barmstrong/50-lessons-from-hps-company-culture-2efd03ec1411)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
@@ -201,6 +202,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [In the absence of knowledge, fear fills the void](https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70#.mwav21yxh)
 - [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
 - [Tell a better story](https://medium.com/@jack_mattr/how-apple-killed-blackberry-20535ea294bb)
+- [Building Better Products with Escalation](https://medium.com/@saumil/well-that-escalated-quickly-building-better-products-with-escalation-feb259d733c9#2a07-3e2b456edc38)
 
 #Random
 - [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)

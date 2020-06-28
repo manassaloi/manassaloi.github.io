@@ -14,7 +14,7 @@ You need to discuss the following with your manager:
 6. [Brag doc](https://jvns.ca/blog/brag-documents/) - to help in promotion
 7. [Gap analysis](https://medium.com/@ianmcall/mind-the-gap-analysis-and-get-promoted-e4bb4462ef40) - close the skill gap and level up with your IDP plan
 8. [Your USP](https://manassaloi.com/2020/02/27/kind-of-PM.html) - what kind of PM do you want yourself to be known as?
-9. [Skip-level 1:1s] - Do these
+9. [Skip-level 1:1s](https://medium.com/know-your-team-blog/skip-level-meetings-what-they-are-and-exactly-how-to-run-them-d9c24e63130b) - Do these
 
 **Other links**:
 - [Career Skills Map](https://twitter.com/shreyas/status/1264621650663727104)

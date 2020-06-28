@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project management rules"
+title:  "Project management best practices"
 image: 'https://manassaloi.com/assets/img/project_management_rules.png'
 ---
 
@@ -64,7 +64,7 @@ Following these rules will help you to manage a big project more effectively.
 32. Identify external stakeholders with whom you would need to coordinate for launch. Add them on Slack so that they have full context
 33. If there are multiple items marked as P0, then you don't have a P0
 34. [Welcome message for people joining a project channel](https://manassaloi.com/2020/03/06/welcome-on-slack.html)
-35. All features shipped successfully are celebrated with ice-cream parties; mostly the PM's treat 
+35. All features shipped successfully are celebrated with ice-cream parties; mostly the PM's treat
 
 I am working on a master post of all principles and frameworks I use as a PM here: [PM frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 
