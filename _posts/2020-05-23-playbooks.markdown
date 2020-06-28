@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Company running play books"
+title:  "Company running playbooks"
 
 ---
 

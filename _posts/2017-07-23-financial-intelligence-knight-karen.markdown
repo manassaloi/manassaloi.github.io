@@ -4,7 +4,7 @@ title:  "Financial Intelligence: A Manager's Guide to Knowing What the Numbers R
 tags: booksummaries
 categories: booksummaries
 ---
-**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. I know the formatting of this post is a bit messed up. It was too much effort to edit it. So please bear for once. Let's start!
 
 Revenue or sales refers to the value of what a company sold to its customers during a given period. You’d think that would be an easy matter to determine. But the question is, When should revenue be recorded (or “recognized,” as accountants like to say)? Here are some possibilities:
 • When a contract is signed
@@ -1875,8 +1875,6 @@ are skewing the DSO number
 The days payable outstanding (DPO) ratio shows the average number of days it takes a company to pay its own outstanding invoices.
 It’s sort of the flip side of DSO. The formula is similar: take ending accounts payable and divide by COGS per day: DPO:  Ending AP / (COGS/day)
 
-
-
 In other words, this company’s suppliers are waiting a longtime to get paid—about as long as the company is taking to collect its receivables. So what? Isn’t that the vendors’ problem to
 worry about, rather than this company’s managers? Well, yes and no. The higher the DPO, the better a company’s cash position,
 but the less happy its vendors are likely to be. A company with a reputation for slow pay may find that top-of-the-line vendors
@@ -1884,7 +1882,6 @@ don’t compete for its business quite so aggressively as they otherwise might. 
 stiffer. A company with a reputation for prompt thirty-day payment will find the exact opposite. Watching DPO is a way of
 ensuring that the company is sticking to whatever balance it wants to strike between preserving its cash and keeping vendors
 happy.
-
 
 PPE turnover ratio tells you how many dollars of sales your company gets for each dollar invested in property, plant, and equipment
 (PPE invested in property, plant, and equipment
@@ -1947,7 +1944,6 @@ percent of sales for each major line item. Then track the results over time. If 
 creep down, ask yourself why that happened—and if you don’t know, try to find someone who does. The exercise can teach you
 a lot about the competitive (or other) pressures your company has been under.
 
-
 Like the financial statements themselves, ratios fit together mathematically. One relationship among ratios is worth spelling out because it shows
 so clearly what we have been saying, namely that managers can affect a business’s performance in a variety of ways.
 
@@ -1991,7 +1987,6 @@ calculation can help her advise clients as to whether the company is a good inve
 Every calculation of future value involves a series of assumptions about what will happen between now and the time
 that you’re looking at. Change the assumptions, and you get a different future value. The variance in return rates is a form
 of financial risk. The longer the investment outlook, the more estimating is required, hence the higher the risk
-
 
 Present Value is the concept used most often in capital expenditure analysis. It’s the reverse of future value. Say you believe that
 a particular investment will generate $100,000 in cash flow per year over the next three years. If you want to know whether
@@ -2109,7 +2104,6 @@ The art in this is pulling the numbers together—how close can you come to quan
 So the payback method is a rough rule of thumb, not strong financial analysis. If payback looks promising, go on to the next
 method to see if the investment is really worth making.
 
-
 The net present value method is more complex than payback, but it’s also more powerful; indeed, it’s usually the finance professional’s
 first choice for analyzing capital expenditures. The reasons? One, it takes into account the time value of money, discounting
 future cash flows to obtain their value right now. Two, it considers a business’s cost of capital or other hurdle rate. Three,
@@ -2188,7 +2182,6 @@ Let’s take another example and see how the differences play out.
 
 Assume again that your company has $3,000 to invest. (Keeping the numbers small makes the calculations easier to follow.)
 It also has three different possible investments in different types of computer systems, as follows:
-
 
 Investment A: returns cash flow of $1,000 per year for three years
 Investment B: returns cash flow of $3,600 at the end of year one
