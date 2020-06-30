@@ -134,6 +134,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [The Tax of New](https://medium.com/the-year-of-the-looking-glass/the-tax-of-new-f777ec49f24a)
 - [Design for Continuous Experimentation](https://www.slideshare.net/danmckinley/design-for-continuous-experimentation)
 - [Build a Product with a High-Concept Problem](https://medium.com/the-year-of-the-looking-glass/build-a-product-with-a-high-concept-problem-c6d405cb1e89)
+- [Forcing functions are valuable](https://cutle.fish/blog/50-product-lessons)
 
 ## Decision making
 - [How I take big decisions](On making good decisions)
