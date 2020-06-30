@@ -9,7 +9,7 @@ A lot of people in the past have asked me for a list of tools we use here at Cou
 
 **Attribution and Analytics**
 
-We use **[Tune](http://www.tune.com/)****(Earlier MAT)** **+ **Localytics** here for[ CouponDunia Apps](https://play.google.com/store/apps/details?id=in.coupondunia.androidapp&hl=en).
+We use **[Tune](http://www.tune.com/)(Earlier MAT)** and **Localytics** here for[ CouponDunia Apps](https://play.google.com/store/apps/details?id=in.coupondunia.androidapp&hl=en).
 
 The other options are **Apsalar**, **AppsFlyer**, **Adjust** etc.
 
