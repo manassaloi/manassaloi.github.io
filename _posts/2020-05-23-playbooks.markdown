@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Company running playbooks"
+title:  "Company playbooks"
 
 ---
 
@@ -10,5 +10,6 @@ title:  "Company running playbooks"
 - [Valve](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 - [HubSpot](https://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 - [Netflix](https://www.slideshare.net/reed2001/culture-1798664)
+- [Basecamp](https://basecamp.com/handbook)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

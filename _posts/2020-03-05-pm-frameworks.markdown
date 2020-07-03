@@ -135,6 +135,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Design for Continuous Experimentation](https://www.slideshare.net/danmckinley/design-for-continuous-experimentation)
 - [Build a Product with a High-Concept Problem](https://medium.com/the-year-of-the-looking-glass/build-a-product-with-a-high-concept-problem-c6d405cb1e89)
 - [Forcing functions are valuable](https://cutle.fish/blog/50-product-lessons)
+- [4 types of product work beyond PMF](https://brianbalfour.com/quick-takes/product-market-fit-expansion)
 
 ## Decision making
 - [How I take big decisions](On making good decisions)

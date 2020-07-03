@@ -26,6 +26,8 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [How to Spot the Five-Tool Superstar](https://www.linkedin.com/pulse/20130121221644-22330283-how-to-spot-the-five-tool-superstar/)
 - [Product Manager You Are…a janitor, essentially](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e)
 - [A Manager's Manifesto](https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084)
+- [Crossing the Canyon: Product Manager to Product Leader](https://www.reforge.com/blog/crossing-the-canyon-product-manager-to-product-leader)
+- [Thread on the Product Management by Shreyas Doshi](https://mobile.twitter.com/shreyas/status/1278208608103043073)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

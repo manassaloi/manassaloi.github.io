@@ -26,6 +26,8 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 9. **[My fav one: Understanding Michael Porter](https://manassaloi.com/booksummaries/2017/07/17/understanding-porter-joan.html)** If you read this one you don't need to read another strategy book.
 
+10. **[Competing Against Luck](https://manassaloi.com/booksummaries/2017/07/22/competing-against-luck-christensen.html)**:  Customers don’t buy products or services; they "hire" them to do a job.
+
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes.
 
@@ -35,8 +37,6 @@ I read them long back. Have to re read and take notes.
 - [Thinking Strategically](https://www.amazon.com/Thinking-Strategically-The-Competitive-Edge-in-Business-Politics-and-Everyday-Life/dp/0393310353/)
 - [Playing to Win](https://www.amazon.com/dp/142218739X/)
 - [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
-- [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
-- [Understanding Michael Porter](https://www.amazon.com/dp/B005OVTMAY/)
 - [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
 - [Positioning: The Battle for Your Mind](https://www.goodreads.com/book/show/760025.Positioning_The_Battle_for_Your_Mind_How_to_Be_Seen_and_Heard_in_the_Overcrowded_Marketplace)
 - [The Lords of Strategy](https://www.amazon.com/gp/product/1591397820/)
@@ -51,6 +51,7 @@ I read them long back. Have to re read and take notes.
 - [Certain to Win](https://www.amazon.com/Certain-Win-Strategy-Applied-Business-ebook/dp/B0793SDYSM)
 - [The Luxury Strategy](https://www.goodreads.com/book/show/4717945-the-luxury-strategy)
 - [The End of Competitive Advantage](https://www.goodreads.com/book/show/15824360-the-end-of-competitive-advantage)
+- [Seven Strategy Questions: A Simple Approach for Better Execution](https://www.goodreads.com/book/show/9556216-seven-strategy-questions)
 
 ### Additional links
 
