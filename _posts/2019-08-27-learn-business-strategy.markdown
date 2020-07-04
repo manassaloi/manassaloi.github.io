@@ -83,6 +83,7 @@ I read them long back. Have to re read and take notes.
 - [A Guide to Strategic Planning](https://medium.com/pillar-companies/a-guide-to-strategic-planning-4b6f2f3a1745)
 - [The Art of the Strategic Product Roadmap](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
 - [Don’t Let Process Distract You From Finding Strategy](https://thinkgrowth.org/dont-let-process-distract-you-from-finding-strategy-fb00bef53e7b)
+- [The value Stack](https://medium.com/floodgate-fund/dare-to-make-your-startup-legendary-dc8eb68ba1fc)
 
 Masterclass I did on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
 
