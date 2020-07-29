@@ -33,5 +33,8 @@ The template is inspired from the following resources I have read on decision ma
 - [A Leader’s Guide To Deciding: What, When, and How To Decide](https://medium.learningbyshipping.com/a-leader-s-guide-to-deciding-what-when-and-how-to-decide-f6caf659fa7e)
 - [Naval's 3 decision making heuristics](https://www.youtube.com/watch?v=3tnOc32k7Ac)
 - [Shane Parish's heuristics to make decisions](https://twitter.com/ShaneAParrish/status/1026105498372845571)
+- [Capped downside, Uncapped upside](https://news.ycombinator.com/item?id=22579240)
+- [Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
+- [Going fast vs slow](https://mobile.twitter.com/ShaneAParrish/status/1277415631965519873)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

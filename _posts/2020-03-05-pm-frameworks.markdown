@@ -37,6 +37,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Avoid Certainty Theater](https://cutle.fish/blog/certainty-theater)
 - [The Manager as Debugger](https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html)
 - [Speak For Yourself](https://boz.com/articles/speak-yourself)
+- [Curators & Editors](https://adamnash.blog/2017/04/18/product-leaders-as-curators-editors/)
 
 
 ## Product development & Design
@@ -136,9 +137,10 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Build a Product with a High-Concept Problem](https://medium.com/the-year-of-the-looking-glass/build-a-product-with-a-high-concept-problem-c6d405cb1e89)
 - [Forcing functions are valuable](https://cutle.fish/blog/50-product-lessons)
 - [4 types of product work beyond PMF](https://brianbalfour.com/quick-takes/product-market-fit-expansion)
+- [Phone tilt factor](https://mobile.twitter.com/NonGaap/status/1267519267924140032)
 
 ## Decision making
-- [How I take big decisions](On making good decisions)
+- [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 - [Framing problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 - [Elevate and delegate](https://gduverger.com/elevate-and-delegate/)
 - [Type 1 vs type 2](https://themusingsofthebigredcar.com/jeff-bezos-on-decisionmaking/)
@@ -175,6 +177,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Enterprise Value > Team Value > Self Value](https://thinkgrowth.org/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567#.p7ntpsrpj)
 - [Spot and Magnify the Powers of Your Superheroes](https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 - [A CEO should look back only strategically, never with nostalgia](https://medium.com/@barmstrong/50-lessons-from-hps-company-culture-2efd03ec1411)
+- [10 times the same person](https://medium.com/@collinmathilde/9-most-useful-piece-of-advice-ive-received-15ebb7a47008)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)

@@ -84,6 +84,7 @@ I read them long back. Have to re read and take notes.
 - [The Art of the Strategic Product Roadmap](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
 - [Don’t Let Process Distract You From Finding Strategy](https://thinkgrowth.org/dont-let-process-distract-you-from-finding-strategy-fb00bef53e7b)
 - [The value Stack](https://medium.com/floodgate-fund/dare-to-make-your-startup-legendary-dc8eb68ba1fc)
+- [20 powerful and usually underrated competitive advantages](https://mobile.twitter.com/aaronbush100/status/1271822557981925378)
 
 Masterclass I did on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
 
