@@ -19,7 +19,7 @@ Tips to run more efficient meetings:
 12. MOM is also posted on the Product spec, Asana card, and relevant slack channel. Err on overcommunication than people missing important updates.
 13. Follow up on action items as prescribed in the MOM blogpost.
 14. The Decided should always be present in the meeting. Define the decider through DACI framework.
-15. Align relevant stakeholders before the meeting. People might call it backchanneling, but I call it stack holder management. I like to give important stakeholder access to the docs much before the "big" meeting, and also hear and reply to their concerns. This approach leads to less unpleasant surprises in the actual meeting.
+15. Align relevant stakeholders before the meeting. People might call it backchanneling, but I call it stack holder management. I like to give important stakeholder access to the docs much before the ["hero meeting"](https://mobile.twitter.com/sriramk/status/1226959362918215680), and also hear and reply to their concerns. This approach leads to less unpleasant surprises in the actual meeting.
 16. Framing the discussion well is 90% of the job in a meeting.
 17. If you attend a meeting without: an agenda, knowing your preferred outcome, and how you will get that, then all of these will be driven by someone else, mostly by the HIPPO. What you think of as organization politics is **often** always you not doing your homework.
 
@@ -29,5 +29,6 @@ A few good posts I have read on meetings:
 - [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a)
 - [Meetings](https://medium.com/@padday/meetings-e27767bcf6b6)
 - [A Simple Rule to Eliminate Useless Meetings](https://www.linkedin.com/pulse/20130701022638-22330283-a-simple-rule-to-eliminate-useless-meetings/)
+- [How to persuade people in a large 'hero' meeting](https://mobile.twitter.com/sriramk/status/1226959362918215680)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
