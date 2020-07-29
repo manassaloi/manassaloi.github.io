@@ -32,3 +32,5 @@ title:  "Best practices for cross-team collaboration"
 - In case a project fails, make sure you highlight both the good and the bad. Most people focus only on the bad. Write a post-mortem report with learnings, and share the next steps.
 
 Related read: [Project management best practices](https://manassaloi.com/2020/04/26/rules-project-management.html)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
