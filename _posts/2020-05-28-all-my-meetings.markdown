@@ -40,7 +40,7 @@ Half Yearly
 - OKR Planning
 - Half yearly OKR Review
 
-### As an IC
+### As an Individual Contributor (IC) PM
 
 Daily
 - Standup
@@ -86,6 +86,7 @@ Note:
 - 1-1 with my own manager and my reports are sacred; rest 1-1s depends on whether there is an agenda for the week
 - My long term goal is to spend around 1 day worth of time/week/ direct report
 - These meetings are only the regular process meetings I attend. There are far more meetings which I organise/attend, but those are to tackle specific problems, and don't occupy a regular slot in my calendar
+- IC PMs lead one of more sub streams in a PDG org but does not have direct PM reports
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
