@@ -55,6 +55,7 @@ Date: Thursday 12th December
   + [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1Y8CuRe5DXl4kzbxCeKkSZ0EdEHhDbx5yMULSVZG2pmc/edit)
   + [Google’s Official Note to Product Management Candidates](https://www.slideshare.net/interviewcoach/googles-offical-note-to-product-managment-candidates)
   + [36-Day Amazon PM Interview Study Guide](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide)
+  + [Product Managers: What Is Your Unfair Advantage?](https://medium.com/pminsider/product-managers-what-is-your-unfair-advantage-7a5afc10fedd)
 
 ## Session 2 (Become better with Design and Behavioral) (3 weeks study plan)
 Date: Thursday 19th December
