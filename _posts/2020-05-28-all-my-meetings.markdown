@@ -16,14 +16,14 @@ Weekly
 - 1-1s with my direct reports
 - 1-1 with Stream Design lead
 - 1-1 with Stream Engineering lead
-- Cadences with other product streams/ PDGs (if relevant)
+- Sync ups with other product streams/ PDGs (if relevant)
 
-Bi Weekly
+Biweekly
 - Sync up with PDG Research team
 - Sync up with PDG Business Intelligence team
 - 1-1 with my manager
 - Sync up with Business
-- Temporary cadences with a few tactical teams (which last till relevant projects are complete)
+- Temporary sync up with a few tactical teams (which lasts till relevant projects are completed)
 
 Monthly
 - Monthly Product Review meeting
@@ -32,7 +32,7 @@ Monthly
 - Company Townhall
 
 Quarterly
-- PDG OKRs Review and Retro for the Quarter
+- PDG OKRs Review and Retrospective for the Quarter
 - Stream OKRs Review and Retro for the Quarter
 - Sub stream OKRs Review and Retro for the Quarter
 
@@ -56,10 +56,10 @@ Weekly
 - Sync with Researcher of my stream
 - Sync with BI of my stream
 
-Bi Weekly
+Biweekly
 - Sync up with PDG Research team
 - Sync up with PDG Business Intelligence team
-- Temporary cadences with a few tactical teams (which last till relevant projects are complete)
+- Temporary Sync ups with a few tactical teams (which last till relevant projects are complete)
 
 Monthly
 - PDG Monthly Product Review meeting
@@ -81,6 +81,7 @@ Terminology
 - Stream = A smaller group inside the PDG which looks after a specific area; Currently it is Growth and Key Initiatives for me where I lead 3 PMs
 - Sub stream = Smaller pods inside a bigger stream with its own PM and TL which looks after a specific area inside the stream
 - Links to format/ doc templates for most of these meeting here: [Project Apollo](https://manassaloi.com/2020/03/23/running-product-team.html)
+- You can find meaning of some of the words you might not be familiar with here: [Project Apollo](https://manassaloi.com/2020/03/23/running-product-team.html)
 
 Note:
 - 1-1 with my own manager and my reports are sacred; rest 1-1s depends on whether there is an agenda for the week
