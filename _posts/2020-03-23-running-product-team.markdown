@@ -72,6 +72,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Design jam](https://manassaloi.com/2020/03/04/design-jam.html)
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
+  - [List of all meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
 
 - **Creating a new feature** (Short term) (Why) (What) (How) (When)
   - Naming the project
