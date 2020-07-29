@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A list of all my meetings"
+title:  "[Meetings] A list of all my meetings"
 
 ---
 
