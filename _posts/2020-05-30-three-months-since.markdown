@@ -14,7 +14,7 @@ Like a well-written spec, I wrote the WHY and also the WHAT behind my decision. 
 - Turning off DMs. Not replying to incoming DMs except people I know well.
   - I still get DMs. But they are mostly from people who have DM'ed me in the past. Why I did this? Because I want my life to be more proactive than reactive. Instead of replying to DMs, having random discussions with people on the internet, I want to be cognizant of who I am spending my time with. I know a lot of people advocate serendipity and randomness. Opening yourselves to more interactions which might lead to more opportunities. I prefer being deliberate instead.
 - Using motion on Desktop web.
-  - I had to stop using my old laptop because of some complexities. So I am using my wife's 2013 Macbook instead. Since it is so slow, the only thing I do in this machine is to write posts.
+  - I had to stop using my old laptop because of some complexities. I am using my wife's 2013 Macbook instead. Since it is so slow, the only thing I do in this machine is to write posts.
 - Deleting tweets every 2 days.
   - This has been going well. I now delete posts every day.
 - Not replying to most comments.
