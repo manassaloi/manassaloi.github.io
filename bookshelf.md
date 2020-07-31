@@ -45,6 +45,7 @@ List of books I've found useful
 + [Big Billion Startup: The Untold Flipkart Story - Mihir Dalal](https://www.goodreads.com/book/show/52346729-big-billion-startup)
 + [How to Turn Down a Billion Dollars: The Snapchat Story - Billy Gallagher](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars)
 
+
 ### Company Building Playbook
 
 + [Running Lean: Iterate from Plan A to a Plan That Works - Ash Maurya](https://www.goodreads.com/book/show/13078769-running-lean)
@@ -142,6 +143,7 @@ List of books I've found useful
 + [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel](https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street)
 + [The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor)
 + [From the Rat Race to Financial Freedom - Manoj Arora](https://www.goodreads.com/book/show/18136642-from-the-rat-race-to-financial-freedom)
++ [Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean - Karen Berman, Joe Knight, John Case](https://www.goodreads.com/book/show/27541.Financial_Intelligence)
 
 
 ### Venture Capital
@@ -185,6 +187,7 @@ List of books I've found useful
 + [Trust Me, I'm Lying: Confessions of a Media Manipulator - Ryan Holiday](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)
 + [Marketing Warfare - Al Ries,  Jack Trout](https://www.goodreads.com/book/show/2595.Marketing_Warfare)
 + [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](https://www.goodreads.com/book/show/641604.Purple_Cow)
++ [The Presentation Secrets of Steve Jobs - Carmine Gallo](https://www.goodreads.com/book/show/6908348-the-presentation-secrets-of-steve-jobs)
 
 ### Psychology & Negotiations
 
@@ -200,6 +203,8 @@ List of books I've found useful
 + [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
 + [The Mental Game of Poker - Jared Tendler](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
 + [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
++ [The Second Mountain - David Brooks](https://www.goodreads.com/book/show/40642458-the-second-mountain)
++ [Reboot: Leadership and the Art of Growing Up - Jerry Colonna](https://www.goodreads.com/book/show/41806857-reboot)
 
 ### Decision Making
 
@@ -250,6 +255,7 @@ List of books I've found useful
 + [Liar's Poker - Michael Lewis](https://www.goodreads.com/book/show/7865083-liar-s-poker)
 + [The Big Short: Inside the Doomsday Machine - Michael Lewis](https://www.goodreads.com/book/show/8032112-the-big-short)
 + [MBS: The Rise to Power of Mohammed bin Salman - Ben Hubbard](https://www.goodreads.com/book/show/52505707-mbs)
++ [Barbarians at the Gate: The Fall of RJR Nabisco - Bryan Burrough, John Helyar](https://www.goodreads.com/book/show/781182.Barbarians_at_the_Gate)
 
 ### Fiction
 
