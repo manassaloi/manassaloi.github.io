@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "3 months"
+title:  "3 months of less Twitter"
 
 ---
 
 3 months back, I wrote that I will cut down my Twitter usage. Like most of my decisions, I wrote down the [WHY behind it](https://manassaloi.com/2020/04/17/cutting-down-twitter.html), and also the WHAT. And now it is time to do a retro of how it has gone so far.
 
-Before we start, note that the timestamps in my blog posts are all over the place. Instead of taking the date when I write the post, the timestamp follows a series. Why? Eventually, I plan to remove timestamps, but for now, it helps me count the number of posts I have written this year. So if this post is dated as 30th May, and every day before this has a post, it means I have written 5*30 posts for the year. 150 posts! 
+Before we start, note that the timestamps in my blog posts are all over the place. Instead of taking the date when I write the post, the timestamp follows a series. Why? Eventually, I plan to remove timestamps, but for now, it helps me count the number of posts I have written this year. So if this post is dated as 30th May, and every day before this has a post, it means I have written 5*30 posts for the year. 150 posts!
 
 Like a well-written spec, I wrote the WHY and also the WHAT behind my decision. Let us go through the WHAT again.
 - Turning off notifications. No idea who is quote tweeting me or liking my tweets.
