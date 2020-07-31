@@ -159,6 +159,7 @@ List of books I've found useful
 + [Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation - Lynne Truss](https://www.goodreads.com/book/show/8600.Eats_Shoots_Leaves)
 + [Bird by Bird: Some Instructions on Writing and Life - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
++ [The Elements of Style - William Strunk Jr](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
 
 ### UX and Customer development
 
