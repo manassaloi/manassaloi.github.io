@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "3 months since"
+title:  "3 months"
 
 ---
 
-A few months back, I wrote that I will cut down my Twitter usage. Like most of my decisions, I wrote down the [WHY behind it](https://manassaloi.com/2020/04/17/cutting-down-twitter.html), and also the WHAT. And now it is time to do a retro of how it has gone so far.
+3 months back, I wrote that I will cut down my Twitter usage. Like most of my decisions, I wrote down the [WHY behind it](https://manassaloi.com/2020/04/17/cutting-down-twitter.html), and also the WHAT. And now it is time to do a retro of how it has gone so far.
 
-Before we start, note that the timestamps in my blog posts are all over the place. Instead of taking the date when I write the post, the timestamp follows a series. Why? Eventually, I plan to remove timestamps but for now, it helps me count the number of posts I have written this year. So if this post is dated as 30th May, and every day before this has a post, it means I have written 5*30 posts for the year. 150 posts!
+Before we start, note that the timestamps in my blog posts are all over the place. Instead of taking the date when I write the post, the timestamp follows a series. Why? Eventually, I plan to remove timestamps, but for now, it helps me count the number of posts I have written this year. So if this post is dated as 30th May, and every day before this has a post, it means I have written 5*30 posts for the year. 150 posts! 
 
 Like a well-written spec, I wrote the WHY and also the WHAT behind my decision. Let us go through the WHAT again.
 - Turning off notifications. No idea who is quote tweeting me or liking my tweets.
@@ -30,7 +30,7 @@ Additional thoughts:
   - Doing a bunch of courses on Coursera. When you are not checking your phone every 15 mins, you have so much time at your disposal.
   - Playing Witcher 3 and R2D2. As someone for whom gaming started and ended with FIFA, I am enjoying open-world games.
   - You must have noticed me using my wife instead of my girlfriend. Yes, I got married too.
-- Once you move away from the need from validation, instant dopamine hits through likes, hot takes, you can spend much more time doing things that will stay with you for life. As someone who was once a prominent Quora persona [sorry I repeat this every time I write about social media], I have realized how useless vanity metrics like followers, likes/upvotes are. The millions of page views, hundred of thousands of upvotes, thousands of followers mean nothing once you get out of the social media platform. So if you are a wannabe thought leader who wants to be 'connected' on social media, I would recommend being deliberate and playing long term games instead.
+- Once you move away from the need from validation, instant dopamine hits through likes, hot takes, you can spend much more time doing things that will stay with you for life. As someone who was once a prominent Quora persona [sorry I repeat this every time I write about social media], I have realized how useless vanity metrics like followers, likes/upvotes are. The millions of page views, hundred of thousands of upvotes, thousands of followers mean nothing once you get out of that social media platform.
 
 Here is a post which a Linkedin connection had shared which sums up my views on Twitter.
 
