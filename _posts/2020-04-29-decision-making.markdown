@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On making good decisions"
+title:  "[Decision Making] On making good decisions"
 ---
 
 A template which I use for making big decisions: [Taking a decision on X](https://docs.google.com/document/d/19lXmZuv8YIA1jej7UHDh1f-uyanNsTjFB_QaYZNq_Zw/edit?usp=sharing)
