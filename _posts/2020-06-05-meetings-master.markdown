@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Meetings Master Post] All my gyaan on meetings"
+title:  "[Meetings Master Post] All the gyaan on meetings"
 
 ---
 
