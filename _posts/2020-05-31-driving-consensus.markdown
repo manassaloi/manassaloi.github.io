@@ -26,7 +26,7 @@ title:  "[Stakeholder Management] Driving consensus"
   - How I actually close decisions
     - You write [a doc](https://manassaloi.com/2020/04/29/decision-making.html) with all open items; a separate doc if there are more than 3, or just part of the spec
     - You put in the effort required to identify all possible options. Write the pros and cons of each.
-    - You get feedback from people a close group of people who are closest to the problem, have context and help you fill the gaps in your own knowledge.
+    - You get feedback from a group of people who are closest to the problem, have context and help you fill the gaps in your own knowledge.
     - You give an early preview of the doc to your manager and align him.
     - You identify key stakeholders who might be impacted by option A and give them a heads up. This is the key step I had missed for years. Never surprise key stakeholders in a meeting. Always know what they would want. Align themselves before the main meeting.
     - Make sure you, your designer, devs, and anyone else who is relevant have bought into the solution are driving
