@@ -36,10 +36,11 @@ title:  "[Stakeholder Management] Driving consensus"
     - Recommend, not ask. Most meetings are a waste because the driver of the decision is meek, and is scared to stand up for something. Don't do that. If you think A is the best, strongly say so.
     - Once you see people aligning, say "it seems we all agree that A is the best option we have at the moment. I am marking it as a closed decision"
     - Share the decision on mail as part of the [MOM](https://manassaloi.com/2020/03/22/mom-update.html).
-    - Send a message on Slack to to-be-informed from [DACI](https://www.atlassian.com/team-playbook/plays/daci)
+    - Send a message on Slack to to-be-informed from [DACI](https://www.atlassian.com/team-playbook/plays/daci).
   -  What happens next: Hopefully you leave the meeting with a solution and can focus on the implementation. You come out as someone who knows what he is doing. People start trusting you with big decisions.
+  -  Reiterating: If you organise or attend a meeting without: an agenda, knowing your preferred outcome, and how you will get that, then all of these will be driven by someone else. What you think of as organization politics is **often** always you not doing your homework.
 
-It took years for me to perfect approach 5. As a junior PM, you probably go with one of the other approaches, then feel powerless after a decision goes against you. It is far better to learn how to navigate these situations, learn stakeholder management than blame organization politics for never getting your way.
+It took years for me to perfect approach 5. As a junior PM, you probably go with one of the other approaches, then feel powerless after a decision goes against you. It is far better to learn how to navigate these situations, learn stakeholder management than blame big company politics.
 
 **Note:** You can replace X with any open item in your [spec]((https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html).
 
