@@ -7,13 +7,14 @@ title:  "[JTBD] All the resources I have on Jobs-to-Be-Done"
 This will be the place where I link to all the gyaan on JTBD I have given or accumulated over the years
 
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+- [Jobs to be Done: from Doubter to Believer](https://vimeo.com/167029277)
 - [Competing Against Luck](https://manassaloi.com/booksummaries/2017/07/22/competing-against-luck-christensen.html)
 - [The mattress interview](http://jobstobedone.org/radio/the-mattress-interview-part-one/)
-- [Applying Jobs-to-be-Done Theory](https://www.udemy.com/course/applying-jobs-to-be-done-theory/)
+- [Applying Jobs-to-be-Done Theory Udemy Course](https://www.udemy.com/course/applying-jobs-to-be-done-theory/)
 - [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 - [Personas vs. Jobs-to-Be-Done](https://www.nngroup.com/articles/personas-jobs-be-done/)
 
-* I recommend reading Competing Against Luck, followed by the Udemy JTBD course. 
+* I recommend reading Competing Against Luck and then doing the JTBD course on Udemy.
 
 Resources I plan to read in the Future
 
