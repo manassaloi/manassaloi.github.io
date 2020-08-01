@@ -17,6 +17,7 @@ This will be the place where I link to all the gyaan on communication I have giv
 - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
 - [Diamond and Pyramid](https://manassaloi.com/2020/06/01/diamond-pyramid.html)
 - [Driving consensus](https://manassaloi.com/2020/05/31/driving-consensus.html)
+- [The 5 min pause](https://manassaloi.com/2020/05/20/five-min-pause.html)
 
 **Note:** I will keep expanding this list
 

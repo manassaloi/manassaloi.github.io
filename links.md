@@ -20,6 +20,7 @@ Check out material from my PM coaching course called Aristos: [Aristos - PM Coac
 - [Plan your personal OKRs](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
 - [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
+- [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
 
 ### (People I learn from)
 

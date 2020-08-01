@@ -13,6 +13,8 @@ This will be the place where I link to all the gyaan on JTBD I have given or acc
 - [Applying Jobs-to-be-Done Theory Udemy Course](https://www.udemy.com/course/applying-jobs-to-be-done-theory/)
 - [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 - [Personas vs. Jobs-to-Be-Done](https://www.nngroup.com/articles/personas-jobs-be-done/)
+- [This is not a map](https://www.intercom.com/blog/shareable-map/)
+- [Uncovering the Jobs to Be Done](https://vimeo.com/81153746)
 
 * I recommend reading Competing Against Luck and then doing the JTBD course on Udemy.
 

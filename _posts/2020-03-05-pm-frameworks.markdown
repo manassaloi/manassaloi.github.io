@@ -185,6 +185,9 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 ## Project management
 - [Following these rules will help you to manage a big project more effectively](https://manassaloi.com/2020/04/26/rules-project-management.html)
 - [Create your own operator's manual](https://byrslf.co/operators-manual-20201872f369)
+- [Best practices for cross-team collaboration](https://manassaloi.com/2020/05/24/collaboration-checklist.html)
+- [Driving consensus](https://manassaloi.com/2020/05/31/driving-consensus.html)
+- [On meetings](https://manassaloi.com/2020/06/05/meetings-master.html)
 
 ## Data
 - [Data should be accurate, automation, and accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
