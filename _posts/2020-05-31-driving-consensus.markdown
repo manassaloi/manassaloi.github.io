@@ -37,7 +37,7 @@ title:  "[Stakeholder Management] Driving consensus"
     - Once you see people aligning, say "it seems we all agree that A is the best option we have at the moment. I am marking it as a closed decision"
     - Share the decision on mail as part of the [MOM](https://manassaloi.com/2020/03/22/mom-update.html).
     - Send a message on Slack to to-be-informed from [DACI](https://www.atlassian.com/team-playbook/plays/daci)
- -  What happens next: Hopefully you leave the meeting with a solution and can focus on the implementation. You come out as someone who knows what he is doing. People start trusting you with big decisions.
+  -  What happens next: Hopefully you leave the meeting with a solution and can focus on the implementation. You come out as someone who knows what he is doing. People start trusting you with big decisions.
 
 It took years for me to perfect approach 5. As a junior PM, you probably go with one of the other approaches, then feel powerless after a decision goes against you. It is far better to learn how to navigate these situations, learn stakeholder management than blame organization politics for never getting your way.
 
