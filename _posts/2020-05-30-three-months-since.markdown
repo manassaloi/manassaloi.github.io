@@ -8,7 +8,7 @@ title:  "3 months of less Twitter"
 
 Before we start, note that the timestamps in my blog posts are all over the place. Instead of taking the date when I write the post, the timestamp follows a series. Why? Eventually, I plan to remove timestamps, but for now, it helps me count the number of posts I have written this year. So if this post is dated as 30th May, and every day before this has a post, it means I have written 5*30 posts for the year. 150 posts!
 
-Like a well-written spec, I wrote the WHY and also the WHAT behind my decision. Let us go through the WHAT again.
+Let us go through the WHAT again
 - Turning off notifications. No idea who is quote tweeting me or liking my tweets.
   - This went out well. I realize I have so little anxiety now after I post a tweet. Earlier, I used to worry if someone would quote tweet me and be salty. But without notifications, you can just post what you want, get the thought out of your head, and move on.
   - Instead of relying on push notifications, and impulsively checking my notifications, I search my name on Twitter a few times during the day, and see if there is anything which warrants a reply. Social media is the only case where [Pull is better than Push.](https://manassaloi.com/2020/04/21/push-pull.html)
