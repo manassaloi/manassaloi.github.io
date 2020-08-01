@@ -11,6 +11,7 @@ Before we start, note that the timestamps in my blog posts are all over the plac
 Like a well-written spec, I wrote the WHY and also the WHAT behind my decision. Let us go through the WHAT again.
 - Turning off notifications. No idea who is quote tweeting me or liking my tweets.
   - This went out well. I realize I have so little anxiety now after I post a tweet. Earlier, I used to worry if someone would quote tweet me and be salty. But without notifications, you can just post what you want, get the thought out of your head, and move on.
+  - Instead of relying on push notifications, and impulsively checking my notifications, I search my name on Twitter a few times during the day, and see if there is anything which warrants a reply. Social media is the only case where [Pull is better than Push.](https://manassaloi.com/2020/04/21/push-pull.html)
 - Turning off DMs. Not replying to incoming DMs except people I know well.
   - Why I did this? Because I want my life to be more proactive than reactive. Instead of being pulled into  random discussions with people on the internet, I want to be cognizant of who I am spend my time with/on. I know a lot of people advocate serendipity and randomness. Opening yourselves to more interactions which might lead to more opportunities. I prefer being deliberate instead. [Saying No has been a personal motto for a long time](https://manassaloi.com/2020/05/16/no-default.html).
 - Using motion on Desktop web.
