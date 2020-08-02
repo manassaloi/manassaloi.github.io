@@ -33,8 +33,9 @@ title:  "[Stakeholder Management] Driving consensus"
     - Set up a meeting with all stakeholders now. Make sure you identify the decider and circulate the DACI prior to the meeting.
     - Walkthrough the problem, propose 2 possible solutions: A and B, and recommend A. Also identify options C, D (non-preferred options for which cons outweigh the pros), and clearly mention in the doc which they are not the right options.
     - Anticipate arguments against your preferred option A. A good PM thinks ahead and already knows the in and out of the solution he is advocating for.
-    - Recommend, not ask. Most meetings are a waste because the driver of the decision is meek, and is scared to stand up for something. Don't do that. If you think A is the best, strongly say so.
-    - Once you see people aligning, say "it seems we all agree that A is the best option we have at the moment. I am marking it as a closed decision"
+    - Recommend, not ask. Most meetings are a waste because the driver of the decision is meek, and is scared to stand up for something. Don't do that. If you think A is the best, say so.
+    - Be open to inputs from all stakeholders. If any new fact comes up which can change the decision, be open minded enough to reconsider. Don't marry to a solution. 
+    - Once you see people aligning, say "it seems we all agree that A is the best option we have at the moment. I am marking it as a closed decision."
     - Share the decision on mail as part of the [MOM](https://manassaloi.com/2020/03/22/mom-update.html).
     - Send a message on Slack to to-be-informed from [DACI](https://www.atlassian.com/team-playbook/plays/daci).
   -  What happens next: Hopefully you leave the meeting with a solution and can focus on the implementation. You come out as someone who knows what he is doing. People start trusting you with big decisions.
