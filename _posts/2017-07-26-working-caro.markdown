@@ -4,6 +4,7 @@ title:  "Working: Researching, Interviewing, Writing - Robert A. Caro"
 tags: booksummaries
 categories: booksummaries
 ---
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
 - I don’t know why raw files affect me that way. In part, perhaps, because they are closer to reality, to genuineness. Not filtered, cleaned up, through press releases or, years later, in books. I worked all night, but I didn’t notice the passing of time.
 
