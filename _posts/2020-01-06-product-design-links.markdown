@@ -33,6 +33,8 @@ title:  "My favourite posts on designing a new feature"
 
 - [How our customers helped shape the future of Slack](https://slackhq.com/designing-the-future-of-slack-with-customers)
 
+- [Story of how Swiggy POP was built…](https://bytes.swiggy.com/story-of-how-swiggy-pop-was-built-773e34d4ff87)
+
 **Note:** I will keep adding more interesting posts I find to this list
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
