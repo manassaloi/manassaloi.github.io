@@ -4,7 +4,7 @@ title:  "CashBoss"
 
 ---
 
-The first successful product I built was [CashBoss](https://play.google.com/store/apps/details?id=in.coupondunia.cashboss&hl=en_IN). Years later, here are the things which I think went right:
+The first successful product I built was [CashBoss](https://play.google.com/store/apps/details?id=in.coupondunia.cashboss&hl=en_IN). Here are the things which went right:
 
 1. Right timing; entire app industry was optimising for downloads, far more demand from companies than supply of users/installs.
 
