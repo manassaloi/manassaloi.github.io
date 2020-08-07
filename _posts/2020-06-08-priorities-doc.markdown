@@ -43,6 +43,6 @@ I keep a [note](https://inkpadnotepad.appspot.com/) with my priorities for the s
 - Finish Witcher 3.
 - Play Red Dead Redemption 2.
 
-Whenever I get bored, feel like I am wasting my time, I just open this list and pick up an item to do. Do note that this list changes a lot more than my [personal OKRs]((https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)), which does not change a lot over the year.
+Whenever I get bored, I just open this list and pick up an item to do. Do note that this list changes a lot more than my [personal OKRs]((https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)), which does not change a lot over the year.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
