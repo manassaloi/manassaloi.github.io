@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want to learn personal finance?"
+title:  "So you want to learn personal finance and investing?"
 
 ---
 I wrote a thread recently on the best books I have read on personal finance & investing. Turning it into a blogpost (with some minor edits). All the links take you to summaries for these books on my personal site
