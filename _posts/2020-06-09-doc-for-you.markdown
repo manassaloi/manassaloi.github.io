@@ -3,7 +3,7 @@ layout: post
 title:  "Dear PM, the product spec is for you"
 
 ---
-A common complaint I get from people when they see my docs and processes at work is that they seem excessive for a startup. "Documents are for big companies", they say. Or they think my boss is a dictator who forces me to write a 50-page spec document.
+A common complaint I get from people when they see my [docs and processes at work](https://manassaloi.com/2020/03/23/running-product-team.html) is that they seem excessive for a startup. "Documents are for big companies", they say. Or they think my boss is a dictator who forces me to write a 50-page spec document.
 
 None are true. Here is the real reason I spend so many days perfecting my documents, be it a 1 - pager pitch document or a 50 pager spec, is that it helps me get clarity on the task at hand. These documents are really for me; not for my manager.
 
@@ -17,6 +17,6 @@ Let's go through a few scenarios:
 
 I use dozens of docs at work. I obsess over how I can improve my communication. I try to create as many frameworks as I can. I believe in focusing on these so that I can accomplish 80% of the work through 20% effort later.
 
-So don't create processes to impress your team. Don't write 50 pager docs to earn brownie points from management. Do it so that you can do your job as a PM better. In the end, it is the only thing that matters.
+So don't create processes to impress your team. Don't write 50-page docs to earn brownie points from management. Do it so that you can do your job as a PM better. In the end, it is the only thing that matters.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
