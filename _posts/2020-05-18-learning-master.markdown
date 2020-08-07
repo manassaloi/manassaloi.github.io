@@ -24,6 +24,7 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Keeping low expectations](https://manassaloi.com/2020/03/11/low-expectations.html)
 - [How to get shit done](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
 - [11 Habits that changed my life (and will yours too)](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
+- [Simple goal setting](https://manassaloi.com/2020/06/07/simple-goal-setting-productivity.html)
 
 ### Favourite books
 
