@@ -36,12 +36,13 @@ I plan to create templates and best practices for the following over the next 3 
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
   - [Product Strategy Workshops](https://www.departmentofproduct.com/blog/how-to-run-product-strategy-workshops/)
   - [Definitions, Equations, Metrics and Dashboards](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
+  - OKR Update mail
+  - Monthly Product Cadence
 
 - **Team planning** (Medium term) (What) (How)
 
   - [Monday weekly product priorities sync-up](https://docs.google.com/document/d/1s_ejLtOuOU2cwW2qcVbMlNxmJIm61I8V7zpHcKGN1Ow/edit?usp=sharing)
   - [Wednesday Weekly Product Sync-up](https://docs.google.com/document/d/1fw93-oEYzzuDcsagZJjYM7Xu3bySbd1ilnOI98ybRfM/edit?usp=sharing)
-  - Monthly review
 
 - **Creating your backlog and prioritisation** (Long term) (Mid term) (What) (When)
   - [Backlog](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=192262272)
