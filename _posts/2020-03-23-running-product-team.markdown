@@ -74,6 +74,8 @@ I plan to create templates and best practices for the following over the next 3 
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
   - [List of all meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
+  - New member Onboarding
+  - 90 day plan for new joinee
 
 - **Creating a new feature** (Short term) (Why) (What) (How) (When)
   - Naming the project
@@ -106,6 +108,7 @@ I plan to create templates and best practices for the following over the next 3 
 - **Data** (Mid term) (Short term) (What) (How)
   - North star
   - Dashboards
+  - Experimentation
   - Daily email with data
   - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
 
@@ -114,6 +117,7 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Career development** (Mid term) (Long term)
   - [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+  - [Read me](https://www.notion.so/Manager-s-Readmes-b3a5b7b791fe4e86a69bbdeaeda00ee2)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
