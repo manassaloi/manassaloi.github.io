@@ -31,8 +31,8 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Vision and Strategy for product teams** (Long term) (Why)
   - [Team OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
-  - [Team charter]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
-  - [Team vision]((https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
+  - [Team charter](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
+  - [Team vision](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
   - [Product Strategy Workshops](https://www.departmentofproduct.com/blog/how-to-run-product-strategy-workshops/)
   - [Definitions, Equations, Metrics and Dashboards](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
