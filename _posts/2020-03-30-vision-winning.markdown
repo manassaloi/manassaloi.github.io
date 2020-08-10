@@ -3,11 +3,11 @@ layout: post
 title:  "Vision vs Winning"
 ---
 
-Instead of a fancy 'vision statement', leaders would be far better of defining what 'winning' for their company looks like
+Instead of a fancy 'vision statement', leaders would be far better of defining what 'winning' for their company looks like.
 
-Vision statements are generally abstract. Mostly written as a checklist item
+Vision statements are generally abstract. These are mostly written as a checklist item by Management.
 
-While winning criteria is far more concrete: Gaining 50% market share or IPO'ing by X date
+While winning criteria is far more concrete: Gaining 50% market share or IPO'ing by X date.
 
 **Ask yourself the following questions:**
 
