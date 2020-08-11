@@ -35,6 +35,7 @@ Quarterly
 - PDG OKRs Review and Retrospective for the Quarter
 - Stream OKRs Review and Retro for the Quarter
 - Sub stream OKRs Review and Retro for the Quarter
+- Showcase
 
 Half Yearly
 - OKR Planning
