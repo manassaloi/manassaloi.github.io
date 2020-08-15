@@ -20,6 +20,8 @@ Let us go through the WHAT again
   - This has been going well. I now delete posts every day.
 - Not replying to most comments.
   - Since I don't get notifications, unless I go to each of my tweets and click on replies, I end up not seeing the comment. It is a trade off I am okay with.
+- Setting my location as Japan
+  - My explore tab is now full of topics I have no clue about. And I like it that way.
 
 Additional thoughts:
 
