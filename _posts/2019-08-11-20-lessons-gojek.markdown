@@ -143,7 +143,7 @@ Adding a few more  tips:
 
 - Anticipate all possible questions which can come to you during a meeting and prepare their answers. As you grow in your career you don't want to come off as the guy who does not do his homework
 
-- Tables are always better
+- Tables in doc are always better than text
 
 - Have all your MOMs as part of your spec so that during a retro you can do through all the changes that happened as well as major decisions which got taken during a project
 
