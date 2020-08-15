@@ -137,6 +137,18 @@ Thanks for reading
 
 **/end**
 
+Adding a few more  tips:
+
+- Make sure that your recommendation is clear when you are presenting something to Management. The worst hero presentations are those where you talk about a bunch of solutions to a problem without clearly highlighting your recommendation. Remember: It is very hard to get Execs' time and the worst crime is to waste a one-hour meeting making your CEO evaluate all the pros and cons for various options/solutions and having to decide herself
+
+- Anticipate all possible questions which can come to you during a meeting and prepare their answers. As you grow in your career you don't want to come off as the guy who does not do his homework
+
+- Tables are always better
+
+- Have all your MOMs as part of your spec so that during a retro you can do through all the changes that happened as well as major decisions which got taken during a project
+
+- Don't go into a meeting without the decision-maker being clear
+
 ## Something else I wrote recently and you might find useful: [How to learn](https://www.linkedin.com/pulse/how-learn-manas-j-saloi/?published=t)
 
 P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)
