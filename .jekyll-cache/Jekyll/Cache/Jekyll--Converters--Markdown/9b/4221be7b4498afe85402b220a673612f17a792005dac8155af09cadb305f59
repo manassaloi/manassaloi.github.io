@@ -1,0 +1,56 @@
+I"M<p>We like involving Design as early as we can in the product development process. As soon as the first draft of the spec is done, We get Design and Dev involved through a Kick off meeting which explains the problem statement we are tackling, the WHY behind a feature. After the WHY is explained, we start brainstorming on Design</p>
+
+<p><strong>Here is how our typical design process looks like</strong></p>
+
+<ul>
+  <li>PM shares the <a href="https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.b2fqwtvw6ni5">product spec</a></li>
+  <li>PM adds the WHY behind the feature
+    <ul>
+      <li>It can be either improvement in conversion of a product funnel</li>
+      <li>or some product <a href="https://manassaloi.com/2019/12/25/ubereats-discovery.html">problem</a> which has to be fixed</li>
+    </ul>
+  </li>
+  <li>PM brainstorms with Designer</li>
+  <li>PM explains product principles</li>
+  <li>PM and Design come up with design principles</li>
+  <li>PM explains the prioritization order for the problems he/she wants Design help</li>
+  <li>Design works on the wireframes, mostly low fidelity, based on the priority order</li>
+  <li>The designer starts working on the design spec</li>
+  <li>Design review is set up for this project</li>
+  <li>PM comes with the WHAT: the milestones and their scope</li>
+  <li>In some cases the WHY and the WHAT comes even before the PM syncs up with the Designer and the designer works on the HOW</li>
+  <li>In others, the PM and Design jointly works on the WHAT</li>
+  <li>Feedback is shared and added as MOM to the spec, and also shared on the Slack channel for the project</li>
+  <li>Designer and PM work on the feedback collected</li>
+  <li>The designer shares the first cut wireframes with more designers in their weekly design review, which involves not just this project but other projects that designers in the Org are working currently on</li>
+  <li>Additional feedback is collected and incorporated</li>
+  <li>Devs and QAs are also part of the design reviews from the beginning</li>
+  <li>So we avoid bringing unrealistic specs as well as designs to devs. By unrealistic I meant designs that will take months to build. We discuss alternate ways we can solve the problem. We see if there can be any scope cut: things which can be pushed to later milestones or just removed from the requirements</li>
+  <li>All 3 stakeholders jointly work on the HOW</li>
+  <li>After multiple iterations, and multiple design reviews the wireframes are frozen</li>
+  <li>Now that the happy flow is clear we start focusing on the edge cases. Also errors</li>
+  <li>One these are done, we send the designs to a central IXD team which help us get the final high fidelity designs</li>
+  <li>Designs are uploaded on <a href="https://www.abstract.com/">Abstract</a> and the link is shared with Devs</li>
+  <li>Post dev there are more review sessions held</li>
+  <li>Polishing work happens to get the feature to the final state: Production-ready</li>
+  <li>We incorporate more feedback from pre-alpha and alpha users</li>
+  <li>The feature is finally shipped and we get the kudos or the brickbats from our users ;)</li>
+  <li>We also do <a href="https://manassaloi.com/2020/03/04/design-jam.html">design jams</a> and <a href="https://www.gv.com/sprint/">design sprints</a> sometime. But it is not done for each feature</li>
+</ul>
+
+<p><strong>Best resources on how to do design reviews</strong></p>
+
+<ul>
+  <li><a href="https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design">Questions I ask when reviewing a design</a></li>
+  <li><a href="https://design.google/library/going-beyond-the-surface/">Design Reviews: Going Beyond the Surface</a></li>
+  <li><a href="https://medium.com/facebook-design/peek-inside-a-facebook-design-critique-c4833efda26e#.oawuouciy">Peek Inside a Facebook Design Critique</a></li>
+  <li><a href="https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3#.j8knra4y5">Four Things Working at Facebook Has Taught Me About Design Critique</a></li>
+  <li><a href="https://library.gv.com/guide-to-design-critique-86ebf499bed5">GV Guide to Design Critique</a></li>
+  <li><a href="https://library.gv.com/nine-rules-for-running-productive-design-critiques-f8320655fc8c">Nine rules for running productive design critiques</a></li>
+  <li><a href="https://medium.design/tactical-design-critique-bb74d1a5e350">Tactical Design Critique</a></li>
+  <li><a href="https://www.nngroup.com/articles/design-critiques/">Design Critiques: Encourage a Positive Culture to Improve Products</a></li>
+  <li><a href="https://uxdesign.cc/the-why-and-how-of-effective-design-critiques-944313947fe4">The why and how of effective design critiques</a></li>
+</ul>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

@@ -1,0 +1,88 @@
+I"è<p><strong>This blogpost is not an exhaustive summary of the book. Just contains the notes I took</strong></p>
+
+<ol>
+  <li>
+    <p>Build a concierge MVP. Try to do things manually/validate assumptions without even building the product
+Example. How Airbnb checked impact of professional photos</p>
+  </li>
+  <li>
+    <p>Learn about
+Qualilative vs Quantitative
+Vanity vs Real (active users vs % active users)
+Exploratory vs Reporting Metrics
+Leading vs Lagging metric</p>
+  </li>
+  <li>
+    <p>Leading metrics are more important. Example. Sales prospects in the pipeline
+Understand difference between Correlated vs causal metrics
+Ice cream consumption and drowning can be both correlated. Both happen in summer. But they are not causal.
+Drinking and accident are causal</p>
+  </li>
+  <li>
+    <p>Moving targets are common in the early stages</p>
+  </li>
+  <li>
+    <p>Factors for starting up:
+Demand for product
+Ability to build it
+Desire to build it</p>
+  </li>
+  <li>
+    <p>One metric that matters (OMTM) should be tracked. It changes based on which stage you are as a startup.</p>
+  </li>
+  <li>
+    <p>Moz tracks net ads (new paid - churned)</p>
+  </li>
+  <li>
+    <p>OMTM should be simple, immediate, actionable, comparable and fundamental</p>
+  </li>
+  <li>
+    <p>Biz model comprises of Acquisition channel, Selling tactic, Revenue model, Product type, Delivery model. Create flipbook pages out of these.</p>
+  </li>
+  <li>
+    <p>If you are an ecommerce one metric to look at is annual repurchase rate (how many people who bought last year bought again this year). Also look at 90 day repurchase rate</p>
+  </li>
+  <li>
+    <p>Focus on whales (paid consumers who want to pay extra for privileges)</p>
+  </li>
+  <li>
+    <p>Five stages of lean analytics:
+Empathy, Stickiness, Virality, Revenue, Scale</p>
+  </li>
+  <li>
+    <p>Top down analysis: Taking a big number and breaking it into smaller parts. Bottom up analysis is reverse of that. Do both</p>
+  </li>
+  <li>
+    <p>Create day in the life of your customer storyboard. Will give Product Team more clarity</p>
+  </li>
+  <li>
+    <p>Inherent vitality is inbuilt and happens as a function of use. Example. Splitwise</p>
+  </li>
+  <li>
+    <p>Word of mouth virality is due to conversations by satisfied users. Example. TVF in India</p>
+  </li>
+  <li>
+    <p>Articifial vitality is forced. Example. Dropbox</p>
+  </li>
+  <li>Possible Models
+    <ul>
+      <li>E-commerce</li>
+      <li>SaaS</li>
+      <li>Free App</li>
+      <li>Media site</li>
+      <li>User generated content (social media)</li>
+      <li>2 sided marketplace</li>
+    </ul>
+  </li>
+  <li>To increase viral coefficient
+    <ul>
+      <li>Increase lifetime of user</li>
+      <li>Increase acceptance rate</li>
+      <li>Shorten cycle time</li>
+      <li>Make people invite their friends</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

@@ -1,0 +1,83 @@
+I"�<p>Following these rules will help you to manage a big project more effectively.</p>
+
+<ol>
+  <li>Every task should be assigned to a single directly responsible individual </li>
+  <li>If a task is assigned to a team, then it is not assigned to anyone</li>
+  <li>All discussions regarding a project should happen in the relevant public channel on Slack. No private DMs allowed</li>
+  <li>A task should remain in 2 states:
+    <ul>
+      <li>Waiting for a timeline</li>
+      <li>Has a timeline</li>
+    </ul>
+  </li>
+  <li>A task’s status should be one of these:
+    <ul>
+      <li>Yet to be picked</li>
+      <li>In progress</li>
+      <li>Done</li>
+      <li>Delayed</li>
+      <li>At-Risk</li>
+    </ul>
+  </li>
+  <li>Keeping multiple trackers does not lead to better project management. You just need a single source of truth, which can be even a google sheet. Keep it simple</li>
+  <li>Different stakeholders have different needs when it comes to status. Your CEO or VP won’t have time to go into the details of each individual project. For them a simple card on asana with the status updated regularly would work. For active collaborators who need more context, make sure they can get more details in your spec. I always keep the status for a project at the top of <a href="https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit">my spec</a>. If they need more granular info they can always scroll below and see details on completion of each milestone. Follow the pyramid principle for communication. For PM, EM, and devs working on the project, the micro details regarding individual stories are kept on Jira. Tools and their stakeholders:
+    <ul>
+      <li>Asana board with card regarding the project - CEO, VP</li>
+      <li>Status at the top of the spec - Different collaborators who might or might not be active collaborators</li>
+      <li>Detailed milestones and their completion %</li>
+      <li>Active collaborators for the project</li>
+      <li>Status on stories for each milestone on Jira - For devs and PM</li>
+      <li>Google sheet with every dev is working on - For your team </li>
+    </ul>
+  </li>
+  <li>Keep the trackers updated. I update my trackers on Monday (time-based) or when there is a big update, say something moved to Production (event-driven project management)</li>
+  <li>Escalate blockers early</li>
+  <li>Send regular status updates. I send out a weekly mail for each big project I am working on, where I highlight the following: status, % completion, details on milestones, blockers, if we are on track to meet the timeline. Everyone who is part of the project, or needs info about the project, gets cc’ed on this mail. This is the same MOM mail, which is resent as a status update mail</li>
+  <li><a href="https://manassaloi.com/2020/04/21/push-pull.html">Push &gt; Pull</a></li>
+  <li>Always highlight external dependencies on email. Slack is ephemeral. Messages get missed. The more important the info, the more critical the dependency, the more you need to make sure that the info is captured and communicated well</li>
+  <li>Avoid last-minute surprises. I have always hated last-minute bad news as a manager. And I make sure I avoid giving the same to my own boss. Keep giving frequent updates so that blockers are highlighted much before they delay your project</li>
+  <li>Delays are okay. Waking up one day before release and telling there are 10 things broken which will delay the release is not</li>
+  <li>If dependent items are not resolved, keep escalating till they are. If the dependent person is X, then escalate to their boss Y. If you don’t get a response then escalate to Y’s boss Z</li>
+  <li>Take extreme ownership of your work</li>
+  <li>Communicate early, and often. I don’t worry about overcommunication. It is under communication which has always caused issues for people. Not the other</li>
+  <li><a href="https://manassaloi.com/2020/04/19/documentation-cache.html">Use documentation as cache</a></li>
+  <li><a href="https://manassaloi.com/2020/02/22/steer-into-objection.html">Steer into objections early</a></li>
+  <li>Follow the communication rules followed here: <a href="https://manassaloi.com/2019/08/11/20-lessons-gojek.html">Lessons from working at Gojek</a></li>
+  <li>Share information in the Slack Channel where the most number of people can gain context on an issue. If you have to tag people later on it is also easier</li>
+  <li>Don’t create temporary private DMs with multiple people</li>
+  <li><a href="https://manassaloi.com/2020/02/05/measuring-communication.html">Measure your communication</a></li>
+  <li>You don’t need to wait for something to go live on Production to share an update. If the project is running ahead of schedule, even better. Share an update on the Slack channel praising your developer</li>
+  <li>Be quick to praise others. Take blame if things don’t go as per the plan. Most managers do the opposite</li>
+  <li>When things don’t go per plan, people turn every discussion into a blame gaming session. Keep reiterating that you are in this together, and you will do your best till the end</li>
+  <li>In case a project fails, make sure you highlight both the good and the bad. Most people focus only on the bad. Write a post-mortem report with learnings, and share the next steps</li>
+  <li>Pin all relevant documents on the Slack channel.
+    <ul>
+      <li>Pin spec as the master doc on the Slack channel</li>
+      <li>Asana card for the project</li>
+      <li>Jira epic</li>
+      <li>Roll out plan (when you are in the endgame)</li>
+    </ul>
+  </li>
+  <li>If it is a FYI, then mark it as such. Don’t let people assume that there is an action item for them</li>
+  <li><a href="https://m.signalvnoise.com/the-owners-word-weighs-a-ton/">Remember that owner’s word weighs a ton</a></li>
+  <li>For every project, no matter how you want to manage it, the following info should be easily accessible
+    <ul>
+      <li>what is the plan</li>
+      <li>what has been executed till now</li>
+      <li>what are the next steps</li>
+      <li>are we on track to meet the deadline</li>
+      <li>open items not closed till now</li>
+      <li>potential blockers</li>
+      <li>DRI to whom people should reach out if they have any query</li>
+    </ul>
+  </li>
+  <li>Identify external stakeholders with whom you would need to coordinate for launch. Add them on Slack so that they have full context</li>
+  <li>If there are multiple items marked as P0, then you don’t have a P0</li>
+  <li><a href="https://manassaloi.com/2020/03/06/welcome-on-slack.html">Welcome message for people joining a project channel</a></li>
+  <li>All features shipped successfully are celebrated with ice-cream parties; mostly the PM’s treat</li>
+</ol>
+
+<p>I am working on a master post of all principles and frameworks I use as a PM here: <a href="https://manassaloi.com/2020/03/05/pm-frameworks.html">PM frameworks</a></p>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

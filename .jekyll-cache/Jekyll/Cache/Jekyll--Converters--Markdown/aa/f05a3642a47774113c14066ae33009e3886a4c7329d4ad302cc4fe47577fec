@@ -1,0 +1,172 @@
+I"�)<p><strong>Note:</strong> While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let’s start!</p>
+
+<ul>
+  <li>
+    <p><strong>THE FIVE STAGES OF BLITZSCALING</strong></p>
+
+    <ul>
+      <li>Stage 1 (Family): 1–9 employees</li>
+      <li>Stage 2 (Tribe): 10s of employees</li>
+      <li>Stage 3 (Village): 100s of employees</li>
+      <li>Stage 4 (City): 1000s of employees</li>
+      <li>Stage 5 (Nation): 10000s of employees</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>THE THREE BASICS OF BLITZSCALING</strong></p>
+
+    <ul>
+      <li>BLITZSCALING IS BOTH AN OFFENSIVE STRATEGY AND A DEFENSIVE STRATEGY</li>
+      <li>BLITZSCALING THRIVES ON POSITIVE FEEDBACK LOOPS, IN THAT THE COMPANY THAT GROWS TO SCALE FIRST REAPS SIGNIFICANT COMPETITIVE ADVANTAGES</li>
+      <li>DESPITE ITS INCREDIBLE ADVANTAGES AND POTENTIAL PAYOFFS, BLITZSCALING ALSO COMES WITH MASSIVE RISKS</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>THE THREE KEY TECHNIQUES OF BLITZSCALING</strong></p>
+
+    <ul>
+      <li>BUSINESS MODEL INNOVATION</li>
+      <li>STRATEGY INNOVATION</li>
+      <li>MANAGEMENT INNOVATION</li>
+    </ul>
+  </li>
+  <li>
+    <p>If you want to find your best business model, you should try to design one that maximizes four key growth factors and minimizes two key growth limiters.</p>
+  </li>
+</ul>
+
+<p><strong>DESIGNING TO MAXIMIZE GROWTH: THE FOUR GROWTH FACTORS</strong></p>
+
+<p><strong>GROWTH FACTOR #1: MARKET SIZE</strong></p>
+
+<ul>
+  <li>The most basic growth factor to consider for your business model is market size. A big market has both a large number of potential customers and a variety of efficient channels for reaching those customers. That last point is important; a market consisting of “everyone in the world” might seem large, but it isn’t reachable in any efficient way. We’ll discuss this in greater depth when we look at distribution as a key growth factor</li>
+</ul>
+
+<p><strong>GROWTH FACTOR #2: DISTRIBUTION</strong></p>
+
+<ul>
+  <li>
+    <p>Distribution techniques fall into two general categories: leveraging existing networks and virality.</p>
+  </li>
+  <li>
+    <p>When I was at PayPal, one of the major vehicles for distribution of our payment service was settling purchases on eBay</p>
+  </li>
+  <li>
+    <p>At PayPal, we combined organic and incentivized virality. The payment product was inherently viral; if someone e-mailed you money using PayPal, you had to set up an account to get paid. But we enhanced this organic virality with monetary incentives. If you referred a friend to PayPal, you got $10, and your friend got $10</p>
+  </li>
+</ul>
+
+<p><strong>GROWTH FACTOR #3: HIGH GROSS MARGINS</strong></p>
+
+<ul>
+  <li>
+    <p>High gross margins are a powerful growth factor because, as noted below, not all revenue is created equal</p>
+  </li>
+  <li>
+    <p>Most of the valuable companies we’re focusing on in this book have gross margins of over 60, 70, or even 80 percent.</p>
+  </li>
+</ul>
+
+<p><strong>GROWTH FACTOR #4: NETWORK EFFECTS</strong></p>
+
+<ul>
+  <li>
+    <p>A product or service is subject to positive network effects when increased usage by any user increases the value of the product or service for other users.</p>
+  </li>
+  <li>
+    <p><strong>Five broad categories of Network Effects:</strong></p>
+
+    <ul>
+      <li>
+        <p>Direct Network Effects: Increases in usage lead to direct increases in value. (Examples: Facebook, messaging apps like WeChat and WhatsApp)</p>
+      </li>
+      <li>
+        <p>Indirect Network Effects: Increases in usage encourage consumption of complementary goods, which increases the value of the original product. (Example: Adoption of an operating system such as Microsoft Windows, iOS, or Android encourages third-party software developers to build applications, increasing the value of the platform.)</p>
+      </li>
+      <li>
+        <p>Two-Sided Network Effects: Increases in usage by one set of users increases the value to a different set of complementary users, and vice versa. (Example: Marketplaces such as eBay, Uber, and Airbnb)</p>
+      </li>
+      <li>
+        <p>Local Network Effects: Increases in usage by a small subset of users increases the value for a connected user. (Example: Back in the days of metered calls, certain wireless carriers allowed subscribers to specify a limited number of “favorites” whose calls didn’t count against the monthly allotment of call minutes.)</p>
+      </li>
+      <li>
+        <p>Compatibility and Standards: The use of one technology product encourages the use of compatible products. (Example: within the Microsoft Office suite, Word’s dominance meant that its document file format became the standard; this has allowed it to destroy competitors like WordPerfect and fend off open-source solutions like OpenDocument.)</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>GROWTH LIMITER #1: LACK OF PRODUCT/MARKET FIT</strong></p>
+
+<ul>
+  <li>Product/market fit enables rapid growth, while the lack of it makes growth expensive and difficult. Unfortunately, it’s far easier to define product/market fit than it is to establish it!</li>
+</ul>
+
+<p><strong>GROWTH LIMITER #2: OPERATIONAL SCALABILITY</strong></p>
+
+<ul>
+  <li>
+    <p>One of the first things Steve did when he returned to Apple as CEO in 1997 was to reduce the company’s product line from dozens to a simple two-by-two matrix: consumer desktop, pro desktop, consumer laptop, and pro laptop. “Deciding what not to do is as important as deciding what to do,” he told his biographer Walter Isaacson. Another famous Steve story involves an Apple strategy off-site where Apple’s top one hundred people worked for a day to reduce Apple’s strategy to ten key priorities, at which point Steve crossed off the bottom seven items and said, “We can only do three.”</p>
+  </li>
+  <li>
+    <p>At LinkedIn, we made an explicit strategy decision to multithread our revenue model, even though the conventional wisdom in Silicon Valley is to stick to a single revenue model. We were criticized for having a “mishmash” of revenue streams, such as pro subscriptions, job listing fees, and enterprise licensing for our recruiter product. It’s true that there was a cost to this strategy in terms of focus, but I believed that we didn’t have enough information to pick a single revenue stream and have it be sufficient to build our intended scale of business. Multithreading to support multiple revenue lines both mitigated strategic risk and helped us get to scale.</p>
+  </li>
+  <li>
+    <p>Assuming that you make the decision to multithread your organization, the optimal management approach is to think of each thread as a different company. For each thread, you’ll need to identify a leadership team (“cofounders”) and create an incentive structure that allows it to operate with a great deal of independence and reap the benefits of success, without making your current managers so envious that it tears the organization apart</p>
+  </li>
+  <li>
+    <p><strong>If you’re building a global business, there are three key elements you need to put in place.</strong></p>
+
+    <ul>
+      <li>
+        <p>A set of managers who are responsible for, and have strong executive control over, their individual markets globally</p>
+      </li>
+      <li>
+        <p>An understanding of how those markets differ, which leads to a variety of plans for how to grow in each of those markets</p>
+      </li>
+      <li>
+        <p>A unified executive team to coordinate global operations, including the activity of the individual managers leading operations in each country</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>There are only three ways to scale yourself:</strong> delegation, amplification, and just plain making yourself better.</p>
+  </li>
+  <li>
+    <p>Dropbox’s Drew Houston described how he tries to learn from fellow entrepreneurs who are on the same journey: Talk with other entrepreneurs. Not just famous entrepreneurs, but people who are one year ahead, two years ahead, five years ahead. You learn very different and important things from those kinds of people. It really helps to have a sense of the longer-term arc, because the game changes quietly from phase to phase.</p>
+  </li>
+  <li>
+    <p>My earlier book, The Start-up of You, introduces the useful concept of “ABZ planning.” Entrepreneurs should always have a Plan A, a Plan B, and a Plan Z. Plan A is your best current plan; Plan B is an alternate plan, based on the “adjacent possible” to which you can pivot if Plan A isn’t working or you learn of an even better opportunity; Plan Z is your fallback plan for surviving a worst-case scenario. ABZ planning gives you multiple opportunities to recover from mistakes or setbacks.</p>
+  </li>
+  <li>
+    <p>Imagine if someone asked a random employee from your start-up the following questions:</p>
+
+    <ul>
+      <li>
+        <p>What is your organization trying to do?</p>
+      </li>
+      <li>
+        <p>How are you trying to achieve those goals?</p>
+      </li>
+      <li>
+        <p>What acceptable risks are you incurring to achieve those goals more quickly?</p>
+      </li>
+      <li>
+        <p>When you have to trade off certain values, which ones take priority?</p>
+      </li>
+      <li>
+        <p>What kind of behavior do you hire, promote, or fire for?</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Would she be able to answer those questions? If you asked another employee, would he give the same answers? When organizations have strong cultures, their employees give consistent answers and act accordingly</p>
+  </li>
+  <li>
+    <p>Xiaomi’s response to this crisis demonstrates both the fierce competitiveness of Lei Jun and the amazing tempo possible in China. The company attacked its distribution problems with a rapid, massive effort to build up its off-line sales channel, opening one hundred Mi Home retail stores in a single year, with a target of opening two thousand stores by 2019. In the first quarter of 2017, an astounding 34 percent of Xiaomi’s smartphone sales in China came from its one hundred retail stores, which the company claims generate sales per square foot second only to Apple’s famed Apple Stores. In 2017, IDC reported that Xiaomi’s sales had rebounded 59 percent from the previous year, placing it back among the world’s top five smartphone makers</p>
+  </li>
+</ul>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

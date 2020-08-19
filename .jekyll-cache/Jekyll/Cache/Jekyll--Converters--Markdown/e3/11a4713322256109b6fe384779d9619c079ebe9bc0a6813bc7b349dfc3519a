@@ -1,0 +1,13 @@
+I";<ul>
+  <li>Pushing data on Kafka &gt; Exposing an API endpoint for consumption by another team</li>
+  <li>Getting automated email daily, with your most important metrics, on your inbox &gt; You going to your dashboard to check data</li>
+  <li>Keeping the UI flexible so that you can push changes in layout from backend &gt; Needing client release</li>
+  <li>Push notifications with your reminders/ calendar events &gt; You having to check the app</li>
+  <li>Alert emails/calls when things break &gt; You opening a dashboard and figuring it out after the outage happened</li>
+  <li>You pushing regular status updates &gt; Your boss having to pull info from you</li>
+</ul>
+
+<p><strong>Push &gt; Pull</strong></p>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

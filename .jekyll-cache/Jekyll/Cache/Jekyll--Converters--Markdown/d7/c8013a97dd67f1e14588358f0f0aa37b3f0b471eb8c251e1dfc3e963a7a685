@@ -1,0 +1,167 @@
+I"<p>I wrote a <a href="https://twitter.com/manas_saloi">thread</a> today on why twitter topics implementation sucks. Turning it into a blogpost (with some minor edits) because threads on twitter also suck</p>
+
+<p><strong>/threadstarts</strong></p>
+
+<p>lets start the thread on why topics launch is a disaster (at least for people like me who used to rely on topics to discover interesting content)</p>
+
+<p><strong>how do you discover content on twitter or any other social media?</strong></p>
+
+<p>generally it is a mix of algorithmic content and curation (by you or editors)</p>
+
+<p>take twitter for example</p>
+
+<p>here are the ways to discover content here</p>
+
+<p><strong>1/ people</strong> you find your friends. you follow them. you find topic experts and you follow them to get gyaan/jokes/memes. you discover tweets. look at the creator. follow them</p>
+
+<p>twitter recommends more people based on your activity and slowly the number of people you follow increases</p>
+
+<p><strong>2/ trends</strong> in the explore section the first thing you see is trends. you like a trend, a follow the tweets related to the trend. twitter soon figures out you are interested in a trend and went into the rabbit hole and its algos push topics/sections on the explore tab below trends</p>
+
+<p>when it comes to trends it is algorithmic. i am assuming it uses a similar algo to how reddit decides which posts should rise to the top of the hot section</p>
+
+<p>i assume it is a mix of total tweets, velocity of tweets with the hashtag, prominent twitter accounts tweeting etc
+the problem with trends is that trends are ephemeral, they come and go</p>
+
+<p>people use a hashtag for a day and forget to use it the next day. or BJP IT cell decides which hashtag to promote for a particular day (sorry, could not resist)</p>
+
+<p>also you might be temporarily interested in a day</p>
+
+<p>example <strong>#jnu</strong> might be interesting now because of what is happening in the country but after a few months you might not want to see the same trend</p>
+
+<p>hence comes <strong>3/ topics</strong> (pseudo ephemeral till a few days back)</p>
+
+<p>example. you saw liverpool won. you see a lot of tweets about liverpool and search liverpool, see a bunch of relevant trends around liverpool</p>
+
+<p>you go into the rabbit hole and soon you see a topic/section  called ‘liverpool’ in the explore tab</p>
+
+<p>this section is populated by relevant tweets about liverpool</p>
+
+<p>assume the same algo which decides the most popular tweets at the top of a trend section is also powering which tweets show up for liverpool</p>
+
+<p>till now ‘topics’ is pure algorithmic. curation part has not come</p>
+
+<p>what if you want to actually follow liverpool topic and see relevant tweets for liverpool fc</p>
+
+<p>here is where you first show interest in liverpool after the algorithm did its job</p>
+
+<p>your job is to make liverpool topic persist because you have decided to follow this topic</p>
+
+<p>reddit has sub reddits, trends, posts, user profiles</p>
+
+<p>assume topic is filling the need of following a particular interest like people do with sub reddits (without the community aspect)</p>
+
+<p>so how do you follow liverpool after it has come on explore?</p>
+
+<p>the only way to do this earlier was go to overflow menu on the topic section and select “show me more of this”</p>
+
+<p>if algorithm pushed an irrelevant section or you want the topic to be pseudo ephemeral (like only see liverpool fc topic during the weekend when emotions are high and go away after that) then you could select “show me less of this”</p>
+
+<p>problem with this approach was that you might see Venture Capital section one day and inspite of you selecting “show me more of this”, twitter gods would decide to now show this section on explore the next day</p>
+
+<p>so people said fuck it and started creating <strong>4/ lists</strong></p>
+
+<p><strong>lists = pure curation by the user
+topics = algorithmic curation by twitter</strong></p>
+
+<p>lists takes effort. power users use them. new users would hardly create them because of the friction (effort to learn one more way of getting content)</p>
+
+<p>so it makes sense for twitter to promote topics</p>
+
+<p>Hence I was super excited to see this on Twitter mobile web for the first time</p>
+
+<p>I saw this a few months back and was assuming they have made some big plans for topics</p>
+
+<p><img src="/assets/img/twittermenu.png" alt="Twitter menu page" /></p>
+
+<p>The page was empty for the longest time</p>
+
+<p>on mobile web the hierarchy was profile and then topics</p>
+
+<p>hierarchy determines discovery and I was super happy thinking this will be a natural evolution of twitter</p>
+
+<p>on desktop web topic though topics  is under the “more” section</p>
+
+<p>i thought topics ke PM ka desktop web ka PM se nahi banta hoga</p>
+
+<p>and i was waiting and waiting</p>
+
+<p>finally after ages I saw a bunch of topics replace my existing topi sections on explore which were VC, Indian Startups, Marketing, Software Development for the longest time</p>
+
+<p>what did they replace them with?</p>
+
+<p><strong>1st day:</strong> some 20 topics of football clubs. i saw ac milan. inter milan. man u. stokes</p>
+
+<p>like they figured out football and decided that fuck it. follow stokes mf</p>
+
+<p>i had to select “non interested”/”remove”</p>
+
+<p>next day some random korean boi bands</p>
+
+<p><strong>2rd day</strong> again some football topics</p>
+
+<p><strong>after x days:</strong> they decided to show me a topic called “startups” which I followed and it starting showing up in the topics section</p>
+
+<p><img src="/assets/img/explorepage.png" alt="Explore page" /></p>
+
+<p>It has 5 fucking tweets!</p>
+
+<p>Information architecture ka to baat hi mat Karo</p>
+
+<p>Pura section dikhaane ke baad alag see
+Neeche section hai “startups” which apparently I am “following”</p>
+
+<p>Agar follow/unfollow Wala ux rakhna hai upar daal na</p>
+
+<p><img src="/assets/img/topicoverflow.png" alt="Topic overflow page" /></p>
+
+<p>Overflow menu Mei “unfollow topic” and “hide” daalke wapas neeche again “follow/unfollow” sab</p>
+
+<p>Train users to use one approach to follow/unfollow a topic</p>
+
+<p>Okay but I am digressing</p>
+
+<p><strong>My main problems are around:</strong></p>
+
+<ul>
+  <li>discovery of topics (how do I discover more topics)</li>
+</ul>
+
+<p>If you are taking away the algorithmic topic section atleast allow me to follow the same topics myself</p>
+
+<ul>
+  <li>how do I access topics?</li>
+</ul>
+
+<p>Till now I was trained to access “topics” through the explore Section</p>
+
+<p>Now I see “startups” in the Topics tab too. But clicking on startups does not take me to the startups section in explore</p>
+
+<p>All it allows me is to unfollow the topic</p>
+
+<p>But that is something I could have done from explore Section too</p>
+
+<p>Maybe Topics ka PM ka Search/Explore Section PM ke saath bhi jhagra hai. So redirect karne nahi de rahe waha se</p>
+
+<p><img src="/assets/img/topicpage.png" alt="Topic page" /></p>
+
+<ul>
+  <li><strong>Why can’t the topics page be my home for</strong>
+    <ul>
+      <li>exploring new topics</li>
+      <li>reading tweets from the topics I follow</li>
+      <li>unfollowing topics once I lose interest</li>
+    </ul>
+  </li>
+</ul>
+
+<p>This should be the bare minimum in the MVP</p>
+
+<p>TBH the entire point of this long ass rant  is that Twitter shipped a half assed feature and now I can’t see VC twitter and shit post about them</p>
+
+<p>And my weekend is ruined</p>
+
+<p><strong>/end</strong></p>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

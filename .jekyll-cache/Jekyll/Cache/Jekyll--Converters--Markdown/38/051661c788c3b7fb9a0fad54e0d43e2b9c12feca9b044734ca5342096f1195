@@ -1,0 +1,39 @@
+I"�<p>Before Slack became Slack, I was working for a startup which wanted to transform enterprise collaboration. The team had spent a couple of years developing the entire platform. Our main focus was on security and access control, and we were quite bullish regarding our initial launch. We had all the features Slack later launched with minus their integrations. Slack ended up launching before us and became the toast of the town. Slack was fun. Slack made enterprise products sexy. And for the first time people had their hands an enterprise product which did not look ‘enterprise’y. We made a lot of mistakes; but I still feel our biggest one was waiting for too long, iterating our product again and again based on whims and fancies, and finally letting another competitor come and eat our pie.</p>
+
+<p>We could have still launched. We were not far behind. Everyone knows that <a href="http://bjk5.com/post/60760280107/shipping-beats-perfection-explained">shipping beats perfection</a> right? But we kept adding more and more features, trying to be better than Slack while Slack iterated and launched features faster than we could have ever imagined. Soon the <a href="https://blog.intercom.com/when-a-cupcake-becomes-a-wedding-cake/">cupcake we were making turned into a wedding cake</a>. Later we pivoted and made bots our prime focus. I was long gone by then; but I took one important lesson with me: <strong>Speed is the biggest competitive advantage you can have as a startup</strong>. In this post I will tell a few ways in which you can <a href="http://firstround.com/review/speed-as-a-habit/">adopt speed as a habit</a>.</p>
+
+<p>There are 2 types of decisions you make everyday at work:</p>
+
+<ol>
+  <li>
+    <p><strong>Critical</strong> irreversible decisions which require a lot of planning and discussion</p>
+  </li>
+  <li>
+    <p><strong>Non-critical</strong> reversible ones which can be decided on the spot and can be changed later</p>
+  </li>
+</ol>
+
+<p>I feel we spend most of our time over thinking the easily reversible ones. Here is an example: While building Reminders for <a href="https://flock.com/in/">Flock</a> we had to decide on the interaction for repeat functionality. See the screen below.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/2000/0*eIAlAVlQSddzW-HZ.png" alt="(Reminder creation screen)" /><em>(Reminder creation screen)</em></p>
+
+<p>We had to communicate to the user that she can use ‘Repeat Weekly’ for her reminder. This is the kind of thing which earlier took hours of discussion. Eager to show off our deep knowledge of UX we would endlessly argue without any data or usability testing to back our claim.</p>
+
+<p>This time we just decided to go with two different options based on our hunch: <strong>Weekly and Custom</strong>. Later we removed the Custom option and just kept Weekly as we realised having 2 options was confusing our users during the initial testing. After the feature was built we took it and did usability testing on a few more users. This time we realised that the best option was to keep one option but with Weekly (Custom) as the micro copy.</p>
+
+<p>During the development of Reminders we decided to start with the best guess possible regarding copy/interactions and then <strong>iterate fast</strong> to arrive on the best version of the product.</p>
+
+<p>In the absence of data what we generally try to pass as fact is just our opinion. Don’t waste hours on discussing opinions when you can validated anything with data/usability testing later.<strong>It is fatal to wait for consensus</strong>. Here at <a href="https://flock.com/in/">Flock</a> we have spent months trying to perfect our product building process. In our meetings we bring all required data which can help us arrive at a decision faster.</p>
+
+<p><strong>Want other ideas?</strong></p>
+
+<p>Try to think of all the things you accomplished yesterday. Ask yourself: Was there any way you could have completed your work faster? I do this exercise not just for myself. I also keep asking my Devs if there is anything I can do to help ship a feature faster than the estimated date.</p>
+
+<p>Here at Flock we always try to <strong>build the quickest possible v1</strong> of a product. We release this version internally, and as our employees start dog feeding the feature, we fix all the design issues and functional bugs. Once we are satisfied we release this build to Prod for everyone. Only if the v1 gets sufficient adoption we go for an enhanced v2 with better functionality and UI.</p>
+
+<p>Start thinking in terms of <a href="http://firstround.com/review/the-management-framework-that-propelled-LinkedIn-to-a-20-billion-company/">frameworks</a> and <a href="https://producthabits.com/5-mental-models-help-product-managers-acquire-retain-users/">mental models</a>. Adopt processes which reduce ambiguity in decision meeting. One example of a really good framework is <a href="http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/">SPADE </a>which you can use to make difficult decisions. <strong>Commonly shared values</strong> are even more important than processes, frameworks or mental models. The Product Team here at Flock has only one goal: Get <strong>maximum output</strong> while putting the <strong>least amount of dev effort</strong> possible. <strong>Optimise for learning</strong> and always be <strong>fearful of building bloated products/features</strong> which don’t deliver ROI.</p>
+
+<p>Lastly remember that speed only works when you know where you are going. <strong>You may be the fastest runner on the planet but unless you know where the finishing line is you will never win a race.</strong> For an organisation you have to first figure out the reason for your existence. The unique problem you are solving. Your vision. Your commonly agreed upon values. Without that you will be just running fast without getting anywhere.</p>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

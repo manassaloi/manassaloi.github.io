@@ -1,0 +1,115 @@
+I"+<p><strong>Disclaimer</strong>: I never thought I would ever write a disclaimer but here it is: This post reflects my personal opinion and not that of my employers. Any error is mine and reader discretion is advised</p>
+
+<p>So I wrote a <a href="https://twitter.com/manas_saloi/status/1159719410795368448">thread</a> on super apps where I discussed demand and supply side economies of scale, ways to build a super app and also compared Wechat vs Paytm and Swiggy vs Uber. Since reading threads on Twitter is not the most pleasant experience I am turning it into a blogpost</p>
+
+<p><strong>/start</strong></p>
+
+<p><strong>There are 2 ways to build a super app:</strong></p>
+
+<p><strong>1. Start with a core product with high engagement and then build more use cases</strong></p>
+
+<p>Classic <a href="http://www.stratology.com/blog/24022014123916-what-is-demand-side-economies-of-scale-/">demand side economies of scale</a> where value of the product improves with each new user added to the network</p>
+
+<p>Example. Wechat started with chat whose value increases with each new user in the network. Once they had critical mass of users the focus moved to monetisation of those users. Soon businesses got listed on Wechat and then with their We Chat Pay they started doing C2C payments and later e-commerce. Both users and business (two stakeholders needed for become a platform) was already there. All it was to start facilitating transactions</p>
+
+<p>But note the main difference between Wechat and something like Paytm. Paytm also had demand side supply of scale because the more users they had using the Paytm wallet the more useful the product was for its users. You need a critical mass of users to drive C2C transactions and businesses + users to drive B2C transactions</p>
+
+<p>You need a critical mass of users to drive C2C transactions and businesses + users to drive B2C transactions</p>
+
+<p>And post demonetisation everyone was doing Paytm Karo. It was/is the most popular wallet in the country</p>
+
+<p>They were always doing a huge volume of transactions thanks to mobile recharges. But they needed other avenues to boost GMV</p>
+
+<p>Soon came e-commerce (paytm mall, flights bookings and what not), and a bank (paytm bank)</p>
+
+<p>And it became a payments super app</p>
+
+<p>But what is the difference between Paytm vs Wechat?</p>
+
+<p>The network effect as well as switching cost is far higher for users in Wechat. Inspite of so many new chat products launching in China Wechat is still the most dominant one. You have your entire network on Wechat, your chat history, their moments product is a social network in itself. It has the entire product suite of Whatsapp + Facebook combined + more</p>
+
+<p>You as a user can move away from Facebook but maybe not Whatsapp</p>
+
+<p>Hence I feel it is Whatsapp and Google Pay which will be the dominant players in payments in India (at least for C2C)</p>
+
+<p>Money transfer to your existing bank account is a far better experience than using a wallet. And opening new bank accounts is a pain</p>
+
+<p>How hard it is to move away from Paytm?</p>
+
+<p>Not much. Transaction history is something which is not as important as your content (historical chat, posts, groups etc)</p>
+
+<p>If your network moves to another payments app there is no need too keep using the old payments app.</p>
+
+<p>The other use cases of the Paytm super app?</p>
+
+<p>Paytm mall is is far far behind Amazon &amp; Flipkart and I don’t ever see it competing with them.</p>
+
+<p>Paytm Chat? Not sure. Have never seen anyone use it</p>
+
+<p><strong>Chat is sticky. Payments is not</strong></p>
+
+<p><strong>2. The second way to build a super app is to have supply side economy of scale like Uber, Gojek, Lyft, Swiggy</strong></p>
+
+<p>Uber does not have pure network effects in the traditional sense like Swiggy does. Each new user (rider or driver) helps improve the unit economics/utilization but does not create a lock in like traditional networks. Read this post to know why: <a href="https://medium.com/@gerstenzang/no-network-for-uber-175a866baaef">No Network For Uber</a></p>
+
+<p><strong>The difference between Uber and Swiggy:</strong></p>
+
+<p>For you as a user you don’t care if your friend Mohanlal uses Uber or not. Or if Mohan or Kishan is driving your Uber</p>
+
+<p>Sure more drivers help reduce wait time and improve unit economics but diversity in supply does not matter to you</p>
+
+<p>Compare this with Uber Eats or a Swiggy. Each new restaurant on the platform does matter to the user because diversity of restaurants lead to more choices for the user and if you want to order from somewhere: The price, time to delivery matters but so does number of food options</p>
+
+<p><strong>More restaurants -&gt; More choices for users</strong></p>
+
+<p><strong>More restaurants -&gt; More competition amongst restaurants -&gt; Willingness to do promotions on Swiggy’s platform -&gt; Better prices for users</strong></p>
+
+<p>So you have traditional network effects and also see prices go down because of competition between supply</p>
+
+<p>Drivers in Uber don’t compete for bids and undercut them. Restaurants in Swiggy do</p>
+
+<p>Hence a subscription product works too. Because restaurants split the discounts cost</p>
+
+<p>Now comes the hard part.</p>
+
+<p>Improving 1) LTV of users 2) Utilisation of drivers</p>
+
+<p>Swiggy has been killing it on the first front. Amazing consumer products to drive up usage (orders/week): Swiggy Pop, Swiggy Super, Swiggy Daily</p>
+
+<p>If I was Swiggy’s CEO my first goal would be to replace the Cook of every middle class Indian</p>
+
+<p>And at this stage I would be super happy with the progress we have made</p>
+
+<p>But more orders also means burning more money because of incentives given to the drivers. And that burn is not sustainable as we have seen in Uber’s case</p>
+
+<p>So what do you do?</p>
+
+<p>Improve utilisation of drivers by building more use cases for customers and thereby improving unit economics.</p>
+
+<p>I had written a post on that last year: <a href="https://www.linkedin.com/pulse/thoughts-dunzo-swiggy-manas-j-saloi/">Thoughts on Dunzo and Swiggy</a></p>
+
+<p><strong>Soon you will see Swiggy doing:</strong></p>
+
+<ol>
+  <li>
+    <p>Ride sharing</p>
+  </li>
+  <li>
+    <p>Milk, vegetable delivery with a daily subscription product to increase daily orders</p>
+  </li>
+  <li>
+    <p>Delivery with higher delivery fee</p>
+  </li>
+  <li>
+    <p>Swiggy daily (replace cook and mess system for couples and students)</p>
+  </li>
+</ol>
+
+<p>As a daily user of Swiggy I am definitely rooting for them</p>
+
+<p><strong>/end</strong></p>
+
+<h2 id="something-else-i-wrote-recently-and-you-might-find-useful-how-to-learn">Something else I wrote recently and you might find useful: <a href="https://www.linkedin.com/pulse/how-learn-manas-j-saloi/?published=t">How to learn</a></h2>
+
+<p>P.S I tweet interesting stuff here: <a href="https://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET
