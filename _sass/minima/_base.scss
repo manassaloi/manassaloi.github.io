@@ -104,17 +104,17 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $text-color;
+  color: $a-color;
   text-decoration: underline;
 
   &:visited {
-    color: darken($text-color, 15%);
+    color: $a-color
   }
 
   &:hover {
-    color: $text-color;
+    color: $a-color;
     text-decoration: underline;
-    background-color: lighten($text-color, 75%);
+    background-color: lighten($a-color, 75%);
   }
 
   .social-media-list &:hover {
