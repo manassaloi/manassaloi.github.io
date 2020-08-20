@@ -123,6 +123,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Position, Position, Position!](https://m.signalvnoise.com/position--position--position/)
 - [Value, scale, time](http://gordonbrander.com/pattern/value-scale-time/)
 - [The better mousetrap doesn't always win](https://firstround.com/review/take-on-your-competition-with-these-lessons-from-google-maps/)
+- [Avoid regressing to the mean](https://mobile.twitter.com/scottbelsky/status/1289900088509313024)
 - [Retroactively Bundled](https://medium.com/@gerstenzang/retroactively-bundled-cd9c05475bc7#.s0b4huaa9)
 - [The Tax of New](https://medium.com/the-year-of-the-looking-glass/the-tax-of-new-f777ec49f24a)
 - [Design for Continuous Experimentation](https://www.slideshare.net/danmckinley/design-for-continuous-experimentation)
@@ -170,6 +171,8 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Spot and Magnify the Powers of Your Superheroes](https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 - [A CEO should look back only strategically, never with nostalgia](https://medium.com/@barmstrong/50-lessons-from-hps-company-culture-2efd03ec1411)
 - [10 times the same person](https://medium.com/@collinmathilde/9-most-useful-piece-of-advice-ive-received-15ebb7a47008)
+- [Don't peanut butter strategy](https://manassaloi.com/booksummaries/2017/07/21/escaping-build-trap-perri.html)
+- [Building communities - Migrate from other countries to your country](https://www.menabytes.com/product-lessons-alex-zhu/)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
