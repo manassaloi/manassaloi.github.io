@@ -48,30 +48,24 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Focus on velocity, not speed](https://fs.blog/2018/03/speed-velocity/)
 - [Design sprints](https://designsprintkit.withgoogle.com/planning/overview)
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
-- Trust - Ownership - Accountability
 - [Create a Perfect slice of cake without much dressing](https://www.mindtheproduct.com/the-power-of-the-perfect-slice/)
 - Back loaded vs front loaded
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 - [Avoid your cupcake from becoming a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
-- Thin slicing of features
 - [Avoid broken windows](http://www.vanschneider.com/the-broken-window-theory/)
 - [Tiny details](https://blog.codinghorror.com/this-is-all-your-app-is-a-collection-of-tiny-details/)
-- P0 Bugs fixed asap. if it is fixed after a month, it probably is not a P0
 - [Have an empty chair](https://hunterwalk.com/2018/04/01/the-empty-chair-at-the-table-during-meetings-who-should-be-in-the-room-that-isnt/)
 - [Don't push those untested changes on Production](https://manassaloi.com/2020/03/17/push-prod.html)
-- Checklists
-- Do demos
 - [Push > Pull](https://manassaloi.com/2020/04/21/push-pull.html)
 - [Beware of small, rare problems](https://www.intercom.com/blog/good-products-bad-businesses/)
-- Avoid Next feature fallacy
+- [Avoid next feature fallacy](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 - [Done is better than perfect](https://www.fastcompany.com/3001533/truth-about-being-done-versus-being-perfect)
 - [Design an 11-star experience](https://www.linkedin.com/pulse/how-scale-magical-experience-4-lessons-from-airbnbs-reid-hoffman/)
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
 - [Macro vs micro](https://medium.com/the-year-of-the-looking-glass/the-two-ways-of-building-ddc1587cb3f6)
 - [Be outcome thinkers](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac)
-- Quick feedback Real customers (QFRC)
-- Do one thing right first
-- Retrospective bundled
+- [Quick feedback Real customers (QFRC)](https://www.linkedin.com/pulse/product-development-lsd-way-qfrc-part-i-prasun-jain/)
+- [Get one thing right first](https://medium.com/@dunn/get-one-thing-right-89390244c553)
 - [Focus on core](https://twitter.com/BrianNorgard/status/1171236233411870720)
 - [Be proactive, not reactive](https://twitter.com/ShaneAParrish/status/988435595776049152)
 - [Write science fiction, then make it a reality](https://manassaloi.com/booksummaries/2016/06/06/always-day-one-alex.html)
@@ -81,7 +75,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Know if your actual process follows what is written process](https://twitter.com/ReinH/status/986037836603260928)
 - [To iterate, first ship](https://twitter.com/jasonfried/status/935555293014036480)
 - [Product development is a set of sliders](https://twitter.com/BrianNorgard/status/1097197234439872512)
-- Fundamental truths. Bezos 10 year what won't change
+- [FWhat's not going to change in the next 10-20 years](https://www.diamandis.com/blog/what-wont-change-in-20-years)
 - [Design products assuming positive behavior, have systems tackle bad behavior](https://twitter.com/vikramadhiman/status/1105853246793342976)
 - [Hooked model](https://manassaloi.com/2017/08/15/tez-50-million-sauce.html)
 - [Public channels vs Private DMs](https://twitter.com/noah_weiss/status/1108748545224515585)
@@ -92,8 +86,6 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Product is like a function](http://www.feltpresence.com/functions.html)
 - [Short term impatient, long term patient](https://medium.com/@jmj/short-term-impatient-long-term-patient-922f3f4c484c)
 - [Opportunity solution tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/?ref=https://product-frameworks.com)
-- Bi-focal Vision
-- Don't confuse movement with progress
 - [Understand 2nd order effects; Chesterton’s Fence](https://fs.blog/2020/03/chestertons-fence/)
 - [Adjust your levers, dials, and Pulleys](https://manassaloi.com/2020/02/18/levers-dials-pulleys.html)
 - [Write your business equation](https://manassaloi.com/2020/02/04/swiggy-tinyowl-foodpanda.html)
