@@ -61,13 +61,3 @@ Always try to build a connection with your loyal users.
 Reviews and ratings can have a major impact on the success/failure of your app. Try to make them work for your company.
 
 **P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)**
-
-**I also publish a weekly Product Management Newsletter every Wednesday. Do check it out: [**All things Product — Weekly Reads #17](https://www.linkedin.com/pulse/all-things-product-weekly-reads-17-manas-j-saloi)
-
-Blog posts written earlier:
-
-[https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi](https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi)
-
-[https://www.linkedin.com/pulse/10-tools-every-mobile-product-manager-manas-j-saloi](https://www.linkedin.com/pulse/10-tools-every-mobile-product-manager-manas-j-saloi)
-[**6 Proven Tips to Boost your App's Downloads**
-*'What is the best/cheapest way to increase app downloads' is one of the first questions people have after they develop…*www.linkedin.com](https://www.linkedin.com/pulse/6-proven-tips-boost-your-apps-downloads-manas-j-saloi)

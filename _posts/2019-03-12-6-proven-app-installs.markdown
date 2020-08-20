@@ -28,7 +28,7 @@ Make a decision to choose your Play Store name on the basis of data. You can kee
 
 **2.Keywords:** To improve your search rankings, you need to know which keywords are relevant and used most often.
 
-For example a part of [LimeRoad’s](https://play.google.com/store/apps/details?id=com.shopping.limeroad&hl=en)(a player in the same category) PlayStore description** says:
+For example a part of [LimeRoad’s](https://play.google.com/store/apps/details?id=com.shopping.limeroad&hl=en)(a player in the same category) PlayStore description says:
 
 Popular Categories in Limeroad Shopping App — Footwear (Sandals, Heels, Flats, Slippers, Flip flops, Boots), Clothes & Apparel (Dresses, Tops, Tees, Shrugs, Jackets, Winter wear, Shorts, Skirts, Leggings, Sweaters, Sweatshirts, Jeans, Jeggings, Trousers, Denims, Formal wear), Ethnic wear (Kurtis, Kurtas, Suits, Salwars, Churidars, Sarees), Fashion Accessories (Watches, Bags & Wallets, Jewellery, Sunglasses, Belts), Beauty Products (Makeup, Hair accessories, Personal care, Cosmetics, Kajal, Nail paint, Lipstick, Lip gloss), Fragrances (Perfumes, Deos), Lingerie(bras & panties (sets),bras,panties, shapewear, swimwear, sleepwear, camisole, Home And Decor (Decor, Bed, Kids Room, Furniture, Bath, Electrical Aplliances), Kitchen ( Tools, Storage, Coffee And Tea, Bar and Drinkware, Cookware, Table Linen, Tableware, Serveware)
 
