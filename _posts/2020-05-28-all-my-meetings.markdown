@@ -17,6 +17,7 @@ Weekly
 - 1-1 with Stream Design lead
 - 1-1 with Stream Engineering lead
 - Sync ups with other product streams/ PDGs (if relevant)
+- PM Weekly Learning Session
 
 Biweekly
 - Sync up with PDG Research team
@@ -56,6 +57,7 @@ Weekly
 - IPM
 - Sync with Researcher of my stream
 - Sync with BI of my stream
+- PM Weekly Learning Session
 
 Biweekly
 - Sync up with PDG Research team

@@ -75,6 +75,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
   - [List of all meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
+  - [PM Weekly Learning Session](https://docs.google.com/document/d/1Bl23tJbm-5CQI24SkgcF8S43T-nj9JhtY34-1cFjpl8/edit?usp=sharing)
   - New member Onboarding
   - 90 day plan for new joinee
 
