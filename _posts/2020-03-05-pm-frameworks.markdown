@@ -38,6 +38,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [The Manager as Debugger](https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html)
 - [Speak For Yourself](https://boz.com/articles/speak-yourself)
 - [Curators & Editors](https://adamnash.blog/2017/04/18/product-leaders-as-curators-editors/)
+- [Recommend, don't ask](https://manassaloi.com/2020/05/31/driving-consensus.html)
 
 
 ## Product development & Design
