@@ -8,7 +8,9 @@ A year back my manager gave me some advice around communication which is relevan
 
 - "Always take 5 minutes pause, if you are frustrated, and feel the need to rant on Slack. Once you calm down you might write something far more balanced and less ranty." I am an impulsive person who has never shied away from writing what he feels. But in heated discussions, I have also ranted way more than I should have and felt bad later. Note that this exercise can also prevent you from sending out replies on social media which you instantly regret.
 
-- "Sometimes it is even better to just delete the reply and not send it out if it is not adding any value." My manager is a fan of the quote "Never Wrestle with a Pig. You Both Get Dirty and the Pig Likes It."
+- "Sometimes it is even better to just delete the reply and not send it out if it is not adding any value."
+
+- My manager is also a fan of the quote "Never Wrestle with a Pig. You Both Get Dirty and the Pig Likes It."
 
 - "Anything you say/write which can be taken the wrong way will be taken so if you leave room for interpretation. When you are sending out something, think again and again on how something could go wrong." I can't stress how true this is. If you work for a big enough startup & communicate with multiple stakeholders, you will learn this lesson every week.
 
