@@ -6,7 +6,7 @@ title:  "CashBoss"
 
 The first successful product I built was [CashBoss](https://play.google.com/store/apps/details?id=in.coupondunia.cashboss&hl=en_IN). Here are the things which went right:
 
-1. **Right timing;** Entire app industry was optimising for downloads, far more demand from companies than supply of users/installs.
+1. **Right timing;** Entire app industry was optimising for downloads; far more demand from companies than supply of users/installs.
 
 2. **Plugged gaps in existing competitors,the market was hot;** Instead of innovating on features, we rethinking how an incent application should work, we just shipped an MVP with features we had identified as gaps in our competitors. Accomplished by reading 1000s of play store reviews and interviewing users who used these applications.
 
