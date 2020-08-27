@@ -8,7 +8,7 @@ The first successful product I built was [CashBoss](https://play.google.com/stor
 
 1. **Right timing;** Entire app industry was optimising for downloads; far more demand from companies than supply of users/installs.
 
-2. **Plugged gaps in existing competitors,the market was hot;** Instead of innovating on features, we rethinking how an incent application should work, we just shipped an MVP with features we had identified as gaps in our competitors. Accomplished by reading 1000s of play store reviews and interviewing users who used these applications.
+2. **Plugged gaps in existing competitors,the market was hot;** Instead of innovating on features, we reimagined how an incent application should work, we just shipped an MVP with features we had identified as gaps in our competitors. Accomplished by reading 1000s of play store reviews and interviewing users who used these applications.
 
 3. **Growth levers;** Since we were just acquired by Times Internet, I could leverage our relationship and get all the TIL apps to promote on our platform and promise revenue from day 1.
 
