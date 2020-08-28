@@ -30,6 +30,9 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [How -> What -> Why](https://manassaloi.com/2020/02/11/why-what-how.html)
 - [Interview Defaults](https://manassaloi.com/2020/02/07/interview-defaults.html)
 - [PM Interview Questions](https://manassaloi.com/2020/02/01/pm-interview-questions.html)
+- [Always think about the other 90% of the job](https://manassaloi.com/2020/06/15/other-ninety-percent-job.html)
+- [2/3](https://manassaloi.com/2020/06/14/two-three-rating.html)
+- [Dear beginner PM, Say YES](https://manassaloi.com/2020/06/13/pm-say-yes.html)
 
 ### Favourite books on Career
 
