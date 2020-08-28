@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Always think about the other 90% of the job"
+title:  "Think about the other 90% of the job"
 
 ---
 
