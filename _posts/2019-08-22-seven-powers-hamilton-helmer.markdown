@@ -56,7 +56,7 @@ categories: booksummaries
 
 + The quality of declining unit costs with increased business size is referred to as Scale Economies. It is the first of the 7 Powers
 
-+ Why do Scale Economies result in Power? Let’s recall the conditions for Power laid out in the Introduction. Power is a configuration that creates the potential for persistent significant differential returns, even in the face of fully committed and competent competition. To fulfill this, two components must be simultaneously present:
++ Why do Scale Economies result in Power? Power is a configuration that creates the potential for persistent significant differential returns, even in the face of fully committed and competent competition. To fulfill this, two components must be simultaneously present:
   + A Benefit: some condition which yields material improvement in the cash flow of the Power wielder via reduced cost, enhanced pricing and/or decreased investment requirements
   + A Barrier: some obstacle which engenders in competitors an inability and/or unwillingness to engage in behaviors that might, over time, arbitrage out this benefit
 
