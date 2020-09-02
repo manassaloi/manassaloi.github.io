@@ -41,11 +41,6 @@ Not long after, I received an ecstatic email from this student: “I was shocked
   - Slow. It. Down. Going too fast is one of the mistakes all negotiators are prone to making. If we’re too much in a hurry, people can feel as if they’re not being heard. You risk undermining the rapport and trust you’ve built
   - Put a smile on your face. When people are in a positive frame of mind, they think more quickly, and are more likely to collaborate and problem-solve (instead of fight and resist). Positivity creates mental agility in both you and your counterpart
 
-- There are three voice tones available to negotiators:
-  - The late-night FM DJ voice: Use selectively to make a point. Inflect your voice downward, keeping it calm and slow. When done properly, you create an aura of authority and trustworthiness without triggering defensiveness
-  - The positive/playful voice: Should be your default voice. It’s the voice of an easygoing, good-natured person. Your attitude is light and encouraging. The key here is to relax and smile while you’re talking
-  - The direct or assertive voice: Used rarely. Will cause problems and create pushback
-
 - Mirrors work magic. Repeat the last three words (or the critical one to three words) of what someone has just said. We fear what’s different and are drawn to what’s similar. Mirroring is the art of insinuating similarity, which facilitates bonding. Use mirrors to encourage the other side to empathize and bond with you, keep people talking, buy your side time to regroup, and encourage your counterparts to reveal their strategy
 
 - Strike up a conversation and put a label on one of the other person’s emotions—it doesn’t matter if you’re talking to the mailman or your ten-year-old daughter—and then go silent. Let the label do its work
