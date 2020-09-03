@@ -206,6 +206,7 @@ List of books I've found useful
 + [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
 + [The Second Mountain - David Brooks](https://www.goodreads.com/book/show/40642458-the-second-mountain)
 + [Reboot: Leadership and the Art of Growing Up - Jerry Colonna](https://www.goodreads.com/book/show/41806857-reboot)
++ [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
 
 ### Decision Making
 
@@ -241,7 +242,7 @@ List of books I've found useful
 ### Mind Broadening
 
 + [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens)
-[Homo Deus: A Brief History of Tomorrow - Yuval Noah Harari](https://www.goodreads.com/book/show/28092870-homo-deus)
++ [Homo Deus: A Brief History of Tomorrow - Yuval Noah Harari](https://www.goodreads.com/book/show/28092870-homo-deus)
 + [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
 + [Games Indians Play: Why We Are the Way We Are - V. Raghunathan](https://www.goodreads.com/book/show/955110.Games_Indians_Play)
 

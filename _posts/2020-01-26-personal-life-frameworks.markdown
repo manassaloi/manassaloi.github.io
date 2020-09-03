@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 42 frameworks for your life"
+title:  "[Frameworks] 44 frameworks for your life"
 
 ---
 
@@ -89,6 +89,10 @@ Some of the most important frameworks/models/principles I learned in the last fe
 41. [Build a life/career which can't be cancelled](https://www.nytimes.com/2020/05/25/opinion/joe-rogan-spotify-podcast.html); “When you have something that can’t get canceled, you can be free,” - Joe Rogan
 
 42. [Improve your maximum taste](https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/); the theory of maximum taste says that each person’s mind is defined by its upper limit—the best that it habitually consumes and is capable of consuming
+
+43. [Focus on the work, not the person](https://sive.rs/you-not-them); all that matters is what you do with the ideas, no matter the source. Apply them to your own life in your own way
+
+44. [Think in metaphors](https://sive.rs/metaphor); learn to see past the example, focus on the lesson, and apply it to your own life
 
 **Note:** I will keep expanding this list
 
