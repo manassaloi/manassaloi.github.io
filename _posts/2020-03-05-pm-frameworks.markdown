@@ -174,6 +174,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [10 times the same person](https://medium.com/@collinmathilde/9-most-useful-piece-of-advice-ive-received-15ebb7a47008)
 - [Don't peanut butter strategy](https://manassaloi.com/booksummaries/2017/07/21/escaping-build-trap-perri.html)
 - [Building communities - Migrate from other countries to your country](https://www.menabytes.com/product-lessons-alex-zhu/)
+- [B players are company killers](https://www.linkedin.com/pulse/amp-up-frank-slootman/)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
