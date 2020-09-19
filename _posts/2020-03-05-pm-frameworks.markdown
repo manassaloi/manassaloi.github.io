@@ -39,6 +39,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Speak For Yourself](https://boz.com/articles/speak-yourself)
 - [Curators & Editors](https://adamnash.blog/2017/04/18/product-leaders-as-curators-editors/)
 - [Recommend, don't ask](https://manassaloi.com/2020/05/31/driving-consensus.html)
+- [Product rigor over Communication rigor](https://johnkoetsier.com/building-10x-products-for-exponential-growth-with-asana-chief-product-officer-alex-hood/)
 
 
 ## Product development & Design
