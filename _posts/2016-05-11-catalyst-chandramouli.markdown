@@ -10,19 +10,15 @@ categories: booksummaries
 
 One of the greatest success factors at work is our ability to convert time and activity into experience (the algorithm).
 
-Target, Measure, Review and Reflection (TMRR) model—the most effective learning model at work
+To convert time into experience, you require a catalyst, and that catalyst is TMRR: Target, Measure, Review and Reflect. TMRR model—the most effective learning model at work
 
-An Example of TMRR
-
-I recently interacted with a young manager who had just completed a project. I said, ‘Let me help you catalyse that time you spent on the project and convert it into experience. Let us start with the question “What could I have done better in that project?”’ The young manager gave me a set of answers, but I felt they lacked depth. So I worded my question differently. ‘If you started the project again, with all the learning you have now, having done it once, what would you do differently?’ A clearer list emerged of what could have been done better. And then I asked another question, ‘Why could you not anticipate these areas right up front and do the project even better the first time? Were they impossible to anticipate and could they be known only after the project’s completion? Or was it that you failed to anticipate what was possible to anticipate?’ You can imagine the quality of reflection that is required to answer that question, and how that would build experience out of the time spent on this project. The young manager spent three months doing the project, but did not spend the few hours required to convert these three months into experience. A series of reflection questions like ‘What could I have done better?’ is crucial for truly converting time spent into valuable experience. If that is not done, then it is not time spent, but alas, time wasted.
+An Example of TMRR: I recently interacted with a young manager who had just completed a project. I said, ‘Let me help you catalyse that time you spent on the project and convert it into experience. Let us start with the question “What could I have done better in that project?”’ The young manager gave me a set of answers, but I felt they lacked depth. So I worded my question differently. ‘If you started the project again, with all the learning you have now, having done it once, what would you do differently?’ A clearer list emerged of what could have been done better. And then I asked another question, ‘Why could you not anticipate these areas right up front and do the project even better the first time? Were they impossible to anticipate and could they be known only after the project’s completion? Or was it that you failed to anticipate what was possible to anticipate?’ You can imagine the quality of reflection that is required to answer that question, and how that would build experience out of the time spent on this project. The young manager spent three months doing the project, but did not spend the few hours required to convert these three months into experience. A series of reflection questions like ‘What could I have done better?’ is crucial for truly converting time spent into valuable experience. If that is not done, then it is not time spent, but alas, time wasted.
 
 Time is the single greatest investment and resource you put into your career.
 
 However, this time is not automatically converted into the experience and algorithm that will drive your real individual growth and career success.
 
-To convert time into experience, you require a catalyst, and that catalyst is TMRR: Target, Measure, Review and Reflect.
-
-To make this effective, you must build an anchored habit of reflection on the question ‘What could I have done better?’
+You must build an anchored habit of reflection on the question ‘What could I have done better?’
 
 One common aspect in their journeys is that they have all had the opportunity to be an integral, end-to-end part of a very important project or initiative or transformation.
 
@@ -87,7 +83,8 @@ Mentors are critical to ensuring that you make the right career decisions in an 
 
 Among the poorest career decisions I have seen people make is the decision to quit as a consequence of the decision to join.
 
-When people first make the decision to quit and then find the reasons to justify and rationalize it, what tends to happen is that they actually see only two quadrants properly. Those two quadrants are ‘My current organization—What is bad’ and ‘My future organization—What can be good’
+Before quitting. it would be worthwhile to ask yourself these questions:- “What is good and bad with my current company?” and
+“What is good or bad with the company I propose to join?” Most of the times people do not look at all the four quadrants before coming to a decision. When people first make the decision to quit and then find the reasons to justify and rationalize it, what tends to happen is that they actually see only two quadrants properly. Those two quadrants are ‘My current organization—What is bad’ and ‘My future organization—What can be good’
 
 Please make sure you evaluate the new opportunity based on how effective it will be in building the experience algorithm, how likely it is to provide you major learning cycles and how likely you are to get good bosses there who would build your foundation and drive your learning. These are more important aspects in evaluating the ‘join’ decision than pay, designation and career prospects
 
