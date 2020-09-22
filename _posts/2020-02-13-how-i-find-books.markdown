@@ -28,6 +28,16 @@ Here are a few
 
 - [Dan Wang's list](danwang.co)
 
+- [Bret Victor's bookshelf](http://worrydream.com/Shelf2015/)
+
+- [Derek Siver's list](https://sive.rs/book)
+
+- [Shane Parrish's list](https://fs.blog/reading-2020/)
+
+- [Jason Crawford's](https://rootsofprogress.org/bibliography)
+
+- [Venkatesh Rao's list](https://www.ribbonfarm.com/now-reading/)
+
 I also follow a bunch of subreddits: r/booksuggestions, r/ books
 
 [If you are interested then you can try out the suggestions in  my shelf](https://manassaloi.com/bookshelf/)
