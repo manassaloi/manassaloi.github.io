@@ -4,8 +4,11 @@ title:  "[Project Management] Best practices for cross-team collaboration"
 
 ---
 
-- Define DRI/DARCI, milestones and project scopes clearly but anticipate changes along the way.
+- Define [DACI](https://www.atlassian.com/team-playbook/plays/daci), milestones and project scopes clearly but anticipate changes along the way.
+- Decider is the most important stakeholder you need to identify in DACI.
 - Make sure ownership of the project is clear from day 1.
+- There are 2 kinds of goals: primary and secondary. Primary is the one you need to achieve to make the project a success. Secondary are the 'nice to haves'. Identify the primary and secondary metrics which are doing to tell you whether you have achieved your goals.
+- Most of the flux around scoping, timelines come because people are unclear what the actual primary goal is.
 - Define roll out strategy early in the project.
 - Plan ahead for hand/take over of the project.
 - Communicate actively via all mediums (i.e. Slack, Email, documentations etc).
