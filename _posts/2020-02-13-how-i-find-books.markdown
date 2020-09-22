@@ -34,7 +34,7 @@ Here are a few
 
 - [Shane Parrish's list](https://fs.blog/reading-2020/)
 
-- [Jason Crawford's](https://rootsofprogress.org/bibliography)
+- [Jason Crawford's list](https://rootsofprogress.org/bibliography)
 
 - [Venkatesh Rao's list](https://www.ribbonfarm.com/now-reading/)
 
