@@ -25,6 +25,6 @@ You sent daily mails to get them back on your app. Then you sent discount codes.
 
 Instead of being the champion for your users, you became a mindless feature shipping junkie.
 
-Remember: As a PM your only job is to create a delightful experience for your users. Everything else is secondary. Say this to yourself every day at work. At every meeting where you compromise. Or soon you will have no users to build for
+Remember: As a PM your primary job is to create a delightful experience for your users. Everything else is secondary. Say this to yourself every day at work. At every meeting where you compromise. Or soon you will have no users to build for.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
