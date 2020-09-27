@@ -243,6 +243,7 @@ Date: Thursday 19th March
   + [How to use feedback to create a roadmap](https://mixpanel.com/blog/2019/10/10/product-gaps/)
   + [40 Roadmap Item Questions](https://cutle.fish/blog/40-roadmap-item-questions)
 + Prioritisation
+  + [Product Prioritization: Applying the Three Feature Bucket Framework](https://medium.com/@rohinip/product-prioritization-applying-the-three-feature-bucket-framework-35e7e6e7eddf)
   + [20 Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
   + [How to Prioritize a Product Roadmap](https://www.sachinrekhi.com/how-to-prioritize-a-product-roadmap)
   + [How to Move from Outputs to Outcomes](https://amplitude.com/blog/move-from-outputs-to-outcomes)
