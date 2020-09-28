@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital Minimalism"
+title:  "Digital minimalism"
 
 ---
 
