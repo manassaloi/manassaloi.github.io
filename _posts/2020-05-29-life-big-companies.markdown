@@ -8,6 +8,6 @@ I was watching [Day in the Life of a Facebook Software Engineer](https://www.you
 
 If you are someone who has been dreaming about working for a FANG or even a late-stage startup (1000+ employees), you should ask yourself if you are okay with some of the things which you will have to do as part of the job.
 
-Note: I think a lot of videos Patrick makes are kinda lame and clickbaity. I disagree with most of his content on diversity. Also he got fired from Facebook, so his videos are biased against the company. But once in a while, he throws a video like this which makes you think.
+Note: I think a lot of videos Patrick makes are kinda lame and clickbaity. I disagree with most of his content on diversity. Also note that since he got fired from Facebook his videos are biased against the company. But once in a while, he throws a video like this which makes you think.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
