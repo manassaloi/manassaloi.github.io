@@ -13,7 +13,7 @@ Weekly
 - Monday morning planning meeting
 - Wednesday PM weekly meeting
 - Leads (PDG PMs and TLs) sync up
-- 1-1s with my direct reports
+- 1-1s with my direct reports on Mondays
 - 1-1 with Stream Design lead
 - 1-1 with Stream Engineering lead
 - Sync ups with other product streams/ PDGs (if relevant)
@@ -31,6 +31,7 @@ Monthly
 - Monthly Design Sync up
 - PDG Townhall
 - Company Townhall
+- IDP follow up with reports
 
 Quarterly
 - PDG OKRs Review and Retrospective for the Quarter
