@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Company playbooks"
+title:  "Company Principles, Values and Playbooks"
 
 ---
 
@@ -11,5 +11,9 @@ title:  "Company playbooks"
 - [HubSpot](https://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 - [Netflix](https://www.slideshare.net/reed2001/culture-1798664)
 - [Basecamp](https://basecamp.com/handbook)
+- [Zalando's founding mindset](https://jobs.zalando.com/en/our-founding-mindset/)
+- [Apple's palette](https://www.theiphonewiki.com/wiki/Leadership_Palette)
+- [Netflix Culture](http://jobs.netflix.com/culture)
+- [Amazon's LPs](https://www.amazon.jobs/en/principles)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
