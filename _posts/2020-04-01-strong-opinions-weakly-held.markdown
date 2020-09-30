@@ -5,7 +5,7 @@ title:  "Strong opinions, weakly held"
 
 [Strong opinions, weakly held](https://bobsutton.typepad.com/my_weblog/2006/07/strong_opinions.html) is one of my [life principles](https://manassaloi.com/2020/01/26/personal-life-frameworks.html).
 
-Some of the strong opinions I held in the past, which I have dropped
+A list of strong opinions which I held once but no longer belive in
 
 1. **Management consultants are con artists who try to hide their lack of deep understanding behind frameworks.** This was something I believed in when I was a fresher out of college. Since then I have worked with my ex-consultants, who are super smart, are organized, can break tough problems, and come up with solutions backed by data. They have a bad reputation because people think consultants don't have skin in the game, which might be somewhat true.
 2. **Using frameworks is lazy.** I love [frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html) now.
