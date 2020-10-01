@@ -28,6 +28,6 @@ title:  "Company Principles, Values and Playbooks"
 - [The Automattic creed](https://automattic.com/creed/)
 - [Zappos 10 core values](https://www.zapposinsights.com/about/core-values)
 
-* From 3rd party sources
+Items marked as * are from 3rd party sources.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
