@@ -27,6 +27,7 @@ title:  "Company Principles, Values and Playbooks"
 - [Google's 10 things](https://www.google.com/intl/en/about/philosophy.html)
 - [The Automattic creed](https://automattic.com/creed/)
 - [Zappos 10 core values](https://www.zapposinsights.com/about/core-values)
+- [Coinbase's culture doc](https://blog.coinbase.com/culture-at-coinbase-fe510fe9c098)
 
 Items marked as * are from 3rd party sources.
 
