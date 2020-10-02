@@ -24,23 +24,25 @@ I plan to create templates and best practices for the following over the next 3 
   - [Company vision](https://manassaloi.com/2020/05/10/vision-mission.html)
   - [Company goals, objectives](https://manassaloi.com/2020/05/10/vision-mission.html)
   - [Company OKRs](https://manassaloi.com/2020/05/10/vision-mission.html)
+  - [Company Principles and Values](https://docs.google.com/document/d/1JjBP6ytS5wOaYa2jKslf2MtA-WGqHvgdmacOxZDZahY/edit?usp=sharing)
   - [Off-site template](https://coda.io/@clairehughesjohnson/claires-offsite-toolkit)
   - [Pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
   - [Half Yearly Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Quarterly Strategy meeting](https://medium.com/@gibsonbiddle/how-to-run-a-quarterly-product-strategy-meeting-a-board-meeting-for-product-3a14c4d53d1b)
 
 - **Vision and Strategy for product teams** (Long term) (Why)
+  - [OKRs Walkthrough](https://docs.google.com/document/d/1PzCs49z4rBNKjcYy975L5XkQD_iPLcu3eLHt74hBe1k/edit?usp=sharing)
   - [Team OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
   - [Team charter](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
   - [Team vision](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
   - [Product Strategy Workshops](https://www.departmentofproduct.com/blog/how-to-run-product-strategy-workshops/)
   - [Definitions, Equations, Metrics and Dashboards](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
-  - OKR Update mail
-  - Monthly Product Cadence
+  - [Monthly Product/Business Review Meeting](https://docs.google.com/document/d/1PzCs49z4rBNKjcYy975L5XkQD_iPLcu3eLHt74hBe1k/edit?usp=sharing)
+  - [Monthly Product Review Update](https://docs.google.com/document/d/1VN5dv78EQwJkm3xhZP765tyXdTqEViVcaPVqB10m1OY/edit?usp=sharing)
+
 
 - **Team planning** (Medium term) (What) (How)
-
   - [Monday weekly product priorities sync-up](https://docs.google.com/document/d/1s_ejLtOuOU2cwW2qcVbMlNxmJIm61I8V7zpHcKGN1Ow/edit?usp=sharing)
   - [Wednesday Weekly Product Sync-up](https://docs.google.com/document/d/1fw93-oEYzzuDcsagZJjYM7Xu3bySbd1ilnOI98ybRfM/edit?usp=sharing)
 

@@ -28,8 +28,8 @@ Biweekly
 
 Monthly
 - Monthly Product Review meeting
-- Monthly Design Sync up
 - PDG Townhall
+- Monthly sync up with Res
 - Company Townhall
 - IDP follow up with reports
 
