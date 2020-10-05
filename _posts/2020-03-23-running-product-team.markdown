@@ -17,8 +17,9 @@ They will also include the
 - HOW
 - WHEN
 
-I plan to create templates and best practices for the following over the next 3 months. If I think there are better resources out there for the same, I will link them instead of creating a new document
+I plan to create templates and best practices for the following over the next 3 months. If I think there are better resources out there for the same, I will link them instead of creating a new document.
 
+**Note:** I am indebted to my last two companies: Directi and Gojek, where I learned most of these. Most of these are iterations of documents/mails me as well as other PMs used. Remember, everything is a remix.
 
 - **Vision and Strategy for the company** (Long term) (Why)
   - [Company vision](https://manassaloi.com/2020/05/10/vision-mission.html)
@@ -40,6 +41,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Definitions, Equations, Metrics and Dashboards](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
   - [Monthly Product/Business Review Meeting](https://docs.google.com/document/d/1PzCs49z4rBNKjcYy975L5XkQD_iPLcu3eLHt74hBe1k/edit?usp=sharing)
   - [Monthly Product Review Update](https://docs.google.com/document/d/1VN5dv78EQwJkm3xhZP765tyXdTqEViVcaPVqB10m1OY/edit?usp=sharing)
+  - [Quarterly Team Update](https://docs.google.com/document/d/1OA3PORhM8dYu9yuM1bwNkJYWvtEjizoDhioo8Hq59ic/edit?usp=sharing)
 
 
 - **Team planning** (Medium term) (What) (How)
