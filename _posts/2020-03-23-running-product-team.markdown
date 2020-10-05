@@ -54,7 +54,7 @@ I plan to create templates and best practices for the following over the next 3 
 
 - **Running the team** (Mid term) (Short term) (How) (When)
   - [Inception](https://docs.google.com/document/d/1tBV3s2_5xV9k9fiBeVRl5-JSBQURJdLRJwJsOSSedXI/edit?usp=sharing)
-  - Naming a team
+  - [Naming a team]()
   - [Projects in Dev Prioritisation & allocation](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=642287720)
   - [Team Work view](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=203120845)
   - [Schedule of features](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=492432612)
