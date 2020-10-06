@@ -3,7 +3,7 @@ layout: post
 title:  "Is there a discovery problem with UberEats?"
 
 ---
-I wrote a thread recently on whether moving the Uber Eats hook/entry point to the bottom nav bar would move the needle for UberEats. Turning it into a blogpost (with some edits)
+I wrote a thread recently on whether moving the Uber Eats hook/entry point to the bottom nav bar would move the needle for UberEats. Turning it into a blogpost (with some edits).
 
 **/threadstarts**
 
@@ -30,13 +30,13 @@ What Uber Eats and FoodPanda have to understand is that they are not in the app 
 
 **What are the things people want from a food delivery business:**
 
- + **Best price possible**
- + **Diverse inventory/ More options in terms of restaurants, cuisines available**
- + **Faster delivery**
- + **Authentic items/trust in the platform**
- + **More info/ more recommendation which helps you make the decision on what to order**
+ + **Best price possible.**
+ + **Diverse inventory/ More options in terms of restaurants, cuisines available.**
+ + **Faster delivery.**
+ + **Authentic items/trust in the platform.**
+ + **More info/ more recommendation which helps you make the decision on what to order.**
 
-What I keep seeing both do instead is: **Running experiments on discovery. Basically attempt at solving the type 1 problem again and again when I don't even think it is the main problem to solve at this stage**
+What I keep seeing both do instead is: **Running experiments on discovery. Basically attempt at solving the type 1 problem again and again when I don't even think it is the main problem to solve at this stage.**
 
 Uber started with putting a hook for Eats in their home screen. Then they tried a switcher at the top (go the super app route). Then reposition the hook at the right. Now they have put it at the bottom as part of their bottom nav bar.
 
