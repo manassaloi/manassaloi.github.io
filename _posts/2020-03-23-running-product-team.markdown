@@ -97,7 +97,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [User stories](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit#heading=h.b2fqwtvw6ni5)
   - [Dev stories](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
   - [Job stories](https://www.intercom.com/blog/accidentally-invented-job-stories/)
-  - Slack workflow for feature development
+  - [Slack workflow for feature development](https://docs.google.com/document/d/1UZAriJVJuWvm_Q3hfxuaaoowGsMropJTLgjilfpCqoE/edit?usp=sharing)
   - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Project Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
