@@ -80,8 +80,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
   - [List of all meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
   - [PM Weekly Learning Session](https://docs.google.com/document/d/1Bl23tJbm-5CQI24SkgcF8S43T-nj9JhtY34-1cFjpl8/edit?usp=sharing)
-  - New member Onboarding
-  - 90 day plan for new joinee
+  - [New PM Onboarding](https://docs.google.com/spreadsheets/d/1nmiiI36JARS_xufVTbUOXQGtVYCHyNxg5zKhKmVCwlQ/edit?usp=sharing)
 
 - **Creating a new feature** (Short term) (Why) (What) (How) (When)
   - [Naming the project](https://docs.google.com/document/d/14qbeZ-hkE55YagqXNLLtw36MCAcFKQEj08DgfMP_W8g/edit?usp=sharing)
