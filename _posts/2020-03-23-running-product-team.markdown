@@ -87,7 +87,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Pitch doc](https://docs.google.com/document/d/1ez5NflYwy9DxhAXzg2AA2p0eMLVWg3QgxHatg3Td1zA/edit?usp=sharing)
   - [Product spec](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html)
   - Design spec
-  - Design checklist
+  - [Design checklist](https://docs.google.com/document/d/1UxJcHr0PlZHecmuWKfaLSApvhNO3EK04vuNoA7WzYjo/edit?usp=sharing)
   - [Backend spec](https://docs.google.com/document/d/1CB33dYpiK6JrgJl7_swlPUFz-Y-St8E9GnpuzzohdbY/edit?usp=sharing)
   - [Frontend tech spec](https://docs.google.com/document/d/1RvslTOIHBHknK54ftASaHcFEnK4ytueJ5_4jCjvDZkg/edit?usp=sharing)
   - [Milestone planning](https://docs.google.com/document/d/1CB33dYpiK6JrgJl7_swlPUFz-Y-St8E9GnpuzzohdbY/edit?usp=sharing)
