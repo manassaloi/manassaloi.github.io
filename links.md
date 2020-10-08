@@ -6,7 +6,7 @@ permalink: /links/
 
 ### (Transitioning to a PM role)
 
-Check out material from my PM coaching course called Aristos: [Aristos - PM Coaching](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
+I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
 
 ### (Links you might find interesting)
 
