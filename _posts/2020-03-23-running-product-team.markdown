@@ -61,8 +61,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Team Work view](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=203120845)
   - [Schedule of features](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=492432612)
   - [Release planning](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=492432612)
-  - Skunkworks
-  - Engineering projects
+  - [Skunkworks](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit?usp=sharing)
   - [IPM](https://manassaloi.com/2020/05/01/running-IPM.html)
   - [Stand-ups](https://manassaloi.com/2020/05/01/running-IPM.html)
   - [Jira](https://manassaloi.com/2020/05/01/running-IPM.html)
