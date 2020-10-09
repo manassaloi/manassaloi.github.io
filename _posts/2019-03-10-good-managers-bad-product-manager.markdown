@@ -16,7 +16,7 @@ Funny story: After I left, my friend who continued running Facebook campaigns at
 
 Having empathy for your fellow workers is important and **the best Managers are empathetic.** Good managers know that you are a human being and not treat you like a ‘resource’. I had worked under 2 different managers at a previous company; One who once asked how my girl friend was doing when I left work early one day to take care of her; and another who did not even bother asking how I was when I had taken sick leave for multiple days. Needless to ask who I enjoyed working with more.
 
-**Good Managers know micromanagement does not scale.** Good managers know that they can’t do everything and give you autonomy, more responsibilities. I was just 1 year out of college when Sameer (my CEO) let me run CashBoss, a new business unit at CouponDunia. Soon I was handling growth for Coupondunia and was given additional responsibility of the Desktop site too. 
+**Good Managers gives you freedom but with responsibility.** Good managers know that they can’t do everything and give you autonomy, more responsibilities. I was just 1 year out of college when Sameer (my CEO) let me run CashBoss, a new business unit at CouponDunia. Soon I was handling growth for Coupondunia and was given additional responsibility of the Desktop site too. Sameer gave me as much freedom as I needed to do my job well, but with the responsibility of doing the right thing, and always giving my 100%. He did not try to "manage" me.
 
 **Good managers praise publicly; but give feedback in private.** They shield their subordinates from Office politics, praise them when things go right and share the blame when someone screws up.
 
