@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-List of books I've found useful  
+A list of books I've found useful. Other books I have read: **[GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)**  
 
 ### Biographies & Start-up Stories
 
@@ -284,5 +284,3 @@ List of books I've found useful
 + [Dark Matter - Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter)
 + [Sharp Objects - Gillian Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects)
 + [Stoner - John Williams](https://www.goodreads.com/book/show/166997.Stoner)
-
-Find the complete list of books I have read here: **[GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
