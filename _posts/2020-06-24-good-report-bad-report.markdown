@@ -20,7 +20,7 @@ This post is based on both: my experience as a report as well as a manager.
 8. A good report is an optimist. A bad report sees only problems.
 9. A good report is willing to take up more responsibilities. Grow. A bad report waits for their manager to come up with their career development plan.
 10. A good report sets up the meeting. They come up with the agenda, sets the direction, and aligns their manager on the outcome. A bad report waits for their manager to do everything instead of taking ownership.
-11. A good report adds tremendous value. A bad report is a rent seeker.
+11. A good report creates tremendous leverage for their manager. A bad report is a rent seeker.
 12. A good report learns from their mistakes, takes feedback well, and follows up on the feedback. A bad report focusses on the criticism part and not the learning opportunity from mistakes.
 13. A good report makes their manager look better than they are. A bad report causes constant worry and puts their managers on defense instead of offense.
 14. A good report stands up for what they believe in. They are not scared to speak up. A bad report does not have a backbone, constantly gossips, and plays the victim.
