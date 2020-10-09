@@ -4,7 +4,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 
 ---
 
-## Principles
+## Values and Principles
 - [Pass the Orange test](https://www.intercom.com/blog/the-orange-juice-test/)
 - [Truth Seeker](https://www.sachinrekhi.com/the-best-product-managers-are-truth-seekers)
 - [Bias for action](https://www.amazon.jobs/en/principles)
@@ -41,6 +41,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Recommend, don't ask](https://manassaloi.com/2020/05/31/driving-consensus.html)
 - [Product rigor over Communication rigor](https://johnkoetsier.com/building-10x-products-for-exponential-growth-with-asana-chief-product-officer-alex-hood/)
 - [Create urgency, not panic](https://mobile.twitter.com/hunterwalk/status/1307526644609900544)
+- [Amp It Up!](https://www.linkedin.com/pulse/amp-up-frank-slootman/s)
 
 
 ## Product development & Design
