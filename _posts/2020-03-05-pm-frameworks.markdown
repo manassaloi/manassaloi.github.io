@@ -178,6 +178,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Don't peanut butter strategy](https://manassaloi.com/booksummaries/2017/07/21/escaping-build-trap-perri.html)
 - [Building communities - Migrate from other countries to your country](https://www.menabytes.com/product-lessons-alex-zhu/)
 - [B players are company killers](https://www.linkedin.com/pulse/amp-up-frank-slootman/)
+- [Nut out the next ‘big goal worthy of celebration’](https://www.smartcompany.com.au/startupsmart/advice/canva-melanie-perkins-tip/)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
