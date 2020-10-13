@@ -10,6 +10,8 @@ This will be the place where I link to all the gyaan on meetings I have given or
 
 - [Running more efficient meetings](https://manassaloi.com/2020/05/25/efficient-meetings.html)
 - [Running Stand-up, Sprints and Iteration Planning Meetings](https://manassaloi.com/2020/05/01/running-IPM.html)
+- [Driving consensus in meetings](https://manassaloi.com/2020/05/31/driving-consensus.html)
+- [All my meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
 - [How to schedule a meeting?](https://manassaloi.com/2020/06/03/sending-meeting-invite.html)
 
 **Note:** I will keep expanding this list
