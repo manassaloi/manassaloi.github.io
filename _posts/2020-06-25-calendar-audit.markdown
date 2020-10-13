@@ -17,7 +17,7 @@ Something I recommend to PMs in my team: If you are feeling overwhelmed with wor
 **Notes:**
 
 1. I keep a huge chunk of my Monday to plan the day. After my priorities for the week are clear I create slots in my calendar to focus on those priorities. The goal is to spend less time reacting and more being proactive about what I do during the week.
-2. To do this exercise better you can [color-code your calendar](https://junglegym.substack.com/p/frameworks-from-a-growth-leader-who).
+2. To do this exercise better you can [color-code your calendar](https://junglegym.substack.com/p/frameworks-from-a-growth-leader-who). It is very hard to time box each meeting into the categories mentioned above. It is not important to be precise, you just need to be directionally correct.
 3. Just doing this exercise is not enough. Work towards creating a week where you work on the highest leverage activities for you and your team. Be ruthless about how you spend your time.
 4. I spend far more time on work than the 40 hours mentioned here. Sometime I am on call with my team as late as 9 PM if we are stuck with some production issue or are running late on a P0 project. The goal is not the count work hours. The goal is to be more conscious of where your time is going.
 5. Don't do this exercise every week. Do it when you don't understand where your work hours are going.
