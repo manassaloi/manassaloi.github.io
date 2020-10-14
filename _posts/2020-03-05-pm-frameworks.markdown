@@ -135,6 +135,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Forcing functions are valuable](https://cutle.fish/blog/50-product-lessons)
 - [4 types of product work beyond PMF](https://brianbalfour.com/quick-takes/product-market-fit-expansion)
 - [Phone tilt factor](https://mobile.twitter.com/NonGaap/status/1267519267924140032)
+- [Uncola](https://www.profgalloway.com/palanthiel-the-uncola)
 
 ## Decision making
 - [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
