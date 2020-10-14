@@ -47,6 +47,7 @@ Date: Thursday 12th December
   + Framework given in Crack the PM Interview
 + Complete Crack the PM Interview (1 week)
 + Go through these links (2 weeks)
+  + [Transitioning into Product Management](https://medium.com/@vishrutshukla/transitioning-into-product-management-a-beginners-guide-1effadd0ca7e)
   + [How I became a Product Manager](https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/)
   + [19 lessons I learned during my first year as a Product Manager](https://www.linkedin.com/pulse/19-lessons-i-learned-during-my-first-year-product-manager-saloi/)
   + [The PM Interview Website to practice interview questions](https://thepminterview.com/)
