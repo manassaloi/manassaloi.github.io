@@ -339,4 +339,9 @@ Date: Tuesday 24th March
 + Day to Day PM'ing Bookmarks shared on Aristos Whatsapp group
 + General Gyan on Career
 
+## Practice
+
++ [PM Interview Questions](https://manassaloi.com/2020/02/01/pm-interview-questions.html)
++ [PM Interview Questions 2](https://manassaloi.com/2020/06/18/pm-interview-questions-2.html)
+
 **/end**
