@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Self Growth] Career development plan for PMs"
+title:  "[Career Growth] Career development plan for PMs"
 
 ---
 
