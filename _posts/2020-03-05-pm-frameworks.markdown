@@ -136,6 +136,12 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [4 types of product work beyond PMF](https://brianbalfour.com/quick-takes/product-market-fit-expansion)
 - [Phone tilt factor](https://mobile.twitter.com/NonGaap/status/1267519267924140032)
 - [Uncola](https://www.profgalloway.com/palanthiel-the-uncola)
+- [3 major product problems in 10 years](https://mobile.twitter.com/Suhail/status/1310995935783260167)
+- [Testing should not be a substitute of assertion](https://mobile.twitter.com/scottbelsky/status/1317095135717527552)
+- [Create rituals](https://ariyh.substack.com/p/attach-a-ritual-to-your-product)
+- [Step Functions vs One-percent Improvements](https://summation.net/2020/09/10/step-functions-and-one-percent-improvements/)
+- [Options, Not Roadmaps](https://m.signalvnoise.com/options-not-roadmaps/)
+- [The Four Big Risks](https://svpg.com/four-big-risks/)
 
 ## Decision making
 - [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
@@ -179,7 +185,9 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Don't peanut butter strategy](https://manassaloi.com/booksummaries/2017/07/21/escaping-build-trap-perri.html)
 - [Building communities - Migrate from other countries to your country](https://www.menabytes.com/product-lessons-alex-zhu/)
 - [B players are company killers](https://www.linkedin.com/pulse/amp-up-frank-slootman/)
+- [Simplicity Is Speed, And Speed Is Good](https://angel.co/blog/how-keith-rabois-builds-billion-dollar-businesses-radical-simplicity)
 - [Nut out the next ‘big goal worthy of celebration’](https://www.smartcompany.com.au/startupsmart/advice/canva-melanie-perkins-tip/)
+- [Be a new user](https://mobile.twitter.com/akothari/status/1306638972815196160)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
