@@ -22,7 +22,7 @@ title:  "A simple Growth Model for your Start-Up"
 
 Most of the tactics mentioned in this blog only work if you have achieved Product-Market fit and are solving a real problem. I will try to use the framework/model used by Andy Johns and try to come up with tactics your own growth team can implement to achieve scale for your startup.
 
-## Growth = Market Expansion * Vertical Expansion (More categories) * Merchants per vertical * Products per Merchant * Traffic to Site/ App * Conversion on each Page/ Screen * Increase in Average Ticket Size**
+## Growth = Market Expansion * Vertical Expansion (More categories) * Merchants per vertical * Products per Merchant * Traffic to Site/ App * Conversion on each Page/ Screen * Increase in Average Ticket Size
 
 You can use this formula to devise the top line growth of your startup. On the face of it, it appears to be relevant to only e-commerce but perhaps you can tweak it to make it work for your business model.
 
