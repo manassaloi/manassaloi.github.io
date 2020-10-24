@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usage of Dropbox Paper is now mandatory"
+title:  "Dropbox Paper is now mandatory"
 
 ---
 
