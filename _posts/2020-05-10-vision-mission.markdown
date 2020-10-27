@@ -10,6 +10,7 @@ OKR template: [here](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3J
 
 - [Vision, Mission, and Purpose](https://davidburkus.com/2020/05/whats-the-difference-between-vision-mission-and-purpose/)
 - [Mission and Vision](http://blog.isaach.com/2010/03/mission-and-vision.html)
+- [Product Vision vs. Mission](https://svpg.com/product-vision-vs-mission/)
 - [Create a vision with the team](https://rework.withgoogle.com/guides/managers-set-and-communicate-a-team-vision/steps/create-a-vision-with-the-team/)
 - [Building a Shared Vision](https://docs.google.com/presentation/d/1cVWgMmIzDb-BXxgngQ-4IQyHSbkO7K79bc0RP69SC7M/edit#slide=id.g2906151feb_0_0)
 - [Mission, Strategy, and Tactics](https://boz.com/articles/strategy-tactics)
