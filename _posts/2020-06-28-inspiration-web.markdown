@@ -20,7 +20,7 @@ title:  "Things I watch on Youtube"
 - [A Day In the Life by Harper's BAZAAR](https://www.youtube.com/watch?v=xFpG07pi4hw&list=PLsGoWYUz-BTEN_dArxA694rbtgdEEgscM)
 - [10 Things by GQ](https://www.youtube.com/watch?v=59XePu0JYBU&list=PL0hKMB1-xkc8t5sXk1arVDl-TQslbTdEm)
 
-Obviously, these are not the only channels/playlists I have subscribed to. But these are the ones I find myself going back to.
+Obviously, these are not the only channels/playlists I have subscribed to, but these are the ones I find myself going back to the most.
 
 Subreddits I have subscribed to is [here](https://manassaloi.com/2020/06/27/subreddits.html)
 
