@@ -26,6 +26,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Company goals, objectives](https://manassaloi.com/2020/05/10/vision-mission.html)
   - [Company OKRs](https://manassaloi.com/2020/05/10/vision-mission.html)
   - [Company Principles and Values](https://docs.google.com/document/d/1JjBP6ytS5wOaYa2jKslf2MtA-WGqHvgdmacOxZDZahY/edit?usp=sharing)
+  - [Product Manifesto](https://svpg.com/the-product-manifesto/)
   - [Off-site template](https://coda.io/@clairehughesjohnson/claires-offsite-toolkit)
   - [Pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
   - [Half Yearly Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
