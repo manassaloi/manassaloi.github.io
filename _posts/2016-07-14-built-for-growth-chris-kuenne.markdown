@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-**Note:** This is the only summary of a book I have half read. It should have been a blogpost. I am still noting down the 4 types of company builder personalities and their qualities
+**Note:** This is first time I am doing a summary of a half-read book. TBH the book could have been a blogpost.
 
 **There are 4 type of company builders: Driver, Explorer, Crusader, and Captain**
 
