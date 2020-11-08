@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A few disconnected thoughts on design reviews"
+title:  "On design reviews"
 
 ---
 
