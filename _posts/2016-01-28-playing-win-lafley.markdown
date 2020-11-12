@@ -293,7 +293,7 @@ These four dimensions can be understood through a framework we call the strategy
 
 ![Laying out the conditions To pursue this possibility, what would have to be true?](/assets/img/laying_conditions.png)
 
-![The Olay masstige option](/assets/img/lolay_masstige_option.png)
+![The Olay masstige option](/assets/img/olay_masstige_option.png)
 
 - REVERSE-ENGINEERING DOS AND DON’TS
   - Don’t spend a lot of time up front analyzing everything you can; instead, use reverse engineering to pinpoint only what you really need to know.
