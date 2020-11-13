@@ -28,6 +28,8 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 10. **[Competing Against Luck](https://manassaloi.com/booksummaries/2017/07/22/competing-against-luck-christensen.html)**:  Customers don’t buy products or services; they "hire" them to do a job.
 
+11. **[Playing to Win - A.G. Lafley](https://manassaloi.com/booksummaries/2016/01/28/playing-win-lafley.html)**: Strategy is about making specific choices to win in the marketplace.
+
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes.
 
@@ -35,7 +37,6 @@ I read them long back. Have to re read and take notes.
 
 - [Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
 - [Thinking Strategically](https://www.amazon.com/Thinking-Strategically-The-Competitive-Edge-in-Business-Politics-and-Everyday-Life/dp/0393310353/)
-- [Playing to Win](https://www.amazon.com/dp/142218739X/)
 - [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
 - [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
 - [Positioning: The Battle for Your Mind](https://www.goodreads.com/book/show/760025.Positioning_The_Battle_for_Your_Mind_How_to_Be_Seen_and_Heard_in_the_Overcrowded_Marketplace)
