@@ -56,6 +56,8 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Insanely Simple: The Obsession That Drives Apple's Success - Ken Segall](https://www.goodreads.com/book/show/13383957-insanely-simple)
 + [Be Our Guest: Perfecting the art of customer service - Walt Disney Company](https://www.goodreads.com/book/show/205979.Be_Our_Guest)
 + [Always Day One: How the Tech Titans Plan to Stay on Top Forever - Alex Kantrowitz](https://www.goodreads.com/book/show/52027218-always-day-one)
++ [Playing to Win: How Strategy Really Works - A.G. Lafley](https://www.goodreads.com/book/show/13586928-playing-to-win)
++ [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
 
 ### Leading & Managing
 
@@ -80,6 +82,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 + [The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle](https://www.goodreads.com/book/show/33517721-the-culture-code)
 + [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink](https://www.goodreads.com/book/show/23848190-extreme-ownership)
++ [The Score Takes Care of Itself: My Philosophy of Leadership - Bill Walsh](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself)
 
 ### Product & Strategy
 
@@ -101,9 +104,10 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Escaping the Build Trap: How Effective Product Management Creates Real Value - Melissa Perri](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap)
 + [Competing Against Luck - Clayton M. Christensen](https://www.goodreads.com/book/show/28820024-competing-against-luck)
 + [Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta](https://www.goodreads.com/book/show/13263934-understanding-michael-porter)
++ [Start at the End: How to Build Products That Create Change - Matt Wallaert](https://www.goodreads.com/book/show/43607837-start-at-the-end)
 
 
-### Life & Living
+### Life, Living & Mindset
 
 + [Being Mortal: Medicine and What Matters in the End - Atul Gawande](https://www.goodreads.com/book/show/20696006-being-mortal)
 + [Meditations - Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
@@ -113,6 +117,19 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [30 Lessons for Living: Tried and True Advice from the Wisest Americans - Karl Pillemer](https://www.goodreads.com/book/show/11376196-30-lessons-for-living)
 + [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 + [When Breath Becomes Air - Paul Kalanithi](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air)
++ [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
++ [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
++ [The Mental Game of Poker - Jared Tendler](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
++ [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
++ [The Second Mountain - David Brooks](https://www.goodreads.com/book/show/40642458-the-second-mountain)
++ [Reboot: Leadership and the Art of Growing Up - Jerry Colonna](https://www.goodreads.com/book/show/41806857-reboot)
++ [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
++ [Atmamun: The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God - Kapil Gupta](https://www.goodreads.com/book/show/30008981-atmamun)
++ [Digital Minimalism: Choosing a Focused Life in a Noisy World - Cal Newport](https://www.goodreads.com/book/show/40672036-digital-minimalism)
++ [Man's Search for Meaning - Viktor E. Frankl](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
++ [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness - Eric Jorgenson](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant)
++ [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
+
 
 ### Habits & Productivity
 
@@ -198,15 +215,14 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 + [Never Split the Difference - Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
-### The Art of living & Mindset
+### All things Corporate
 
-+ [A Complaint Free World: How to Stop Complaining and Start Enjoying the Life You Always Wanted - Will Bowen](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
-+ [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
-+ [The Mental Game of Poker - Jared Tendler](https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker)
-+ [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
-+ [The Second Mountain - David Brooks](https://www.goodreads.com/book/show/40642458-the-second-mountain)
-+ [Reboot: Leadership and the Art of Growing Up - Jerry Colonna](https://www.goodreads.com/book/show/41806857-reboot)
-+ [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
++ [Power: Why Some People Have it and Others Don't - Jeffrey Pfeffer](https://www.goodreads.com/book/show/8562119-power)
++ [Moral Mazes: The World of Corporate Managers - Robert Jackall](https://www.goodreads.com/book/show/279812.Moral_Mazes)
++ [Rising to Power: The Journey of Exceptional Executives - Ron A. Carucci](https://www.goodreads.com/book/show/21535014-rising-to-power)
++ [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
++ [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
++ [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
 
 ### Decision Making
 
@@ -223,13 +239,13 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz](https://www.goodreads.com/book/show/38900091-the-ceo-next-door)
 + [The McKinsey Edge: Success Principles from the World's Most Powerful Consulting Firm - Shu Hattori](https://www.goodreads.com/book/show/26271798-the-mckinsey-edge)
 + [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane](https://www.goodreads.com/book/show/11910905-the-charisma-myth)
-+ [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
-+ [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
++ [The McKinsey Engagement: A Powerful Toolkit for More Efficient and Effective Team Problem Solving - Paul N. Friga](https://www.goodreads.com/book/show/2432639.The_McKinsey_Engagement)
 + [McKinsey Mind - Ethan M. Rasiel,  Paul N. Friga](https://www.goodreads.com/book/show/296153.McKinsey_Mind)
 + [The Alliance: Managing Talent in the Networked Age - Reid Hoffman](https://www.goodreads.com/book/show/20763746-the-alliance)
 + [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Career - Alex Banayans](https://www.goodreads.com/book/show/36739769-the-third-door)
 + [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 + [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
++ [The Presentation Secrets of Steve Jobs - Carmine Gallo](https://www.goodreads.com/book/show/6908348-the-presentation-secrets-of-steve-jobs)
 
 
 ###  History
@@ -284,3 +300,4 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Dark Matter - Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter)
 + [Sharp Objects - Gillian Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects)
 + [Stoner - John Williams](https://www.goodreads.com/book/show/166997.Stoner)
++ [The House in the Cerulean Sea - T.J. Klune](https://www.goodreads.com/book/show/45047384-the-house-in-the-cerulean-sea)
