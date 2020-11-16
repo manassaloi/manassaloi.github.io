@@ -104,6 +104,15 @@ fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovet
 
 fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
 
+**21/ Shreyas Doshi. [https://twitter.com/shreyas](https://twitter.com/shreyas)**
+
+fav: [Why Products Don't Succeed: The 7 Biases of Product Teams](https://www.linkedin.com/pulse/why-products-dont-succeed-7-biases-product-teams-shreyas-doshi/)
+
+**22/ Brian Balfour. [hhttps://brianbalfour.com/](https://brianbalfour.com/)**
+
+fav: [Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
+
+
 ### (Blogs I read regularly)
 
 **1/ [Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
@@ -188,6 +197,22 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 16/ [StrictlyVC](https://www.strictlyvc.com/)
 
+17/ [Drinking from the Firehose](https://www.firehose.vc/)
+
+18/ [The Profile](https://theprofile.substack.com/)
+
+19/ [Stealing Signs](stealingsigns@substack.com)
+
+20/ [Kenny Chen](https://uxdesignweekly.com/)
+
+21/ [Not Boring](notboring@substack.com)
+
+22/ [Mario at The Generalist](https://thegeneralist.substack.com/)
+
+23/ [Circle of Competence](https://www.circleofcompetence.co/)
+
+24/ [The Skip](theskip@substack.com)
+
 ### (Podcasts I listen to)
 
 **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
@@ -241,6 +266,18 @@ fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
 **13/ [Starting Greatness](https://greatness.floodgate.com/)**
 
 fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
+
+**14/ [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)**
+
+fav: [https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199](https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199)
+
+**15/ [In Depth](https://review.firstround.com/podcast)**
+
+fav: [https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468](https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468)
+
+**16/ [My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
+
+fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
 
 
 ### (Books I recommend)
