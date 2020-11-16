@@ -4,11 +4,11 @@ title: Links
 permalink: /links/
 ---
 
-### (Transitioning to a PM role)
+## (Transitioning to a PM role)
 
 I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
 
-### (Links you might find interesting)
+## (Links you might find interesting)
 
 - [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
 - [Product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
@@ -22,7 +22,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 - [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
 
-### (People I learn from)
+## (People I learn from)
 
 **1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
 
@@ -113,7 +113,7 @@ fav: [Why Products Don't Succeed: The 7 Biases of Product Teams](https://www.lin
 fav: [Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
 
 
-### (Blogs I read regularly)
+## (Blogs I read regularly)
 
 **1/ [Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
 
@@ -163,7 +163,7 @@ fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-me
 
 fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
 
-### (Newsletters I have subscribed to)
+## (Newsletters I have subscribed to)
 
 1/ [CBInsights](https://www.cbinsights.com/newsletter)
 
@@ -213,7 +213,7 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 24/ [The Skip](theskip@substack.com)
 
-### (Podcasts I listen to)
+## (Podcasts I listen to)
 
 **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
 
@@ -280,6 +280,6 @@ fav: [https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-fro
 fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
 
 
-### (Books I recommend)
+## (Books I recommend)
 
 **[Exhaustive list on GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)**
