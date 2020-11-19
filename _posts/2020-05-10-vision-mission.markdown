@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vision, mission, values, OKRs, and the pyramid of clarity"
+title:  "Vision, mission, values, and OKRs"
 ---
 Charter doc template which you can use for your team: [here](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
 

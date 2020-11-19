@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Project Management] Best practices for cross-team collaboration"
+title:  "[Project Management] Cross-team collaboration"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What have you learned from your mentors [Blind Edition]"
+title:  "Advice from mentors [Blind Edition]"
 
 ---
 

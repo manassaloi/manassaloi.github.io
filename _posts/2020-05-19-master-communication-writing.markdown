@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Communication Master Post] How to write and communicate better"
+title:  "[Communication Master Post] How to communicate better"
 
 ---
 

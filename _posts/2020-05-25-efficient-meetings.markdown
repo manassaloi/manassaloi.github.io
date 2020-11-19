@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Meetings] Running more efficient meetings"
+title:  "[Meetings] Running efficient meetings"
 
 ---
 

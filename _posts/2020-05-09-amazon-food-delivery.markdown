@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Will Amazon win the food delivery war in India?"
+title:  "Amazon enters the food delivery war"
 ---
 
 A lot of people on my LinkedIn timeline have already announced Amazon as the winner of the food delivery war in India, one week since their entry. While a few have countered saying "Huh..like their win in groceries?"

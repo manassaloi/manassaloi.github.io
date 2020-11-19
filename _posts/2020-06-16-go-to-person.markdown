@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be the go to person for something"
+title:  "Go to person for something"
 
 ---
 

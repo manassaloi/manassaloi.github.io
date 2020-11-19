@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear PM, the product spec is for you"
+title:  "The product spec is for you"
 
 ---
 A common complaint I get from people when they see my [docs and processes at work](https://manassaloi.com/2020/03/23/running-product-team.html) is that they seem excessive for a startup. "Documents are for big companies", they say. Or they think my boss is a dictator who forces me to write a 50-page spec document.

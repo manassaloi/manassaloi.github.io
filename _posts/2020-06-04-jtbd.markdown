@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[JTBD] All the resources I have on Jobs-to-Be-Done"
+title:  "[JTBD] Jobs-to-Be-Done Resources"
 
 ---
 

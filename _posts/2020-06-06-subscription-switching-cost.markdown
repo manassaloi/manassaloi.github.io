@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Swiggy Super: Subscription programs and switching cost"
+title:  "Swiggy Super: Subscription programs"
 
 ---
 

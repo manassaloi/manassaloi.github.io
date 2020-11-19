@@ -42,6 +42,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Product rigor over Communication rigor](https://johnkoetsier.com/building-10x-products-for-exponential-growth-with-asana-chief-product-officer-alex-hood/)
 - [Create urgency, not panic](https://mobile.twitter.com/hunterwalk/status/1307526644609900544)
 - [Amp It Up!](https://www.linkedin.com/pulse/amp-up-frank-slootman/s)
+- [Leader as a coach](https://hbr.org/2019/11/the-leader-as-coach)
 
 
 ## Product development & Design

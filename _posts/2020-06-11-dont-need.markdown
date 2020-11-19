@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You don't need to impress everyone"
+title:  "Don't impress everyone"
 
 ---
 

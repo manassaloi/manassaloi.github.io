@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Please don't force me to cc your manager"
+title:  "Don't force me to cc your manager"
 ---
 If I ever become moderately successful and can run a team my way, the first rule I will set: If someone has to tag you a dozen times on slack to get a reply from you, and you don't even bother replying unless your boss is tagged as an escalation, then you should be fired.
 
