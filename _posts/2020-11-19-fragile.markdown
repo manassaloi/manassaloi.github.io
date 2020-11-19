@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Fragile"
+
+---
+I realized how fragile my life is when covid happened. Redundancies are costly right but only during times like covid, we realize the need to have multiple backup options.
+
+Since lockdown got lifted, I have started working on how to add more resilience to my life and not have everything collapse around me if another covid like situation happens.
+
+What have I been doing:
+- Purchased an electric stove so that if I run out of gas, I can still have food on my table.
+- Purchased a mesh network with 3 nodes so that I don't have to worry about my internet. And if someone the mesh stops working I still have my Archer C6 router.
+- Backup of all Google data if Google someday screws up and deactivates my account.
+- A dump of my Github so that I keep a backup of my content on an external hard disk.
+- A small gym set in my house with basic equipments.
+- Got a 3BHK with an extra room so that if we ever go into WFH again, we have a dedicated place for work.
+- Spread my money across multiple bank accounts.
+
+I am also thinking about:
+- Multiple income sources.
+- Backup devices.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
