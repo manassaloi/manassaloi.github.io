@@ -3,9 +3,7 @@ layout: post
 title:  "Fragile"
 
 ---
-I realized how fragile my life is when covid happened. Redundancies are costly right but only during times like covid, we realize the need to have multiple backup options.
-
-Since lockdown got lifted, I have started working on how to add more resilience to my life and not have everything collapse around me if another covid like situation happens.
+I realized how fragile my life is when covid happened. Redundancies are costly but only during times like covid, we realize the need to have multiple backup options. Since lockdown got lifted, I have started working on how to add more resilience to my life and not have everything collapse around me if another covid like situation happens.
 
 What have I been doing:
 - Purchased an electric stove so that if I run out of gas, I can still have food on my table.
@@ -15,6 +13,8 @@ What have I been doing:
 - A small gym set in my house with basic equipments.
 - Got a 3BHK with an extra room so that if we ever go into WFH again, we have a dedicated place for work.
 - Spread my money across multiple bank accounts.
+- Learned how to cook basic things.
+- Started taking digital backup of physical documents.
 
 I am also thinking about:
 - Multiple income sources.
