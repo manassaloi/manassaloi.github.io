@@ -3,7 +3,7 @@ layout: post
 title:  "[Project Athena] Mentorship"
 ---
 
-I have spent almost a year working with PMs in my team on their career dev plans. I have seen our 1-1s evolve. We have done endless gap analysis and discussed growth plans. I have also mentored a few other PMs in Gojek. Since I have enjoyed the experience so far I have decided to mentor a small group of early PMs.
+I have spent a year working with PMs in my team on their career dev plans. I have seen our 1-1s evolve. We have done endless gap analysis and discussed growth plans. I have also mentored a few other PMs in Gojek. Since I have enjoyed the experience so far I have decided to mentor a small group of early PMs.
 
 **What I am thinking:**
 1. Start with an hour monthly. It can be a single 1 hour or 2 half-hour slots every 2 weeks.
