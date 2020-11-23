@@ -13,7 +13,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
 - [Product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 - [Life, Learning and Productivity](https://manassaloi.com/2020/05/18/learning-master.html)
-- [Mentoring PMs](https://manassaloi.com/2020/11/22/mentorship.html)
+- [Mentoring early PMs](https://manassaloi.com/2020/11/22/mentorship.html)
 - [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
 - [Learn poker](https://manassaloi.com/2020/04/07/learning-poker.html)
 - [Learn personal finance and investing](https://manassaloi.com/2019/08/26/learn-personal-finance-investing.html)
