@@ -12,7 +12,7 @@ I have spent a year now working with PMs in my team on their career dev plans. I
 4. Unlike Aristos which had a batch size of 5, this time I don't have a number in mind. I will just mentor a few people based on my availability.
 5. I don't have a time period in mind for this engagement. We can start with 3 months and see if this is helpful. If yes, we will continue. Else, we will just move on.
 
-Basically, I will use the same docs/processes I use for running my team but instead of a PM in my team, I will be focused on your growth. This program won't be as intense as [Aristos](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html). This will be more of a coaching/mentorship session that me pushing you to read X articles/books by the next session.
+Basically, I will use the same docs/processes I use for running my team but instead of a PM in my team, I will be focused on your growth. This program won't be as intense as [Aristos](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html). This will be more of a coaching/mentorship session than me pushing you to read X articles/books by the next session.
 
 **Why I am doing this?**
 1. As I grow in my own career, I hope this will help me become a better mentor/coach/manager.
@@ -29,7 +29,7 @@ Basically, I will use the same docs/processes I use for running my team but inst
 **What do you need to do?**
 1. Send me a DM on Twitter. I constantly switch between [turning my DMs on and off](https://manassaloi.com/2020/05/30/three-months-since.html). I hope if you are reading this my DMs will be on.
 2. Explain how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job.
-3. This will be a big investment of my time. As someone who calculated his hourly rate early in his career, I find it difficult to invest my time in things that don't provide high ROI. So I would want you to be dedicated and take this seriously. Come prepared for our sessions. If we don't find this useful, we will part our ways.
+3. This will be a big investment of my time. So I would want you to be dedicated and take this seriously. Come prepared for our sessions. If we don't find this useful, we will part our ways.
 
 Interestng read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
 
