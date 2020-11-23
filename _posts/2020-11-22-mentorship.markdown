@@ -8,7 +8,9 @@ After months of working with my PMs on their career dev plans and also our 1-1 s
 **What I am thinking:**
 1. Start with an hour monthly. It can be a single 1 hour or 2 half-hour slots every 2 weeks.
 2. We will use the same doc I use for structured 1-1s with the PMs in my team.
-3. A longer career dev plan will be discussed each quarter. We will focus on all the aspects mentioned here: 
+3. A longer career dev plan will be discussed each quarter. We will focus on all the aspects mentioned here: [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+4. Unlike Aristos which had a batch size of 5, this time I don't have a number in mind. I will just mentor a few people based on my availability.
+5. I don't have a time period in mind for this engagement. We can start with 3 months and see if this is helpful. If yes, we will continue. Else, we will just move on. 
 
 Basically, I will use the same docs/processes I use for running my team but instead of a PM in my team, I will be focused on your growth. This program won't be as intense as [Aristos](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html). This will be more of a coaching/mentorship session that me pushing you to read X articles/books by the next session.
 
