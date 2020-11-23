@@ -8,7 +8,7 @@ I have spent a year now working with PMs in my team on their career dev plans. I
 **What I am thinking:**
 1. Start with an hour monthly. It can be a single 1 hour or 2 half-hour slots every 2 weeks.
 2. We will use the same doc I use for structured 1-1s with the PMs in my team.
-3. A longer career dev plan will be discussed each quarter. We will focus on all the aspects mentioned here: [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+3. A longer career dev plan will be discussed each quarter. We will focus on all the aspects mentioned here: [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html).
 4. Unlike Aristos which had a batch size of 5, this time I don't have a number in mind. I will just mentor a few people based on my availability.
 5. I don't have a time period in mind for this engagement. We can start with 3 months and see if this is helpful. If yes, we will continue. Else, we will just move on.
 
@@ -31,7 +31,7 @@ Basically, I will use the same docs/processes I use for running my team but inst
 2. Explain how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job.
 3. This will be a big investment of my time. So I would want you to be dedicated and take this seriously. Come prepared for our sessions. If we don't find this useful, we will part our ways.
 
-Interestng read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
+Interesting read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
