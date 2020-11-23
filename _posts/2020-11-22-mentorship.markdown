@@ -28,7 +28,7 @@ Basically, I will use the same docs/processes I use for running my team but inst
 
 **What do you need to do?**
 1. Send me a DM on Twitter. I constantly switch between [turning my DMs on and off](https://manassaloi.com/2020/05/30/three-months-since.html). I hope if you are reading this my DMs will be on.
-2. Explain how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job
+2. Explain how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job.
 3. This will be a big investment of my time. As someone who calculated his hourly rate early in his career, I find it difficult to invest my time in things that don't provide high ROI. So I would want you to be dedicated and take this seriously. Come prepared for our sessions. If we don't find this useful, we will part our ways.
 
 Interestng read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
