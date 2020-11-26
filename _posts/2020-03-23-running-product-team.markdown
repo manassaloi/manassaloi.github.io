@@ -42,6 +42,9 @@ I plan to create templates and best practices for the following over the next 3 
   - [Definitions, Equations, Metrics and Dashboards](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
   - [Monthly Product/Business Review Meeting](https://docs.google.com/document/d/1PzCs49z4rBNKjcYy975L5XkQD_iPLcu3eLHt74hBe1k/edit?usp=sharing)
   - [Monthly Product Review Update](https://docs.google.com/document/d/1VN5dv78EQwJkm3xhZP765tyXdTqEViVcaPVqB10m1OY/edit?usp=sharing)
+  - Design principles
+  - Product principles
+  - Customer lens
   - [Quarterly Team Update](https://docs.google.com/document/d/1OA3PORhM8dYu9yuM1bwNkJYWvtEjizoDhioo8Hq59ic/edit?usp=sharing)
 
 
@@ -106,6 +109,7 @@ I plan to create templates and best practices for the following over the next 3 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How) (When)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
   - [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing)
+  - Customer Research template 
   - [Request for Experimentation](https://docs.google.com/document/d/1VRKPa29HHHGqFsFEPqPUthg2955A_BAzzbDuVFKyPmU/edit?usp=sharing)
   - [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing)
   - [Weekly leads meeting](https://docs.google.com/document/d/1fNP99sdptJRa8hPdbysoSyg3-hcZkJJThuISbLz3Y98/edit?usp=sharing)
