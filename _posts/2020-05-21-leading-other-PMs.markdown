@@ -30,6 +30,7 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [Thread on the Product Management by Shreyas Doshi](https://mobile.twitter.com/shreyas/status/1278208608103043073)
 - [Managing and Developing Product Managers](https://blackboxofpm.com/managing-and-developing-product-managers-2f9a3963fab6)
 - [Unconventional advice for transitioning to Head of Product](https://www.departmentofproduct.com/blog/unconventional-advice-for-transitioning-to-head-of-product/)
+- [Lessons learned from scaling a product team](https://www.intercom.com/blog/how-we-build-software/)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
