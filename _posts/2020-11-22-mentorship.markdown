@@ -27,8 +27,8 @@ Basically, I will use the same docs/processes I use for running my team but inst
 
 
 **What do you need to do?**
-1. Send me a DM on Twitter. I constantly switch between [turning my DMs on and off](https://manassaloi.com/2020/05/30/three-months-since.html). I hope if you are reading this my DMs will be on.
-2. Explain how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job.
+1. Send me a DM on Twitter explaining how you think this will be helpful for you. Write about what you are looking for in a mentor. Send the last book you read related to your job. I constantly switch between [turning my DMs on and off](https://manassaloi.com/2020/05/30/three-months-since.html). I hope if you are reading this my DMs will be on. 
+2. If you want to learn how to do cold DMs better, especially when it comes to requesting referrals or mentorship, listen from around 12:30 mark of [this podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jcmVhdG9ybGFiZm0ubGlic3luLmNvbS9yc3M/episode/YzJlNGZiMzktYzA0OS00N2IwLWI3YTEtM2MxODIyNTNjNDU0?ep=14) till around 23 min.
 3. This will be a big investment of my time. So I would want you to be dedicated and take this seriously. Come prepared for our sessions. If we don't find this useful, we will part our ways.
 
 Interesting read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
