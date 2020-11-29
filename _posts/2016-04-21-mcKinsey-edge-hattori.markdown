@@ -26,7 +26,7 @@ Have a 30-Second Answer to Everything. Form an answer beforehand by mastering th
 Frontload Your Project. Build the necessary trust and credibility by completing work as much as possible during the first week, following the basket of essentials.
 
 **PRINCIPLE 6**
-Create the Right End Output Image. Try to get in the habit of creating the end output image aggressively to earn various stakeholders’ trust early on
+Create the Right End Output Image. Try to get in the habit of creating the end output image aggressively to earn various stakeholders’ trust early on.
 
 **PRINCIPLE 7**
 Smile When You Are Under Stress. During stressful meetings, keep on smiling to reduce your stress and stay focused on getting the work done.
@@ -56,7 +56,7 @@ Know What Gives You the Most Energy in Your Day. Manage your energy gains and dr
 Go Jogging to Smell the Flowers. Help prolong your perceived time and set priorities through detaching yourself from daily preoccupations.
 
 **PRINCIPLE 16**
-Create a Commitment Plan. Achieve greater things in life by setting aspirational targets and sticking through your plan
+Create a Commitment Plan. Achieve greater things in life by setting aspirational targets and sticking through your plan.
 
 **PRINCIPLE 17**
 Always Memorize the First Three Sentences of a Presentation. This is a simple rule that can change the way you come across to everyone in the room.
@@ -74,7 +74,7 @@ Question More and Talk Less. Grow by questioning and listening more to other peo
 Turn No into Yes. Rather than correcting people impulsively, try to help them correct themselves by using suggestive questions.
 
 **PRINCIPLE 22**
-Don’t Show Half-Baked Output. Be selective about to whom and when to disclose your end product as your reputation is also on the line
+Don’t Show Half-Baked Output. Be selective about to whom and when to disclose your end product as your reputation is also on the line.
 
 **PRINCIPLE 23**
 Instantly Find a Connection in the Room. Start an important discussion with C-levels by finding some personal thing in common.
@@ -92,7 +92,7 @@ Learn Team Members’ Defining Moments and Personal Sides. Try to get team membe
 Think of Everyone as a Helpful Individual, Not a “Resource.” Need I say more?
 
 **PRINCIPLE 28**
-Go Out for a Meal with Interesting People Every Week. Make it a deliberate habit to enlarge your current sphere of influence and knowledge
+Go Out for a Meal with Interesting People Every Week. Make it a deliberate habit to enlarge your current sphere of influence and knowledge.
 
 **PRINCIPLE 29**
 Consciously Gauge Your People. Turn into a great people-reader by analyzing team members’ process, problem analysis, will, collaboration, and past performance.
@@ -107,7 +107,7 @@ Create Followership Through Deliberate On-the-Job Coaching. Coaching team member
 Deliver Feedback Using Positive Criticism. Delivering criticism does not have to be harsh when you use a simple technique.
 
 **PRINCIPLE 33**
-Please Your Assistant and Support Staff. Assistants and support staff are crucial to your success; treat them with uttermost care
+Please Your Assistant and Support Staff. Assistants and support staff are crucial to your success; treat them with uttermost care.
 
 **PRINCIPLE 34**
 Always Prepare an Agenda Before Meetings. An agenda is an important priority-setting process, and it must be presented.
@@ -131,7 +131,7 @@ Speak up as Early as Possible. Master the six peripheral speaking opportunities 
 Create a Minimalist Presentation Tool Kit. Memorize the six core charts that make up a presentation backbone structure.
 
 **PRINCIPLE 41**
-Create an Easy-to-Use Template for Updates. Always have a template for updates and make sure you involve everybody in your communication loop
+Create an Easy-to-Use Template for Updates. Always have a template for updates and make sure you involve everybody in your communication loop.
 
 **PRINCIPLE 42**
 Give Away Knowledge and Tools Unsparingly.. Put the “pay it forward economics” in full throttle to make others successful around you.
@@ -149,7 +149,7 @@ Learn to Write Fewer Notes Enhance your memory by practicing writing fewer words
 Prepare to Renew Your Life. Become resilient, adaptable, and forgiving toward both the changes you want and the changes that are inflicted upon you.
 
 **PRINCIPLE 47**
-Create Your Own “Profile” as a Leader. Know the ultimate requirements for you to become a leader
+Create Your Own “Profile” as a Leader. Know the ultimate requirements for you to become a leader.
 
 ## More Learnings
 
@@ -164,27 +164,27 @@ Create Your Own “Profile” as a Leader. Know the ultimate requirements for yo
    - synthesizing to derive meaningful results,
    - delivering the right communication message. In the end, the message needs to be tailored to fit the client context (capability, resource, and execution power) to lead to any tangible impact
 
-- People who rise to leadership know more deeply who they are, what they are good at, and how to improve their strengths. But there is another, more subtle difference that I want to share with you. This technique sets leaders apart from others. At McKinsey, we focus on being distinctive
+- People who rise to leadership know more deeply who they are, what they are good at, and how to improve their strengths. But there is another, more subtle difference that I want to share with you. This technique sets leaders apart from others. At McKinsey, we focus on being distinctive.
 
-- It’s not realistic to try to convey much meaningful information in a very short period of time. That’s why you need to learn certain rules. The first rule is to understand the theory of “double-clicking.” It’s similar to when you read a comment or blurb of a certain product on an e-commerce site or a short summary snippet of a bestselling book. These tell you enough to get you interested but not nearly enough for you to know what’s happening. So you end up clicking the link to find out more. In the same way, a 30-second answer gives your listener the opportunity to keep refocusing the attention to the topic of his or her interest
+- It’s not realistic to try to convey much meaningful information in a very short period of time. That’s why you need to learn certain rules. The first rule is to understand the theory of “double-clicking.” It’s similar to when you read a comment or blurb of a certain product on an e-commerce site or a short summary snippet of a bestselling book. These tell you enough to get you interested but not nearly enough for you to know what’s happening. So you end up clicking the link to find out more. In the same way, a 30-second answer gives your listener the opportunity to keep refocusing the attention to the topic of his or her interest.
 
-- “The first day of any project needs to be as exhausting as the final day of the progress review,” You need to shine in the first week because that is when most of the impression about you will be decided by all of your stakeholders—your team, client, and senior leaders. Therefore, it is imperative that you bring in as much as you physically and mentally can during this period
+- “The first day of any project needs to be as exhausting as the final day of the progress review,” You need to shine in the first week because that is when most of the impression about you will be decided by all of your stakeholders—your team, client, and senior leaders. Therefore, it is imperative that you bring in as much as you physically and mentally can during this period.
 
-- It is important to present a case with the ending already factored in. People would rather skip over multiple scenes to finish the movie, and they’d definitely want to grasp the sense of how things will turn out for a business presentation. People don’t like to wait. That is why you should learn to create an end output image all the time
+- It is important to present a case with the ending already factored in. People would rather skip over multiple scenes to finish the movie, and they’d definitely want to grasp the sense of how things will turn out for a business presentation. People don’t like to wait. That is why you should learn to create an end output image all the time.
 
-- The higher up you go in the professional hierarchy, the better people are at hiding emotions underneath their smiles. It’s an extraordinary skill, and few have recognized it as something extremely useful as a leader
+- The higher up you go in the professional hierarchy, the better people are at hiding emotions underneath their smiles. It’s an extraordinary skill, and few have recognized it as something extremely useful as a leader.
 
 -  Every time at work someone gives you something outrageous to do, wait for 24 hours before you act upon it with a counteroffer. There are two basic underpinnings for this rule:
  1. People (and usually senior leaders) have the best interests of you and the company at heart.
- 2. You will tend to regret any negative or rebuking answers you make when you are under emotional siege
+ 2. You will tend to regret any negative or rebuking answers you make when you are under emotional siege.
 
 ![Evaluation for pushing back diagram](/assets/img/pushing_back.png)
 
-- Using shorter sentences can also present you as a more mature leader
+- Using shorter sentences can also present you as a more mature leader.
 
-- Talking to someone using fewer words takes practice. It is a lot more difficult than it looks at first because it requires you to order and structure your story clearly, eliminate or omit certain details selectively, choose the right words carefully, and answer potential questions as much as possible in your description
+- Talking to someone using fewer words takes practice. It is a lot more difficult than it looks at first because it requires you to order and structure your story clearly, eliminate or omit certain details selectively, choose the right words carefully, and answer potential questions as much as possible in your description.
 
-- By concentrating on convincing people faster and with fewer words, you are building a unique skill. It’s like you are becoming the expert anchorman of a well-scripted TV news program. Aim for 30 minutes first and then try saying the same message in half that time (but not through learning to talk faster). Purposely set a time and weigh that against the amount of content delivered. At the same time, see the level of excitement you have generated
+- By concentrating on convincing people faster and with fewer words, you are building a unique skill. It’s like you are becoming the expert anchorman of a well-scripted TV news program. Aim for 30 minutes first and then try saying the same message in half that time (but not through learning to talk faster). Purposely set a time and weigh that against the amount of content delivered. At the same time, see the level of excitement you have generated.
 
 
 ![agenda](/assets/img/agenda.png)
