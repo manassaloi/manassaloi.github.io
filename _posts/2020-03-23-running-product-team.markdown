@@ -35,6 +35,7 @@ I plan to create templates and best practices for the following over the next 3 
 - **Vision and Strategy for product teams** (Long term) (Why)
   - [OKRs Walkthrough](https://docs.google.com/document/d/1PzCs49z4rBNKjcYy975L5XkQD_iPLcu3eLHt74hBe1k/edit?usp=sharing)
   - [Team OKRs](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3JUk58UIgewggiQ_ckx9Fw/edit?usp=sharing)
+  - [Themes based Semester Planning](https://docs.google.com/document/d/1DszNh1PTsSfYaO7o7tiIftSqaLjorrB5RQqptGlwcZ8/edit?usp=sharing)
   - [Team charter](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
   - [Team vision](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing)
   - [Team members](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=1287724253)
@@ -109,7 +110,7 @@ I plan to create templates and best practices for the following over the next 3 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How) (When)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)
   - [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing)
-  - Customer Research template 
+  - Customer Research template
   - [Request for Experimentation](https://docs.google.com/document/d/1VRKPa29HHHGqFsFEPqPUthg2955A_BAzzbDuVFKyPmU/edit?usp=sharing)
   - [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing)
   - [Weekly leads meeting](https://docs.google.com/document/d/1fNP99sdptJRa8hPdbysoSyg3-hcZkJJThuISbLz3Y98/edit?usp=sharing)
