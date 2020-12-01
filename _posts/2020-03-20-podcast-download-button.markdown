@@ -18,5 +18,7 @@ Now to delete a single file you have to press edit button at top, then select th
 
 So taking bad design decisions seem to be a constant with their team. 🤷‍
 
+**Update:** I wrote this post when I first saw the new redesign of Google Podcast. After playing around I realised that check is for completed episodes. So I think Google made the right call. I still stick with my point about the delete interaction though.
+
 
 **Find more design gyaan here:** [@manas_saloi](http://twitter.com/manas_saloi)
