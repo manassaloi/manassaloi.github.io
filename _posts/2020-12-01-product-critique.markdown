@@ -5,14 +5,14 @@ title:  "Product Critique"
 
 I did a product critique session yesterday with a group of people. We focused on [Headway app](https://play.google.com/store/apps/details?id=com.headway.books&hl=en_IN&gl=US) for the session.
 
-Do note:
+**Do note:**
 - This product critique format is not for interviews. I generally spend an hour playing around with the app and go far deeper. you won't be given more than 20 mins in an interview to do a product critique.
 - Julie Zhuo wrote a nice post on how to do a product critique. [Check it out](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638).
 - I don't follow any structure, but I try to cover a few things which I will mention below.
 - I do this critique from a PM POV. So it is not just about the how the interface looks or the micro interactions. I also spend a lot of time thinking about distribution strategies, positioning, copy, metrics and a bunch of other things.
 - I generally try to go out of my comfort zone and choose an app I am not familiar with to do a critique. It helps me look at it from a fresh perspective.
 
-What I ask the following questions while doing the critique:
+I ask the following questions while doing the critique:
 
 **Strategy, Distribution and Market**
 - If I was a PM for the product how would I would grow it?
