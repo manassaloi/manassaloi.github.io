@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Product Critique"
+title:  "Product Critique"
 ---
 
 **Note:**
