@@ -3,7 +3,7 @@ layout: post
 title:  "Product Critique"
 ---
 
-**Do note:**
+**Note:**
 - This product critique format is not for interviews. I generally spend an hour playing around with the app and go far deeper. you won't be given more than 20 mins in an interview to do a product critique.
 - Julie Zhuo wrote a nice post on how to do a product critique. [Check it out](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638).
 - I don't follow any structure, but I try to cover a few things which I will mention below.
