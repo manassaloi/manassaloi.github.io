@@ -34,7 +34,6 @@ I ask the following questions while doing the critique:
 - What is A, B, C but not D of this product? A, B and C are things they say they do and D is something they say they don't? This is a framework I learned from Shaan Puri.
 
 **Onboarding**
-- What is the north star of this product?
 - Have they made the onboarding frictionless or are there too many steps?
 - Can you skip the onboarding process?
 - Is sign up mandatory?
