@@ -74,6 +74,7 @@ I ask the following questions while doing the critique:
 - Do I like the information architecture?
 - What are the things I can copy in my own products?
 - Is there some interactions, some visual elements which does no map to my understanding of Design? Anything which does not follow industry standards which other apps follow?
+- Does the product design align with the [frameworks I have learned over years](https://manassaloi.com/2020/03/05/pm-frameworks.html)? Anything I learned which I can turn into a few framework?
 - Now that I have used the product, what are the metrics I think the PM is measuring?
 - What do I think the north star of this product is?
 - What are the experiments I would run?
