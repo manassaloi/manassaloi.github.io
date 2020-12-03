@@ -78,5 +78,6 @@ I ask the following questions while doing the critique:
 - Now that I have used the product, what are the metrics I think the PM is measuring?
 - What do I think the north star of this product is?
 - What are the experiments I would run?
+- Does the app experience tie back to what was promised in the Playstore?
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
