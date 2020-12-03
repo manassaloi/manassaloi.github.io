@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 27 Frameworks for your professional life"
+title:  "[Frameworks] 30 Frameworks for your professional life"
 
 ---
 
@@ -61,6 +61,10 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 27. [Ask how you can fail in the next 12 months](https://theskip.substack.com/p/how-to-respond-to-the-interview-question); Understanding expectations is key during an interview and after you get the job.
 
 28. [Take radical responsibility](https://boz.com/articles/radical-responsibility); Never let anyone outflank you with criticism.
+
+29. [Don’t expect others to do your best](https://manassaloi.com/2020/12/02/hard-lessons.html); Figure out everyone’s unique skills and channel them to achieve team success.
+
+30. [Unbounded pursuit](https://miten.co/2020/09/26/unbounded-pursuit/); Work on unbounded problem statements.
 
 **Note:** I will keep expanding this list
 
