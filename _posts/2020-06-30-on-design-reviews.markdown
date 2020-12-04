@@ -33,7 +33,7 @@ Instead of stuffing all of these options in the UI and going for a features firs
   1. Why would an admin want to remove users in the first place?
   2. In a standard scenario will they remove a single user or multiple?
   3. Is there any realistic scenario where they would need to remove thousands of users from a group?
-  4. Will they have the name of the list of users in a file? Will the list shared with them be or random or sorted alphabetically?
+  4. Will they have list of usernames in a file? Will the list shared with them be or random or sorted alphabetically?
   5. How often will they have to do this delete task?
 
 Only after you do this exercise you will know that you are not designing search or multi-select UI in isolation but designing the journey of how an admin will delete users from a group.
