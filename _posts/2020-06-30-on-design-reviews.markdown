@@ -4,14 +4,12 @@ title:  "On design reviews"
 
 ---
 
-- Don't like to look at UI components in isolation. Watching a new search box's UI and its functionalities demo'ed by the designer is not helpful for me unless I understand how the search experience will fit in the customer journey.
-As a designer/PM designing a search experience for a dashboard, focus less on what features the search box will have such as autocomplete, suggestions etc, and more on why and how the search will be used and what job the user is trying to do while using search.
-
-- MVP design is not about features. It is about what job stories you will tackle as part of v1.
-
-- Have an opinion; this is true for both the presenter and the reviewer.
-
-- As a PM or a designer you want the user to perform a series of actions to complete a job they have hired your feature for. Don't hide your lack of opinion by suggesting 3 random alternatives to the reviewer or asking the PM to run an A/B test to figure out the best UI.
+- Don't look at UI components in isolation.
+- As a PM, I care less about a new search box's UI and its functionalities than how the search experience will fit in the customer journey.
+- Say you are a designer/PM designing the search experience for a dashboard. Focus less on what features the search box will have, be it autocomplete, suggestions, full text search vs partial etc, and more on why and how the search will be used by the user. Understand what job the user is trying to accomplish while using search.
+- MVP design is not about features. It is about what job stories you want to tackle as part of the v1.
+- Have an opinion; this is true for both the presenter and the reviewer. Reviews should not be able superficial compliments and backslapping. It should be about constructive feedback and how we can make the product even better.
+- You want the user to perform a series of actions to complete a job they have hired your feature for. Don't hide your lack of opinion by suggesting 3 random alternatives to the reviewer or asking the PM to run an A/B test to figure out the best UI.
 
 Let's take an actual example. Say you are the designer for Google Groups product and you are designing the experience of removing users from a group. Removing users essentially involves two tasks: 
   1. Finding the users.
@@ -36,16 +34,12 @@ Instead of stuffing all of these options in the UI and going for a features firs
   4. Will they have list of usernames in a file? Will the list shared with them be or random or sorted alphabetically?
   5. How often will they have to do this delete task?
 
-Only after you do this exercise you will know that you are not designing search or multi-select UI in isolation but designing the journey of how an admin will delete users from a group.
+Only once you do this exercise you will realise that you are not designing a search or multi-select UI in isolation but designing the experience of how an actual admin will delete users from a group.
 
-- Design the whole experience based on actual jobs that the admin has to perform than hypothetical scenarios. 
-
-- If you are the reviewer, keep asking why you need a particular UI element. Has the UI components been fitted just because that is the norm? Because the designer or PM has seen it somewhere or are they there because they are actually needed to perform a real job by the user.
-
-- Avoid design through committee. Don't let stakeholders come and add UI components just because they did not have time to go through the real job stories and felt "Search should be there."
-
-- Design for the happy flow but keep thinking where things might break. Don't overdesign the v1 trying to cover all edge cases though. 
-
+- Design the whole experience based on actual jobs that the admin has to perform in their job than hypothetical scenarios you have cooked up. 
+- If you are the reviewer ask why you need a particular UI element. Are the UI components there because the designer or PM has seen it somewhere and felt a search experience should have them or are they there because they are needed to complete a real job by the user.
+- Avoid design through committee. Don't let stakeholders come and add/remove UI components just because they wanted to add some value.
+- Design for the happy flow but keep thinking where things might break. Don't over design the v1 trying to cover all edge cases. Some of them can be fixed post the MVP.
 - Test with real users. Unless you have feedback from actual users most debates are mental masturbation. 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
