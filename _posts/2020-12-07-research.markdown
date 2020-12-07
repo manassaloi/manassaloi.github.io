@@ -26,29 +26,29 @@ Feature-driven research is the research that is tied to feature delivery.
 
 Let's take an actual example. I wanted to ship our edit destination feature on 2 Wheelers (2W). Before shipping Edit Destination on 2W, I wanted to understand user behavior for the current Edit destination on 4W and also figure out if launching an edit destination on 2W was feasible. Here are the things that I wanted to understand/ looked at:
   - What are the typical use cases for edit destination for 4W users?
-  - What are the jobs that the current Edit destination is not fulfilling?
-  - How is the usage of Edit on 2W trending?
-  - Are enough people finding value from the feature?
-  - Is the discovery of the feature good on 4W?
-  - What causes a driver to accept/decline changes to a destination?
-  - Does the behavior of a driver towards edit impact customer rating and vice versa?
-  - What information is important for the driver before they accept an edit to the destination?
-  - Do customers and drivers communicate before the edit happens? Is their communication smooth?
-  - If we launch the feature on 2W, will there be any risk to driver and customer safety on 2W?
-  - Will customers mind pulling out their phone to make changes to their destination while sitting on the back of a 2W?
-  - What is the current user behavior on 2W? Do they use their phone to browse social media/ consume content while pillion riding?
-  - How are 2W users currently communicating to drivers if they wanted to change their destination?
-  - Do drivers need a sound alert to communicate that their destination has changed?
-  - When do riders generally edit their destination? Beginning of the trip vs middle vs end? Do this analysis based on time spent on their ride as well as distance covered.
-  - Check histogram of distance post edits.
-    - How far is the new destination from the original drop-off?
-    - How far is the new destination from pick up?
-  - Check histogram of edits/user.
-  - Check histogram of new price post edit.
-  - Who are the users of edit destination?
-    - Do new users use edit destination feature on 4W?
-    - Do power users use the edit feature more?
-  - What is the % of edits made by users booking for someone else?
+  - What are the jobs that the current Edit destination is not fulfilling?
+  - How is the usage of Edit on 2W trending?
+  - Are enough people finding value from the feature?
+  - Is the discovery of the feature good on 4W?
+  - What causes a driver to accept/decline changes to a destination?
+  - Does the behavior of a driver towards edit impact customer rating and vice versa?
+  - What information is important for the driver before they accept an edit to the destination?
+  - Do customers and drivers communicate before the edit happens? Is their communication smooth?
+  - If we launch the feature on 2W, will there be any risk to driver and customer safety on 2W?
+  - Will customers mind pulling out their phone to make changes to their destination while sitting on the back of a 2W?
+  - What is the current user behavior on 2W? Do they use their phone to browse social media/ consume content while pillion riding?
+  - How are 2W users currently communicating to drivers if they wanted to change their destination?
+  - Do drivers need a sound alert to communicate that their destination has changed?
+  - When do riders generally edit their destination? Beginning of the trip vs middle vs end? Do this analysis based on time spent on their ride as well as distance covered.
+  - Check histogram of distance post edits.
+    - How far is the new destination from the original drop-off?
+    - How far is the new destination from pick up?
+  - Check histogram of edits/user.
+  - Check histogram of new price post edit.
+  - Who are the users of edit destination?
+    - Do new users use edit destination feature on 4W?
+    - Do power users use the edit feature more?
+  - What is the % of edits made by users booking for someone else?
 
 We user both qualitative as well as quantitative research for finding answers to the above. The insights from the research project helped us plan the 2W Edit destination feature and also improve upon the existing experience for 4W Edit destination.
 
