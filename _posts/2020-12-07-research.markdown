@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "3 types of research"
+---
+
+There are 3 types of research.
+
+1. Foundational research; research which gives you some foundational insight and helps you understand the customer/market better.
+2. Feature-driven research; helps you validate the WHY behind a feature delivery project.
+3. Recurring research; a subset of foundational research.
+
+Lets go through all 3 below.
+
+1. To understand foundational research, lets take a few examples:
+  - Understand how users in Bali perceive Gojek in terms of safety
+  - Understand the difference between how power users use Gojek vs new users
+  - Understand how users actually use transport irrespective of Gojek. How do they plan their commute and where Gojek lies in the whole commute planning?
+
+These are Research team led projects which give insights into how users are behaving, how the market is evolving, and different ways users use your product. The PM can definitely work with Research on project ideas but generally a good Research team comes up with their own ideas and helps bring original insights to the PM. These insights can shape your roadmap as well as drive your strategy. Don't couple these projects with feature delivery. Let the research team take time. Rushing to find quick insights will defeat the purpose.
+
+2. Feature-driven research is the research which is tied to a feature delivery.
+  - It can be research which helps the PM validates the WHY behind a project with the help of a researcher.
+  - It can be a UT which helps you understand the gap of an existing feature and help you plan fixes.
+  - It can be research which helps you understand how users are using a new feature you launched and if it actually helped solve a customer problem.
+  - It can be a competitor analysis.
+
+Lets take a past example. I wanted to ship our edit destination feature on 2 Wheelers (2W). Before shipping Edit Destination on 2W, I wanted to understand user behavior for the current Edit destination on 4W and also figure out if launching an edit destination on 2W was feasible. Here are the things that I wanted to understand/ looked at:
+  - What are the typical use cases for edit destination for 4W users?
+  - What are the jobs current Edit destination was not fulfilling?
+  - How is the usage of Edit on 2W trending?
+  - Are enough people finding value from the feature?
+  - Is discovery of the feature good on 4W?
+  - What causes a driver to accept/decline changes to a destination?
+  - Does the behavior of a driver towards edit impact customer rating and vice versa?
+  - What information is important for the driver before they accept an edit to the destination?
+  - Are customers and drivers communicating before the Edit destination happens? Is the communication smooth?
+  - If we launch the feature on 2W, will there be any risk to driver and customer safety on 2W?
+  - Will customers mind pulling out their phone to make changes to their destination while sitting on the back of a 2W?
+  - What is the current user behavior on 2W? Do they use their phone to browse social media/ consume content while pilion riding?
+  - How are 2W users currently communicating to drivers if they wanted to change their destination?
+  - Do drivers need a sound alert to communicate that their destination has changed?
+  - When do riders generally edit their destination? Beginning of the trip vs middle vs end? Do this analysis based on time spent on their ride as well as distance covered.
+  - Check histogram of distance post edits.
+    - How far is the new destination from the original drop off?
+    - How far is the new destination from pick up?
+  - Check histogram of edits/user.
+  - Check histogram of new price post edit.
+  - Who are the users of edit destination?
+    - Do new users use edit?
+    - Do power users use edit more?
+  - What is the % of edits made by users booking for someone else?
+
+We user both qualitative as well as quantitative research for finding answers to the above.
+
+Since these projects and their insights tie to a current feature you are working on, you need to time-box them. Always make sure you run these projects with a tight deadline. Questions should ideally come from the PM, thought Research and Design can also contribute to the methodology as well as final list of questions asked to users.
+
+3. Recurring research is a subset of foundational research which runs as per a schedule and helps you understand things like: how you are performing when it comes to customer satisfaction, has your brand salience improved over the last month, customer feedback on your playstore. If you measuring customer satisfaction, you are probably doing it through some NPS or CSAT score for which send out regular surveys. Insights collected through replies to these surveys are then shared with the organisation. NPS as well as CSAT are lagging metrics but can help give you an answer on whether all the things you are doing for customer experience is helping or not.
+
+For my team, I have a standard process of working with Research as well as Business Intelligence (BI) teams. You can find more in the documents here: [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing), [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing).
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
