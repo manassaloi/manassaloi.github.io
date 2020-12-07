@@ -12,20 +12,20 @@ There are 3 types of research.
 Let's go through all 3 below.
 
 To understand foundational research, let's take a few examples:
-  - Understand how users in Bali perceive Gojek in terms of safety
-  - Understand the difference between how power users use Gojek vs new users
-  - Understand how users actually use transport irrespective of Gojek. How do they plan their commute and where Gojek lies in the whole commute planning?
+ - Understand how users in Bali perceive Gojek in terms of safety
+ - Understand the difference between how power users use Gojek vs new users
+ - Understand how users actually use transport irrespective of Gojek. How do they plan their commute and where Gojek lies in the whole commute planning?
 
 These are Research team led projects which give insights into how users are behaving, how the market is evolving, and different ways users use your product. The PM can definitely work with Research on project ideas but generally, a good Research team comes up with their own ideas and helps bring original insights to the PM. These insights can shape your roadmap as well as drive your strategy. Don't couple these projects with feature delivery. Let the research team take time. Rushing to find quick insights will defeat the purpose.
 
 Feature-driven research is the research that is tied to feature delivery.
-  - It can be research that helps the PM validates the WHY behind a project with the help of a researcher.
-  - It can be a UT that helps you understand the gap of an existing feature and help you plan fixes.
-  - It can be research that helps you understand how users are using a new feature you launched and if it actually helped solve a customer problem.
-  - It can be a competitor analysis.
+ - It can be research that helps the PM validates the WHY behind a project with the help of a researcher.
+ - It can be a UT that helps you understand the gap of an existing feature and help you plan fixes.
+ - It can be research that helps you understand how users are using a new feature you launched and if it actually helped solve a customer problem.
+ - It can be a competitor analysis.
 
 Let's take an actual example. I wanted to ship our edit destination feature on 2 Wheelers (2W). Before shipping Edit Destination on 2W, I wanted to understand user behavior for the current Edit destination on 4W and also figure out if launching an edit destination on 2W was feasible. Here are the things that I wanted to understand/ looked at:
-  - What are the typical use cases for edit destination for 4W users?
+  - What are the typical use cases for edit destination for 4W users?
   - What are the jobs that the current Edit destination is not fulfilling?
   - How is the usage of Edit on 2W trending?
   - Are enough people finding value from the feature?
