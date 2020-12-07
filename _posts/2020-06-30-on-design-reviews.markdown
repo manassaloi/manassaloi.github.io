@@ -29,7 +29,7 @@ Removal can be done by
 Instead of stuffing all of these options in the UI and going for a features first approach, first ask:
 
   1. Why would an admin want to remove users in the first place?
-  2. In a standard scenario will they remove a single user or multiple?
+  2. In a standard scenario will they remove a single user or many?
   3. Is there any realistic scenario where they would need to remove thousands of users from a group?
   4. Will they have list of usernames in a file? Will the list shared with them be or random or sorted alphabetically?
   5. How often will they have to do this delete task?
