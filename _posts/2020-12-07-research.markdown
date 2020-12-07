@@ -3,7 +3,7 @@ layout: post
 title:  "3 types of research"
 ---
 
-There are 3 types of research.
+I am involved in 3 types of research as a Transport PM in Gojek.
 
 1. Foundational research; research that gives you some foundational insight and helps you understand the customer/market better.
 2. Feature-driven research; helps you validate the WHY behind a feature delivery project.
@@ -54,7 +54,7 @@ We user both qualitative as well as quantitative research for finding answers to
 
 Since these projects and their insights tie to a current feature you are working on, you need to time-box them. Always make sure you run these projects with a tight deadline. Questions should ideally come from the PM, thought Research and Design can also contribute to the methodology as well as the final list of questions asked to users.
 
-Recurring research is a subset of foundational research which runs as per a schedule and helps you understand things like: how you are performing when it comes to customer satisfaction, has your brand salience improved over the last month, customer feedback on your playstore. If you measuring customer satisfaction, you are probably doing it through some NPS or CSAT score for which send out regular surveys. Insights collected through replies to these surveys are then shared with the organisation. NPS as well as CSAT are lagging metrics but can help give you an answer on whether all the things you are doing for customer experience is helping or not.
+Recurring research is a subset of foundational research which runs as per a schedule and helps you understand things like: how you are performing when it comes to customer satisfaction, has your brand salience improved over the last month, customer feedback on your playstore. If you measure customer satisfaction, you are probably doing it through some NPS or CSAT score for which send out regular surveys. Insights collected through replies to these surveys are then shared with the organisation. NPS as well as CSAT are lagging metrics but can help give you an answer on whether all the things you are doing for customer experience is helping or not.
 
 For my team, I have a standard process of working with Research as well as Business Intelligence (BI) teams. You can find more in the documents here: [Request for Research](https://docs.google.com/document/d/1cgRmcLuN7DEmU6QK42kwbjx486nef3LRR3Y0ia7kPVk/edit?usp=sharing), [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing).
 
