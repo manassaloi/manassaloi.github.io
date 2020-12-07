@@ -50,7 +50,7 @@ Lets take a past example. I wanted to ship our edit destination feature on 2 Whe
     - Do power users use edit more?
   - What is the % of edits made by users booking for someone else?
 
-We user both qualitative as well as quantitative research for finding answers to the above.
+We user both qualitative as well as quantitative research for finding answers to the above. The insights from the research project helped us plan the 2W Edit destination feature and also improve upon the existing experience for 4W Edit destination.
 
 Since these projects and their insights tie to a current feature you are working on, you need to time-box them. Always make sure you run these projects with a tight deadline. Questions should ideally come from the PM, thought Research and Design can also contribute to the methodology as well as final list of questions asked to users.
 
