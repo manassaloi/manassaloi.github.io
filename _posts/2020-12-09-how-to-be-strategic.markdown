@@ -9,7 +9,7 @@ For most of my career, I had this reputation of something who is a terrific exec
 
 I read like a dozen books and hundreds of posts on competitive strategy. Not an exaggeration. I literally read a [dozen books](https://manassaloi.com/2019/08/27/learn-business-strategy.html).
 
-Now I could draw flywheels and do seven powers analysis in my sleep. Was it enough?
+Now I could draw flywheels and do 7 powers analysis in my sleep. Was it enough?
 
 Nope. Because what people don't tell you is when they talk about strategy in middle management they don't actually mean strategy in a pure sense.
 
