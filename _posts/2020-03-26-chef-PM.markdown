@@ -3,12 +3,12 @@ layout: post
 title:  "What Anthony Bourdain taught me about PM'ing"
 ---
 
-**Honest Confession:** I hate blogposts which try to connect random things. 'Leicester winning PL can teach you these 5 things about how to run a startup'. Really though? So with bitter irony, I decided to write this post
+**Honest Confession:** I hate blogposts which try to connect random things. 'Leicester winning PL can teach you these 5 things about how to run a startup'. Really though? So with bitter irony, I decided to write this post.
 
 
-I picked up [Kitchen Confidential](https://www.goodreads.com/book/show/33313.Kitchen_Confidential) last year, and TBH it is one of the best books I read last year. I don't have much interest in cooking. I never wanted to be a Chef. I picked this one up because I had [read posts on how well run kitchens are similar to well run startups](https://firstround.com/review/why-soldiers-and-chefs-make-the-best-product-managers/). And I wanted to know what was the big deal about Anthony Bourdain
+I picked up [Kitchen Confidential](https://www.goodreads.com/book/show/33313.Kitchen_Confidential) last year, and TBH it is one of the best books I read last year. I don't have much interest in cooking. I never wanted to be a Chef. I picked this one up because I had [read posts on how well run kitchens are similar to well run startups](https://firstround.com/review/why-soldiers-and-chefs-make-the-best-product-managers/). And I wanted to know what was the big deal about Anthony Bourdain.
 
-One year later, I am still thinking about this book
+One year later, I am still thinking about this book.
 
 Here is the note I had created while reading the book. It contains similarities I noticed between being a PM and a Chef:
 
@@ -24,6 +24,6 @@ Here is the note I had created while reading the book. It contains similarities 
 10. You have to love the journey as much as the end product. There is no other option. There is a Chapter in the book about a Chef called Scott who does what he does for the love of cooking. Not for the accolades. Not for the newspaper mentions. Cooking is all he thinks of. I think for a PM it is similar. When I was younger I really cared about getting called out by my CEO about some feature I shipped. Getting praise from my team about how good I was. But after 6 years in the job, it is all about loving what I do
 10. Clarity of roles is super Important. Ambiguity cant be tolerated in a high pressure environment. There is a chapter in the roles of a porter, chef, line cook etc and what is expected out of each role. I think is similar in a product development org. Job descriptions need to be clear. Same with ownership
 
-This book turned out to be as good as promised. And it is definitely one of the books I will recommend to aspiring PMs going forward
+This book turned out to be as good as promised. And it is definitely one of the books I will recommend to aspiring PMs going forward.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
