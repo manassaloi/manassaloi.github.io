@@ -166,53 +166,51 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 ## (Newsletters I have subscribed to)
 
-1/ [CBInsights](https://www.cbinsights.com/newsletter)
+- [CBInsights](https://www.cbinsights.com/newsletter)
 
-2/ [Reforge](https://www.reforge.com/blog/)
+- [Reforge](https://www.reforge.com/blog/)
 
-3/ [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
+- [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
 
-4/ [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)
+- [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)
 
-5/ [The Ken](https://the-ken.com/)
+- [The Ken](https://the-ken.com/)
 
-6/ [Howard Lindzon](http://howardlindzon.com/subscribe/)
+- [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)
 
-7/ [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)
+- [Oversharing](https://oversharing.substack.com/welcome)
 
-8/ [Snippets by Social Capital](https://medium.com/@snippetsfromsc)
+- [Circle of Competence](https://www.circleofcompetence.co/)
 
-9/ [Data Elixir](https://dataelixir.com/)
+- [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
 
-10/ [Oversharing](https://oversharing.substack.com/welcome)
+- [StrictlyVC](https://www.strictlyvc.com/)
 
-11/ [Prioritised by Mind the Product](https://www.mindtheproduct.com/product-management-newsletter/)
+- [Drinking from the Firehose](https://www.firehose.vc/)
 
-12/ [PMHQ Weekly Product Reads](https://www.productmanagerhq.com/)
+- [The Profile](https://theprofile.substack.com/)
 
-13/ [Circle of Competence](https://www.circleofcompetence.co/)
+- [Stealing Signs](stealingsigns@substack.com)
 
-14/ [Morning Brew](https://www.morningbrew.com/daily/stories/)
+- [Kenny Chen](https://uxdesignweekly.com/)
 
-15/ [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
+- [Not Boring](notboring@substack.com)
 
-16/ [StrictlyVC](https://www.strictlyvc.com/)
+- [Mario at The Generalist](https://thegeneralist.substack.com/)
 
-17/ [Drinking from the Firehose](https://www.firehose.vc/)
+- [Circle of Competence](https://www.circleofcompetence.co/)
 
-18/ [The Profile](https://theprofile.substack.com/)
+- [The Skip](theskip@substack.com)
 
-19/ [Stealing Signs](stealingsigns@substack.com)
+- [The Flywheel](https://theflywheel.substack.com/)
 
-20/ [Kenny Chen](https://uxdesignweekly.com/)
+- [Department of Product](https://www.departmentofproduct.com/newsletter/)
 
-21/ [Not Boring](notboring@substack.com)
+- [Finshots](https://finshots.in/)
 
-22/ [Mario at The Generalist](https://thegeneralist.substack.com/)
+- [Hey Designer](https://heydesigner.com/)
 
-23/ [Circle of Competence](https://www.circleofcompetence.co/)
-
-24/ [The Skip](theskip@substack.com)
+- [Minimum Viable Publication](https://mvpublication.com/issues/)
 
 ## (Podcasts I listen to)
 
