@@ -180,52 +180,52 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
 ## (Podcasts I listen to)
 
-- **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
+- **[The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
   - fav: [http://www.thetwentyminutevc.com/alirowghani/](http://www.thetwentyminutevc.com/alirowghani/)
 
-- **2/ [Origins by Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited-partners-created-by-notation/id1111792048?mt=2)**
+- **[Origins by Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited-partners-created-by-notation/id1111792048?mt=2)**
   - fav: [https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew](https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew)
 
-- **3/ [The Knowledge Project](https://fs.blog/the-knowledge-project/)**
+- **[The Knowledge Project](https://fs.blog/the-knowledge-project/)**
   - fav: [https://fs.blog/2018/05/patrick-collison/](https://fs.blog/2018/05/patrick-collison/)
 
-- **4/ [Recode Decode](https://www.recode.net/recode-decode-podcast-kara-swisher)**
+- **[Recode Decode](https://www.recode.net/recode-decode-podcast-kara-swisher)**
   - fav: [https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure](https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure)
 
-- **5/ [The Tim Ferris Show](https://tim.blog/podcast/)**
+- **[The Tim Ferris Show](https://tim.blog/podcast/)**
   - fav: [https://tim.blog/2018/08/27/drew-houston/](https://tim.blog/2018/08/27/drew-houston/)
 
-- **6/ [The Kevin Rose Show](https://www.kevinrose.com/)**
+- **[The Kevin Rose Show](https://www.kevinrose.com/)**
   - fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com/single-post/billmaris)
 
-- **7/ [Product Hunt Radio](https://www.producthunt.com/radio)**
+- **[Product Hunt Radio](https://www.producthunt.com/radio)**
   - fav: [https://overcast.fm/+SYJmMaA0U](https://overcast.fm/+SYJmMaA0U)
 
-- **8/ [Below the Line with James Beshara](https://anchor.fm/belowtheline)**
+- **[Below the Line with James Beshara](https://anchor.fm/belowtheline)**
   - fav: [https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o](https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o)
 
-- **9/ [Venture Stories Podcast by Village Global](https://www.villageglobal.vc/podcast/)**
+- **[Venture Stories Podcast by Village Global](https://www.villageglobal.vc/podcast/)**
   - fav: [https://overcast.fm/+LDKfmOiHQ](https://overcast.fm/+LDKfmOiHQ)
 
-- **10/ [Animal Spirits Podcast](https://animalspiritspod.libsyn.com/)**
+- **[Animal Spirits Podcast](https://animalspiritspod.libsyn.com/)**
   - fav: [https://animalspiritspod.libsyn.com/the-least-happy-age-ep109](https://animalspiritspod.libsyn.com/the-least-happy-age-ep109)
 
-- **11/ [Invest Like the Best](http://investorfieldguide.com/podcast/)**
+- **[Invest Like the Best](http://investorfieldguide.com/podcast/)**
   - fav: [http://investorfieldguide.com/rabois/](http://investorfieldguide.com/rabois/)
 
-- **12/ [This Week In Startups](https://thisweekinstartups.com/)**
+- **[This Week In Startups](https://thisweekinstartups.com/)**
   - fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
 
-- **13/ [Starting Greatness](https://greatness.floodgate.com/)**
+- **[Starting Greatness](https://greatness.floodgate.com/)**
   - fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
 
-- **14/ [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)**
+- **[All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)**
   - fav: [https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199](https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199)
 
-- **15/ [In Depth](https://review.firstround.com/podcast)**
+- **[In Depth](https://review.firstround.com/podcast)**
   - fav: [https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468](https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468)
 
-- **16/ [My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
+- **[My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
   - fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
 
 
