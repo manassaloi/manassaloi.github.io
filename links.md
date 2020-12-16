@@ -118,17 +118,18 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **[Netflix Tech Blog](https://medium.com/netflix-techblog/)**
   - fav: [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)
 
+- **[YC](https://blog.ycombinator.com/)**
+ - fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
+
+- **[a16z](https://a16z.com/)**
+ - fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
+
 - **[Slack Design](https://slack.design/)**
   - fav: [Threads in Slack, a long design journey](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4)
 
 - **[Airbnb Design](https://airbnb.design/)**
   - fav: [Building a Visual Language](https://airbnb.design/building-a-visual-language/)
 
-- **[YC](https://blog.ycombinator.com/)**
-  - fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
-
-- **[a16z](https://a16z.com/)**
-  - fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
 
 ## (Newsletters I have subscribed to)
 
