@@ -25,144 +25,110 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
 ## (People I learn from)
 
-**1/ Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
+- **Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
+  - fav: [How To Win As Second Mover](http://blog.eladgil.com/2012/10/how-to-win-as-second-mover.html)
 
-fav: [How To Win As Second Mover](http://blog.eladgil.com/2012/10/how-to-win-as-second-mover.html)
+- **Jeol Spolsky. [https://www.joelonsoftware.com/](https://t.co/Alujpig4zK)**
+  - fav: [Strategy Letter I: Ben and Jerry’s vs. Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
 
-**2/ Jeol Spolsky. [https://www.joelonsoftware.com/](https://t.co/Alujpig4zK)**
+- **Ben Thompson. [https://stratechery.com](https://stratechery.com/)**
+  - fav: [Google, Uber, and the Evolution of Transportation-as-a-Service](https://stratechery.com/2016/google-uber-and-the-evolution-of-transportation-as-a-service/)
 
-fav: [Strategy Letter I: Ben and Jerry’s vs. Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
+- **Andrew Chen. [https://andrewchen.co/](https://t.co/G6Zx3CcudT)**
+  - fav: [The Power User Curve: The best way to understand your most engaged users](https://andrewchen.co/power-user-curve/)
 
-**3/ Ben Thompson. [https://stratechery.com](https://stratechery.com/)**
+- **Avichal Garg. [https://avichal.com/](https://t.co/17wMoo6hao)**
+  - fav: [Focus on building 10x teams, not on hiring 10x developers](https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
 
-fav: [Google, Uber, and the Evolution of Transportation-as-a-Service](https://stratechery.com/2016/google-uber-and-the-evolution-of-transportation-as-a-service/)
+- **Michael Lopp. [http://randsinrepose.com/](https://t.co/bCNLEaWoSO)**
+  - fav: [Shields Down](http://randsinrepose.com/archives/shields-down/)
 
-**4/ Andrew Chen. [https://andrewchen.co/](https://t.co/G6Zx3CcudT)**
+- **Marc Andreessen. [https://pmarchive.com](https://t.co/BcG4kyAvEh)**
+  - fav: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.html)
 
-fav: [The Power User Curve: The best way to understand your most engaged users](https://andrewchen.co/power-user-curve/)
+- **Chamath. [http://chamatharchive.com/](https://t.co/BHPSof8KWZ)**
+  - fav: [Long term greedy](http://chamatharchive.com/long-term-greedy/)
 
-**5/ Avichal Garg. [https://avichal.com/](https://t.co/17wMoo6hao)**
+- **Julie Zhuo. [https://medium.com/the-year-of-the-looking-glass/](https://t.co/8ubuAHkKOI)**
+  - fav: [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
 
-fav: [Focus on building 10x teams, not on hiring 10x developers](https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
+- **Benedict Evans. [https://www.ben-evans.com/](https://t.co/ehb0cq1eRs)**
+  - fav: [Tesla, software and disruption](https://t.co/lVVwdqKZmh)
 
-**6/ Michael Lopp. [http://randsinrepose.com/](https://t.co/bCNLEaWoSO)**
+- **Steven Sinofsky. [https://medium.learningbyshipping.com/](https://t.co/nzyAqMTgG2)**
+  - fav: [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a)
 
-fav: [Shields Down](http://randsinrepose.com/archives/shields-down/)
+- **Tomasz Tunguz. [http://tomtunguz.com/](http://tomtunguz.com/)**
+  - fav: [Lessons Learned from 20 Years at the Leading Edge of SaaS](http://tomtunguz.com/lessons-learned-from-twenty-years-at-the-leading-edge-of-saas/)
 
-**7/ Marc Andreessen. [https://pmarchive.com](https://t.co/BcG4kyAvEh)**
+- **Steve Blank. [https://steveblank.com/](https://steveblank.com/)**
+  - fav: [“Speed and Tempo” — Fearless Decision Making for Startups](https://steveblank.com/2009/04/10/good-enough-decision-making/)
 
-fav: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.html)
+- **Derek Sivers. [https://sivers.org/](https://sivers.org/)**
+  - fav: [There’s no speed limit](https://sivers.org/kimo)
 
-**8/ Chamath. [http://chamatharchive.com/](https://t.co/BHPSof8KWZ)**
+- **John Saito. [https://medium.com/@jsaito](https://medium.com/@jsaito)**
+  - fav: [Making up metaphors](https://medium.com/@jsaito/making-up-metaphors-4bcc85bc1039)
 
-fav: [Long term greedy](http://chamatharchive.com/long-term-greedy/)
+- **Fred Wilson. [https://avc.com/](https://avc.com/)**
+  - fav: [Let Your Winners Run](https://avc.com/2012/02/let-your-winners-run/)
 
-**9/ Julie Zhuo. [https://medium.com/the-year-of-the-looking-glass/](https://t.co/8ubuAHkKOI)**
+- **Mark Suster. [https://bothsidesofthetable.com/](https://bothsidesofthetable.com/)**
+  - fav: [Want to Know How VC’s Calculate Valuation Differently from Founders?](https://bothsidesofthetable.com/want-to-know-how-vc-s-calculate-valuation-differently-from-founders-8d8cbfc40b78)
 
-fav: [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
+- **Seth Godin. [https://www.sethgodin.com/](https://www.sethgodin.com/)**
+  - fav: [The wrong bus](https://seths.blog/2018/08/the-wrong-bus/)
 
-**10/ Benedict Evans. [https://www.ben-evans.com/](https://t.co/ehb0cq1eRs)**
+- **Bill Gurley. [http://abovethecrowd.com/](http://abovethecrowd.com/)**
+  - fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
 
-fav: [Tesla, software and disruption](https://t.co/lVVwdqKZmh)
+- **Michael Lopp. [http://randsinrepose.com/about/](http://randsinrepose.com/about/)**
+  - fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
 
-**11/ Steven Sinofsky. [https://medium.learningbyshipping.com/](https://t.co/nzyAqMTgG2)**
+- **Shreyas Doshi. [https://twitter.com/shreyas](https://twitter.com/shreyas)**
+  - fav: [Why Products Don't Succeed: The 7 Biases of Product Teams](https://www.linkedin.com/pulse/why-products-dont-succeed-7-biases-product-teams-shreyas-doshi/)
 
-fav: [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a)
-
-**12/ Tomasz Tunguz. [http://tomtunguz.com/](http://tomtunguz.com/)**
-
-fav: [Lessons Learned from 20 Years at the Leading Edge of SaaS](http://tomtunguz.com/lessons-learned-from-twenty-years-at-the-leading-edge-of-saas/)
-
-**13/ Steve Blank. [https://steveblank.com/](https://steveblank.com/)**
-
-fav: [“Speed and Tempo” — Fearless Decision Making for Startups](https://steveblank.com/2009/04/10/good-enough-decision-making/)
-
-**14/ Derek Sivers. [https://sivers.org/](https://sivers.org/)**
-
-fav: [There’s no speed limit](https://sivers.org/kimo)
-
-**15/ John Saito. [https://medium.com/@jsaito](https://medium.com/@jsaito)**
-
-fav: [Making up metaphors](https://medium.com/@jsaito/making-up-metaphors-4bcc85bc1039)
-
-**16/ Fred Wilson. [https://avc.com/](https://avc.com/)**
-
-fav: [Let Your Winners Run](https://avc.com/2012/02/let-your-winners-run/)
-
-**17/ Mark Suster. [https://bothsidesofthetable.com/](https://bothsidesofthetable.com/)**
-
-fav: [Want to Know How VC’s Calculate Valuation Differently from Founders?](https://bothsidesofthetable.com/want-to-know-how-vc-s-calculate-valuation-differently-from-founders-8d8cbfc40b78)
-
-**18/ Seth Godin. [https://www.sethgodin.com/](https://www.sethgodin.com/)**
-
-fav: [The wrong bus](https://seths.blog/2018/08/the-wrong-bus/)
-
-**19/ Bill Gurley. [http://abovethecrowd.com/](http://abovethecrowd.com/)**
-
-fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
-
-**20/ Michael Lopp. [http://randsinrepose.com/about/](http://randsinrepose.com/about/)**
-
-fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
-
-**21/ Shreyas Doshi. [https://twitter.com/shreyas](https://twitter.com/shreyas)**
-
-fav: [Why Products Don't Succeed: The 7 Biases of Product Teams](https://www.linkedin.com/pulse/why-products-dont-succeed-7-biases-product-teams-shreyas-doshi/)
-
-**22/ Brian Balfour. [hhttps://brianbalfour.com/](https://brianbalfour.com/)**
-
-fav: [Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
+- **Brian Balfour. [hhttps://brianbalfour.com/](https://brianbalfour.com/)**
+  - fav: [Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
 
 
 ## (Blogs I read regularly)
 
-**1/ [Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
+- **[Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
+  - fav: [The curse of the last word](https://m.signalvnoise.com/the-curse-of-the-last-word-5fb5009da601)
 
-fav: T[he curse of the last word](https://m.signalvnoise.com/the-curse-of-the-last-word-5fb5009da601)
+- **[Intercom](https://blog.intercom.com/)**
+  - fav: [When a cupcake becomes a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
 
-**2/[ Intercom](https://blog.intercom.com/)**
+- **[First Round](http://firstround.com/review/)**
+  - fav: [Speed as a Habit](http://firstround.com/review/speed-as-a-habit/)
 
-fav: [When a cupcake becomes a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
+- **[GV Library](https://library.gv.com/)**
+  - fav: [GV Guide to Design Critique](https://library.gv.com/guide-to-design-critique-86ebf499bed5)
 
-**3/ [First Round](http://firstround.com/review/)**
+- **[HBR](https://hbr.org/)**
+  - fav: [Your Strategic Plans Probably Aren’t Strategic, or Even Plans](https://hbr.org/2018/04/your-strategic-plans-probably-arent-strategic-or-even-plans)
 
-fav: [Speed as a Habit](http://firstround.com/review/speed-as-a-habit/)
+- **[Facebook Design](https://medium.com/facebook-design)**
+  - fav: [Evolving the Facebook News Feed to Serve You Better](https://medium.com/facebook-design/evolving-the-facebook-news-feed-to-serve-you-better-f844a5cb903d)
 
-**4/ [GV Library](https://library.gv.com/)**
+- **[Go-Jek Engineering](https://blog.gojekengineering.com/)**
+  - fav: [Introducing GO-JEK’s card personalization engine: Project shuffle](https://blog.gojekengineering.com/introducing-go-jeks-card-personalization-engine-project-shuffle-7c4b9404d5f2)
 
-fav: [GV Guide to Design Critique](https://library.gv.com/guide-to-design-critique-86ebf499bed5)
+- **[Netflix Tech Blog](https://medium.com/netflix-techblog/)**
+  - fav: [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)
 
-**5/ [HBR](https://hbr.org/)**
+- **[Slack Design](https://slack.design/)**
+  - fav: [Threads in Slack, a long design journey](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4)
 
-fav: [Your Strategic Plans Probably Aren’t Strategic, or Even Plans](https://hbr.org/2018/04/your-strategic-plans-probably-arent-strategic-or-even-plans)
+- **[Airbnb Design](https://airbnb.design/)**
+  - fav: [Building a Visual Language](https://airbnb.design/building-a-visual-language/)
 
-**6/ [Facebook Design](https://medium.com/facebook-design)**
+- **[YC](https://blog.ycombinator.com/)**
+  - fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
 
-fav: [Evolving the Facebook News Feed to Serve You Better](https://medium.com/facebook-design/evolving-the-facebook-news-feed-to-serve-you-better-f844a5cb903d)
-
-**7/ [Go-Jek Engineering](https://blog.gojekengineering.com/)**
-
-fav: [Introducing GO-JEK’s card personalization engine: Project shuffle](https://blog.gojekengineering.com/introducing-go-jeks-card-personalization-engine-project-shuffle-7c4b9404d5f2)
-
-**8/ [Netflix Tech Blog](https://medium.com/netflix-techblog/)**
-
-fav: [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)
-
-**9/[ Slack Design](https://slack.design/)**
-
-fav: [Threads in Slack, a long design journey](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4)
-
-**10/ [Airbnb Design](https://airbnb.design/)**
-
-fav: [Building a Visual Language](https://airbnb.design/building-a-visual-language/)
-
-**11/ [YC](https://blog.ycombinator.com/)**
-
-fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
-
-**12/ [a16z](https://a16z.com/)**
-
-fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
+- **[a16z](https://a16z.com/)**
+  - fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)
 
 ## (Newsletters I have subscribed to)
 
@@ -214,69 +180,53 @@ fav: [The ‘Oh, Shit!’ Moment When Growth Stops](https://a16z.com/2015/09/30/
 
 ## (Podcasts I listen to)
 
-**1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
+- **1/ [The Twenty Minute VC](http://www.thetwentyminutevc.com/)**
+  - fav: [http://www.thetwentyminutevc.com/alirowghani/](http://www.thetwentyminutevc.com/alirowghani/)
 
-fav: [http://www.thetwentyminutevc.com/alirowghani/](http://www.thetwentyminutevc.com/alirowghani/)
+- **2/ [Origins by Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited-partners-created-by-notation/id1111792048?mt=2)**
+  - fav: [https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew](https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew)
 
-**2/ [Origins by Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited-partners-created-by-notation/id1111792048?mt=2)**
+- **3/ [The Knowledge Project](https://fs.blog/the-knowledge-project/)**
+  - fav: [https://fs.blog/2018/05/patrick-collison/](https://fs.blog/2018/05/patrick-collison/)
 
-fav: [https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew](https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew)
+- **4/ [Recode Decode](https://www.recode.net/recode-decode-podcast-kara-swisher)**
+  - fav: [https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure](https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure)
 
-**3/ [The Knowledge Project](https://fs.blog/the-knowledge-project/)**
+- **5/ [The Tim Ferris Show](https://tim.blog/podcast/)**
+  - fav: [https://tim.blog/2018/08/27/drew-houston/](https://tim.blog/2018/08/27/drew-houston/)
 
-fav: [https://fs.blog/2018/05/patrick-collison/](https://fs.blog/2018/05/patrick-collison/)
+- **6/ [The Kevin Rose Show](https://www.kevinrose.com/)**
+  - fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com/single-post/billmaris)
 
-**4/ [Recode Decode](https://www.recode.net/recode-decode-podcast-kara-swisher)**
+- **7/ [Product Hunt Radio](https://www.producthunt.com/radio)**
+  - fav: [https://overcast.fm/+SYJmMaA0U](https://overcast.fm/+SYJmMaA0U)
 
-fav: [https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure](https://www.recode.net/2016/8/29/12684872/bret-taylor-quip-salesforce-acquisition-friendfeed-twitter-facebok-failure)
+- **8/ [Below the Line with James Beshara](https://anchor.fm/belowtheline)**
+  - fav: [https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o](https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o)
 
-**5/ [The Tim Ferris Show](https://tim.blog/podcast/)**
+- **9/ [Venture Stories Podcast by Village Global](https://www.villageglobal.vc/podcast/)**
+  - fav: [https://overcast.fm/+LDKfmOiHQ](https://overcast.fm/+LDKfmOiHQ)
 
-fav: [https://tim.blog/2018/08/27/drew-houston/](https://tim.blog/2018/08/27/drew-houston/)
+- **10/ [Animal Spirits Podcast](https://animalspiritspod.libsyn.com/)**
+  - fav: [https://animalspiritspod.libsyn.com/the-least-happy-age-ep109](https://animalspiritspod.libsyn.com/the-least-happy-age-ep109)
 
-**6/ [The Kevin Rose Show](https://www.kevinrose.com/)**
+- **11/ [Invest Like the Best](http://investorfieldguide.com/podcast/)**
+  - fav: [http://investorfieldguide.com/rabois/](http://investorfieldguide.com/rabois/)
 
-fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com/single-post/billmaris)
+- **12/ [This Week In Startups](https://thisweekinstartups.com/)**
+  - fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
 
-**7/ [Product Hunt Radio](https://www.producthunt.com/radio)**
+- **13/ [Starting Greatness](https://greatness.floodgate.com/)**
+  - fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
 
-fav: [https://overcast.fm/+SYJmMaA0U](https://overcast.fm/+SYJmMaA0U)
+- **14/ [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)**
+  - fav: [https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199](https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199)
 
-**8/ [Below the Line with James Beshara](https://anchor.fm/belowtheline)**
+- **15/ [In Depth](https://review.firstround.com/podcast)**
+  - fav: [https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468](https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468)
 
-fav: [https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o](https://anchor.fm/belowtheline/episodes/2--Mike-Maples--The-Original-e3ku2o)
-
-**9/ [Venture Stories Podcast by Village Global](https://www.villageglobal.vc/podcast/)**
-
-fav: [https://overcast.fm/+LDKfmOiHQ](https://overcast.fm/+LDKfmOiHQ)
-
-**10/ [Animal Spirits Podcast](https://animalspiritspod.libsyn.com/)**
-
-fav: [https://animalspiritspod.libsyn.com/the-least-happy-age-ep109](https://animalspiritspod.libsyn.com/the-least-happy-age-ep109)
-
-**11/ [Invest Like the Best](http://investorfieldguide.com/podcast/)**
-
-fav: [http://investorfieldguide.com/rabois/](http://investorfieldguide.com/rabois/)
-
-**12/ [This Week In Startups](https://thisweekinstartups.com/)**
-
-fav: [https://overcast.fm/+JyEbVflY](https://overcast.fm/+JyEbVflY)
-
-**13/ [Starting Greatness](https://greatness.floodgate.com/)**
-
-fav: [https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through](https://greatness.floodgate.com/episodes/osman-rashid-how-did-chegg-find-a-way-through)
-
-**14/ [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)**
-
-fav: [https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199](https://podcasts.apple.com/us/podcast/e2-rebooting-economy-understanding-corporate-debt-steps/id1502871393?i=1000471138199)
-
-**15/ [In Depth](https://review.firstround.com/podcast)**
-
-fav: [https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468](https://podcasts.apple.com/us/podcast/molly-grahams-management-lessons-from-google-facebook/id1535886300?i=1000496480468)
-
-**16/ [My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
-
-fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
+- **16/ [My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
+  - fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
 
 
 ## (Books I recommend)
