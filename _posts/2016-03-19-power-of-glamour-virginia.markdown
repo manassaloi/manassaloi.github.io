@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Power of Glamour: Longing and the Art of Visual Persuasion - Virginia Postrel"
+title:  "The Power of Glamour - Virginia Postrel"
 tags: booksummaries
 categories: booksummaries
 

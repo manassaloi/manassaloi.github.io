@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be Our Guest: Perfecting the art of customer service - Walt Disney Company"
+title:  "Be Our Guest - Walt Disney Company"
 tags: booksummaries
 categories: booksummaries
 

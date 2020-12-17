@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wisdom at Work: The Making of a Modern Elder - Chip Conley"
+title:  "Wisdom at Work - Chip Conley"
 tags: booksummaries
 categories: booksummaries
 ---

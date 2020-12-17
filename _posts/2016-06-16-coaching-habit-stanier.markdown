@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever - Michael Bungay Stanier"
+title:  "The Coaching Habit - Michael Bungay Stanier"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully - Gerald M. Weinberg"
+title:  "The Secrets of Consulting - Gerald M. Weinberg"
 tags: booksummaries
 categories: booksummaries
 

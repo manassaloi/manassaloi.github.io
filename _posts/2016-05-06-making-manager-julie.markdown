@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Making of a Manager: What to Do When Everyone Looks to You - Julie Zhuo"
+title:  "The Making of a Manager - Julie Zhuo"
 tags: booksummaries
 categories: booksummaries
 

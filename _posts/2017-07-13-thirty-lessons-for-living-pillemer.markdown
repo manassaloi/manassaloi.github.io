@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30 Lessons for Living: Tried and True Advice from the Wisest Americans - Karl Pillemer"
+title:  "30 Lessons for Living - Karl Pillemer"
 tags: booksummaries
 categories: booksummaries
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Win Bigly: Persuasion in a World Where Facts Don't Matter - Scott Adams"
+title:  "Win Bigly - Scott Adams"
 tags: booksummaries
 categories: booksummaries
 

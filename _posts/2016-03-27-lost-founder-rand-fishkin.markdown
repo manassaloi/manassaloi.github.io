@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lost and Founder: The Mostly Awful, Sometimes Awesome Truth about Building a Tech Startup - Rand Fishkin"
+title:  "Lost and Founder - Rand Fishkin"
 tags: booksummaries
 categories: booksummaries
 

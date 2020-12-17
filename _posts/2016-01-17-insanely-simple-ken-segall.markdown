@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Insanely Simple: The Obsession That Drives Apple's Success - Ken Segall"
+title:  "Insanely Simple - Ken Segall"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reboot: Leadership and the Art of Growing Up - Jerry Colonna"
+title:  "Reboot - Jerry Colonna"
 tags: booksummaries
 categories: booksummaries
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Built for Growth: How Builder Personality Shapes Your Business, Your Team, and Your Ability to Win - Chris Kuenne, John Danner"
+title:  "Built for Growth - Chris Kuenne, John Danner"
 tags: booksummaries
 categories: booksummaries
 

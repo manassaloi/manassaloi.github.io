@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Difference: The one-page method for reimagining your business and reinventing your marketing - Bernadette Jiw"
+title:  "Difference - Bernadette Jiw"
 tags: booksummaries
 categories: booksummaries
 

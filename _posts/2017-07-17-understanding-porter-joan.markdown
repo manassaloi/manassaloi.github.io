@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta"
+title:  "Understanding Michael Porter - Joan Magretta"
 tags: booksummaries
 categories: booksummaries
 ---

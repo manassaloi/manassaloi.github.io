@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decisive: How to Make Better Choices in Life and Work - Chip Heath, Dan Heath"
+title:  "Decisive - Chip Heath, Dan Heath"
 tags: booksummaries
 categories: booksummaries
 ---

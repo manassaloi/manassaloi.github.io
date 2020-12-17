@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000 - Jason Calacanis"
+title:  "Angel - Jason Calacanis"
 tags: booksummaries
 categories: booksummaries
 

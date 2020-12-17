@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle) - Deepak Malhotra"
+title:  "Negotiating the Impossible - Deepak Malhotra"
 tags: booksummaries
 categories: booksummaries
 

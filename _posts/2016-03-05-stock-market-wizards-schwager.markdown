@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stock Market Wizards: Interviews with America's Top Stock Traders - Jack D. Schwager"
+title:  "Stock Market Wizards - Jack D. Schwager"
 tags: booksummaries
 categories: booksummaries
 

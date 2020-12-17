@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Working: Researching, Interviewing, Writing - Robert A. Caro"
+title:  "Working - Robert A. Caro"
 tags: booksummaries
 categories: booksummaries
 ---

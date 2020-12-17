@@ -1,0 +1,52 @@
+I"�<ul>
+  <li>Don’t look at UI components in isolation.</li>
+  <li>As a PM, I care less about a new search box’s UI and its functionalities than how the search experience will fit in the customer journey.</li>
+  <li>Say you are a designer/PM designing the search experience for a dashboard. Focus less on what features the search box will have, be it autocomplete, suggestions, full text search vs partial etc, and more on why and how the search will be used by the user. Understand what job the user is trying to accomplish while using search.</li>
+  <li>MVP design is not about features. It is about what job stories you want to tackle as part of the v1.</li>
+  <li>Have an opinion; this is true for both the presenter and the reviewer. Reviews should not be able superficial compliments and backslapping. It should be about constructive feedback and how we can make the product even better.</li>
+  <li>You want the user to perform a series of actions to complete a job they have hired your feature for. Don’t hide your lack of opinion by suggesting 3 random alternatives to the reviewer or asking the PM to run an A/B test to figure out the best UI.</li>
+</ul>
+
+<p>Let’s take an actual example. Say you are the designer for Google Groups product and you are designing the experience of removing users from a group. Removing users essentially involves two tasks: </p>
+<ol>
+  <li>Finding the users.</li>
+  <li>Removing them.</li>
+</ol>
+
+<p>Finding the users can be done by</p>
+<ol>
+  <li>Exposing all the users of the group upfront in a tabular format.</li>
+  <li>A search box in case there are hundreds of users.</li>
+  <li>Some sort of CSV upload feature if the admin has to remove hundreds/thousands and can’t search and select each user manually.</li>
+</ol>
+
+<p>Removal can be done by</p>
+<ol>
+  <li>Searching and removing each individual users.</li>
+  <li>Using a delete button next to each user’s name.</li>
+  <li>Multi-selecting users and then deleting.</li>
+  <li>Mass delete using CSV.</li>
+</ol>
+
+<p>Instead of stuffing all of these options in the UI and going for a features first approach, first ask:</p>
+
+<ol>
+  <li>Why would an admin want to remove users in the first place?</li>
+  <li>In a standard scenario will they remove a single user or many?</li>
+  <li>Is there any realistic scenario where they would need to remove thousands of users from a group?</li>
+  <li>Will they have list of usernames in a file? Will the list shared with them be or random or sorted alphabetically?</li>
+  <li>How often will they have to do this delete task?</li>
+</ol>
+
+<p>Only once you do this exercise you will realise that you are not designing a search or multi-select UI in isolation but designing the experience of how an actual admin will delete users from a group.</p>
+
+<ul>
+  <li>Design the whole experience based on actual jobs that the admin has to perform in their job than hypothetical scenarios you have cooked up. </li>
+  <li>If you are the reviewer ask why you need a particular UI element. Are the UI components there because the designer or PM has seen it somewhere and felt a search experience should have them or are they there because they are needed to complete a real job by the user.</li>
+  <li>Avoid design through committee. Don’t let stakeholders come and add/remove UI components just because they wanted to add some value.</li>
+  <li>Design for the happy flow but keep thinking where things might break. Don’t over design the v1 trying to cover all edge cases. Some of them can be fixed post the MVP.</li>
+  <li>Test with real users. Unless you have feedback from actual users most debates are mental masturbation. </li>
+</ul>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

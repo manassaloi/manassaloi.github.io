@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture - Scott Belsky"
+title:  "The Messy Middle - Scott Belsky"
 tags: booksummaries
 categories: booksummaries
 

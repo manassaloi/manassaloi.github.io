@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Company of One: Why Staying Small is the Next Big Thing for Business - Paul Jarvis"
+title:  "Company of One - Paul Jarvis"
 tags: booksummaries
 categories: booksummaries
 

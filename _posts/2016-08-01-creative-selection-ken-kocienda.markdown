@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs - Ken Kocienda"
+title:  "Creative Selection - Ken Kocienda"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle"
+title:  "The Culture Code - Daniel Coyle"
 tags: booksummaries
 categories: booksummaries
 

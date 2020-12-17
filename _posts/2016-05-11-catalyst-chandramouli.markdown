@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan"
+title:  "Catalyst - Chandramouli Venkatesan"
 tags: booksummaries
 categories: booksummaries
 

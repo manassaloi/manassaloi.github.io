@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson"
+title:  "The Almanack of Naval Ravikant - Eric Jorgenson"
 tags: booksummaries
 categories: booksummaries
 

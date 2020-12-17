@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inside Apple - Adam Lashinskys"
+title:  "Inside Apple - Adam Lashinsky"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emotional Design: Why We Love (or Hate) Everyday Things - Donald A. Norman"
+title:  "Emotional Design - Donald A. Norman"
 tags: booksummaries
 categories: booksummaries
 

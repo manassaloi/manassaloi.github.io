@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Essays of Warren Buffett: Lessons for Corporate America - Lawrence A. Cunningham, Warren E. Buffett "
+title: "The Essays of Warren Buffett - Lawrence A. Cunningham, Warren E. Buffett "
 tags: booksummaries
 categories: booksummaries
 

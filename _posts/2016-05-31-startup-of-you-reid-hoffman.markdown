@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman, Ben Casnocha"
+title:  "The Start-Up of You - Reid Hoffman, Ben Casnocha"
 tags: booksummaries
 categories: booksummaries
 

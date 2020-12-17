@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jony Ive: The Genius Behind Apple's Greatest Products - Leander Kahney"
+title:  "Jony Ive - Leander Kahney"
 tags: booksummaries
 categories: booksummaries
 

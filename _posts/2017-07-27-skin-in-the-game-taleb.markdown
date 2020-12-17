@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skin in the Game: The Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb"
+title:  "Skin in the Game - Nassim Nicholas Taleb"
 tags: booksummaries
 categories: booksummaries
 ---

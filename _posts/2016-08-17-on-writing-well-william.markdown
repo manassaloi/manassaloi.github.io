@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Writing Well: The Classic Guide to Writing Nonfiction - William Zinsser"
+title: "On Writing Well - William Zinsser"
 tags: booksummaries
 categories: booksummaries
 

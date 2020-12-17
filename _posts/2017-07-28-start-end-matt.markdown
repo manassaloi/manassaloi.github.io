@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start at the End: How to Build Products That Create Change - Matt Wallaert"
+title:  "Start at the End - Matt Wallaert"
 tags: booksummaries
 categories: booksummaries
 ---

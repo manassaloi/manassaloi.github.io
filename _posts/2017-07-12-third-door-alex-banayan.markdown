@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers - Alex Banayan"
+title:  "The Third Door - Alex Banayan"
 tags: booksummaries
 categories: booksummaries
 

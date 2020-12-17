@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Narrative and Numbers: The Value of Stories in Business - Aswath Damodaran"
+title:  "Narrative and Numbers - Aswath Damodaran"
 tags: booksummaries
 categories: booksummaries
 

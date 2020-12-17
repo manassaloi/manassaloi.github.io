@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 5 Mistakes Every Investor Makes and How to Avoid Them: Getting Investing Right - Peter Mallouk"
+title:  "The 5 Mistakes Every Investor Makes and How to Avoid Them - Peter Mallouk"
 tags: booksummaries
 categories: booksummaries
 

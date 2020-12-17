@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The McKinsey Edge: Success Principles from the World's Most Powerful Consulting Firm - Shu Hattori"
+title:  "The McKinsey Edge - Shu Hattori"
 tags: booksummaries
 categories: booksummaries
 

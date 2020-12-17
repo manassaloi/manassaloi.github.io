@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies - Reid Hoffman, Chris Yeh"
+title:  "Blitzscaling - Reid Hoffman, Chris Yeh"
 tags: booksummaries
 categories: booksummaries
 

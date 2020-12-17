@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nonviolent Communication: A Language of Life - Marshall B. Rosenberg"
+title:  "Nonviolent Communication - Marshall B. Rosenberg"
 tags: booksummaries
 categories: booksummaries
 

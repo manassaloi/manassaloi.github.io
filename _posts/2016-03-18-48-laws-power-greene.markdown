@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 48 Laws of Power - Robert Greene "
+title:  "The 48 Laws of Power - Robert Greene"
 tags: booksummaries
 categories: booksummaries
 

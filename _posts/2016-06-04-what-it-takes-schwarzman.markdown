@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What It Takes: Lessons in the Pursuit of Excellence - Stephen A. Schwarzman"
+title:  "What It Takes - Stephen A. Schwarzman"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Superbosses: How Exceptional Leaders Master the Flow of Talent - Sydney Finkelstein"
+title:  "Superbosses - Sydney Finkelstein"
 tags: booksummaries
 categories: booksummaries
 ---

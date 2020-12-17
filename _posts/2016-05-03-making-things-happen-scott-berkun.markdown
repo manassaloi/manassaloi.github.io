@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making Things Happen: Mastering Project Management - Scott Berkun"
+title:  "Making Things Happen - Scott Berkun"
 tags: booksummaries
 categories: booksummaries
 

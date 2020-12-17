@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company - Robert Iger"
+title:  "The Ride of a Lifetime - Robert Iger"
 tags: booksummaries
 categories: booksummaries
 

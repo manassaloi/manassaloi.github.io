@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bird by Bird: Some Instructions on Writing and Life - Anne Lamott"
+title:  "Bird by Bird - Anne Lamott"
 tags: booksummaries
 categories: booksummaries
 

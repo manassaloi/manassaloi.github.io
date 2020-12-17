@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt, Jonathan Rosenberg, Alan Eagle"
+title:  "Trillion Dollar Coach - Eric Schmidt, Jonathan Rosenberg, Alan Eagle"
 tags: booksummaries
 categories: booksummaries
 

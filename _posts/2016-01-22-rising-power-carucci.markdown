@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rising to Power: The Journey of Exceptional Executives - Ron A. Carucci"
+title:  "Rising to Power - Ron A. Carucci"
 tags: booksummaries
 categories: booksummaries
 

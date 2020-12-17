@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho,  Kim Powell, Tahl Raz"
+title:  "The CEO Next Door - Elena L. Botelho,  Kim Powell, Tahl Raz"
 tags: booksummaries
 categories: booksummaries
 

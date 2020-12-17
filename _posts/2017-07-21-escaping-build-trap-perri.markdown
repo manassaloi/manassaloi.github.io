@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escaping the Build Trap: How Effective Product Management Creates Real Value - Melissa Perri"
+title:  "Escaping the Build Trap - Melissa Perri"
 tags: booksummaries
 categories: booksummaries
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink (Goodreads Author), Leif Babin"
+title:  "Extreme Ownership - Jocko Willink, Leif Babin"
 tags: booksummaries
 categories: booksummaries
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Never Split the Difference: Negotiating As If Your Life Depended On It - Christopher Voss and Tahl Raz"
+title:  "Never Split the Difference - Christopher Voss and Tahl Raz"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dreyer's English: An Utterly Correct Guide to Clarity and Style - Benjamin Dreyer"
+title:  "Dreyer's English - Benjamin Dreyer"
 tags: booksummaries
 categories: booksummaries
 ---

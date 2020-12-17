@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Humble Inquiry: The Gentle Art of Asking Instead of Telling - Edgar H. Schein"
+title:  "Humble Inquiry - Edgar H. Schein"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Always Day One: How the Tech Titans Plan to Stay on Top Forever - Alex Kantrowitz"
+title:  "Always Day One - Alex Kantrowitz"
 tags: booksummaries
 categories: booksummaries
 

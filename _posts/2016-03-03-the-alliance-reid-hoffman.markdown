@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Alliance: Managing Talent in the Networked Age - Reid Hoffman"
+title:  "The Alliance - Reid Hoffman"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Platform Revolution: How Networked Markets Are Transforming the Economy--and How to Make Them Work for You - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary"
+title:  "Platform Revolution - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary"
 tags: booksummaries
 categories: booksummaries
 

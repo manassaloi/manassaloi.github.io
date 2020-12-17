@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Fixer: My Adventures Saving Startups from Death by Politics - Bradley Tusk"
+title:  "The Fixer - Bradley Tusk"
 tags: booksummaries
 categories: booksummaries
 

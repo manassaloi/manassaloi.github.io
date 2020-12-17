@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits - Joel Greenblatt"
+title:  "You Can Be a Stock Market Genius - Joel Greenblatt"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro"
+title:  "Corporate Confidential - Cynthia Shapiro"
 tags: booksummaries
 categories: booksummaries
 

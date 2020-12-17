@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Power: Why Some People Have It and Others Don't - Jeffrey Pfeffer"
+title:  "Power - Jeffrey Pfeffer"
 tags: booksummaries
 categories: booksummaries
 

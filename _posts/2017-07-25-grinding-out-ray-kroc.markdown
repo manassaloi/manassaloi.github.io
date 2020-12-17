@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grinding It Out: The Making of McDonald's - Ray Kroc, Robert Anderson"
+title:  "Grinding It Out - Ray Kroc, Robert Anderson"
 tags: booksummaries
 categories: booksummaries
 ---

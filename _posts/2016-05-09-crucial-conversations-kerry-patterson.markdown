@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler"
+title:  "Crucial Conversations - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful: Building a Culture of Freedom and Responsibility - Patty McCord"
+title:  "Powerful - Patty McCord"
 tags: booksummaries
 categories: booksummaries
 

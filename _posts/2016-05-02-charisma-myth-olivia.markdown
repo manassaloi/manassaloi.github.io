@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane"
+title:  "The Charisma Myth - Olivia Fox Cabane"
 tags: booksummaries
 categories: booksummaries
 

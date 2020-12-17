@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader - Brent Schlender"
+title:  "Becoming Steve Jobs - Brent Schlender"
 tags: booksummaries
 categories: booksummaries
 

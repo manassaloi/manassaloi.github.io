@@ -1,0 +1,101 @@
+I"1<p><strong>Note:</strong></p>
+<ul>
+  <li>This product critique format is not for interviews. I generally spend an hour playing around with the app and go far deeper. you won’t be given more than 20 mins in an interview to do a product critique.</li>
+  <li>Julie Zhuo wrote a nice post on how to do a product critique. <a href="https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638">Check it out</a>.</li>
+  <li>I don’t follow any structure, but I try to cover a few things which I will mention below.</li>
+  <li>I do this critique from a PM POV. So it is not just about how the interface looks or the micro-interactions. I also spend a lot of time thinking about distribution strategies, positioning, copy, metrics, and a bunch of other things.</li>
+  <li>I generally try to go out of my comfort zone and choose an app I am not familiar with to do a critique. It helps me look at it from a fresh perspective.</li>
+</ul>
+
+<p>I ask the following questions while doing the critique:</p>
+
+<p><strong>Strategy, Distribution, and Market</strong></p>
+<ul>
+  <li>If I was a PM for the product how would I would grow it?</li>
+  <li>What is the GTM of this product?</li>
+  <li>How big is the market?</li>
+  <li>Is the app a leader in this category?</li>
+</ul>
+
+<p><strong>Playstore</strong></p>
+<ul>
+  <li>Is the name unique? Is it memorable?</li>
+  <li>What is written in the About section? Is it too generic? Do they talk about value prop in terms of JTBD?</li>
+  <li>Have they stuffed a bunch of keywords in place of a proper name?</li>
+  <li>How do the screenshots look?</li>
+  <li>What are metrics shown on the Playstore page?</li>
+  <li>Do I see it running ads on its competitor pages?</li>
+  <li>What have they done with the Description section? Have they done a bunch of keyword stuffing? Written the description using reviews of their users to show social proof?</li>
+  <li>How is the page different from its competitors?</li>
+</ul>
+
+<p><strong>Positioning</strong></p>
+<ul>
+  <li>What do I think about its positioning?</li>
+  <li>Is there a crisp and consistent description of the product across their Playstore page as well as the app?</li>
+  <li>What is A, B, C but not D of this product? A, B, and C are things they say they do and D is something they say they don’t? This is a framework I learned from Shaan Puri.</li>
+</ul>
+
+<p><strong>Onboarding</strong></p>
+<ul>
+  <li>Have they made the onboarding frictionless or are there too many steps?</li>
+  <li>Can you skip the onboarding process?</li>
+  <li>Is sign up mandatory?</li>
+  <li>What is asked in the onboarding process?</li>
+  <li>How quickly can I get to the meat of the product? Get gratification by completing the task I hired it for? Measure both by the number of steps as well as time taken.</li>
+  <li>What is the developer optimizing for in the signup flow?</li>
+  <li>How is copy tied to its positioning? I am looking for consistency in positioning and their copy in the product.</li>
+  <li>What are the decisions taken during onboarding that might impact FTUE?</li>
+  <li>If there is an onboarding carousel, are they talking about features or jobs?</li>
+</ul>
+
+<p><strong>FTUE</strong></p>
+<ul>
+  <li>How does the app feel? What emotions does it raise in me?</li>
+  <li>Is the FTUW underwhelming? Does it meet my expectations?</li>
+  <li>If I have to describe this app to others how will I do that? Will I use the same things the developer highlighted n the Playstore page/app?</li>
+  <li>Is the experience a straight line?</li>
+  <li>What is supernormal about it?</li>
+  <li>If I was a PM designing this FTUE what data would I collect to personalize the experience?</li>
+  <li>What are the hypotheses I have which I would test as a PM?</li>
+</ul>
+
+<p><strong>JTBD</strong></p>
+<ul>
+  <li>What are the main jobs a user might have hired this product for?</li>
+  <li>What does the JTBD forces diagram look like for this app?</li>
+</ul>
+
+<p><strong>Defensibility</strong></p>
+<ul>
+  <li>What is the moat?</li>
+  <li>How is the app increasing the switching cost?</li>
+  <li>How is it decreasing switching cost if I am thinking of switching over from other apps?</li>
+</ul>
+
+<p><strong>Building trust and reliability</strong></p>
+<ul>
+  <li>What are the trust indicators in the product?</li>
+  <li>How is the app reducing Customer anxiety?</li>
+  <li>Is there any social proof?</li>
+  <li>How does the user know it is a legit business?</li>
+</ul>
+
+<p><strong>Product and Design</strong></p>
+<ul>
+  <li>What are the interactions I like?</li>
+  <li>What do I hate?</li>
+  <li>Do I like the information architecture?</li>
+  <li>What are the things I can copy in my own products?</li>
+  <li>Is there some interactions, some visual elements which do not map to my understanding of Design? Anything which does not follow industry standards that other apps follow?</li>
+  <li>Does the product design align with the <a href="https://manassaloi.com/2020/03/05/pm-frameworks.html">frameworks I have learned over years</a>? Anything I learned which I can turn into new frameworks?</li>
+  <li>Now that I have used the product, what are the metrics I think the PM is measuring?</li>
+  <li>What do I think the north star of this product is?</li>
+  <li>What are the experiments I would run?</li>
+  <li>Does the app experience tie back to what was promised in the Playstore?</li>
+</ul>
+
+<p>Relevant links: <a href="https://growth.design/case-studies/">Growth &amp; UX case studies</a>, <a href="https://www.useronboard.com/user-onboarding-teardowns/">UX teardowns</a></p>
+
+<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
+:ET

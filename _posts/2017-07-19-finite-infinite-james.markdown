@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finite and Infinite Games: A Vision of Life as Play and Possibility - James P. Carse"
+title:  "Finite and Infinite Games - James P. Carse"
 tags: booksummaries
 categories: booksummaries
 ---

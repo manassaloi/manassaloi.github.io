@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Logo Design Love: A Guide to Creating Iconic Brand Identities - David Airey"
+title:  "Logo Design Love - David Airey"
 tags: booksummaries
 categories: booksummaries
 

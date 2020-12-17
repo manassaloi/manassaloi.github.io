@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean - Karen Berman, Joe Knight, John Case"
+title:  "Financial Intelligence - Karen Berman, Joe Knight, John Case"
 tags: booksummaries
 categories: booksummaries
 ---

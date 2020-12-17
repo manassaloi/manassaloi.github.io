@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Up On Wall Street: How to Use What You Already Know to Make Money in the Market - Peter Lynch"
+title:  "One Up On Wall Street - Peter Lynch"
 tags: booksummaries
 categories: booksummaries
 

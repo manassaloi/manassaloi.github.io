@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Little Rice: Smartphones, Xiaomi, and The Chinese Dream - Clay Shirky"
+title:  "Little Rice - Clay Shirky"
 tags: booksummaries
 categories: booksummaries
 

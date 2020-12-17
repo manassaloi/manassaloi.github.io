@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discipline Equals Freedom: Field Manual - Jocko Willink"
+title:  "Discipline Equals Freedom - Jocko Willink"
 tags: booksummaries
 categories: booksummaries
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions...and Created Plenty of Controversy - Leigh Gallagher"
+title:  "The Airbnb Story - Leigh Gallagher"
 tags: booksummaries
 categories: booksummaries
 

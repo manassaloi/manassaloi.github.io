@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea - Marc Randolph"
+title:  "That Will Never Work - Marc Randolph"
 tags: booksummaries
 categories: booksummaries
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Do You Talk Funny?: 7 Comedy Habits to Become a Better (and Funnier) Public Speaker - David Nihill"
+title:  "Do You Talk Funny? - David Nihill"
 tags: booksummaries
 categories: booksummaries
 
