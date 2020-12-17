@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel"
+title:  "Zero to One - Peter Thiel"
 tags: booksummaries
 categories: booksummaries
 

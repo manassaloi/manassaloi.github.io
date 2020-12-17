@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7 Powers: The Foundations of Business Strategy - Hamilton Wright Helmer"
+title:  "7 Powers - Hamilton Wright Helmer"
 tags: booksummaries
 categories: booksummaries
 
