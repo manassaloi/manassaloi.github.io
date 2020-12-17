@@ -49,4 +49,4 @@ In August, overall DAG growth began trending noticeably lower than our expectati
 
 **Link to the full Shareholder Letter which has detailed financials too:** [Grubhub Shareholder Letter](https://s2.q4cdn.com/772508021/files/doc_financials/2019/q3/October-2019-Shareholder-Letter.pdf)
 
-P.S Before I post something on Linkedin I tweet about it here:[@manas_saloi](https://twitter.com/manas_saloi)
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -3,9 +3,6 @@ layout: post
 title:  "So you want to learn personal finance and investing?"
 
 ---
-I wrote a thread recently on the best books I have read on personal finance & investing. Turning it into a blogpost (with some minor edits). All the links take you to summaries for these books on my personal site
-
-**/threadstarts**
 
 Books I have read in personal finance and investing. Sorted from most helpful and must read at the top
 1. [Let’s talk money — Monika Halan](https://manassaloi.com/booksummaries/2016/03/12/lets-talk-money-monika-halan.html)
@@ -24,4 +21,4 @@ Books I have read in personal finance and investing. Sorted from most helpful an
 14. [From the Rat Race to Financial Freedom - Manoj Arora](https://manassaloi.com/booksummaries/2017/07/20/rat-race-financial-freedom.html)
 15. [Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean - Karen Berman, Joe Knight, John Case](https://manassaloi.com/booksummaries/2017/07/23/financial-intelligence-knight-karen.html)
 
-**/threadends**
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -15,3 +15,5 @@ Without further ado, here are the Objectives I set for myself this year and prog
 If you want to learn more about OKRs, here is a post which might help: [Summary of Measure What Matters](https://manassaloi.com/booksummaries/2016/03/02/measure-what-matters-doerr.html)
 
 Next time someone asks for an OKR template I will just link them to this post :)
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
