@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Stand-ups][IPM][Sprints] Running Stand-up, Sprints and Iteration Planning Meetings"
+title:  "[Stand-ups][IPM][Sprints] Running Sprints and IPMs"
 ---
 
 ## Stand-up
