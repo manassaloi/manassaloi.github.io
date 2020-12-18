@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Platform Revolution - Geoffrey G. Parker,  Marshall W. Van Alstyne, Sangeet Paul Choudary"
+title:  "Platform Revolution - G. Parker, M. Van Alstyne, S. Choudary"
 tags: booksummaries
 categories: booksummaries
 
