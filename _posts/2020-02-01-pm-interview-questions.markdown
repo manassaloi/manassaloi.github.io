@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PM Interview Questions"
+title: "PM Interview Questions 1"
 
 ---
 I wrote a thread recently on new PM Interview questions I have been thinking about. Turning it into a blogpost (with some minor edits)
