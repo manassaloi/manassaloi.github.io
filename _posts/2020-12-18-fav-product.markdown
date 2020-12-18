@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your least known favourite product"
+title:  "Least known favourite product"
 ---
 
 I gave the following prompt to PMs during our last week's [PM learning session](https://docs.google.com/document/d/1Bl23tJbm-5CQI24SkgcF8S43T-nj9JhtY34-1cFjpl8/edit?usp=sharing):
