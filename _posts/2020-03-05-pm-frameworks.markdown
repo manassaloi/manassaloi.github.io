@@ -155,6 +155,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Foster conditions conducive to high decision quality and high decision velocity](https://medium.com/@johnpcutler/decision-quality-decision-velocity-f99bb01d3afc)
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
 - [SPADE](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
+- [What could go right?](https://mobile.twitter.com/bgurley/status/572255806051131392)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
