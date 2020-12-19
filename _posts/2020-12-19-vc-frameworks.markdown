@@ -18,7 +18,7 @@ Investment theses and ideas:
 - Product solves a functional need. It also solves an emotional need which gets users to share with others. Big market or market which can become big - [Todd Jackson](https://thetwentyminutevc.com/firstroundcapital/)
 - N of 1 - [Tribe Capital](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/)
 - 5 Questions decision tree - [Rob Go](https://nextviewventures.com/blog/flowchart-vc-decision-making/)
-Does the audience skew "young"? Is there a gap between engagement and monetization? Are there artificial barriers holding back scale? - [Brett Bivens](https://venturedesktop.substack.com/p/how-to-identify-underrated-markets)
+- Does the audience skew "young"? Is there a gap between engagement and monetization? Are there artificial barriers holding back scale? - [Brett Bivens](https://venturedesktop.substack.com/p/how-to-identify-underrated-markets)
 - Soon-to-be obvious but only recently possible. Solving a difficult, boring, complex problem with an easy-to-use, elegant solution - [SHL](https://www.notion.so/Fund-memo-85d4b28ae06e47e0990dddd99403f47f)
 - Look past what it is now, and ask how much cheaper and better it can become. Think who else would buy it once it becomes cheaper and better, and how else would it be used - Unknown
 - The insight hack (insight development). The value hack (customer development). Growth hacking (going from 0-1 to 1-X) - [Mike Maples](https://mobile.twitter.com/eriktorenberg/status/1232865394597093376)
