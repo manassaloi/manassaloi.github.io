@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 44 frameworks for your life"
+title:  "[Frameworks] 45 frameworks for your life"
 
 ---
 
@@ -93,6 +93,8 @@ Some of the most important frameworks/models/principles I learned in the last fe
 43. [Focus on the work, not the person](https://sive.rs/you-not-them); all that matters is what you do with the ideas, no matter the source. Apply them to your own life in your own way
 
 44. [Think in metaphors](https://sive.rs/metaphor); learn to see past the example, focus on the lesson, and apply it to your own life
+
+45. [Never do anything in life that is motivated by a feeling of inadequacy](https://manassaloi.com/2020/12/21/inadequacy.html); if you do, it will ultimately backfire and make you feel even more inadequate
 
 **Note:** I will keep expanding this list
 
