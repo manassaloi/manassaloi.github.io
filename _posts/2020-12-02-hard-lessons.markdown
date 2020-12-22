@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hard lessons I have learned as a manager"
+title:  "Hard lessons learned as a manager"
 ---
 
 These are some of the lessons I had to learn the hard way as I started managing a team of PMs.

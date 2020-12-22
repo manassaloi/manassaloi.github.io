@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Questions for your year end reflections"
+title:  "Your year end reflection"
 ---
 
 A few questions to ask during your year end reflection as 2020 draws to a close:
