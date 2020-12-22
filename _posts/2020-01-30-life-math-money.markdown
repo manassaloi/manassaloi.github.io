@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to create your own Life Math Money account"
+title:  "Create your own Life Math Money account"
 ---
 
 Here is a guide on how to create your own anonymous life/fitness advice account on social media; what I call the Life Math Money guide:

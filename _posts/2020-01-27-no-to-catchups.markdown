@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I will mostly say NO to your request to catch up some time"
+title:  "I will say NO to your request to catch up"
 
 ---
 I wrote a thread recently on why I turn down most catch up requests. Turning it into a blogpost (with some minor edits)
