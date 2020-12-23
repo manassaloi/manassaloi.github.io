@@ -12,7 +12,6 @@ title:  "Things I watch on Youtube"
 - [India In Motion](https://www.youtube.com/c/indiainmotion/videos)
 - [Kraig Adams](https://www.youtube.com/c/KraigAdams/videos)
 - [Ali Abdaal](https://www.youtube.com/c/aliabdaal/videos)
-- [Mayuko](https://www.youtube.com/c/hellomayuko/videos)
 - [Tom Merrick](https://www.youtube.com/c/BodyweightWarrior/videos)
 - [Pick Up Limes](https://www.youtube.com/c/PickUpLimes/videos)
 - [Food diaries by Harper's BAZAAR](https://www.youtube.com/playlist?list=PLsGoWYUz-BTFQ7zVQ3pkuEHaf-MRFm9tQ)

@@ -34,5 +34,6 @@ Investment theses and ideas:
 - The Team, The Tech (a.k.a. Product), The Total Addressable Market (a.k.a. Market), The Traction (a.k.a. Growth), The Trenches (a.k.a. Defensibility) - [Point Nine Capital](https://medium.com/point-nine-news/deconstructing-vcs-decision-making-frameworks-70fa12058145)
 - Why now?, Product category, Market size, Distribution, Long term moat - [Nakul Mandan, Lightspeed](https://medium.com/lightspeed-venture-partners/what-i-look-for-in-an-early-stage-saas-startup-e520e11263d4)
 - Strength of the Management Team, Size of the Opportunity, Product/Technology, Competitive Environment, Marketing/Sales Channels/Partnerships, Need for Additional Investment, Other - [Harry Alford, Humble Ventures](https://medium.com/humble-ventures/3-ways-angel-investors-value-pre-revenue-startups-ee05c81c6d80)
+-  Index companies - [Elad Gil](http://blog.eladgil.com/2020/12/index-companies.html)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
