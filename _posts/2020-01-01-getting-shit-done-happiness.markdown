@@ -64,16 +64,15 @@ It is a big trap. Don't fall for it.
 
 **Learn to let go of things when you see diminishing returns**
 
-I was the representative of my hostel in college. I spent my entire 2nd year in building connections, student politics, aiming for a bigger role in the student council. When I realised it was just a giant waste of time, I stopped caring about politics and moved on.
+I was the representative of my hostel in college. I spent my entire 2nd year in building connections, student politics, aiming for a bigger role in the student council. When I realised politics is just a waste of time, I stopped caring about it and moved on.
 
 In college, I also used to run a satire site called [Tamatar news](http://tamatarnews.blogspot.com/2011/09/shocking-news-gajalaxmi-anda-stall-wins.html#comment-form) . It was the 'thing' in my college. I did it for a year. In spite of people leaving [reviews like these](http://tamatarnews.blogspot.com/2011/09/shocking-news-gajalaxmi-anda-stall-wins.html?showComment=1315850507806#c2391655012539473911) I stopped when I no longer found joy in blogging.
 
-I did my undergrad in Computer Science. I was a dev for more than a year. Then the day I realised I was ready to move to Product I left coding. 
+I did my undergrad in Computer Science. I was a developer for more than a year. Then the day I realised I was ready to move to Product and I left coding. 
 
-I was one of the top 50 most followed Indians on Quora once. 1000s of upvotes on whatever shit I used to write. Then one fine day I woke up and realised giving life advice to 15 year olds is not something I want to spend the rest of my life on. And I left. Deleted all my answers. Never looked back.
+I was one of the top 50 most followed Indians on Quora once. This was long back before Quora was mainstream. I used to get 1000s of upvotes on whatever shit I wrote. Then one day I woke up and realised giving life advice to 15 year olds is not something I want to spend the rest of my life on. And I left. Deleted all my answers. Never looked back. I recently deleted my Quora account. Did the same with Facebook. I never had Instagram or Snapchat accounts. So except Twitter and Reddit, I don't have any social feeds to waste my time on.
 
 Used to be a travel blogger once. Not anymore.
-
 Seriously considered doing standup comedy a couple of years back. Planned for it by testing my material on facebook. Left because I realised being judged by 50-100 people during an open mic event is not something which would make me happy. 
 
 I spent 6 months player Poker every day. Apart from my day job it was all I did. I won 1.5 Lakhs once over a 7 hours session by finishing 2nd in a tournament, and also lost 30K in a single night (not the same night ;). I was doing pretty okay but I realised with every passing day I was getting diminishing return on my happiness from playing poker. And there was nothing new to learn. So I stopped. I play sometimes, but not as obsessively like before.
