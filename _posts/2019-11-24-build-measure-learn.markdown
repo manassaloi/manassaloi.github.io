@@ -3,7 +3,7 @@ layout: post
 title:  "Build Measure Learn (for you)"
 
 ---
-I recently tweeted about learning as a PM and how to use the BUILD - MEASURE - LEARN loop for your own development
+I recently tweeted about learning as a PM and how to use the BUILD - MEASURE - LEARN loop for your own development.
 
 **/threadstarts**
 
