@@ -20,11 +20,11 @@ In spite of being busy with your day to day work you must still block an hour in
 
 **Here is an example schedule:**
 
-(Micro) Monday or Learning Mondays: Learn SQL, GA, Data warehousing, APIs, UI/UX
-(Micro) Tuesday: [Do a product critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638), Analyze competitor apps
-(Macro) Wednesday: Big topic day where you select a particular field such as AI, Autonomous vehicles etc and read as much as you can
-(Micro) Thursday: New technology updates/ latest tools/ Plugins/ SDKs to make your as well as your team’s life easier
-(Macro) Friday: Read blogs of industry experts
++ (Micro) Monday or Learning Mondays: Learn SQL, GA, Data warehousing, APIs, UI/UX
++ (Micro) Tuesday: [Do a product critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638), Analyze competitor apps
++ (Macro) Wednesday: Big topic day where you select a particular field such as AI, Autonomous vehicles etc and read as much as you can
++ (Micro) Thursday: New technology updates/ latest tools/ Plugins/ SDKs to make your as well as your team’s life easier
++ (Macro) Friday: Read blogs of industry experts
 
 Here are a few blogs/sites to follow based on how much time you have:
 
