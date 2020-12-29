@@ -70,7 +70,7 @@ In college, I also used to run a satire site called [Tamatar news](http://tamata
 
 I did my undergrad in Computer Science. I was a developer for more than a year. Then the day I realised I was ready to move to Product and I left coding. 
 
-I was one of the top 50 most followed Indians on Quora once. This was long back before Quora was mainstream. I used to get 1000s of upvotes on whatever shit I wrote. Then one day I woke up and realised giving life advice to 15 year olds is not something I want to spend the rest of my life on. And I left. Deleted all my answers. Never looked back. I recently deleted my Quora account. Did the same with Facebook. I never had Instagram or Snapchat accounts. So except Twitter and Reddit, I don't have any social feeds to waste my time on.
+I was one of the top 50 most followed Indians on Quora once. This was long back before Quora was mainstream. I used to get 1000s of upvotes on whatever shit I wrote. Then one day I woke up and realised giving life advice to 15 year olds is not something I want to spend the rest of my life on. And I left. Deleted all my answers. Never looked back. I recently deleted my Quora account. Did the same with Facebook. I have never had Instagram or Snapchat accounts. So except Twitter and Reddit, I don't have any social media to waste my time on.
 
 Used to be a travel blogger once. Not anymore.
 Seriously considered doing standup comedy a couple of years back. Planned for it by testing my material on facebook. Left because I realised being judged by 50-100 people during an open mic event is not something which would make me happy. 
