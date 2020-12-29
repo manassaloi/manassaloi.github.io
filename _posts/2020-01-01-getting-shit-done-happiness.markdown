@@ -8,7 +8,7 @@ A few people have asked me how [I manage to do so many things in a year](https:/
 
 I have written about my workflow [here](https://manassaloi.com/2016/01/14/11-habits-change-life.html), [here](https://manassaloi.com/2019/03/05/55-books-read.html), [here](https://manassaloi.com/2019/03/08/how-to-learn.html) and [here](https://manassaloi.com/2019/11/24/build-measure-learn.html), and [here](https://manassaloi.com/2019/03/07/macro-micro-learning.html).
 
-I guess most of the things mentioned in the posts above are tactical. They don't talk about why and how I do certain things. This post talks about some of the concepts I learned in the last decade, which have not only helped me get more shit done but also improve my overall happiness.
+I guess most of the things mentioned in the posts above are tactical. They don't talk about why and how I do certain things. This post talks about some of the concepts I learned in the last decade that have not only helped me get more shit done, but also improve my overall happiness.
 
 **1/ Opportunity costs**
 
@@ -45,7 +45,7 @@ Playing Poker makes me happy (at least when I am winning ;)). But would I regret
 
 Hence it is something I do from time to time but not everyday.
 
-**3/ Saying No**
+**3/ Say No**
 
 I have become pretty good with saying No. I rarely commit to social events. In the last decade I have probably attended 1 marriage, that too of a first cousin who was super insistent on me attending.
 
@@ -76,16 +76,16 @@ Used to be a travel blogger once. Not anymore.
 
 Seriously considered doing standup comedy a couple of years back. Planned for it by testing my material on facebook. Left because I realised being judged by 50-100 people during an open mic event is not something which would make me happy. 
 
-I spent 6 months player Poker every day. Apart from my day job it was all I did. I won 1.5 Lakhs over 7 hours by finishing 2nd in a tournament, and also lost 30K in a single night (not the same night ;). I was doing pretty decent but I realised with every passing day I was getting diminishing return on my happiness from playing poker. And there was nothing new to learn. And I stopped. I play sometimes. But don't spend hours everyday on it.
+I spent 6 months player Poker every day. Apart from my day job it was all I did. I won 1.5 Lakhs once over a 7 hours session by finishing 2nd in a tournament, and also lost 30K in a single night (not the same night ;). I was doing pretty okay but I realised with every passing day I was getting diminishing return on my happiness from playing poker. And there was nothing new to learn. So I stopped. I play sometimes, but not as obsessively like before.
 
-Same with Fifa. Played it for years. Have not bought Fifa 20 till now. Don't plan to play online anymore.
+Same with Fifa. I played it for years. Have not bought Fifa 20 till now. Don't plan to play online anymore.
 
-One day I will realise Twitter is a giant waste of my time, and I will just pick up something new to spend my time on.
+One day I will realise Twitter is a giant waste of my time, and I will just pick up something else to spend my time on.
 
-**I have probably picked up, and left more things than most people who are in my age group**. But each new thing helped me learn something about myself. And gave me a fleeting sense of happiness if not permanent. So I don't regret anything.
+**I have probably picked up, and left more things than most people who are in my age group**, but each new thing helped me learn something about myself, and gave me a fleeting sense of happiness if not permanent. So I don't regret anything.
 
 
-**So 4 high level strategies/thoughts for this year: Evaluate Opportunity cost, Think 10/10/10, Saying No, Don't fall for Sunk Cost fallacy.**
+**So 4 high level strategies/thoughts for this year: Evaluate Opportunity cost, Think 10/10/10, Say No, Don't fall for Sunk Cost fallacy.**
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
