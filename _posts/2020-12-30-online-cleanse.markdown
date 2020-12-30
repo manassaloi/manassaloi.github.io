@@ -26,6 +26,8 @@ Let us go through all the popular social media products and see where I stand no
 11. Medium: Deleted.
 12. YouTube: I think it is fine for now.
 13. About me: Deleted.
+14. Tamatar news: Deleted. It was a satire blog I used to run once; probably my only accomplishment in college.  
+15. Solitary Wankers: My Quora travel blog is still up - minus my content. It looks like that deleting your account only deletes your own posted content and not the blogs you started. 
 
 I obsessively monitor the digital wellbeing app on my Android phone and see where I am spending my hours.
 
