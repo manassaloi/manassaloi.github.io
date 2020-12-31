@@ -17,7 +17,7 @@ Let us go through all the popular social media products and see where I stand no
 2. Instagram: Had installed once long back to put filters on my Facebook photos. Had deleting it long back.
 3. Snapchat: Had installed it once to try out the product. Deleted it when I realized it was not relevant for any of my use cases.
 4. Clubhouse: Installed it for a week. Not for me. Deleted.
-5. Twitter: A year back I used to post around 1000 tweets per month ~ 30 posts per day. Any interesting thing I used to find, I used to share with my followers. I am still pretty active on this platform. But I hope I can cut down over time.
+5. Twitter: A year back I used to post around 1000 tweets per month ~ 30 posts per day. Any interesting thing I used to find, I used to share with my followers. I am still pretty active on this platform. But I hope I can [cut down over time](https://manassaloi.com/2020/05/30/three-months-since.html).
 6. Quora: I was a power user once, but had not posted anything in years. The only reason I did not delete the account was that my old travel blog was still active there where I used to check out my old posts/photos occasionally. Nostalgia amirite? I finally decided to stop living in the past and delete it.
 7. Reddit: I spend hours on it. I have not posted there. Ever. My problem is not information overload. I spend most of my day reading anyway, so I don't mind where my daily content comes from. What I don't want is an addiction to dopamine hits. Start living my life by looking at others. Or get sucked into creating a social media persona that is tailored towards pleasing others. So for now my Reddit account will stay.
 8. Blind: I visit periodically. A lot of people shit on Blind because they think the users are a prime example of toxic entitled Silicon valley brats. For me, I would rather read views from people who are not filtering their views than virtue signaling Twitter thought leaders.
@@ -27,7 +27,7 @@ Let us go through all the popular social media products and see where I stand no
 12. YouTube: I think it is fine for now.
 13. About me: Deleted.
 14. Tamatar news: Deleted. It was a satire blog I used to run once; probably my only accomplishment in college.  
-15. Solitary Wankers: My Quora travel blog is still up - minus my content. It looks like that deleting your account only deletes your own posted content and not the blogs you started. 
+15. Solitary Wankers: My Quora travel blog is still up - minus my content. It looks like that deleting your account only deletes your own posted content and not the blogs you started.
 
 I obsessively monitor the digital wellbeing app on my Android phone and see where I am spending my hours.
 
