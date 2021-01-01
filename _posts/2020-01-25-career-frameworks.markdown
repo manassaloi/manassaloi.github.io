@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 30 Frameworks for your professional life"
+title:  "[Frameworks] 31 Frameworks for your professional life"
 
 ---
 
@@ -65,6 +65,8 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 29. [Don’t expect others to do your best](https://manassaloi.com/2020/12/02/hard-lessons.html); Figure out everyone’s unique skills and channel them to achieve team success.
 
 30. [Unbounded pursuit](https://miten.co/2020/09/26/unbounded-pursuit/); Work on unbounded problem statements.
+
+31. [Table Selection](https://perell.com/essay/50-ideas-that-changed-my-life/); Choose your opponents carefully.
 
 **Note:** I will keep expanding this list
 
