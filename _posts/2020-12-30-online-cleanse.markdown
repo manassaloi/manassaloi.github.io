@@ -5,10 +5,10 @@ title:  "I deleted my Facebook account"
 
 I minimized my digital footprint over the year. I think the trigger was reading a few books on digital minimalism which led me to ask the following questions:
   - Am I living in the past?
-  - Am I getting joy out of being on this product?
+  - Am I getting joy by being on this product?
   - If I delete my account, will I ever regret it in the future?
   - Is it helping me live an internal driven life where I measure my success by my own accomplishment vs others?
-  - Am I addicted to it? What if my account gets blocked one day? Will I lose my quality of life then?
+  - Am I addicted to it? If my account gets blocked one day, will I lose my quality of life?
   - Is this product giving me durable happiness or just dopamine hits?
 
 Let us go through all the popular social media products and see where I stand now.
