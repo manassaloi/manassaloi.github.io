@@ -17,7 +17,7 @@ Leading mobile apps at Craftsvilla was my 2nd job in product management. I maint
 - Don't wait for the next big release to club design fixes. Whenever you find a [broken window](http://www.vanschneider.com/the-broken-window-theory/), fix it.
 - Make small design fixes live as soon as you can.
 - Don't outsource development.
-- Don't do big resigns and rewrites together.
+- Don't do big redesigns and rewrites together.
 - Talk to actual customers and not fellow employees to understand customer behavior.
 - Keep asking if the information architecture of every page is right. The first fold of a PDP should have enough information for a user to make the purchase if he wants. Put all critical info at the top. Don't make the user search for it.
 - Before adding a new process understand its cost and ROI.
