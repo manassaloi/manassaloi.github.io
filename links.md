@@ -10,6 +10,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
 ## (Links you might find interesting)
 
+- [How I became a Product Manager](https://manassaloi.com/2018/03/30/how-i-became-pm.html)
 - [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
 - [Product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 - [Life, Learning and Productivity](https://manassaloi.com/2020/05/18/learning-master.html)
