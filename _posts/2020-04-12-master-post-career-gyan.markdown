@@ -33,6 +33,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Think about the other 90% of the job](https://manassaloi.com/2020/06/15/other-ninety-percent-job.html)
 - [2/3](https://manassaloi.com/2020/06/14/two-three-rating.html)
 - [Dear beginner PM, Say YES](https://manassaloi.com/2020/06/13/pm-say-yes.html)
+- [Calendar audit](https://manassaloi.com/2020/06/25/calendar-audit.html)
 
 ### Favourite books on Career
 

@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "30 tips"
+---
+
+Here are 30 tips which you can implement in 2021.
+
+1. Think about [keystone decisions](https://www.dreamsaroundtheworld.com/one-choice-can-change-your-life-making-keystone-decisions/) a lot. I was talking to a friend yesterday about how his decision to just SIP in MFs and not individual stocks have helped him avoid 100s of subsequent decisions on buying/selling individual stocks, days of research, and also worry. Now compare this to me who has read a dozen + books on investing, is still confused about when to buy and sell stocks, always paranoid about the market crashes. I could have saved days/months of my life by just SIPing. Probably would have even made more money. A few keystone decisions for me:
+  -  Wearing mostly company t-shirts + a few random colored hoodies. I have 0 interest in fashion. I don't want to waste my time thinking about what to wear every day.
+  - Saying No by default to most catchups, webinars, random engagements. I don't want to think about who to say yes to and who to decline and feel guilty later. Think about all your keystone decisions. They will save you months over your lifetime.
+
+2. Use [Live Transcribe by Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=en_IN&gl=US). Last year I started writing regularly and ended up publishing 200+ content. That was only possible because I reduced the friction to take notes by speaking vs writing. And also separated out the thought dump and edit components of writing. This is something James Clear advocates too: reduce friction when it comes to habits. When I used to work out regularly, I would put out my socks and shoes the previous day because I realized I always dropped off at that stage. Keeping your clothes, shoes, etc in front of you and then just jumping into them without thinking the next morning is the easiest way to get to the gym before your mind gives you like a dozen excuses why it is okay to skip for the day.
+
+3. If you have got long to-do lists, but still unable to get anything done, use the [Momentum Chrome extension](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) and add one SINGLE task. Every time you open a new tab you will be reminded of it. Bonus: Buy a whiteboard. Write that task down and put it in front of your desk.
+
+4. Use the [Digital Wellbeing app on Android](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_IN&gl=US) to restrict the usage of apps you end up wasting time on. Also, get the [Forest app](https://www.forestapp.cc/). I use both for focus time. They have been game-changers.
+
+5. Get in bed for 9 hours instead of 8. Most people assume that just because they have decided on an 11-7 sleep schedule, they are getting 8 hours of sleep. Most of the time you are actually reading something while lying down and then tossing and turning before you fall asleep.
+
+6. Use an [online OCR site](https://www.onlineocr.net/) to convert text from screenshots you want to keep instead of the actual screenshots. Will save you a lot of space on your phone. Few apps don't even let you copy content: for those take a screenshot, and then use OCR.
+
+7. Increase the visibility of things you want to use more. I always used to forget my vitamins until I decided to keep them on my desk. The alarms did not work. Todos did not work. Now just seeing them for the most part of my day makes sure that I don't forget them.
+
+8. Design your house for happiness. I think it is a Naval quote. Knowing I would spend months, now more than a year, I filled my house with things which I think make me happy. Plants, a comfortable sofa, a reading chair.
+
+9. For the longest period in my life I lived like a hobo thinking why buy stuff when I might not even live in the same city the next year. But someday you have to choose to actually live instead of thinking about 'what ifs'. As someone wise said once: how you live your day is how you live your life. There will always be uncertainties. There will always be life changes, but that does not mean we wait till we are 50 to live our lives. My level of happiness went up a lot since I moved to the new place I call home now.
+
+10. Set up rituals. I call them rituals instead of habits to make them feel more serious. There are a bunch of things I do every day by default. I don't think about them. I just do them because I think they make me happy and healthy. Here are a few of my rituals:
+  - [Stretching](https://www.youtube.com/watch?app=desktop&v=K4dmZ5_n6uU)
+  - [5 mins yoga at your desk](https://www.youtube.com/watch?v=tAUf7aajBWE)
+  - Drink a glass of wheatgrass juice (drinking green stuff is less friction than making them and then eating, always go for less friction)
+  - Vitamins
+  - Working out (again to decrease friction I keep my exercise gear in my study room)
+
+11. Get to the activity before you buy the gear. When I was a kid, I used to buy all sorts of running gear before I actually ran. Now I have reversed the order. I told myself I will buy a good DSLR camera once I take 1000 photographs with my phone. This was when I used to run a travel blog. I realized later that I did not like to take photos enough to upgrade on gear. I saved a lot of money by not being dumb and buying camera gear before I needed it. I recently bought my weights only after working out with a stretch band for months. It was a way to convince me to workout before I could splurge on gym equipment. Follow this simple rule and you will save a lot of money and will not have to hang your clothes over your treadmill.
+
+12. Get plants. Plants are amazing.
+
+13. Have simple frameworks/rules to take everyday decisions. You will save time as well as mental energy. If you read my blog it is just frameworks; from [personal OKRs](https://manassaloi.com/2020/12/31/okrs-2020-update.html) to [how to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html).
+
+14. If you feel you never have enough time and always find yourself in a reactive mode, [do a calendar audit](https://manassaloi.com/2020/06/25/calendar-audit.html). Know where you are spending your time. There is a high chance you are not busy, you just do not know how to prioritize your time.
+
+15. Old: You are the average of your 5 closest friends. New: You are an average of the 50 people you follow online and whose opinions you have invited into your head. Be careful of who you let in to your head.
+
+16. Don't let your weakness hold you back from trying something. I am writing this post based on 100s of random notes I have on my phone. There is no structure. I hate editing. There will be numerous typos. But fuck all that. Just write. Choose volume over perfection any day.
+
+17. Use a larger font size on your Kindle.
+
+18. Have a framework/checklist for every big thing you need to redo in your life. For example. I will probably change my house every 3-4 years. I don't plan to buy my own place. This means at least 10 more house shifts in my lifetime. I am in the process of creating a checklist for house shifts from the notes which I took while doing my last house hunt.
+
+19. Everything you want to learn can be broken down into steps so that you can Pareto it (get 80% of the outcome with 20% of the effort). I have written play books on [football](https://manassaloi.com/2020/02/02/learning-football.html) and [Poker](https://manassaloi.com/2020/04/07/learning-poker.html) which you can find on my site. I am writing one on Fifa at present.
+
+20. [Take notes](https://manassaloi.com/2016/01/14/11-habits-change-life.html).
+
+21. Have 7 notes for your professional life:
+  - [Shame list of your mistakes](https://manassaloi.com/2020/11/21/craftsvilla-learnings.html)
+  - [A 2.0 version of you; what you aspire to be](https://manassaloi.com/2019/11/24/build-measure-learn.html)
+  - [Feedback doc](https://manassaloi.com/2019/11/24/build-measure-learn.html)
+  - [Brag list](https://jvns.ca/blog/brag-documents/)
+  - [Gap analysis](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+  - [Individual development plan](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+  - [Learnings from your shames/mistakes](https://manassaloi.com/2019/11/24/build-measure-learn.html)
+
+22. Don't add links to your Pocket/Bookmarks folder unless you are done reading them and want to save them for future reference. [Keep the ones which you have not read in a folder called 'to-watch'](https://manassaloi.com/2016/01/14/11-habits-change-life.html). Adding something/ bookmarking something != Actually reading or learning something. Be a reader, not a links hunter.
+
+23. [Avoid zero days](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/). A zero-day is when you don’t do a single thing towards whatever dream or goal or want or whatever that you got going on. To avoid zero days I make sure I read at least half an hour every day if not more.
+
+24. Do a [social media audit](https://manassaloi.com/2020/12/30/online-cleanse.html). Don't read the news. [Don't follow algorithmic feeds](https://manassaloi.com/2020/05/30/three-months-since.html).
+
+25. Spend money on a good mattress and a good [office chair](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life). Also get a good wifi router.
+
+26. Avoid people who put you down like the plague.
+
+27. Have a [DO NOT DO](https://manassaloi.com/2019/11/24/build-measure-learn.html) list of bad habits/behaviors you want to get rid of. Add these to the [Loop Habit tracker app. Every night set a 10 min window to go through all the habits and see if you managed to avoid them.
+
+28. [Plan for the new year](https://www.youtube.com/watch?app=desktop&v=ERGbgvvCJ8o&feature=youtu.be).
+
+29. Do an [end of year reflection](https://manassaloi.com/2020/12/22/questions.html).
+
+30.  Last but not the least get a good life partner. I married by wife this year after dating her for 3 years. Now I don't even know how life will be possible without her. I did not add this point on the original twitter thread to avoid nazar.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
