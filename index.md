@@ -6,7 +6,7 @@ layout: page
 ---
 👋, I am Manas J Saloi.
 
-I work as a [high IQ secretary](https://twitter.com/spakhm/status/1318414506855329792?s=20) at [Gojek](https://www.go-jek.com/).
+I work at [Gojek](https://www.go-jek.com/).
 
 In the past I have worked for [Directi](https://www.directi.com/), [Craftsvilla](https://www.craftsvilla.com/), [CouponDunia (Part of Times Internet now)](https://www.coupondunia.in/), and [Kore.ai](https://kore.ai/). Find more here: [Linkedin](https://www.linkedin.com/in/manassaloi/)
 
