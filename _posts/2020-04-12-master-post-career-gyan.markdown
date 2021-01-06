@@ -34,6 +34,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [2/3](https://manassaloi.com/2020/06/14/two-three-rating.html)
 - [Dear beginner PM, Say YES](https://manassaloi.com/2020/06/13/pm-say-yes.html)
 - [Calendar audit](https://manassaloi.com/2020/06/25/calendar-audit.html)
+- [Good Report vs Bad Report](https://manassaloi.com/2020/06/24/good-report-bad-report.html)
+- [Performance evaluation](https://manassaloi.com/2020/06/23/performance-evaluation.html)
 
 ### Favourite books on Career
 

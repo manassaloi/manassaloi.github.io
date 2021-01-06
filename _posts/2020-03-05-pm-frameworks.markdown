@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Project Lumos] Product Management Principles & Frameworks"
+title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 
 ---
 
@@ -46,7 +46,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Intentional](https://twitter.com/Superhuman/status/1338603097711497219)
 
 
-## Product development & Design
+## Product development, Research & Design
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Work backwards](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
@@ -56,6 +56,7 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
 - [Create a Perfect slice of cake without much dressing](https://www.mindtheproduct.com/the-power-of-the-perfect-slice/)
 - Back loaded vs front loaded
+- [Anxiety reduction](https://manassaloi.com/2021/01/01/anxiety-reduction.html)
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 - [Avoid your cupcake from becoming a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
 - [Avoid broken windows](http://www.vanschneider.com/the-broken-window-theory/)
@@ -142,8 +143,11 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Testing should not be a substitute of assertion](https://mobile.twitter.com/scottbelsky/status/1317095135717527552)
 - [Create rituals](https://ariyh.substack.com/p/attach-a-ritual-to-your-product)
 - [Step Functions vs One-percent Improvements](https://summation.net/2020/09/10/step-functions-and-one-percent-improvements/)
+- [Experiments and big bets](https://manassaloi.com/2020/12/17/experiments-bigbets.html)
 - [Options, Not Roadmaps](https://m.signalvnoise.com/options-not-roadmaps/)
 - [The Four Big Risks](https://svpg.com/four-big-risks/)
+- [3 types of research](https://manassaloi.com/2020/12/07/research.html)
+- [How to do a design review](https://manassaloi.com/2020/06/30/on-design-reviews.html)
 
 ## Decision making
 - [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
@@ -191,6 +195,10 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Simplicity Is Speed, And Speed Is Good](https://angel.co/blog/how-keith-rabois-builds-billion-dollar-businesses-radical-simplicity)
 - [Nut out the next ‘big goal worthy of celebration’](https://www.smartcompany.com.au/startupsmart/advice/canva-melanie-perkins-tip/)
 - [Be a new user](https://mobile.twitter.com/akothari/status/1306638972815196160)
+- [How to be strategic](https://manassaloi.com/2020/12/09/how-to-be-strategic.html)
+- [Hard lessons learned as a manager](https://manassaloi.com/2020/12/02/hard-lessons.html)
+- [Craftsvilla learnings](https://manassaloi.com/2020/11/21/craftsvilla-learnings.html)
+- [Coupondunia shamelist](https://manassaloi.com/2020/11/20/coupondunia-shamelist.html)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
@@ -225,7 +233,11 @@ title: "[Project Lumos] Product Management Principles & Frameworks"
 - [Tell a better story](https://medium.com/@jack_mattr/how-apple-killed-blackberry-20535ea294bb)
 - [Building Better Products with Escalation](https://medium.com/@saumil/well-that-escalated-quickly-building-better-products-with-escalation-feb259d733c9#2a07-3e2b456edc38)
 
-#Random
+## Interview
+- [Least known favourite product](https://manassaloi.com/2020/12/18/fav-product.html)
+- [Product Critique](https://manassaloi.com/2020/12/01/product-critique.html)
+
+## Random
 - [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
