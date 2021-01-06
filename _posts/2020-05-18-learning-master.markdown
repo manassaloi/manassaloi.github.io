@@ -25,6 +25,14 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [How to get shit done](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html)
 - [11 Habits that changed my life (and will yours too)](https://manassaloi.com/2016/01/14/11-habits-change-life.html)
 - [Simple goal setting](https://manassaloi.com/2020/06/07/simple-goal-setting-productivity.html)
+- [30 tips](https://manassaloi.com/2021/01/02/tips-2021.html)
+- [Year end reflection](https://manassaloi.com/2020/12/22/questions.html)
+- [Feeling of inadequacy](https://manassaloi.com/2020/12/21/inadequacy.html)
+- [Fragile](https://manassaloi.com/2020/11/19/fragile.html)
+- [Before buying a product](https://manassaloi.com/2020/06/29/before-buying.html)
+- [Don't impress everyone](https://manassaloi.com/2020/06/11/dont-need.html)
+- [3 months of less Twitter](https://manassaloi.com/2020/05/30/three-months-since.html)
+- [I deleted my Facebook account](https://manassaloi.com/2020/12/30/online-cleanse.html)
 
 ### Favourite books
 
