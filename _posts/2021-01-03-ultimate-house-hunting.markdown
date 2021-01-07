@@ -88,6 +88,10 @@ title:  "Ultimate house hunting checklist"
 - Read the notice board (if any) to get a general idea of society rules/culture.
 - If you are in Bangalore, ask neighbors if monkeys roam around in the area. I swear I had to keep my doors closed in my previous house because of constant monkey invasions.
 - Ask the owner if they have restriction around guests? If your parents want to move in with you for a month, will they object? You want to get these things cleared before moving in.
+- Check if the apartment has ample storage space.
+- Ask the neighbors how frequently power cuts happen.
+- Is there a provision for water purifier (say water pipe outlet and switch)?
+- Will you have to go out and carry Bisleri bottles yourself for drinking water? If yes, is there a shop nearby that delivers water?
 
 ## Signing the agreement
 
