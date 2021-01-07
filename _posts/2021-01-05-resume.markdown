@@ -20,8 +20,8 @@ Here is how you can do better:
 9. Don't lie on your resume. There are always reference calls which happen post the final interview. It is very easy to verify what you have written.
 10. No one cares about the Bharatnatyam certification from 5th grade. Remove it.
 
-![cv](/assets/img/cv.png)
 ![cv1](/assets/img/cv1.png)
+![cv](/assets/img/cv.png)
 
 This was my resume when I applied for jobs 2 years back. I have deleted my phone number, linkedin, and emailid. You can add those on the left-hand side.
 
