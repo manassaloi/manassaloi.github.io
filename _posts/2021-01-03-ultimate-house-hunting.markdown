@@ -93,6 +93,8 @@ title:  "Ultimate house hunting checklist"
 - Is there a provision for water purifier (say water pipe outlet and switch)?
 - Will you have to go out and carry Bisleri bottles yourself for drinking water? If yes, is there a shop nearby that delivers water?
 - Check how far is the nearest medical clinic?
+- Check if your owner/society will be okay with you having pet/s.
+- Ask how long it has been vacant before you. If it has been vacant for too long, there are usually a lot of small maintenance issues (like fused bulbs, clogged taps) in first few weeks. 
 
 ## Signing the agreement
 
