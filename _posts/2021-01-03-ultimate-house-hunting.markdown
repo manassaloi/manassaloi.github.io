@@ -92,6 +92,7 @@ title:  "Ultimate house hunting checklist"
 - Ask the neighbors how frequently power cuts happen.
 - Is there a provision for water purifier (say water pipe outlet and switch)?
 - Will you have to go out and carry Bisleri bottles yourself for drinking water? If yes, is there a shop nearby that delivers water?
+- Check how far is the nearest medical clinic?
 
 ## Signing the agreement
 
