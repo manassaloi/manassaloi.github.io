@@ -57,13 +57,20 @@ title:  "Ultimate house hunting checklist"
 - Look out for rust on iron rods.
 - Check if all the doors can be locked properly; if the latches work fine.
 - Ask who will fix heavy electronics if they stop working?
-- Who will do fixes if there is water sippage? This is a common problem in old societies.
+- Who will do fixes if there is water seepage? This is a common problem in old societies.
 - Carefully observe the layout of the house is important. Think where you will put all your stuff. I realised that the place where I wanted to put my study table did not have any plug points nearby. So I had to use an extension cord.
 - Talk to the neighbours in the absence of the owner or broker.
 - Check if there is some new construction going on nearby.
 - Ask if there are any restrictions placed by the society: Can you get your food delivered to your doorsteps or do you need to go to the gate? What about house work? Can you drill a hole on the wall, if you have to, at 8PM?
 - Check if there is a wash basin near the dining hall.
 - Check alignment of tube lights.
+- Check for cracks in the walls.
+- Check the flooring unless you want your dining table chairs to jiggle.
+- Ask the neighbours if there is any water seepage problem in the building.
+- Ask the neighbours if there is any cockroach infestation.
+- Walk around in the neighbourhood. Can you imagine living there? Sometimes the house might be great but there might be a slum nearby.
+- Is there any medical shops nearby?
+- If your house is in the outskirts, check if the food delivery apps deliver there.
 
 ## Signing the agreement
 
