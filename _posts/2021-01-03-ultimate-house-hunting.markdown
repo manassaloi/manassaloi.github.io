@@ -13,7 +13,7 @@ title:  "Ultimate house hunting checklist"
   - Must have P0
   - Should have P1
   - Nice to have P2
-- For me, P0s were at least 2 balconies, a non-ground floor flat, a large bedroom, built-in wardrobes, western-style bathrooms, security, proper sunlight (especially in the morning), not too many restrictions, and 24 hours water during summers. P1s were society, attached bathrooms with all the rooms, power backup, well-lit kitchen. P1s include everything else.
+- For me, P0s were at least 2 balconies, a non-ground floor flat, within 2 kms radius of office, a large bedroom, built-in wardrobes, western-style bathrooms, security, ample sunlight (especially in the morning), not too many restrictions, and 24 hours water during summers. P1s were society, attached bathrooms with all the rooms, power backup, well-lit kitchen. P1s include everything else.
 - P0s were what I communicated to the broker as requirements for the house. Rest I used to analyze myself.
 
 ## During the hunt
@@ -74,8 +74,15 @@ title:  "Ultimate house hunting checklist"
 - Check out google and facebook reviews of the society.
 - Check availability of Uber.
 - Check route to and from work.
+- Availability of fiber optic internet providers. Local cable operator doesn't count. At least 2 providers is critical.
 - If you're the one who has to pay the maintenance, confirm the mode of payment beforehand.
 - Check if all drawers open/close smoothly.
+- Check kirana Stores accessibility.
+- How far is the nearest supermarket?
+- Are you getting mobile network in all the rooms? Are there dead zones?
+- Are these mosquito meshes?
+- Are the exhaust fans working?
+- Check maid and cook availability in the society.
 - Read the notice board (if any) to get a general idea of society rules/culture.
 
 ## Signing the agreement
