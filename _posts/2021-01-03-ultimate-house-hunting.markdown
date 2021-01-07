@@ -82,9 +82,12 @@ title:  "Ultimate house hunting checklist"
 - Are you getting mobile network in all the rooms? Are there dead zones? Atleast do one call from the house to check signal strength.
 - Are these mosquito meshes?
 - Are the exhaust fans working?
+- Check if there are any holes to get the fiber optic cable inside the house for your router.
 - Is there sufficient natural light coming in?
 - Check maid and cook availability in the society.
 - Read the notice board (if any) to get a general idea of society rules/culture.
+- If you are in Bangalore, ask neighbors if monkeys roam around in the area. I swear I had to keep my doors closed in my previous house because of constant monkey invasions.
+- Ask the owner if they have restriction around guests? If your parents want to move in with you for a month, will they object? You want to get these things cleared before moving in.
 
 ## Signing the agreement
 
