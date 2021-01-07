@@ -82,6 +82,7 @@ title:  "Ultimate house hunting checklist"
 - Are you getting mobile network in all the rooms? Are there dead zones?
 - Are these mosquito meshes?
 - Are the exhaust fans working?
+- Is there sufficient natural light coming in?
 - Check maid and cook availability in the society.
 - Read the notice board (if any) to get a general idea of society rules/culture.
 
