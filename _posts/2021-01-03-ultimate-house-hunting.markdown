@@ -71,6 +71,12 @@ title:  "Ultimate house hunting checklist"
 - Walk around in the neighborhood. Can you imagine living there? Sometimes the house might be great but there might be a slum nearby.
 - Is there any medical shops nearby?
 - If your house is in the outskirts, check if the food delivery apps deliver there.
+- Check out google and facebook reviews of the society.
+- Check availability of Uber.
+- Check route to and from work.
+- If you're the one who has to pay the maintenance, confirm the mode of payment beforehand.
+- Check if all drawers open/close smoothly.
+- Read the notice board (if any) to get a general idea of society rules/culture.
 
 ## Signing the agreement
 
