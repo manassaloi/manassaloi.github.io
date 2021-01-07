@@ -42,7 +42,7 @@ title:  "Ultimate house hunting checklist"
 - Check shower fittings
 - Check water pressure for washing machine tap.
 - Check if plushes work properly.
-- Ask the owner about the existing Wi-Fi connection. Check wifi coverage across the house. Check possible wifi dead zones.
+- Ask the owner about the existing Wi-Fi connection. Check wifi coverage across the house. Check possible wifi dead zones. Do a video call from inside the house while walking around to test this.
 - Ideally, the point for the router should have power backup so that you don't lose internet during power cuts.
 - Check locks on almirahs. Get the keys for each one of them. If the keys are not there, get it in writing.
 - Check the condition of the dining table and beds if you have been provided with those.
@@ -79,7 +79,7 @@ title:  "Ultimate house hunting checklist"
 - Check if all drawers open/close smoothly.
 - Check kirana Stores accessibility.
 - How far is the nearest supermarket?
-- Are you getting mobile network in all the rooms? Are there dead zones?
+- Are you getting mobile network in all the rooms? Are there dead zones? Atleast do one call from the house to check signal strength.
 - Are these mosquito meshes?
 - Are the exhaust fans working?
 - Is there sufficient natural light coming in?
