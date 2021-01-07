@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Resume"
+---
+
+I have seen 100s of resumes while interviewing candidates in Gojek and my past jobs.
+
+Let's face it: Most resumes are ugly. We are still using the same MBA CV template IIM A made famous: One-pager, no breathing room, full of text, and generic interests which most interviewers don't care about.
+
+Here is how you can do better:
+
+1. Remove the header. Wow, you are a smart minded individual striving to make an impact blah blah blah. No one cares. Everyone says the same thing. Unless you have done something super exciting which is relevant to the job you are applying, just jump to your work experience.
+2. Have white space. Don't choose a font size of 8 and stuff everything you can. Most interviewers just skim resumes; no one will read every single word. Make sure the most important numbers pop out.
+3. If you just stuff a lot of data points, then it is even harder to figure out which one is the most impressive one the interviewer should look at. Hence only put the most significant ones.
+4. Have had got good business impact as an IC? Share it. Want to show you managed multiple projects and was great at delivery? Do it. List all the impressive projects you did.
+5. In my previous company my charter/scope of work was impressive, but honestly, Flock did not have numbers to brag about. I was also looking for more senior roles. So I focused more on what I owned instead.
+6. While in the previous jobs, you will see a lot of numbers around impact.
+7. Know that resume is just a filter. It is not going to get you the job. So focus more on the interviews than obsessing over which font to use.
+8. You can use even 2 pages if you have worked in more than 5 companies. There is no resume police. No one will catch you.
+9. Don't lie on your resume. There are always reference calls which happen post the final interview. It is very easy to verify what you have written.
+10. No one cares about the Bharatnatyam certification from 5th grade. Remove it.
+
+![cv](/assets/img/cv.png)
+![cv1](/assets/img/cv1.png)
+
+This was my resume when I applied for jobs 2 years back. I have deleted my phone number, linkedin, and emailid. You can add those on the left-hand side.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
