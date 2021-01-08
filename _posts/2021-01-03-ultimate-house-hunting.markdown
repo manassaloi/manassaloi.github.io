@@ -122,4 +122,6 @@ title:  "Ultimate house hunting checklist"
 - If you got anything repaired share it with your owner. They might not compensate you, but they should know that you have spent your hard-earned cash on improving the place and are treating it like your home.
 - Form a good relationship with the guards, society secretary, and your neighbors. You will need it.
 
+Check out this related doc by [vetrijedi](https://twitter.com/vetrijedi): [House Search Public Template](https://docs.google.com/spreadsheets/d/1Lf8skjZGb76yBksevnuN8c33yDUftpWH6Z-Sv3H4Tvg/edit#gid=444929138)
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
