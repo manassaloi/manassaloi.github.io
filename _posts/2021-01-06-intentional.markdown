@@ -8,6 +8,7 @@ A colleague recently asked me this question "In 2021 I am trying to be more inte
 I am sharing my reply to her below in case it helps other people.
 
 Here is what works for me:
+
 (Getting more time) 
 - I avoid most social feeds. Don’t have social media accounts except Twitter. And even on Twitter I don’t follow anyone, so my feed is empty. Same with Linkedin. So I guess I  have more time than the average person thanks to spending less time on Twitter, Linkedin and Facebook. 
 - I don’t consume news that much. Thanks to no social feed and not having any news apps on my phone I don’t get much news, except what comes on the chrome home page, which I have not disabled as of now. I do browse reddit. It is my guilty pleasure. So I get some news/updates indirectly I guess. I (think) I have slightly less anxiety nowadays thanks to not worrying about all the  thing wrong with the world. And also not spending time on the hottest topic of the day helps.
