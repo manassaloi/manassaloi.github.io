@@ -94,7 +94,14 @@ title:  "Ultimate house hunting checklist"
 - Will you have to go out and carry Bisleri bottles yourself for drinking water? If yes, is there a shop nearby that delivers water?
 - Check how far is the nearest medical clinic?
 - Check if your owner/society will be okay with you having pet/s.
-- Ask how long it has been vacant before you. If it has been vacant for too long, there are usually a lot of small maintenance issues (like fused bulbs, clogged taps) in first few weeks. 
+- Ask how long it has been vacant before you. If it has been vacant for too long, there are usually a lot of small maintenance issues (like fused bulbs, clogged taps) in first few weeks.
+- Check traffic noise especially during rush hours.
+- Check gas connection. Some have it. Others need your to get your own.
+- Check gym, playground for kids, etc. nearby
+- If it is a smaller house, will there be a place for your study table?
+- Is there a modular kitchen with chimney and shelves?
+- Is there sufficient ventilation?
+- Check for parking space.
 
 ## Signing the agreement
 
@@ -107,7 +114,6 @@ title:  "Ultimate house hunting checklist"
 - Confirm with the owner if you still have to pay for painting charges if you can find a replacement when you leave and that person is willing to move in without any fixes. Whatever you decided get it in writing.
 - Check the agreement for non-standard clauses. My owner wanted to put a clause which would fine me for paying the rent after the 5th of any month. I got it removed.
 - Check the notice period. Like your job, it should not be move than 2 months.
-
 
 ## The first week
 - Once you move in, take photos of all the existing furniture, electronics, and paint again. And mail it to the owner mentioning that it is the state of the place. When you leave you can compare and decided on damages, if any.
