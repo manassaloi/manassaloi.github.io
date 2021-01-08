@@ -25,6 +25,7 @@ Here is what works for me:
   2. Once a month export my clippings.txt file (which contains all the highlights) from Kindle to my laptop (just connect your Kindle to your laptop, check storage and you will find it).
   3. Upload it on this [site](http://clippings.io).
   4. Then copy-paste the notes for each book to a new blog post.
+- BTW just know that some people like reading books slowly. Savour every paragraph. Get lost in the environment. And there is nothing wrong in that. It is just not my reading style. Do whatever that makes sense to you.
 - I keep most of the things I want to read in a bookmarks folder called ‘to-reads’. Otherwise, I only add items to my bookmarks once I have read them. This avoids stuffing links in Pocket and then forgetting about them. 
 - I listen to podcasts while working out. Earlier when the office was open, I used to listen while commuting. 
 - One interesting thing to ask: What is the most interesting book/podcast I could be consuming instead of reading what is easily accessible? I add a lot of podcasts to my downloads but only listen to the ones I am in the mood for. If something is on my downloads for a long time, I delete them. I do the same with my bookmarks in my ‘to-reads’ folder. 

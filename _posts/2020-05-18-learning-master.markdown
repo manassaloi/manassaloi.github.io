@@ -33,6 +33,7 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Don't impress everyone](https://manassaloi.com/2020/06/11/dont-need.html)
 - [3 months of less Twitter](https://manassaloi.com/2020/05/30/three-months-since.html)
 - [I deleted my Facebook account](https://manassaloi.com/2020/12/30/online-cleanse.html)
+- [Intentional content consumption](https://manassaloi.com/2021/01/06/intentional.html)
 
 ### Favourite books
 
