@@ -121,7 +121,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Dashboards
   - Experimentation
   - Daily email with data
-  - [RCA](https://manassaloi.com/2017/07/11/help-our-numbers-went-down-yesterday.html)
+  - [RCA](https://manassaloi.com/2018/04/12/help-our-numbers-went-down-yesterday.html)
 
 - **Project management** (Short term) (What) (How) (When)
   - [Project management how-tos](https://manassaloi.com/2020/04/26/rules-project-management.html)
