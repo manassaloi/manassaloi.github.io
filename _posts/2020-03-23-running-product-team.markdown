@@ -76,7 +76,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Ice cream meter](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit#gid=19952379)
   - [1 on 1s](https://manassaloi.com/2020/01/28/one-on-ones.html)
   - Demos
-  - [Essential Manage meetings](https://github.com/ajahne/essential-manager-meetings/tree/master/templates)
+  - [Essential Manager meetings](https://github.com/ajahne/essential-manager-meetings/tree/master/templates)
   - Showcases
   - [Slack workflow](https://manassaloi.com/2020/05/03/slack-workflow.html)
   - [Design jam](https://manassaloi.com/2020/03/04/design-jam.html)
