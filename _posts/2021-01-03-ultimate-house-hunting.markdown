@@ -100,9 +100,13 @@ title:  "Ultimate house hunting checklist"
 - Check gas connection. Some have it. Others need your to get your own.
 - Check gym, playground for kids, etc. nearby
 - If it is a smaller house, will there be a place for your study table?
+- Absence of municipal dumpyards nearby which cause a lot of stink.
+- Absence of street dogs.
+- Absence of religious places too close - you can't even complain about the noise pollution.
 - Is there a modular kitchen with chimney and shelves?
 - Is there sufficient ventilation?
 - Check for parking space.
+- Move in/move out charges (for tenants).
 
 ## Signing the agreement
 
