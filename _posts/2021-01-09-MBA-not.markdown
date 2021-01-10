@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "MBA or not"
+---
+
+A lot of people on Twitter have a strong opinion about graduate degrees (MBA or MS). If you are a 25-year-old PM thinking about whether to do an MBA or not, ask where you want to be by the time you are 40.
+
+I did this exercise with someone a few months back and his answer was: Director of a FANG company in the US. He was thinking of doing a US MBA and then join a place like Amazon after graduation. I asked him to do the following exercise:
+  - go to Linkedin, check profiles of Directors at Amazon
+  - ignore outliers like someone selling their company to Amazon at 22 and then hacking the career ladder. Look at an average profile like his. We all think we are exceptional/above average but we are probably not
+  - plot a graph. There will be people at the extremes. Ignore those and look at the middle instead. Unless he is willing to take bets in his career with more risk than the average person he will mostly land there
+  - check how many of those profiles have a US MBA
+  - then make his decision
+
+Coming back to the topic of higher education, most people forget that getting an MBA from a tier 1 college is about optionality.
+
+Let me give an example. I was talking to a friend recently about why he chose to go for an MBA in spite of leading product at an early stage company. His answer was that if he ever wanted to move away from Product and take up a general management position at a non-tech company at 40, he should have that option.
+
+Fair enough. I did not even know Product Management was a career option when I joined college 10 years back. I stumbled upon PMing because I thought I could be a strong generalist and it was the role that let me do everything I wanted around building products.
+
+Who knows where the world will be 10 years down the line.
+
+Don't make a decision on whether to do an MBA based on someone who did a BS from Stanford, made it big in the valley, is now saying education is useless. Your circumstances are different. Your goal might be different. You might not have the safety net to do 3 startups in your 20s and hope one of them makes it big. You might even aspire to have an average balanced life. So do whatever makes sense based on a 20-year-old horizon, if not more.
+
+I was talking to a friend about how if it was not for BITS Goa, I would have studied in some NIT, gone to work at ONGC Assam or something. Going to a college like BITS where we did not have to study and could pass out with a 6 CGPA meant most people spent their undergrad days figuring out what they really wanted to do.
+
+Hence whenever I see people shitting on colleges, I send them this: [Should you go to college](https://linkedin.com/pulse/should-you-go-college-manas-j-saloi/)
+
+You don't understand the importance of a college when you are studying there.
+
+Only by looking backward and connecting the dots will you understand the true value of something. And I am saying this as someone who was pretty mediocre in college and passed out with a 6.7 CGPA and did not attend most of his classes.
+
+So it is very easy for me to say "who cares about college..just learn everything yourself..read twitter..network online"
+
+Funny story, after 2 years of working in Product I applied to a unicorn, and the hiring manager told me that I should accept an APM role because I had only worked on smaller startups till then and he had people from bigger startups + IIMA MBA in his team as PMs.
+
+The same happened 4 years later. I applied for SPM roles, and the hiring manager of one the startups I applied to told me that I should join as a PM because he had IIM A pass-outs work as PMs in his could and he could not see how I could become an SPM with just 4 years experience in Product and without an MBA degree.
+
+I got a much better role at Gojek with more money, but it has been a struggle all my product life. I had to work harder than most PMs in similar age brackets who had brand name MBAs or a stint at a bigger company.
+
+I won't do an MBA because
+  - I can't imagine being back at college hustling for more marks/more grades
+  - forego 2 years of salary
+  - pay a big MBA fee
+  - studying for the GMAT
+  - finally, I think I can work hard and get wherever I want to reach anyway
+
+But I made this decision after careful consideration of all my options. And keeping my long term goal in mind; not because of successful people with survivorship bias shit on MBAs/MS.
+
+Also if you see a VC on Twitter tell you MBAs are stupid, go to their firm website, and see how many of their colleagues proudly talk about their Stanford and Harvard MBAs in their bios. Also, see how many partners got their MBA from tier 1 colleges.
+
+Look at data and not raw emotions people show on Twitter.
+
+Also, understand the underlying incentives of various people who you get your info from on Twitter. Understand what they are trying to sell.
+
+Know that most people are for themselves. They are just trying to sell some courses or the glory of entrepreneurship. They don't care if you fail. You are just a data point. They don't care about you. They probably don't think about you at all.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
