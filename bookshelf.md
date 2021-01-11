@@ -222,7 +222,9 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Rising to Power: The Journey of Exceptional Executives - Ron A. Carucci](https://www.goodreads.com/book/show/21535014-rising-to-power)
 + [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
 + [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
-+ [The Gervais Principle](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
++ [The Gervais Principle - Venkatesh G. Rao](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
++ [Workplace Poker: Are You Playing the Game, or Just Getting Played? - Dan Rust](https://www.goodreads.com/book/show/25817471-workplace-poker)
++ [Stealing the Corner Office - Brendan Reid](https://www.goodreads.com/book/show/18765910-stealing-the-corner-office)
 
 ### Decision Making
 

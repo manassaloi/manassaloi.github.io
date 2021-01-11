@@ -4,6 +4,8 @@ title:  "[1:1] How to do a proper One on One"
 
 ---
 
+Here is the one on one doc I use with my reports: [1-1 template](https://docs.google.com/document/d/16BbGpnFJN1pSjJgYBQXtXl7Tv_gmR227hZ4pA8HqOpU/edit?usp=sharing)
+
 I recently caught up with a junior from college (lets call him X) who had moved into Product Management a few months back
 
 Within 30 mins of meeting me, he told me that even though his company was doing well: had raised a large round of funding, he was thinking of leaving because he felt his manager did not trust him, and was not putting any effort in mentoring him
@@ -34,8 +36,6 @@ Tasks I gave him:
 I got this message from him a couple of days back. Needless to say the 1-1 went well
 
 ![One on one](/assets/img/one_on_one.png)
-
-One on one doc I use with my reports: [1-1 template](https://docs.google.com/document/d/16BbGpnFJN1pSjJgYBQXtXl7Tv_gmR227hZ4pA8HqOpU/edit?usp=sharing)
 
 There are a bunch of resources on how to do an 1-1 already:
 - [Managers, Take Your 1:1s to the Next Level with These 6 Must Reads](https://firstround.com/review/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)
