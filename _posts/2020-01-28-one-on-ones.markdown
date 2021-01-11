@@ -4,15 +4,15 @@ title:  "[1:1] How to do a proper One on One"
 
 ---
 
-Here is the one on one doc I use with my reports: [1-1 template](https://docs.google.com/document/d/16BbGpnFJN1pSjJgYBQXtXl7Tv_gmR227hZ4pA8HqOpU/edit?usp=sharing)
+Here is the one on one doc I use with my reports: [1-1 template](https://docs.google.com/document/d/16BbGpnFJN1pSjJgYBQXtXl7Tv_gmR227hZ4pA8HqOpU/edit?usp=sharing).
 
-I recently caught up with a junior from college (lets call him X) who had moved into Product Management a few months back
+I recently caught up with a junior from college (lets call him X) who had moved into Product Management a few months back.
 
-Within 30 mins of meeting me, he told me that even though his company was doing well: had raised a large round of funding, he was thinking of leaving because he felt his manager did not trust him, and was not putting any effort in mentoring him
+Within 30 mins of meeting me, he told me that even though his company was doing well: had raised a large round of funding, he was thinking of leaving because he felt his manager did not trust him, and was not putting any effort in mentoring him.
 
-There is this saying that [People Leave Managers, not Companies](https://getlighthouse.com/blog/people-leave-managers-not-companies/), and this would have been another example of that
+There is this saying that [People Leave Managers, not Companies](https://getlighthouse.com/blog/people-leave-managers-not-companies/), and this would have been another example of that.
 
-Instead of judging his manager, I decided to dig deeper and find the root cause of his frustration. Soon the answer was pretty clear. The real issue was a lack of communication between X and his manager
+Instead of judging his manager, I decided to dig deeper and find the root cause of his frustration. Soon the answer was pretty clear. The real issue was a lack of communication between X and his manager.
 
 Even after 4 months of joining this startup, there was a lack of alignment/clarity on
 - what was his manager's expectation
@@ -25,7 +25,7 @@ My advice to X was simple. **It was to talk to his Manager.** It was clear that 
 - the relationship would deteriorate further and X would not be able to work at the best of his capabilities
 - X would have to look for another job
 
-I wanted him to figure out whether the bunch of thoughts/accusations he had about his manager were even legit. Or did these thoughts come because he did not have a communication channel with his manager and hence he found it easier to fill in the gaps with his insecurities and doubts
+I wanted him to figure out whether the bunch of thoughts/accusations he had about his manager were even legit. Or did these thoughts come because he did not have a communication channel with his manager and hence he found it easier to fill in the gaps with his insecurities and doubts.
 
 Tasks I gave him:
 - Set up an 1-1 with his manager. Set it as a recurring event
@@ -33,7 +33,7 @@ Tasks I gave him:
 - Do not miss a scheduled 1-1 under any circumstance. If missed, set up another one later
 - Block his manager's calendar instead of waiting on his manager to set up dedicated time for him
 
-I got this message from him a couple of days back. Needless to say the 1-1 went well
+I got this message from him a couple of days back. Needless to say the 1-1 went well.
 
 ![One on one](/assets/img/one_on_one.png)
 
@@ -64,7 +64,7 @@ If you have read the posts, you know by now that there is no singular way to do 
 
 ![One on one](/assets/img/last_one_on_one.png)
 
-^ Notes from my last 1-1 with my manager. As you can see the agenda items are listed at the top, first mine followed my manager. Then there are action items/feedback on topics listed on the agenda section
+^ Notes from my last 1-1 with my manager. As you can see the agenda items are listed at the top, first mine followed my manager. Then there are action items/feedback on topics listed on the agenda section.
 
 What I have found most helpful in my 1-1s with my manager
 - Keep a dedicated doc for your 1-1s. My manager created one for us which can be editable by both
