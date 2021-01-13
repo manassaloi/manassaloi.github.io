@@ -4,11 +4,11 @@ title:  "Job of a PM"
 ---
 
 PMs focus on
-- Process People Product Structure
-- Produce Organise Impress
-- Prioritise Scope Execute
+- Process, People, Product, and Structure
+- Produce, Organise, and Impress
+- Prioritise, Scope, and Execute
 - Deliver right product to the right users in the right time
-- WHY WHAT HOW
+- WHY, WHAT, and HOW
 
 I have collected these from the internet over the last few years. Except the 2nd one which is lifted from a Shreyas Doshi tweet storm, I don't know who first came up with the other ones. I will keep adding to this list.
 
