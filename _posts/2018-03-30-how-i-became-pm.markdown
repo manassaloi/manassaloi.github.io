@@ -178,8 +178,6 @@ I talked about ways to demonstrate value earlier. Even before I officially joine
 
 * By the end of 9 months I had a sad realisation: Most of the people I enjoyed working with had left due to various issues. The Indian startup ecosystem was in turmoil. Every day you could see startups shutting down. Raising new rounds was becoming harder by the day. And Indian e-commerce sector is still in its infancy. Customer retention is hard. Every one is just burning money to retain people who wont think twice before shopping at your competitor for a 10% extra discount. [Even the market leader Flipkart is still bleeding losses](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/flipkart-revenues-rise-29-losses-swell-68-in-fy17/articleshow/62761811.cms)
 
-* I was also suffering from various health issues after working non stop for years and needed a break. I thought taking a few months off would be good
-
 **Directi**
 
 I spent the next 3 months at home. For a change I did not have to respond to mails asking why conversion dropped by 20% on a Sunday afternoon. [I met quite a few startups (based in Guwahati).](https://www.linkedin.com/pulse/thoughts-from-north-east-india-manas-j-saloi/) It was good fun but time was running out. I needed to look for a job again.
