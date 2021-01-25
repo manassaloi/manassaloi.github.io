@@ -11,5 +11,4 @@ So many B2C companies are growing through a mix of fear (F) and status (S) games
 
 - Clubhouse -> Status: Invite only. Remember to use your invites well. Only iOS, no android peasants, Fear: More like FOMO. We are having these cool convos and you are not invited hahaha. Fear not as strong as Status though in this case.
 
-
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
