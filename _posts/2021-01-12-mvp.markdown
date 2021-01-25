@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "MVP"
+---
+
+I had shared this note in our Transport PMs Slack group after a long debate on what exactly is an MVP. I generally send these thoughts out as they occur in my head, without much filtering. Same as how I use Twitter. Hope you find it useful.
+
+"Slightly longer thoughts. Not exactly related to today’s topic around making products lovable vs viable but touches upon what should be the scope of a v1 launch.
+
+I had a discussion with Vikrama recently and he mentioned how PMing is all contextual. And there is no single right way. I think the prime example is how you think of MVPs.
+
+When it comes to MVPs, it can be an MVP for either a new stand-alone product or an incremental feature on an existing product. Let us discuss both.
+
+For a stand-alone product, there is no one way to do a v1/MVP. There are multiple:
+
+1. The Lean way: Figure out the top 3 problems. Do a problem interview. Do a solution interview to figure out the solution for the problem. Ship the MVP. Get data, learn and iterate
+2. The Keith Rabois way: Find a sector with low NPS, instead of doing iterative things, create a vertically integration solution and go big. Do fat startups that consume a lot of capital. Big on vision and how you want the world to change based on your views. See Open door’s MVP.
+3. Apple way: At least during Jobs, it was about what he felt the MVP should be. The original iPhone did not even have copy-paste. It did not have a lot of things that people wanted out of a traditional phone. Also, read up on the [first release of gmail](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html4).
+
+So how you do new product MVPs is dependent on the company. And the founder. There is no singular way to do MVPs. Half of Twitter fights are on definitions of MVPs :)
+
+Now let’s come to features. I think when it comes to features it can be either purely data-driven. Or customer-driven. In an extreme data driven culture like FB’s or Google’s or Zynga’s, you build whatever is needed to move metrics. Facebook launched so many copycats with the exact scope as the competitor because they knew they had a distribution advantage and just wanted to crush competitors.
+
+While for some company it might be just finding the top X customer requests and solving them without focusing much on data. Metric improvement for them is a lagging indicator of customer satisfaction.
+
+Let’s take us. When we did our Finding Driver Screen (FDS) redesign project, the goal could have been to solve some big customer problem on FDS. Or we could have taken the data driven approach and said: Let us reduce cancellations from X to Y. We did both. We came up with the goal of improvement in conversion on FDS and designed experiments based on customer insights as well as data.
+
+So basically the MVP is whatever we need to ship to move the numbers/meet our goal. That's it."
+
+**Note:** I have removed some sensitive data.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
