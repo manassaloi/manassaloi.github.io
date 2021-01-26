@@ -109,7 +109,7 @@ Date: Thursday 19th December
     + Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp
     + Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
     + Designing for Emotion - Aarron Walter
-+ Revise from the RANDOM DOC (This is a doc where I shared my own frameworks and showed how to solve few design problems)
++ Revise from the [RANDOM DOC](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit#heading=h.fkqjtooy8ysh) (This is a doc where I shared my own frameworks and showed how to solve few design problems)
 
 ## Session 3 (Get started with Data and Case Studies) (2 weeks study plan)
 Date: Friday 27th December
