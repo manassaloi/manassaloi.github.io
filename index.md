@@ -12,4 +12,4 @@ In the past I have worked for [Directi](https://www.directi.com/), [Craftsvilla]
 
 I spend my time [writing](https://manassaloi.com/posts/), [reading](https://www.goodreads.com/user/show/9698257-manas-saloi), and [tweeting](https://twitter.com/manas_saloi).
 
-Some posts I’ve written are [here](https://manassaloi.com/posts/).
+Check posts I’ve written [here](https://manassaloi.com/posts/).
