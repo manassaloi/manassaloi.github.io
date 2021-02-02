@@ -37,7 +37,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Good Report vs Bad Report](https://manassaloi.com/2020/06/24/good-report-bad-report.html)
 - [Performance evaluation](https://manassaloi.com/2020/06/23/performance-evaluation.html)
 - [Resume](https://manassaloi.com/2021/01/05/resume.html)
-- [Performance reviews - Self](https://manassaloi.com/2021/02/01/performance-reviews.html)
+- [Performance reviews](https://manassaloi.com/2021/02/01/performance-reviews.html)
 - [Job of a PM](https://manassaloi.com/2021/01/10/PMs-do.html)
 
 ### Favourite books on Career
