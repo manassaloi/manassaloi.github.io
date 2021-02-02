@@ -21,7 +21,7 @@ Let's start.
 10. Ideally have at least one, if not multiple, 1-1s with your manager where you discuss your progress. This should be done well before the actual 360 review process starts. Sometimes they will also highlight things you might have missed yourself. If they are good, you can add them to your review. If bad, you will have time to work on them.
 11. Having a [brag doc](https://jvns.ca/blog/brag-documents/) really helps.
 12. Have a highlights section at the top which touches upon all the key wins.
-13. For my own review I made sure I touched upon work I did around the following:
+13. For my own review I made sure I touched upon work I did around the following [jobs of a PM manager](https://manassaloi.com/2021/01/10/PMs-do.html):
   - Process / Did I help in creation of new processes which helped my team deliver more
   - People / Wins around people management
   - Product / Key deliveries around product features and their impact
