@@ -5,7 +5,7 @@ title:  "Manager secrets"
 
 These are few of the highly upvoted comments on a recent Blind thread on what secrets only a manager knows. I don't agree with every point mentioned here. I am just dumping them here so that I can think about them later.
 
-Disclaimer: Like most Blind comments, these comments are also a bit dark. The truth is somewhere in the middle.
+Disclaimer: Like most Blind comments, these are a bit dark. Compare these to say replies from a Twitter thread where everyone is virtue signalling and writing about the virtue of hard work and the world being non zero sum. The truth is somewhere in the middle.
 
 - Good relationship and the directs ability to get along with others is also a critical decision making point. You might be one of the most technical and talented directs I have but if you’re an ass or don’t try to get along with others I will pass you up. Main reason for this is I need a guarantee that you’re able to lead others and get along with your supervisors. Most other stuff can be taught with the right attitude.
 
