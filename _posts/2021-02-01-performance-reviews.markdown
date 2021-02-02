@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Career Growth] Performance reviews - Self"
+title:  "[Career Growth] Performance reviews"
 ---
 
 I worried a lot about whether I should write this post. Would it seem Machiavellian to write about ways in which you can score a better rating in your performance review? I don't know. I went ahead because a lot of people inside Gojek as well as outside have found value from these tactics and most people early in their career still don't know how to write a good self-review about their work.
@@ -26,6 +26,8 @@ Let's start.
   - People / Wins around people management
   - Product / Key deliveries around product features and their impact
   - Structure / Changes around team structure (if any) that helped in performance improvement
+14. If someone is surprised at your feedback on their performance review, consider it a failure on your part. You should have shared the feedback much earlier and given the other person a chance to improve.
+15. I make sure that I ask for feedback and also share feedback during each 1-1 I have with my stakeholders - manager, reports as well as peers.
 
 I did not think about impress work before I stumbled upon this [amazing thread by Shreyas Doshi](https://mobile.twitter.com/shreyas/status/1256655076849926150). Most of the time I was too busy executing without thinking tactically about my career growth. Only after I joined Gojek, I started to take "selling my work" a bit more seriously.
 
