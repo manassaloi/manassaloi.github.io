@@ -27,7 +27,7 @@ Let's start.
   - Product / Key deliveries around product features and their impact
   - Structure / Changes around team structure (if any) that helped in performance improvement
 
-I did not think about impress work before I stumbled upon this amazing thread by Shreyas Doshi. Most of the time I was too busy executing without thinking tactically about my career growth. Only after I joined Gojek, I started to take "selling my work" a bit more seriously.
+I did not think about impress work before I stumbled upon this [amazing thread by Shreyas Doshi](https://mobile.twitter.com/shreyas/status/1256655076849926150). Most of the time I was too busy executing without thinking tactically about my career growth. Only after I joined Gojek, I started to take "selling my work" a bit more seriously.
 
 If you are managing someone, you should make it explicit how you will measure their performance. For me, I check these 4 things while evaluating the PMs in my team.
 
