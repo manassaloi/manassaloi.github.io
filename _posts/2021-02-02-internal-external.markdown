@@ -5,7 +5,7 @@ title:  "Internal then external"
 
 A framework that I use myself and repeatedly tell the PMs in my team to use is internal then external.
 
-Another related framework is concentric circles of alignment.
+Another related framework/idea is concentric circles of alignment.
 
 Let me expand on both using a real-life scenario.
 
@@ -21,7 +21,7 @@ What could you have done better?
 
 Despite the project having leadership buy-in, you should have thought of the project from a customer-first perspective. Written a new spec highlighting why you think it was a good idea. Defined success metrics. Done your research. Worked with the designer on how to design the best customer experience while integrating this loyalty feature.
 
-First get convinced yourself. Then align your manager. Get yes on the WHY and the WHAT. Work with the designer and developer on the HOW.
+First get convinced yourself. Then align your manager. [Get yes on the WHY and the WHAT. Work with the designer and developer on the HOW.](https://manassaloi.com/2021/01/13/planning-feature.html)
 
 Once the team is convinced go external and say yes to the Loyalty PM.
 
