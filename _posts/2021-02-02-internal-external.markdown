@@ -41,5 +41,8 @@ Internal then external also works when you change the context from stakeholder a
 
 Think of the WHY, WHAT, and HOW as concentric circles of alignment. You don't jump to the tech implementation discussions without doing your homework and aligning on the WHY first. Wasting your developers time on doing POCs without first knowing the WHY and how you will measure success metrics is criminal IMHO and something which you should avoid at all cost.
 
+[Comment from Aditya](https://twitter.com/adityamohanty): I think one big challenge with this framework is at times, you need to disagree and commit where you're internally not satisfied but still have to commit because of xyz external reasons. How to approach this very same situation in that case? I think this might be a good caveat/scenario to add.
+
+Reply from me to the point above: In this case I make sure that the actual ownership of the decision is captured in the DACI table of my spec document and I focus on the execution. If you find more and more decisions being taken without your support and feel like you are just acting as a project manager, then see if you follow the action items mentioned here: [Planning a new feature](https://manassaloi.com/2021/01/13/planning-feature.html). If this does not work too, then find another job ;)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
