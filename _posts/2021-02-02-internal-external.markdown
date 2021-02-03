@@ -28,7 +28,7 @@ Once the team is convinced go external and say yes to the Loyalty PM.
 Internal then external flow:
 You -> Your Manager -> Your team -> External stakeholders -> Management
 
-You can also think in terms of circles of alignment:
+You can also think in terms of concentric circles of alignment:
 You and your manager -> A larger circle consisting of you and your manager + your design team -> Slightly bigger circle consisting of you and your manager + your design team + dev team and so on.
 
 Only once you're convinced your manager is convinced all the important internal stakeholders have signed off on the project you go to external stakeholders.
