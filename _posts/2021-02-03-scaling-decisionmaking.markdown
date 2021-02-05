@@ -3,7 +3,9 @@ layout: post
 title:  "Scaling decision making"
 ---
 
-For a long time, I found it difficult to find a balance between letting people make mistakes and learn vs deciding based on task-relevant maturity. Example. You have a junior PM who just joined you post his MBA. Do you let her take all the decisions or do you scale her scope of work and decision-making power based on task-relevant maturity? If you do the first she might make some silly mistake; forget to figure out some edgecase due to lack of experience and the customer might suffer. I am sure you would not want your customers to suffer due to the lack of experience of someone. But you might also not have the luxury to do the second: wait for someone to gain experience. Startups are hard and you can't become the bottleneck for day to day decision making. Here is what has worked for me:
+For a long time, I found it difficult to find a balance between letting people make mistakes and learn vs deciding based on task-relevant maturity. Example. You have a junior PM who just joined you post his MBA. Do you let her take all the decisions or do you scale her scope of work and decision-making power based on task-relevant maturity? If you do the first she might make some silly mistake; forget to figure out some edgecase due to lack of experience and the customer might suffer. I am sure you would not want your customers to suffer due to the lack of experience of someone. But you might also not have the luxury to do the second: wait for someone to gain experience. Startups are hard and you can't become the bottleneck for day to day decision making.
+
+After a lot of experiments, trying out new processes and frameworks, here is what I think has finally worked for me:
 
 1. Having a [uniform playbook for each stream](https://manassaloi.com/2020/12/09/how-to-be-strategic.html).
 2. Following simple frameworks like [internal then external](https://manassaloi.com/2021/02/02/internal-external.html).
