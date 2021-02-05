@@ -3,7 +3,7 @@ layout: post
 title:  "Scaling decision making"
 ---
 
-For a long time, I found it difficult to find a balance between letting people make mistakes and learn vs deciding based on task-relevant maturity. Example. You have a junior PM who just joined you post his MBA. Do you let her take all the decisions or do you scale her scope of work and decision-making power based on task-relevant maturity? If you do the first she might make some silly mistake; forget to figure out some edge due to lack of experience and the customer might suffer. I am sure you would not want your customers to suffer due to the lack of experience of someone. But you might also not have the luxury to do the second: wait for someone to gain experience. Startups are hard and you can't become the bottleneck for day to day decision making. Here is what has worked for me:
+For a long time, I found it difficult to find a balance between letting people make mistakes and learn vs deciding based on task-relevant maturity. Example. You have a junior PM who just joined you post his MBA. Do you let her take all the decisions or do you scale her scope of work and decision-making power based on task-relevant maturity? If you do the first she might make some silly mistake; forget to figure out some edgecase due to lack of experience and the customer might suffer. I am sure you would not want your customers to suffer due to the lack of experience of someone. But you might also not have the luxury to do the second: wait for someone to gain experience. Startups are hard and you can't become the bottleneck for day to day decision making. Here is what has worked for me:
 
 1. Having a [uniform playbook for each stream](https://manassaloi.com/2020/12/09/how-to-be-strategic.html).
 2. Following simple frameworks like [internal then external](https://manassaloi.com/2021/02/02/internal-external.html).
@@ -22,6 +22,9 @@ For a long time, I found it difficult to find a balance between letting people m
 15. Having a good relationship with peers help. People help those they like. You will have a harder time to align people who don't like you vs someone who had a good experience working with you earlier.
 16. Avoid private DMs for making final decisions. Be comfortable sharing decisions in public slack channels.
 17. It is all about taking ownership. Hire people who take ownership of their work and they will not shy away from making decisions and unblocking others.
+18. Have more 1-1s.
+19. Have a staff meeting every week for cross team collaboration.
+20. Agree on your report's priorities for the week on Monday itself. I have [1-1 with all my reports on Monday](https://manassaloi.com/2020/01/28/one-on-ones.html) to kick off the week.
 
 Related read: [On making good decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
