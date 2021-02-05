@@ -17,6 +17,9 @@ For a long time, I found it difficult to find a balance between letting people m
 10. Having the back of your people. I am quick to criticize if people are not pulling their weight, but I will defend someone if I believe they did the right thing. As a manager, your reports have to trust you. Else they will mostly be trying to hide from blame than taking ownership of projects and close decisions fast.
 11. Peer reviews for specs. Just like code reviews, we do peer reviews in my org. The reviewer just asks the most fundamental questions: Why have we picked this project to work on? How are we measuring success?
 12. [We align on the WHY, then scope out the WHAT and then jointly work with Design and Engineering on the HOW](https://manassaloi.com/2021/01/13/planning-feature.html). Sometimes we loop in Engineering and Design even in the WHY stage. I have seen people work months on developing a feature that the CEO vetoes before it goes to production. I consider it my failure if it ever happens to one of my projects. Without knowing the WHY and then having second thoughts one day before release, I won't even green light a project.
+13. Setting clear expectations: Most people hedge their words because they are more worried about saving their backs than taking a stand. Want to ship an MVP fast without caring if a few edge cases are not handled properly? Call it out. Want people to push themselves because there is a P0 project which needs delivery in 2 weeks? Tell that.
+14. [Having a DACI table](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit?usp=sharing) helps.
+15. Finally, it is all about taking ownership. Hire people who take ownership of their work and they will not shy away from making decisions and unblocking others.
 
 Related read: [On making good decisions](https://manassaloi.com/2020/04/29/decision-making.html)
 
