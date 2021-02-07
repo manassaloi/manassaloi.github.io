@@ -4,9 +4,9 @@ title: "How I find books to read"
 
 ---
 
-A few people have asked me where I find books to read. Apart from finding them on [Goodreads thanks to my friends](https://www.goodreads.com/user/show/9698257-manas-saloi), I also stalk people who have public book shelfs
+A few people have asked me where I find books to read. Apart from finding them on [Goodreads thanks to my friends](https://www.goodreads.com/user/show/9698257-manas-saloi), I also stalk people who have public book shelfs.
 
-Here are a few
+Here are a few:
 
 - [The Rabbit Hole by Blas Moros](https://blas.com/)
 
@@ -38,7 +38,11 @@ Here are a few
 
 - [Venkatesh Rao's list](https://www.ribbonfarm.com/now-reading/)
 
-I also follow a bunch of subreddits: r/booksuggestions, r/ books
+- [Felix Jamestin's list](https://www.felixjamestin.com/inspirations)
+
+I follow a bunch of subreddits: r/booksuggestions, r/ books.
+
+Other useful sites: [Books Read By](https://www.booksread.by/), [BooksChatter](https://bookschatter.com/), [Read Next](https://read-next.com/), [Good books](https://www.goodbooks.io/), [Top Fantasy Reads](https://topfantasyreads.com/).
 
 [If you are interested then you can try out the suggestions in  my shelf](https://manassaloi.com/bookshelf/)
 
