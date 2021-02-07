@@ -4,7 +4,7 @@ title: "How I find books to read"
 
 ---
 
-A few people have asked me where I find books to read. Apart from finding them on [Goodreads thanks to my friends](https://www.goodreads.com/user/show/9698257-manas-saloi), I also stalk public book shelves of interesting people.
+A few people have asked me where I find books to read. Apart from finding them on [Goodreads thanks to my friends](https://www.goodreads.com/user/show/9698257-manas-saloi), I also stalk public bookshelves of interesting people.
 
 Here are a few:
 
