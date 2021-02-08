@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On truth speaking and virtue signalling"
+title: "On truth speaking and not virtue signalling"
 
 ---
 
