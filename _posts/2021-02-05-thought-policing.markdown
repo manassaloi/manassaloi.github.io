@@ -5,7 +5,7 @@ title:  "Thought policing"
 
 I wrote 2 twitter threads recently on this [toxic trend of policing what people can tweet or not](https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship). I have seen multiple people get cancelled on Twitter because they had "the audacity" to tweet out a list of their favourite Twitter accounts or designers. I am posting both with minor edits. I am also not naming the person I was defending because the goal was not to defend a particular person but to write against the stupid thought policing that has become prevalent on social networks.
 
-**thread 1**
+**thread 1 starts**
 
 I think people should be able to tweet whatever the fuck they want. Be it lists, be it controversial opinions. Don't like them? Mute or block them. These cancel culture thought police people are the biggest idiots.
 
