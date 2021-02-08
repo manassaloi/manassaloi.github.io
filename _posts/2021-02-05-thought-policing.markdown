@@ -3,7 +3,9 @@ layout: post
 title:  "Thought policing"
 ---
 
-I wrote 2 twitter threads recently on this [toxic trend of policing what people can tweet or not](https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship). I have seen multiple people get cancelled on Twitter because they had "the audacity" to tweet out a list of their favourite Twitter accounts or designers. I am posting both with minor edits. I am also not naming the person I was defending because the goal was not to defend a particular person but to write against the stupid thought policing that has become prevalent on social networks.
+I have seen multiple people get cancelled on Twitter recently because they had "the audacity" to tweet out a list of their favourites. Just last week a prominent designer in the startup ecosystem almost get cancelled for tweeting our a list of his favourite designers. As a response to that, I wrote 2 twitter threads on what I think about cancel culture.
+
+I am posting both with minor edits. I am also not naming the person I was defending because the goal was not to defend a particular person but to write against the stupid thought policing that has become prevalent on social networks.
 
 **thread 1 starts**
 
@@ -51,5 +53,7 @@ Thanks for reading.
 **thread 2 ends**
 
 Related read: [A post I wrote on On truth speaking and not virtue signalling](https://manassaloi.com/2020/02/29/truth-speaking.html)
+
+[Also read about this toxic trend of policing what people can tweet or not, especially by so called reporters](https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship).
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
