@@ -10,7 +10,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [MacBook Pro (15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek.](https://www.go-jek.com/)
 
-+ [MacBook Air (13-inch, 2013)](https://www.apple.com/in/mac/compare/): Wife's old laptop that I use as my personal computer.
++ [MacBook Air M1 (13-inch, 2020)](https://www.apple.com/in/mac/compare/): My personal computer.
 
 + [One Plus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
 
