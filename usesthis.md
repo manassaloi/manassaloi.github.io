@@ -14,13 +14,19 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [One Plus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
 
++ [Spigen Rugged Armor Cover Case](https://www.amazon.in/Spigen-Rugged-Armor-Cover-OnePlus/dp/B06XG19W3G/); Spigen has the best covers.
+
 + [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range.
 
-+ Kindle Paperwhite (Wi-fi model): I bought it in 2015. It is probably my most prized possession.
++ Kindle Paperwhite (Wi-fi model): I bought it in 2015.
+
++ Kindle Paperwhite (Wi-fi model): I got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: One for reading non fiction (and take notes) and another for fiction (mostly light reading).
 
 + [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Super helpful for creating rough mocks & also take notes during meetings.
 
 + [Apple Pencil](https://www.apple.com/in/apple-pencil/): Bought it along with with my iPad. It has been a life changer. Super helpful to create handwritten notes & also draw on Procreate (when you are in the mood for it).
+
++ [Proffisy Laptop Stand](https://www.amazon.in/Laptop-Stand-Adjustable-Compatible-Black/dp/B08LVBY5V3/): Good build quality; I got 2 of these.
 
 + [Gizga Cable Organiser Manager](https://www.amazon.in/gp/product/B01MSEMS0K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1): Organizing and concealing all types of cables.
 
@@ -29,6 +35,20 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price.
 
 + [Mi Smart Band 4](https://www.mi.com/in/mi-smart-band-4/): I took a lot of time deciding between this and a Fitbit. TBH I am quite happy with this one.
+
++ [SwooK Case Cover Shell](https://www.amazon.in/SwooK-Cover-Shell-MacBook-Release/dp/B08HMR9H8M/): Cover for my M1.
+
++ [Cable Hunter® Thunderbolt 3 to USB](https://www.amazon.in/Cable-Hunter%C2%AE-Side-Thunderbolt-Adaptor/dp/B08FY77YN7/): Far cheaper than getting a USB hub.
+
++ [Mi Smart Bedside Lamp 2](https://www.amazon.in/Smart-Bedside-Million-Colors-App-Enabled/dp/B089VQ6F9G/): I went ahead with this instead [Hue](https://www.amazon.in/Philips-Compatible-Amazon-HomeKit-Assistant/dp/B00UVHAC1O/) because it was cheaper. It has been a good buy. I turn it on half an hour before I sleep.
+
++ [Deco M5](https://www.amazon.in/TP-Link-Deco-M5-System-Router/dp/B072BZ62QS/): There is some signal and speed loss, but I am overall happy with this buy.
+
++ [TP-Link Archer C6](https://www.amazon.in/TP-Link-Archer-C6-Wireless-MU-MIMO/dp/B07GVR9TG7/): My main router.
+
++ [Micromax 43 inch TV](https://www.flipkart.com/micromax-108-cm-43-inch-full-hd-led-tv/p/itm8065d988c02ef): My PS4 Display for the last 4 years; one of the best electronics purchase I have ever made.
+
++ [Study desk](https://lookinggoodfurniture.com/): I use a dining table as my study desk; cheaper, solid wood and far more space than a traditional desk.
 
 ## Software
 
@@ -74,3 +94,41 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Splitwise](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_IN): To share expenses with friends and family.
 
 + [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium.
+
+## Health
+
+### Home gym
+
++ [Weight training equipments: curl rod, dumbbell rods, plain rods + around 100 kgs weight](https://www.amazon.in/stores/Kore/page/435A5FB6-7DBD-48CA-9AA9-40BE296333E9?ref_=ast_bln): Got the cheapest equipments because I did not want to overcommit and then have weights occupying space.
+
++ [AMAZE Multipurpose Exercise Flat Bench](https://www.amazon.in/INFINITY-FITNESSTM-Multipurpose-Exercise-Capacity/dp/B07WYXYWLW/): Extremely fuddu bench but I needed something to do chest workouts. Can't wait to get a better bench. Most Amazon gym equipments are low quality. My plan is to use these for 6 months and then spend more and get better stuff from local retailers.
+
++ [USI Universal Power Lifting Belt PLH](https://www.amazon.in/USI-Power-Lifting-Belt-Heavy/dp/B01NAAWBQI/): For deadlifts.
+
++ [Kettlebells - AmazonBasics cast-iron 6kg and 12 kgs](https://www.amazon.in/AmazonBasics-KB-12KG-cast-Iron-Kettlebell-12kg/dp/B076QDSYC7/): Kettlebells are amazing; I mostly use them for swings and presses.
+
++ [AmazonBasics Puzzle Exercise Mat with EVA Foam Interlocking Tiles](https://www.amazon.in/AmazonBasics-Puzzle-Exercise-Interlocking-Tiles/dp/B0719BBFP2/): Protects the floor.
+
++ [Dolphy Exercise Spinning Bike](https://www.amazon.in/Dolphy-Exercise-Spinning-Indoor-Cycling/dp/B07WP5FHXB/): Not using this as much as I would have liked.
+
++ [Fitlastics Resistance Loop Bands](https://www.amazon.in/Fitlastics-Resistance-Pilates-Fitness-Workouts/dp/B07XTCPHTM/): These are very good for warming up. You can even use them as replacement for weights.
+
++ [Wrist Wrap Gloves](https://www.amazon.in/Xtrim-Macho-Leather-Workout-Gloves/dp/B01N6Y6Z4N/): Highly recommend this one.
+
++ [Push-up Bars](https://www.amazon.in/GOCART-Push-up-Bars-Comfortable-Non-Slip/dp/B07FP14HQ1/): Like my bike, this is something which is mostly lying unused. Should not have bought them.
+
+
+### Wellness
+
++ [Humidifier](https://www.amazon.in/Figment-Essential-Humidifier-Colourful-Humidifiers/dp/B08QJ4F4BN/): Useful purchase.
+
++ [Ekam Fragrance Candles](https://ekamonline.com/collections/chunk-finish-jar/products/vanilla-chunk-ring-jar?lshst=collection): Candles have been a pretty good addition to my life.
+
++ [Steam inhaler](https://www.amazon.in/Newnik-V108-Vaporizer-Steamer/dp/B00GV34EQG/): Have been using it everyday before I sleep.
+
++ [Nykaa sheet masks](https://www.nykaa.com/skin/masks/sheet-masks/c/8401): Put on a sheet mask, light a nice candle, play some podcast in the background. This is how I treat myself after a hard week at work.
+
++ [Plants](https://www.ugaoo.com/live-plants.html): Plants are a good happiness hack.
+
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
