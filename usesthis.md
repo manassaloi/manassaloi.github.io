@@ -18,9 +18,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range.
 
-+ Kindle Paperwhite (Wi-fi model): I bought it in 2015.
-
-+ Kindle Paperwhite (Wi-fi model): I got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: One for reading non fiction (and take notes) and another for fiction (mostly light reading).
++ Kindle Paperwhite (Wi-fi model): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: One for reading non fiction (and take notes) and another for fiction (mostly light reading).
 
 + [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Super helpful for creating rough mocks & also take notes during meetings.
 
