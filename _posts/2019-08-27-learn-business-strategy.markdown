@@ -12,11 +12,11 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 2. **[Hamilton’s 7 powers:](https://manassaloi.com/booksummaries/2019/08/22/seven-powers-hamilton-helmer.html)** Scale economics, Network economics, Counter positioning, Switching cost, Branding, Cornered resources, Process power. Something you should read if you are interested in business strategy.
 
-3. **[Munger’s 5 elements which create moats:]((https://manassaloi.com/booksummaries/2016/03/07/charlier-munger-griffin.html))** Supply-Side Economies of Scale and Scope, Demand-Side Economies of Scale (Network Effects), Brand, Regulation, Patents and Intellectual Property.
+3. **[Munger’s 5 elements which create moats:](https://manassaloi.com/booksummaries/2016/03/07/charlier-munger-griffin.html)** Supply-Side Economies of Scale and Scope, Demand-Side Economies of Scale (Network Effects), Brand, Regulation, Patents and Intellectual Property.
 
-4. **[Platform revolution]((https://manassaloi.com/booksummaries/2016/03/21/platform-revolution-parker-choudary.html))** has a bunch of frameworks to think about how to build and grow a platform. It is highly relevant if you are working in a startup in the on demand space.
+4. **[Platform revolution](https://manassaloi.com/booksummaries/2016/03/21/platform-revolution-parker-choudary.html)** has a bunch of frameworks to think about how to build and grow a platform. It is highly relevant if you are working in a startup in the on demand space.
 
-5. **[Blitzscaling]((https://manassaloi.com/booksummaries/2016/03/29/blitzscaling-reid-hoffman.html))** is a good read if you want to understand how to build hyper growth business. It also has a lot of frameworks for growth: things which can turbocharge it or limit it.
+5. **[Blitzscaling](https://manassaloi.com/booksummaries/2016/03/29/blitzscaling-reid-hoffman.html)** is a good read if you want to understand how to build hyper growth business. It also has a lot of frameworks for growth: things which can turbocharge it or limit it.
 
 6. **[Only the Paranoid Survive](https://manassaloi.com/booksummaries/2016/03/28/paranoids-survive-grove.html)** is a great playbook on surviving 10X changes and has lot of war stories from Intel.
 
