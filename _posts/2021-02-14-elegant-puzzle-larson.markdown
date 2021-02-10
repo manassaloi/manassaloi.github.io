@@ -70,7 +70,7 @@ One specific tool that I’ve found extremely helpful here is an ownership regis
 
 - This isn’t a one-time tool, but rather a great exercise to run once a year to identify things you could be delegating. This helps nurture an enduring organization, and also frees up time for you to continue growing into a larger role as well. You can even get a sense of how well you’re doing by taking a two- or three-week vacation and seeing what slips through the cracks. Those items can be the start of next year’s list!
 
-- Many effective leaders I’ve worked with have the uncanny knack for working on leveraged1 problems. In some problem domains, the product management skill set2 is extraordinarily effective for identifying useful problems, but systems thinking is the most universally useful tool kit I’ve found.
+- Many effective leaders I’ve worked with have the uncanny knack for working on leveraged problems. In some problem domains, the product management skill set is extraordinarily effective for identifying useful problems, but systems thinking is the most universally useful tool kit I’ve found.
 
 - I’ve spent a lot of time pondering the authors’ definition of velocity. They focus on four measures of developer velocity: Delivery lead time is the time from the creation of code to its use in production. Deployment frequency is how often you deploy code. Change fail rate is how frequently changes fail. Time to restore service is the time spent recovering from defects.
 
