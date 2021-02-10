@@ -20,7 +20,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + Kindle Paperwhite (Wi-fi model): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: One for reading non fiction (and take notes) and another for fiction (mostly light reading).
 
-+ [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Super helpful for creating rough mocks & also take notes during meetings.
++ [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Helpful for creating quick mocks. My wife uses it to draw.
 
 + [Apple Pencil](https://www.apple.com/in/apple-pencil/): Bought it along with with my iPad. It has been a life changer. Super helpful to create handwritten notes & also draw on Procreate (when you are in the mood for it).
 
