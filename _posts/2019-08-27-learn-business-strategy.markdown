@@ -22,7 +22,7 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 7. **[Obviously Awesome](https://manassaloi.com/booksummaries/2017/07/09/obviously-awesome-april.html)** is one of the best books  on product positioning.
 
-8. **[Blue Ocean Strategy](https://docs.google.com/document/d/1sx28G6cSbBjksvc0RoojQK4PiY1XgEPMHaenJvGRUWo/edit)** is one of the first strategy books I ever read.
+8. **[Blue Ocean Strategy](https://docs.google.com/document/d/1sx28G6cSbBjksvc0RoojQK4PiY1XgEPMHaenJvGRUWo/edit?usp=sharing)** is one of the first strategy books I ever read.
 
 9. **[My fav one: Understanding Michael Porter](https://manassaloi.com/booksummaries/2017/07/17/understanding-porter-joan.html)** If you read this one you don't need to read another strategy book.
 
