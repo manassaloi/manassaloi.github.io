@@ -49,7 +49,7 @@ I wrote a post on why we need to look at the [sucky 90% of a job than the 10% fu
 
 Reading Stratechery is fun. Staying up till midnight figuring out a dozen ways a feature might break on production is not.
 
-Hence you will see a lot of people spending their time reading abstract ideas about design and strategy while declining a 6 PM meeting to close a blocker.
+Hence you will see a lot of people spending their time reading strategy blogposts while declining a 6 PM meeting to close a blocker.
 
 Playing the PM or Designer is far easy than being one.
 
