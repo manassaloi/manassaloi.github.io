@@ -60,8 +60,8 @@ Why be a PM if it sucks so much? PMing is fun if you love:
 - working with ICs on architecture decisions, user flows, testing process, marketing etc.
 - No one will stop you from picking up work from the plates of other ICs if they are busy. You can be a generalist. It can be fun.
 
-Day 1: Work with Research and BI on identifying the WHY behind a project
-Day 2: Align stakeholders on milestones and scope (WHAT)
+Day 1: Work with Research and BI on identifying the WHY behind a project.
+Day 2: Align stakeholders on milestones and scope (WHAT).
 Day 3: Work with Design on mocks.
 Day 4: Brainstorm with devs on the HOW: discuss various implementation strategies.
 
