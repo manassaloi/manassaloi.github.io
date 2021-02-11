@@ -30,12 +30,12 @@ Everyone knows there is no QA bandwidth. No one cares. You are the chosen one. S
 
 It is not an IC role where you just do your job and finish your day at 7 PM. You can't just cook up cool PRDs sitting in the corner and head home on time. It is not a manager role where you just talk high level and execution is left to your minions. You are working as an IC, while pseudo managing a dozen members in your team who don't report to you and can just tell you to fuck off.
 
-The bad PMs assume they are the CEO. Can just instruct. The good ones know you have the work the hardest.
+The bad PMs assume they are the CEO; can just instruct others and things will be done. The good ones know you have the work the hardest.
 
-Designer not there? Work on the edge cases yourself.
-Is QA bandwidth low? Write acceptance criteria alone.
-Dev does not want to update Asana/Jira? Own the project management completely.
-Cross-team collaborator did not respond to your Asana comment? Then DM them. Did not respond again? Then DM again. Still no response? Set up a call.
+- Designer not there? Work on the edge cases yourself.
+- Is QA bandwidth low? Write acceptance criteria alone.
+- Dev does not want to update Asana/Jira? Own the project management completely.
+- Cross-team collaborator did not respond to your Asana comment? Then DM them. Did not respond again? Then DM again. Still no response? Set up a call.
 
 You don't get brownie points for cribbing. Also, no one cares.
 
