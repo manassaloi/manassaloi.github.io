@@ -8,7 +8,7 @@ In the summer of 2012, I was interning with Redbus as a sales/marketing/ops inte
 
 Then something happened which changed my thinking on how I evaluate a job or a career.
 
-During one particular sucky day when we were getting rejected by everyone we went to meet, were standing in the summer heat, sipping a Pepsi, he made a point which stuck with me.
+During one particular sucky day when we were getting rejected by everyone we went to meet, were standing in the summer heat, sipping a Pepsi, my then Manager made a point that stuck with me.
 
 "90% of sales is getting rejected, walking in the heat, meeting clients. The highs of closing a new client will soon go away and will be replaced by the lows: missing lunch, running after new clients, getting crushed by endless rejections. If you can't handle those aspects of Sales then maybe this is not the right job for you."
 
