@@ -16,7 +16,9 @@ Them:No
 
 Me: Then this is your job.
 
-This is the difference between playing the role of a PM on Twitter vs actually being a PM. Being a PM sucks. It is a thankless job.
+^ I have had a variation of this conversation with multiple PMs I mentor.
+
+What I mentioned above is the difference between playing the role of a PM on Twitter vs actually being a PM. Being a PM sucks. It is a thankless job.
 
 Most people *think* they will enjoy moving to Product. They will cook up amazing strategy documents. Spew out smart one-liners in meetings: Distribution matters far more than product bruah.
 
