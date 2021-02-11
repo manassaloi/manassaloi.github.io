@@ -59,16 +59,12 @@ Why be a PM if it sucks so much? PMing is fun if you love:
 - taking more ownership.
 - working with ICs on architecture decisions, user flows, testing process, marketing etc.
 - No one will stop you from picking up work from the plates of other ICs if they are busy. You can be a generalist. It can be fun.
+  - Day 1: Work with Research and BI on identifying the WHY behind a project.
+  - Day 2: Align stakeholders on milestones and scope (WHAT).
+  - Day 3: Work with Design on mocks.
+  - Day 4: Brainstorm with devs on the HOW: discuss various implementation strategies.
+- No other role will let you do all of these. Unless you are the CEO. But but but remember, you are not the CEO. Just remember that Day 5 to Day of Release involves you running after people to get the feature live on production.
 
-Day 1: Work with Research and BI on identifying the WHY behind a project.
-Day 2: Align stakeholders on milestones and scope (WHAT).
-Day 3: Work with Design on mocks.
-Day 4: Brainstorm with devs on the HOW: discuss various implementation strategies.
-
-No other role will let you do all of these. Unless you are the CEO. But but but remember, you are not the CEO.
-
-Day 5 to Day Infinity: Running after people to get the feature live on production.
-
-So read less Stratechery. Spend more time on collaborating with people on getting shit done. And take ownership.
+So read less blogs. Spend more time on collaborating with people on getting shit done. And take ownership.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
