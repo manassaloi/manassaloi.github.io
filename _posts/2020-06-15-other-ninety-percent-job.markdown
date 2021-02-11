@@ -4,9 +4,9 @@ title:  "Other 90% of the job"
 
 ---
 
-In the summer of 2012, I was interning with Redbus as a sales/marketing/ops intern. In spite of being a Computer Science undergrad, I liked the business side of things, was leaning towards taking up Sales and Marketing as a full-time job.
+In the summer of 2012, I was interning with Redbus as a sales/marketing/ops intern. In spite of being a Computer Science undergrad, I liked the business side of things and was leaning towards taking up Sales and Marketing as a full-time job.
 
-Then something happened which changed my thinking on how I evaluate a job or a career.
+Then something happened that changed my thinking on how I evaluate a job or a career.
 
 During one particular sucky day when we were getting rejected by everyone we went to meet, were standing in the summer heat, sipping a Pepsi, my then Manager made a point that stuck with me.
 
