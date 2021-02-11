@@ -43,9 +43,9 @@ The project went well? Probably no one will remember. The project got delayed? I
 
 Sucks? Welcome to PM'ing.
 
-Read the book [Extreme Ownership(https://manassaloi.com/booksummaries/2017/07/15/extreme-ownership-jocko.html).
+Read the book [Extreme Ownership](https://manassaloi.com/booksummaries/2017/07/15/extreme-ownership-jocko.html).
 
-I wrote a [post on why we need to look at the sucky 90% of a job than the 10% fun](https://manassaloi.com/2020/06/15/other-ninety-percent-job.html).
+I wrote a post on why we need to look at the [sucky 90% of a job than the 10% fun](https://manassaloi.com/2020/06/15/other-ninety-percent-job.html).
 
 Reading Stratechery is fun. Staying up till midnight figuring out a dozen ways a feature might break on production is not.
 
