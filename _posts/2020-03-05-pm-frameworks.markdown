@@ -44,6 +44,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Amp It Up!](https://www.linkedin.com/pulse/amp-up-frank-slootman/s)
 - [Leader as a coach](https://hbr.org/2019/11/the-leader-as-coach)
 - [Intentional](https://twitter.com/Superhuman/status/1338603097711497219)
+- [Internal then external](https://manassaloi.com/2021/02/02/internal-external.html)
 
 
 ## Product development, Research & Design
@@ -161,6 +162,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
 - [SPADE](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 - [What could go right?](https://mobile.twitter.com/bgurley/status/572255806051131392)
+- [Scaling decision making](https://manassaloi.com/2021/02/03/scaling-decisionmaking.html)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)

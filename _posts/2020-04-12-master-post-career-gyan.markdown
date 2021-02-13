@@ -39,6 +39,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Resume](https://manassaloi.com/2021/01/05/resume.html)
 - [Performance reviews](https://manassaloi.com/2021/02/01/performance-reviews.html)
 - [Job of a PM](https://manassaloi.com/2021/01/10/PMs-do.html)
+- [First 90 days](https://manassaloi.com/2021/02/12/90-days.html)
+- [Playing the PM vs being one](https://manassaloi.com/2021/02/11/playing-being-PM.html)
 
 ### Favourite books on Career
 
