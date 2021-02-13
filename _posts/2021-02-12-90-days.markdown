@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "First 90 days"
+---
+
+Things that you should do in your first 90 days at a new company:
+
+1. Create your [4 weeks plan](https://docs.google.com/spreadsheets/d/1nmiiI36JARS_xufVTbUOXQGtVYCHyNxg5zKhKmVCwlQ/edit?usp=sharing) with your manager.
+2. Introduce yourself to members of your team.
+3.  Form a connection with key stakeholders; set up recurring 1-1s with them.
+4. Get a peer/buddy to help you get onboarded. If you don't have one, ask your manager to nominate someone.
+5. Get your hands dirty asap.
+6. Take ownership; don't wait for things to come to you.
+7. Your reputation will be made in the first 90 days. People generally form opinions quickly. Coming to meetings late? People will remember. Put your best foot forward. 
+8. Don't be invisible. Find the biggest problem (that you can take off someone's plate) and fix it. Ideally that someone should be your manager. Again, just ask; don't wait for your manager to come to you. People love doers.
+9. Get started with some process work till you are ready to pick your first major project. The first PM intern in my team, who eventually ended up joining the team, created our PM onboarding plan that I still use today to onboard new members. My own first project was to create a bunch of dashboards to cut down time needed for RCAs.
+10. Assume good intentions. People want to help, but you gotta make the first move.
+11. As part of your 90 day plan, clearly define success metrics with your manager.
+12. Set up 1-1s with not just your manager, but all key stakeholders you will be working with on a regular basis. People are generally busy, so what you can do is to have an initial intro meeting and request a monthly meeting where you can update them on your work.
+13. Ask your manager this question: Assume after 6 months I have failed in my role. What could have gone wrong? Work with your manager on how you can combat these risks.
+14. Understand the culture of the team: Do they prefer email over slack? How do they escalate problems? Is sending a Slack message on a saturday night frowned upon?15. Don't try to change the culture from Day 1. I have lost count of the times I said "but we used to do X like Y in my previous company Z" when I joined Gojek, before a dev reminded me that if what I did in my previous companies was perfect and everything was golden, then I would not have switched jobs. Burn. So learn why things are the way they are before you recommend any change. The way we run standups today is not the same as how we did it 2 years back. New people came, brought fresh ideas with them. We tried variations as experiments. Kept the bits we liked.16. Ask: What are things that no one talks about but know because they are implicit? If you form a good relationship with your peers they will let you know.
+17. Understand the working style of your manager and other key stakeholders.
+18. Understand the key priorities for the company and your team; what are P0s for this quarter?
+19. Work with your manager to write an intro email to the company announcing you. Ideally you should write a self intro mail and then ask your manager to send it. Make their life easy.
+20. Get added to all Slack/Google groups.
+21. If you are a new PM then read a lot of the existing PRDs, tech and design specs, and charter docs. 22. Understand how the company sets goals.
+23. Ask what are the: must-dos, should-dos and nice-to-dos. Example. If you are a PM in my team then you have to attend all standups and IPMs. They are non negotiable; must dos. If there is a tech huddle for your project then attending it is a should do. You may choose to skip it only if it is clashing with another must-do meeting. Attending tech implementation discussions is a nice-to-do.
+24. Shadow other PMs (if you are a PM). If a new PM joins my team, I ask them to join the project channels of other PMs in my team, attend their standups and IPMs. Learning through osmosis is great.
+25. Work on multiple parallel tracks of learning. For my PMs in my team, I encourage them to work on the following tracks: 
+  - [4 weeks plan](https://docs.google.com/spreadsheets/d/1nmiiI36JARS_xufVTbUOXQGtVYCHyNxg5zKhKmVCwlQ/edit?usp=sharing) (standard for any new joinee)  
+  - [short term](https://manassaloi.com/2020/03/23/running-product-team.html)
+  - [medium term](https://manassaloi.com/2020/03/23/running-product-team.html)
+  - [long term](https://manassaloi.com/2020/03/23/running-product-team.html) 
+  - [Learn how we execute](https://manassaloi.com/2020/04/26/rules-project-management.html)  
+  - Get context on the onboarding project  
+  - Understand the tech stack 
+
+Read: [The first 90 days](https://www.goodreads.com/book/show/15824358-the-first-90-days)(an amazing book) that I have gifted to my friends joining a new team or company.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
