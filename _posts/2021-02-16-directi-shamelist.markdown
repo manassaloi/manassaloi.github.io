@@ -21,6 +21,7 @@ title:  "Directi Shamelist"
 - I was always trying to prove my dev credentials and spent far more time discussing tech implementation details than working on the next set of problems to fix.
 - I did not know how to say NO diplomatically.
 - Multiple incidents where I could have shut my mouth, let things calm down, but because of my ego escalated trivial issues that had no impact on our end customer.
+- I focused a lot on what features can improve retention, comparing all the existing features we had, instead of thinking what could be a game changer for us. Incremental features will never help you gain market share. 
 
 Related read:
 - [Craftsvilla learnings](https://manassaloi.com/2020/11/21/craftsvilla-learnings.html)
