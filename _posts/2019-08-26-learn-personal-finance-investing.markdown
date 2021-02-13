@@ -20,5 +20,9 @@ Books I have read in personal finance and investing. Sorted from most helpful an
 13. [More Than You Know: Finding Financial Wisdom in Unconventional Places — Michael J. Mauboussin](https://manassaloi.com/booksummaries/2016/07/11/more-than-you-know-michael-j-mauboussin.html)
 14. [From the Rat Race to Financial Freedom - Manoj Arora](https://manassaloi.com/booksummaries/2017/07/20/rat-race-financial-freedom.html)
 15. [Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean - Karen Berman, Joe Knight, John Case](https://manassaloi.com/booksummaries/2017/07/23/financial-intelligence-knight-karen.html)
+16. [The Psychology of Money - Morgan Housel](https://manassaloi.com/booksummaries/2021/02/04/psychology-money-morgan-housel.html)
+17. [How I Invest My Money - Joshua Brown, Brian Portnoy](https://manassaloi.com/booksummaries/2021/01/03/invest-my-money-brown-portnoy.html)
+18. [How to Be a Capitalist Without Any Capital - Nathan Latka](https://manassaloi.com/booksummaries/2020/12/30/capitalist-latka.html)
+19. [What I Learned Losing a Million Dollars - Jim Paul](https://manassaloi.com/booksummaries/2021/01/13/losing-million-jim.html)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
