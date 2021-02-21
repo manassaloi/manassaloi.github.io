@@ -56,7 +56,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Design sprints](https://designsprintkit.withgoogle.com/planning/overview)
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
 - [Create a Perfect slice of cake without much dressing](https://www.mindtheproduct.com/the-power-of-the-perfect-slice/)
-- Back loaded vs front loaded
+- [Frontloaded, not backloaded](https://manassaloi.com/2021/02/20/frontloaded-backloaded.html)
 - [Anxiety reduction](https://manassaloi.com/2021/01/01/anxiety-reduction.html)
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 - [Avoid your cupcake from becoming a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
