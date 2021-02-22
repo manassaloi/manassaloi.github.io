@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Macro and Micro approach to learning as a Product Manager"
+title:  "The Macro and Micro approach to learning as a PM"
 
 ---
 
