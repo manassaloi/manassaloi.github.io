@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts from the North-East (India)"
+title:  "Thoughts from the North-East"
 
 ---
 

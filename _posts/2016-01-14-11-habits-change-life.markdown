@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11 Habits that changed my life (and will yours too)"
+title:  "11 Habits that changed my life"
 
 ---
 

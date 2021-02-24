@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons from Grubhub for Indian Food Delivery Startups"
+title:  "Lessons from Grubhub"
 
 ---
 [Grubhub's shares fell 42% yesterday](https://www.businessinsider.in/stock-market/news/grubhub-short-sellers-made-504-million-tuesday-when-shares-fell-42/articleshow/71812102.cms) following the release of their lackluster third-quarter earnings report. [The shareholder letter from Grubhub which followed](https://s2.q4cdn.com/772508021/files/doc_financials/2019/q3/October-2019-Shareholder-Letter.pdf) has tons of insights into the US food delivery market and also how Grubhub is faring vs other competitors like Postmates, Doordash and UberEats. I am sharing some of the key insights below

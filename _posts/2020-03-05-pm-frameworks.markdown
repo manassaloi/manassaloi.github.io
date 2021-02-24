@@ -44,6 +44,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Amp It Up!](https://www.linkedin.com/pulse/amp-up-frank-slootman/s)
 - [Leader as a coach](https://hbr.org/2019/11/the-leader-as-coach)
 - [Intentional](https://twitter.com/Superhuman/status/1338603097711497219)
+- [Internal then external](https://manassaloi.com/2021/02/02/internal-external.html)
 
 
 ## Product development, Research & Design
@@ -55,7 +56,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Design sprints](https://designsprintkit.withgoogle.com/planning/overview)
 - [10X](https://manassaloi.com/2020/01/04/add-a-zero.html)
 - [Create a Perfect slice of cake without much dressing](https://www.mindtheproduct.com/the-power-of-the-perfect-slice/)
-- Back loaded vs front loaded
+- [Frontloaded, not backloaded](https://manassaloi.com/2021/02/20/frontloaded-backloaded.html)
 - [Anxiety reduction](https://manassaloi.com/2021/01/01/anxiety-reduction.html)
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 - [Avoid your cupcake from becoming a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
@@ -161,6 +162,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Frameworks vs isolated decisions](https://twitter.com/ianmcall/status/971420983134318592)
 - [SPADE](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 - [What could go right?](https://mobile.twitter.com/bgurley/status/572255806051131392)
+- [Scaling decision making](https://manassaloi.com/2021/02/03/scaling-decisionmaking.html)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)

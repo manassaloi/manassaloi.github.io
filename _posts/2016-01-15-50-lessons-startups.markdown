@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "50 Lessons I’ve Learned from working at Start-ups"
+title:  "50 Lessons learned from working at startups"
 
 ---
 

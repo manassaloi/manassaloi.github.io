@@ -44,6 +44,8 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [No Filter: The Inside Story of Instagram - Sarah Frier](https://www.goodreads.com/book/show/50772888-no-filter)
 + [Big Billion Startup: The Untold Flipkart Story - Mihir Dalal](https://www.goodreads.com/book/show/52346729-big-billion-startup)
 + [How to Turn Down a Billion Dollars: The Snapchat Story - Billy Gallagher](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars)
++ [How to Get Rich - Felix Dennis](https://www.goodreads.com/book/show/1837402.How_to_Get_Rich)
++ [The New New Thing: A Silicon Valley Story - Michael Lewis](https://www.goodreads.com/book/show/17986421-the-new-new-thing)
 
 
 ### Company Building Playbook
@@ -58,6 +60,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Always Day One: How the Tech Titans Plan to Stay on Top Forever - Alex Kantrowitz](https://www.goodreads.com/book/show/52027218-always-day-one)
 + [Playing to Win: How Strategy Really Works - A.G. Lafley](https://www.goodreads.com/book/show/13586928-playing-to-win)
 + [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
++ [Invent and Wander: The Collected Writings of Jeff Bezos - Jeff Bezos, Walter Isaacson](https://www.goodreads.com/book/show/54505323-invent-and-wander)
 
 ### Leading & Managing
 
@@ -83,6 +86,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle](https://www.goodreads.com/book/show/33517721-the-culture-code)
 + [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 + [The Score Takes Care of Itself: My Philosophy of Leadership - Bill Walsh](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself)
++ [An Elegant Puzzle: Systems of Engineering Management - Will Larson](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
 
 ### Product & Strategy
 
@@ -105,6 +109,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Competing Against Luck - Clayton M. Christensen](https://www.goodreads.com/book/show/28820024-competing-against-luck)
 + [Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta](https://www.goodreads.com/book/show/13263934-understanding-michael-porter)
 + [Start at the End: How to Build Products That Create Change - Matt Wallaert](https://www.goodreads.com/book/show/43607837-start-at-the-end)
++ [Inspired -Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired)
 
 
 ### Life, Living & Mindset
@@ -129,9 +134,10 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Man's Search for Meaning - Viktor E. Frankl](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 + [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness - Eric Jorgenson](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant)
 + [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
++ [Designing Your Life: Build a Life that Works for You - Bill Burnett, Dave Evans](https://www.goodreads.com/book/show/26046333-designing-your-life)
 
 
-### Habits & Productivity
+### Health, Habits & Productivity
 
 + [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers - Tim Ferriss](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 + [Tribe of Mentors: Short Life Advice from the Best in the World - Tim Ferriss](https://www.goodreads.com/book/show/36200111-tribe-of-mentors)
@@ -143,6 +149,8 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Checklist Manifesto: How to Get Things Right - Atul Gawande](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
 + [What I Talk About When I Talk About Running - Haruki Murakami](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 + [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey](https://www.goodreads.com/book/show/25733994-the-productivity-project)
++ [Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
++ [The 4-Hour Body - Timothy Ferriss](https://www.goodreads.com/book/show/7148931-the-4-hour-body)
 
 ### Investing & Personal Finance
 
@@ -161,6 +169,10 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor)
 + [From the Rat Race to Financial Freedom - Manoj Arora](https://www.goodreads.com/book/show/18136642-from-the-rat-race-to-financial-freedom)
 + [Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean - Karen Berman, Joe Knight, John Case](https://www.goodreads.com/book/show/27541.Financial_Intelligence)
++ [The Psychology of Money - Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
++ [How I Invest My Money - Joshua Brown, Brian Portnoy](https://www.goodreads.com/book/show/55082355-how-i-invest-my-money)
++ [How to Be a Capitalist Without Any Capital - Nathan Latka](https://www.goodreads.com/book/show/43082141-how-to-be-a-capitalist-without-any-capital)
++ [What I Learned Losing a Million Dollars - Jim Paul](https://www.goodreads.com/book/show/1334384.What_I_Learned_Losing_a_Million_Dollars)
 
 
 ### Venture Capital

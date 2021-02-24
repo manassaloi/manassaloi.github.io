@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I am not crazy about most blockchain projects (yet)"
+title:  "On blockchain projects"
 
 ---
 ![bitcoin](https://cdn-images-1.medium.com/max/1600/1*w8Qu4HRGJwXfs3fSDIYx_w.jpeg)
