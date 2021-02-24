@@ -8,12 +8,12 @@ How to plan a project (Steps):
 (The WHY)
 - Problem statement
 - How do we know this problem to be true?
-  - Back the problem statement through data (qualitative or quantitative) 
+  - Back the problem statement through data (qualitative or quantitative)
 
 (The WHAT)
 - Solution/milestone/ MVP to tackle the problem
   - What were the other alternatives we considered?
-  - How did we decided this is the best option?
+  - How did we arrive at this to be the best option?
 - Milestone details with a timeline
   -  Can we break the milestones further?
 - Success metrics
