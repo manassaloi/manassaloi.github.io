@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 31 Frameworks for your professional life"
+title:  "[Frameworks] 36 Frameworks for your professional life"
 
 ---
 
@@ -67,6 +67,16 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 30. [Unbounded pursuit](https://miten.co/2020/09/26/unbounded-pursuit/); Work on unbounded problem statements.
 
 31. [Table Selection](https://perell.com/essay/50-ideas-that-changed-my-life/); Choose your opponents carefully.
+
+32. [Supply Capture and Skills Combinations](https://mobile.twitter.com/ibringtraffic/status/1338577118481973248); Two career-building strategies from Andy John.
+
+33. [Impact = Environment x Skills](https://www.reforge.com/blog/how-to-make-career-decisions); How to make career decisions
+
+34. [Structured and Unstructured Games](https://dcgross.com/structured-and-unstructured-games); What game are you playing?
+
+35. [Signal to noise ratio](https://paygo.media/p/25171); Why did the Wave founder leave Google?
+
+36. [Surround yourself with the smartest people](https://kristinasimmons.medium.com/a-few-lessons-from-vinod-khosla-621dd7b38e62); Surround yourself with the people you can learn from at the fastest pace.
 
 **Note:** I will keep expanding this list
 

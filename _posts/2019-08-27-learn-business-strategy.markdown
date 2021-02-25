@@ -88,6 +88,7 @@ I read them long back. Have to re read and take notes.
 - [20 powerful and usually underrated competitive advantages](https://mobile.twitter.com/aaronbush100/status/1271822557981925378)
 - [Getting better at product strategy thread](https://twitter.com/lennysan/status/1303356482298064896)
 - [The What, Who, How, and Why](https://hbr.org/2007/09/demystifying-strategy-the-what)
+- [The Category Design Scorecard](https://categorypirates.substack.com/p/the-category-design-scorecard)
 
 Masterclass I did on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
 
