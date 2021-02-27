@@ -230,6 +230,18 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **[My First Million](https://podcasts.apple.com/us/podcast/my-first-million/id1469759170)**
   - fav: [https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200](https://podcasts.apple.com/us/podcast/97-andrew-wilkinson-warren-buffett-internet-returns/id1469759170?i=1000486692200)
 
+- **[The Look & Sound of Leadership](https://podcasts.apple.com/us/podcast/the-look-sound-of-leadership/id280383574)**
+  - fav: [https://podcasts.apple.com/us/podcast/executive-presence-three-pillars/id280383574?i=1000427356340](https://podcasts.apple.com/us/podcast/executive-presence-three-pillars/id280383574?i=1000427356340)
+
+- **[Operators & Delian’s Rambling‪s‬](https://podcasts.apple.com/us/podcast/operators-delians-ramblings/id1490651125)**
+  - fav: [https://podcasts.apple.com/us/podcast/operators-ep-18-chris-degnan-snowflake/id1490651125?i=1000505865245](https://podcasts.apple.com/us/podcast/operators-ep-18-chris-degnan-snowflake/id1490651125?i=1000505865245)
+
+- **[Not Overthinkin‪g‬](https://podcasts.apple.com/us/podcast/not-overthinking/id1456538451)**
+  - fav: [https://podcasts.apple.com/us/podcast/should-we-be-trying-to-build-an-online-audience/id1456538451?i=1000507275520](https://podcasts.apple.com/us/podcast/should-we-be-trying-to-build-an-online-audience/id1456538451?i=1000507275520)
+
+- **[Coaching for Leader‪s‬](https://podcasts.apple.com/gb/podcast/coaching-for-leaders/id458827716)**
+  - fav: [https://coachingforleaders.com/podcast/start-managing-up-tom-henschel/](https://coachingforleaders.com/podcast/start-managing-up-tom-henschel/)
+
 
 ## (Books I recommend)
 
