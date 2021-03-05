@@ -17,7 +17,7 @@ Like every person in tech who has ever read a PG essay, I have also thought of s
 - Global hot trend and a routine action mashup (Improve your diet, sleep, stress, fatigue with affordable at-home lab testing)
 - Underutilized Fixed Assets (parking lots, modular houses in your backyard)
 - Be the arms dealers (world going remote? provide global payroll and compliance)
--  Spatial Interfaces (Teamflow,  Cosmos)
+- Spatial Interfaces (Teamflow,  Cosmos)
 - Community plays (sneakerheads community, baseball cards community)
 - New way of learning (Sketchymedical - Visual learning to crack medical)
 - Big company tools (Slido for anonymous questions)
