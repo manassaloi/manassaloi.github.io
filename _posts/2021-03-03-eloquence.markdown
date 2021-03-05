@@ -5,7 +5,7 @@ title:  "Eloquence"
 
 I had tweeted this a few weeks earlier: "I have never heard Chamath pause/ say ummm in any of the interviews I have seen of him. Being so eloquent has definitely helped him reach where he is today."
 
-Someone countered this by replying "What about Elon?". I used to be a victim of the fallacy: 'This famous person has X/does not have X, so let me also do X/not do X' too earlier. What I do now is remember that we are not this famous person X. We are not the richest person on this planet. Elon is. Most of us lie in the [middle of the bell curve](https://manassaloi.com/2021/01/09/MBA-not.html). 
+Someone countered this by replying "What about Elon?". I also used to be a victim of the fallacy: 'This famous person has X/does not have X, so let me also do X/not do X' earlier. What I do now is remember that we are not this famous person X. We are not the richest person on this planet. Elon is. Most of us lie in the [middle of the bell curve](https://manassaloi.com/2021/01/09/MBA-not.html). 
 
 Lets take a few more examples.
 
