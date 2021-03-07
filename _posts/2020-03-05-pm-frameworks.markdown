@@ -201,6 +201,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Hard lessons learned as a manager](https://manassaloi.com/2020/12/02/hard-lessons.html)
 - [Craftsvilla learnings](https://manassaloi.com/2020/11/21/craftsvilla-learnings.html)
 - [Coupondunia shamelist](https://manassaloi.com/2020/11/20/coupondunia-shamelist.html)
+- [Risks of PM'ing at a big company](https://manassaloi.com/2021/03/08/pming-bigco.html)
+- [Directi Shamelist](https://manassaloi.com/2021/02/16/directi-shamelist.html)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
