@@ -16,9 +16,9 @@ Sounds abstract? Lets talk more about Fifa.
 
 So yeah, I lost at Fifa. But I will keep trying.
 
-Lessons learned:
-1. Inputs over outputs.
-2. Don't take everything so seriously.
+Lessons learned from my 2021 Fifa journey:
+1. Focus on inputs over outputs; I am not there yet.
+2. Don't take everything so seriously. Calm the fuck down.
 3. Know why you started something in the first place.
 4. It is stupid to get upset and break controllers because a few pixels on the screen did not go where you wanted them to.
 
