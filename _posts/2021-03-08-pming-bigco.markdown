@@ -3,7 +3,7 @@ layout: post
 title:  "PMing at a big company"
 ---
 
-PM'ing at bigcos/late stage startups is mostly about risk mitigation. Lets talk about the various types of risks you willl face and how to mitigate them.
+PM'ing at bigcos/late stage startups is mostly about risk mitigation. Let's talk about risks you will face and how to mitigate them.
 
 1. **Team risk:** Not having a vision for your team and not prioritizing projects based on that vision.
   - [Without a charter and OKRs](https://manassaloi.com/2020/12/09/how-to-be-strategic.html), your team will have an existential crisis every quarter and your execs will wonder if you are capable of thinking long term.
