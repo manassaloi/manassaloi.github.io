@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PMing at a big company"
+title:  "PM'ing at a big company"
 ---
 
 PM'ing at bigcos/late stage startups is mostly about risk mitigation. Let's talk about risks you will face and how to mitigate them.
