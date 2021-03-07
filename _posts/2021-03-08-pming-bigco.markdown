@@ -32,6 +32,6 @@ PM'ing at bigcos/late stage startups is mostly about risk mitigation. Let's talk
   - Your feature delivery is dependent on another team. They need to make changes to their API contract so that you can consume more fields. Have you got a written commitment from them? Do you know who is the PIC working on the change? Do you have a delivery deadline?
   - To avoid missing things, I make sure that there is an open item list to track all the dependencies. To avoid edge cases, I make sure we have covered all the states in a design spec and have an acceptance critaria list ready. To cover all tech changes, we write a tech spec. We also get stakeholders from Design and Security to give sign offs on big projects. Links to all of these are [here](https://manassaloi.com/2020/03/23/running-product-team.html).
 
-  **Note:** I talked about the risks to your job as PM at a big company, not about about product risks. If you want to read about the later, then go to this post: [The Four Big Risks by Marty Cagan](https://svpg.com/four-big-risks/).
+  **Note:** I talked about the risks you face as PM at a big company, not about product risks. If you want to read about the later, then go to this post: [The Four Big Risks by Marty Cagan](https://svpg.com/four-big-risks/).
 
   Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
