@@ -19,6 +19,7 @@ This will be the place where I link to all the gyaan on communication I have giv
 - [Driving consensus](https://manassaloi.com/2020/05/31/driving-consensus.html)
 - [The 5 min pause](https://manassaloi.com/2020/05/20/five-min-pause.html)
 - [Best practices for cross-team collaboration](https://manassaloi.com/2020/05/24/collaboration-checklist.html)
+- [Slack update](https://manassaloi.com/2021/03/09/slack-update.html)
 
 **Note:** I will keep expanding this list
 

@@ -41,6 +41,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Job of a PM](https://manassaloi.com/2021/01/10/PMs-do.html)
 - [First 90 days](https://manassaloi.com/2021/02/12/90-days.html)
 - [Playing the PM vs being one](https://manassaloi.com/2021/02/11/playing-being-PM.html)
+- [How to ask for a referral](https://manassaloi.com/2021/03/07/referral.html)
+- [PM'ing at a big company](https://manassaloi.com/2021/03/08/pming-bigco.html)
 
 ### Favourite books on Career
 
