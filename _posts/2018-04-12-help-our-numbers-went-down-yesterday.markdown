@@ -11,7 +11,9 @@ In this post I will teach you how to do an **RCA** (Root cause analysis). We use
 
 Say conversation hovered around X and due to some reason it dropped by 20% the day before. I would notice the drop in my daily morning metrics email and use the following process to figure out what went wrong:
 
-- First thing to check — **If there was any seasonal effect**. For most B2C businesses usage peaks during weekend as majority users are at home. While for B2B SaaS companies there is a drop as employees are not at work. It is stupid to compare Sunday’s data with Monday and feel bad if there was a drop in conversion. Or comparing numbers during Diwali week with the week after.
+- Check the source and the dashboard itself for errors. Only once you have confirmed the accuracy of the data move to the next steps.
+
+- Check for **seasonal effect**. For most B2C businesses usage peaks during weekend as majority users are at home. While for B2B SaaS companies there is a drop as employees are not at work. It is stupid to compare Sunday’s data with Monday and feel bad if there was a drop in conversion. Or comparing numbers during Diwali week with the week after.
 
 - In absence of any seasonal effect the next step is to check **if anything went wrong at our end.**
   - Was there any server downtime?
