@@ -5,7 +5,7 @@ title:  "Create your own Life Math Money account"
 
 Here is a guide on how to create your own anonymous life/fitness advice account on social media; what I call the Life Math Money guide:
 
-1. First question you should ask is How would you get distribution. Here distribution means how to do you access to potential followers. My advice would be to start replying to accounts like naval, the cortez guy, that boxer guy, or kasireddy. You you follow one of these accounts you would know who the rest of these folks are.
+1. First question you should ask is How would you get distribution. Here distribution means how to do you access to potential followers. My advice would be to start replying to accounts like naval, the cortez guy, that boxer guy, or kasireddy. If You follow one of these accounts, you will know who the rest of the folks are.
 
 2. Start summarising whatever they say. Since naval's is done, I would create a fan account/site of kasireddy or the boxer guy. Key is to get noticed by them. Start putting their quotes on a standalone site. It is the best investment you would make. Interview them and put it out. Key is to massage their ego. With time you would form and relationship with them and they would be more than willing to share your content. If they have 50K followers your goal should be to get at least 20% of their followers.
 
