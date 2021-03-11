@@ -23,4 +23,18 @@ This is mostly for Slack. For a more detailed email update, check out the templa
 
 More templates here: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html).
 
+If you are sending a general update, additional things to keep in mind:
+1. Ask yourself: Who is the stakeholder you are sending this for? The update for your CEO will look very different from someone you send to your team.
+2. Think if someone might have an issue with the points in the update. Follow [internal then external.
+  - Before sending an OKR update on behalf of your team, create a temporary slack channel and give people access for edit.
+  - Sometimes it is helpful to send a DM first to relevant stakeholders, collect feedback, before sending out an update to a larger group.
+3. Don't use abbreviations/words that people might not be aware of.
+4. Ask yourself: Is there a way this message can be misinterpreted?
+5. Anticipate the follow up questions that people might have.
+6. Make the call to action clear.
+7. Simplify.
+8. Information architecture is not relevant only for design, but also messages. Use proper IA.
+9. Follow pyramid structure.
+10. Put your answer at the top. Most busy stakeholders will just read the first paragraph and then skim the message.
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
