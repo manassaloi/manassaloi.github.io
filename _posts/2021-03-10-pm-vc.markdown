@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "PM'ing like a VC"
+---
+
+PM'ing like a VC:
+1. Manage a portfolio of features.
+2. Invest in new big bets that help in PM fit expansion.
+3. Double down on winning features.
+4. Cut your loss on losing bets/features and moving on.
+5. Avoid sunk cost fallacy.
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
