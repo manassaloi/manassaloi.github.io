@@ -25,7 +25,7 @@ More templates here: [How to run a product team](https://manassaloi.com/2020/03/
 
 If you are sending a general update, additional things to keep in mind:
 1. Ask yourself: Who is the stakeholder you are sending this for? The update for your CEO will look very different from someone you send to your team.
-2. Think if someone might have an issue with the points in the update. Follow [internal then external.
+2. Think if someone might have an issue with the points mentioned in the update or would want to add/edit the update. If yes, then follow [internal then external](https://manassaloi.com/2021/02/02/internal-external.html).
   - Before sending an OKR update on behalf of your team, create a temporary slack channel and give people access for edit.
   - Sometimes it is helpful to send a DM first to relevant stakeholders, collect feedback, before sending out an update to a larger group.
 3. Don't use abbreviations/words that people might not be aware of.
