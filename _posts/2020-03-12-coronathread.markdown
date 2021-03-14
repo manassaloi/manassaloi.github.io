@@ -12,13 +12,13 @@ Copy pasting the thread here with minor edits
 
 1/ If you are someone like me who is interested in 'business things', but can't imagine going to a B School, this is a must read
 
-[MBA Mondays](mba-mondays-illustrated.com) 
+[MBA Mondays](https://mba-mondays-illustrated.com/) 
 
 Had read a few of these but not all
 
 2/ When I started my career I was super confused between choosing Product and Growth roles. I used to read extensively on both, and Growthhackers was a must read site for me
 
-Need to catch up on the new studies here: [Growth Studies](growthhackers.com/growth-studies )
+Need to catch up on the new studies here: [Growth Studies](https://growthhackers.com/growth-studies)
 
 3/ Apart from the growth studies, you might want to read the most popular posts in this site
 
@@ -26,7 +26,7 @@ I have read till page 8: [Growth Hackers must read](http://growthhackers.com/mus
 
 4/ While doing this course on [designing experiments](https://www.coursera.org/learn/designexperiments/home/welcome), I got interested in Stats
 
-So I started reading posts from here: [Statttrek](stattrek.com)
+So I started reading posts from here: [Statttrek](https://stattrek.com)
 
 Might be worth doing both
 
@@ -81,7 +81,7 @@ Books to read if you want to understand Growth more
 
 25/ [Top 200 VC (Venture Capital) articles written on medium.com](https://medium.com/@baditaflorin/top-200-vc-venture-capital-articles-written-on-medium-com-until-jan-2017-with-links-db7a3ed7e587)
 
-26/ [The Fundamentals of Critical Reading and Effective Writing](criticalreading.com)
+26/ [The Fundamentals of Critical Reading and Effective Writing](https://criticalreading.com)
 
 27/ [Amazon's shareholder letters](https://www.linkedin.com/pulse/amazons-shareholder-letters-must-read-entrepreneurs-mangesh-bhamre/)
 
@@ -95,11 +95,11 @@ Books to read if you want to understand Growth more
 
 32/ [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware)
 
-33/ [TED Talks related to critical thinking](criticalthinking.fsu.edu/news/ted-talks/)
+33/ [TED Talks related to critical thinking](https://criticalthinking.fsu.edu/news/ted-talks/)
 
 34/ [Psychology of Intelligence Analysis by Richards J. Heuer, Jr.](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/index.html)
 
-35/ [RATIONALITY: A-Z](lesswrong.com/rationality)
+35/ [RATIONALITY: A-Z](https://lesswrong.com/rationality)
 
 36/ [25 Best Travel Movies Of All Time (Films That Will Inspire You To Travel)](https://www.imdb.com/list/ls070653194/)
 
@@ -117,7 +117,7 @@ Books to read if you want to understand Growth more
 
 [Matthew Ball](https://www.matthewball.vc/)
 
-[Dan Wang](danwang.co)
+[Dan Wang](https://danwang.co)
 
 42/ [The Fifth Elephant 2018](https://www.youtube.com/watch?v=NhBW05jdzpY)
 
@@ -131,7 +131,7 @@ Books to read if you want to understand Growth more
 
 47/ [How to Get Ideas and How to Measure - Stewart Butterfield & Adam D'Angelo](https://jotengine.com/transcriptions/Q0I0i33TaqCa9w4In0ZQCg)
 
-48/ [A HISTORY OF COMPUTER ENTERTAINMENT AND DIGITAL CULTURE BY JIMMY MAHER](filfre.net/sitemap/)
+48/ [A HISTORY OF COMPUTER ENTERTAINMENT AND DIGITAL CULTURE BY JIMMY MAHER](https://filfre.net/sitemap/)
 
 49/ [Aswath Damodaran's Valuation course](https://www.youtube.com/watch?v=znmQ7oMiQrM&list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9)
 
@@ -179,7 +179,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 70/ [10 books on how to effectively manage a remote team](https://medium.com/the-pm-library/10-books-on-how-to-effectively-manage-a-remote-team-b49b6fa14436)
 
-71/ [Gibson Biddle's talks and posts](gibsonbiddle.com/resources)
+71/ [Gibson Biddle's talks and posts](https://gibsonbiddle.com/resources)
 
 72/ [Essays on game design theory, art and the business of design](https://lostgarden.home.blog/)
 
@@ -213,7 +213,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 87/ [Game Theory (ECON 159)](https://www.youtube.com/watch?v=nM3rTU927io&list=PL6EF60E1027E1A10B)
 
-88/ [Insights on working with / for current / former management consultants](workingwithmckinsey.blogspot.com/?m=1)
+88/ [Insights on working with / for current / former management consultants](https://workingwithmckinsey.blogspot.com/?m=1)
 
 89/ [David Perrell's Writing Syllabus](https://www.perell.com/blog/my-writing-syllabus)
 
