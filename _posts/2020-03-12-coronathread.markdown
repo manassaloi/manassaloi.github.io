@@ -20,9 +20,7 @@ Had read a few of these but not all
 
 Need to catch up on the new studies here: [Growth Studies](https://growthhackers.com/growth-studies)
 
-3/ Apart from the growth studies, you might want to read the most popular posts in this site
-
-I have read till page 8: [Growth Hackers must read](http://growthhackers.com/must-read/page)
+3/ Apart from the growth studies, you might want to read the most popular posts in this site: [Growth Hackers](http://growthhackers.com/)
 
 4/ While doing this course on [designing experiments](https://www.coursera.org/learn/designexperiments/home/welcome), I got interested in Stats
 
