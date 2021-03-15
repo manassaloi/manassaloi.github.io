@@ -3,13 +3,13 @@ layout: post
 title: "Push > Pull"
 ---
 
-- Pushing data on Kafka > Exposing an API endpoint for consumption by another team
-- Getting automated email daily, with your most important metrics, on your inbox > You going to your dashboard to check data
-- Keeping the UI flexible so that you can push changes in layout from backend > Needing client release
-- Push notifications with your reminders/ calendar events > You having to check the app
-- Alert emails/calls when things break > You opening a dashboard and figuring it out after the outage happened
-- You pushing regular status updates > Your boss having to pull info from you
+- Pushing data on Kafka > Exposing an API endpoint for consumption by another team.
+- Getting automated email daily, with your most important metrics, on your inbox > You going to your dashboard to check data.
+- Keeping the UI flexible so that you can push changes in layout from backend > Needing client release.
+- Push notifications with your reminders/ calendar events > You having to check the app.
+- Alert emails/calls when things break > You opening a dashboard and figuring it out after the outage happened.
+- You pushing regular status updates > Your boss having to pull info from you.
 
-**Push > Pull**
+**Push > Pull**.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

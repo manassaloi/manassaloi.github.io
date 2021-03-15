@@ -3,7 +3,7 @@ layout: post
 title:  "Presidential briefings for key decisions"
 ---
 
-Presidential briefings for key decisions (back in the day) were 1 page with background, recommendation and 3 boxes on the bottom: yes/no/need more info. Here is a version from the Clinton library
+Presidential briefings for key decisions (back in the day) were 1 page with background, recommendation and 3 boxes on the bottom: yes/no/need more info. Here is a version from the Clinton library.
 
 ![Presidential briefings memo](/assets/img/presidential.png)
 
