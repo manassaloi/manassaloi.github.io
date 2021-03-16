@@ -15,11 +15,9 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 4. Someone who was a top writer on Quora used to mass follow accounts, get follows back, and then unfollow them. Most people won't remember to retaliate. Try this evergreen trick. What is old will be new again.
 
-5. Post saas facts. Always a winner.
+5. Post saas facts. Always a winner. People love saas. Always remember this.
   - [Hot company X] grew their users by [Y]. Only possible in software.
   - [Hot company X] grew their valuation by [Y]. Only possible in a remote-first world.
-
-People love saas. Always remember this.
 
 6. Why should the Pomp brothers have all the fun? Business lessons from sportsmen are taken? Why not share business lessons from musicians? Or business lessons from world leaders? Everyone loves business lessons. Don't spend hours researching. Just check Reddit. Tons of business stories there.
 
