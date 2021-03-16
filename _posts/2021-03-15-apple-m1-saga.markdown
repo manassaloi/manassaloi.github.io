@@ -26,7 +26,7 @@ I am not an idiot. I know 1st get hardware always has issues. I don't pre-order.
 
 So this was not a snap decision. Anyway, the Mac M1 comes. It is brilliant. Fast. The battery lasts 1.5 days. I tweet about it.
 
-Till now I know that there are issues with M1 if you use a 3rd party USB hub. Saw people raise concerns on swap memory use and it fucking up their hard disks. But it was a risk I was willing to take. I also don't have an external display. So I thought it would be okay. A couple of days later the problem starts. I start getting this popup. It is hard to reproduce but appears like a dozen times a day.
+Till now I know that there are issues with M1 if you use a 3rd party USB hub. Saw people raise concerns on swap memory use and it fucking up their hard disks. But it was a risk I was willing to take. I also don't have an external display. So I thought it would be okay. A couple of days later the problem starts. I start getting a random restart popup. It is hard to reproduce but appears like a dozen times a day.
 
 I reach out to Apple support. They have no clue. I google. See that other people have faced the [same issue]( https://discussions.apple.com/thread/252249950). BTW this is not the only random restart issue. The M1 is plagued with hardware issues around restart. Just check out Reddit. I get scared.
 
