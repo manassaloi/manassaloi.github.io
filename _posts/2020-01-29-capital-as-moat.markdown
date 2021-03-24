@@ -3,7 +3,7 @@ layout: post
 title:  "Capital as a Moat"
 
 ---
-I wrote a thread recently on why capital as a moat strategy does not work. Turning it into a blogpost (with some minor edits)
+I wrote a thread recently on why capital as a moat strategy does not work. Turning it into a blogpost (with some minor edits).
 
 **/threadstarts**
 
