@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things a Little Bird Told Me - Biz Stone,"
+title:  "Things a Little Bird Told Me - Biz Stone"
 tags: booksummaries
 categories: booksummaries
 
