@@ -90,6 +90,8 @@ I read them long back. Have to re read and take notes.
 - [The What, Who, How, and Why](https://hbr.org/2007/09/demystifying-strategy-the-what)
 - [The Category Design Scorecard](https://categorypirates.substack.com/p/the-category-design-scorecard)
 - [Strategy as Problem-Solving](https://medium.com/the-innovation/strategy-as-problem-solving-5c6fb9291d87)
+- [Lenny's workshop on product strategy & vision](https://mobile.twitter.com/ahuja_karan/status/1372698928274046978)
+- [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 
 Masterclass I did on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
 
