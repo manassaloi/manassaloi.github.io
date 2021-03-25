@@ -61,8 +61,8 @@ I used to consider myself lucky tbh. Most of my electronics purchases have been 
 
 Like Poker, purchases also evens out it seems ;)
 
-**Update on 25th March 2021:** My M1 is still not fixed. It has been 1.5 months, 3 visits  to the service center, and dozens of calls with Apple Support. 6 visits if you count both submitting and collecting the laptop back separately. Now they are asking me to visit the service center again for the 4th time without a guarantee that this issue will be fixed if I go there. Note that there is a pandemic going on. Also, I have purchased AppleCare+ for 3 years. I have just given up at this point. They are just gaslighting me.
+**Update on 25th March 2021:** My M1 is still not fixed. It has been 1.5 months, 3 visits  to the service center, and dozens of calls with Apple Support. 6 visits if you count both submitting and collecting the laptop back separately. Now they are asking me to visit the service center again for the 4th time without a guarantee that this issue will be fixed if I go there. Note that there is a pandemic going on. Also, I have purchased AppleCare+ for 3 years. I have just given up at this point.
 
-Bonus: The latest person who contacted me from Apple Support is now saying that PlanetCare had in fact replaced my Logic board and Touchid. There is no consistency amongst these support staff. All of them are saying different things, each time I get on a call with them. It is astounding how bad Apple Support is.
+Bonus: The latest person who contacted me from Apple Support is now saying that PlanetCare had in fact replaced my Logic board and Touchid. There is no consistency amongst these support staff. All of them are saying different things, each time I get on a call with them. Basically, just gaslighting me. It is astounding how bad Apple Support is.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
