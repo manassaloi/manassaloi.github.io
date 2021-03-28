@@ -3,9 +3,11 @@ layout: post
 title:  "How to grow Ola"
 ---
 
-Disclaimer: I don't have any inside info of Ola. This is a basic framework for growing any on demand ride hailing product.
+**Disclaimer:** I don't have any inside info of Ola. This is a basic framework for growing any on-demand ride hailing product.
 
 If I was the CEO of Ola, here is how I would think about growing Ola's revenue. Growth can either be [1% experiments or big bets](https://manassaloi.com/2020/12/17/experiments-bigbets.html), but finally it all boils down to the following framework. Don't bother about the exact ideas below. Those are just placeholders.
+
+Let's start.
 
 Revenue growth = Order Growth * Ticket size expansion
 
