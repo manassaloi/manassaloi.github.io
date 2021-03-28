@@ -35,10 +35,7 @@ Product funnel conversion = EBCR and BCR improvement from X to Y
 - Homepage experiments
 - Vouchers
 
-EBCR = Estimate screen to Confirm booking conversion
-BCR = Booking confirmed to Booking completed conversion
-X = Current conversion %
-Y = Conversion % we want to reach
+EBCR = Estimate screen to Confirm booking conversion, BCR = Booking confirmed to Booking completed conversion, X = Current conversion %, Y = Conversion % we want to reach.
 
 User funnel conversion = How to improve % of power users
 - Better targeting through vouchers
