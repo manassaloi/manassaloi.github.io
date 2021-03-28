@@ -4,9 +4,9 @@ title: "Learning Football"
 
 ---
 
-I have been watching football since 2002. My dad got cable TV to watch the world cup in the summer but forgot to disconnect after that. I have been playing Fifa since FIFA 2000. One thing I never did though was learn to play football well. Do deep into the tactics as well as develop the stamina and skills to play football on a regular basis
+I have been watching football since 2002. My dad got cable TV to watch the world cup in the summer but forgot to disconnect after that. I have been playing Fifa since FIFA 2000. One thing I never did though was learn to play football well. Do deep into the tactics as well as develop the stamina and skills to play football on a regular basis.
 
-2020 is the year I hope to change that
+2020 is the year I hope to change that.
 
 So, how do you learn how to play football?
 
@@ -59,7 +59,7 @@ Here is how I have broken my program
   - Feedback from teammates
   - Game analysis
 
-Collection of tips based on browsing r/bootroom, youtube videos, watching top players play, talking to my teammates
+Collection of tips based on browsing r/bootroom, youtube videos, watching top players play, talking to my teammates.
 
 ### Fitness  
 - Speed

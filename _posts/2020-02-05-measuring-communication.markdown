@@ -4,7 +4,7 @@ title: "Measuring communication"
 
 ---
 
-Communication is one of the things I talk and tweet about the most. [It is also the area where I am trying to become better](https://manassaloi.com/2019/08/11/20-lessons-gojek.html). If you are trying to improve in anything, the first task should be to figure out how to measure it
+Communication is one of the things I talk and tweet about the most. [It is also the area where I am trying to become better](https://manassaloi.com/2019/08/11/20-lessons-gojek.html). If you are trying to improve in anything, the first task should be to figure out how to measure it.
 
 **Here is how I am measuring my communication skills at work:**
 

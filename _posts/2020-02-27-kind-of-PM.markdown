@@ -4,9 +4,9 @@ title: "What kind of PM do you want yourself to be known as?"
 
 ---
 
-"What kind of PM do you want yourself to be known as here at Gojek?" This is a question my manager asked during a 1-1 I had with him a year back
+"What kind of PM do you want yourself to be known as here at Gojek?" This is a question my manager asked during a 1-1 I had with him a year back.
 
-My answer to his question as far as I remember was "Someone who has a high bias for action, good with data, and design"
+My answer to his question as far as I remember was "Someone who has a high bias for action, good with data, and design".
 
 His follow up question to that was "What are you doing this quarter to justify that reputation?"
 
