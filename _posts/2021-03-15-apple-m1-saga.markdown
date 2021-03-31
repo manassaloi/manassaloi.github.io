@@ -28,7 +28,7 @@ So this was not a snap decision. Anyway, the Mac M1 comes. It is brilliant. Fast
 
 Till now I know that there are issues with M1 if you use a 3rd party USB hub. Saw people raise concerns on swap memory use and it fucking up their hard disks. But it was a risk I was willing to take. I also don't have an external display. So I thought it would be okay. A couple of days later the problem starts. I start getting a random restart popup. It is hard to reproduce but appears like a dozen times a day.
 
-I reach out to Apple support. They have no clue. I google. See that other people have faced the [same issue]( https://discussions.apple.com/thread/252249950). BTW this is not the only random restart issue. The M1 is plagued with hardware issues around restart. Just check out Reddit. I get scared.
+I reach out to Apple support. They have no clue. I google. See that other people have faced the same issue [here](https://discussions.apple.com/thread/252249950) and [here](https://forums.macrumors.com/threads/macbook-air-m1-touch-id-wake-up-issue.2276820/page-2?post=29555181#post-29555181). BTW this is not the only random restart issue. The M1 is plagued with hardware issues around restart. Just check out Reddit. I get scared.
 
 For me, I get this prompt, but the laptop does not restart. I know there has to be a deeper issue. Apple support tells me to do an SMC reset.
 
