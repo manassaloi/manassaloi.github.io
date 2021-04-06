@@ -4,7 +4,7 @@ title: "Why I might never apply for a job at Google"
 
 ---
 
-One of the reasons why I will never apply for a job at Google or Facebook: I just can't push myself to prepare data structures and algorithm for their tech interview round.
+One of the reasons why I will never apply for a job at Google: I just can't push myself to prepare data structures and algorithm for their tech interview round.
 
 Mugging up how to traverse a red black tree did not make much sense to me when I was a dev, and it does not make sense now, with me being a PM with more than half a decade of experience in building Products. Also, you can just open Cormen and look up any data structure you want to implement.
 
