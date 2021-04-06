@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I might never apply for a job at Google or Facebook"
+title: "Why I might never apply for a job at Google"
 
 ---
 
@@ -14,6 +14,6 @@ Would I like to work at Google someday? Sure.
 
 Am I willing to, or even capable of practicing Data Structures and algorithm questions for 2 months? Don't think so.
 
-Massive respect for people who can do that though. It is not easy. 
+Massive respect for people who can do that though. It is not easy.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
