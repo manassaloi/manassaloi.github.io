@@ -52,6 +52,10 @@ I never really understood the definition of gaslighting until this ordeal starte
 
 **Update on 6th April 2021:** I am planning to get the laptop back. It has been more than 2 months since I bought this laptop; have barely used it. I will consider 1.2L, the amount I paid, as money gone down the drain. I am happy that I did not get sucked more into the Apple ecosystem. I was even planning to buy an iPhone post my Macbook purchase. Why? Because then I could get an Apple watch and track my health stats. Thanks to Narayana for saving me.
 
+**Update on 6th April 2021:** Got my Laptop back. PlanetCare refused to accept that there is an issue with the laptop and told me to come and take the laptop home. They had kept the laptop for 10 days and apparently they could not replicate the restart popup issue. I take the laptop. Turn it back from sleep. This is what I see.
+
+![Planet proof](/assets/img/planetproof.png)
+
 **Lessons learned:**
 1. AppleCare+ is useless here in India. I paid 22K for nothing.
 2. Apple Support has no power. They will just direct you to the nearest reseller doubling up as service center. It is up to the service center to decide whether they want to help or not.
