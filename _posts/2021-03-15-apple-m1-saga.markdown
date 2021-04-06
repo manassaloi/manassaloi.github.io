@@ -11,6 +11,8 @@ I get the Mac M1 after months of going through 100+ YouTube videos + dozens of R
 
 A couple of days later the problem starts. I start getting a random restart popup. It is hard to reproduce but appears erratically - sometimes a dozen times a day, and sometimes just a couple of times.
 
+![Random restart](/assets/img/randomrestart.png)
+
 I reach out to Apple support. They have no clue. I google and see that other people have faced the same issue [here](https://discussions.apple.com/thread/252249950) and [here](https://forums.macrumors.com/threads/macbook-air-m1-touch-id-wake-up-issue.2276820/page-2?post=29555181#post-29555181).
 
 For me, I get this prompt, but the laptop does not restart. I know there has to be a deeper issue. Apple support told me to do an SMC reset.I do that but it did not help. I get on a call with 2-3 different Apple support representatives, no one could figure out where the real problem is. Is it hardware, is it software?
