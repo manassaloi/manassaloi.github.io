@@ -44,15 +44,16 @@ Bonus: The latest person who contacted me from Apple Support is now saying that 
 
 I never really understood the definition of gaslighting until this ordeal started. It is amazing how people still buy such expensive hardware from Apple.
 
-**Update on 6th April 2021:** I am planning to get the laptop back. It has been more than 2 months since I bought this laptop; have barely used it. I will consider 1.2L, the amount I paid, as money gone down the drain. I am not buying more products from the Apple ecosystem till they don't set up dedicated Apple stores.
+**Update on 6th April 2021:** I am planning to get the laptop back. It has been more than 2 months since I bought this laptop; have barely used it. I will consider 1.2L, the amount I paid, as money gone down the drain. I am happy that I did not get sucked more into the Apple ecosystem. I was even planning to buy an iPhone post my Macbook purchase. Why? Because then I could get an Apple watch and track my health stats. Thanks to Narayana for saving me.
 
-Lessons learned:
+**Lessons learned:**
 1. AppleCare+ is useless here in India. I paid 22K for nothing.
 2. Apple Support has no power. They will just direct you to the nearest reseller doubling up as service center. It is up to the service center to decide whether they want to help or not.
 3. These local technicians are the worst. They have no engineering accumen. They will either recommend: part replacement, without understanding the root issue or reinstall the OS.
 4. There is no SLA for fixing an issue you face in the Apple ecosystem. Be prepared to run from one service center after another, get gaslit by both Apple support and these third party service centers.
 5. Apple online support is full of low agency Indian call center employees with slightly better English speaking skills. Don't expect any technical support.
-6. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
+6. There is no escalation matrix for Apple. I have talked to half a dozen support staff over chat, and another dozen support agents over call. Inspite of me requesting them to escalate the issue to someone senior, they refused. I had to explain the same issue each time I went into a call with someone from Apple support.
+7. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
 
 ![Tim Apple](/assets/img/timapple.png)
 
