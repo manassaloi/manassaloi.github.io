@@ -57,8 +57,10 @@ I never really understood the definition of gaslighting until this ordeal starte
 4. There is no SLA for fixing an issue you face in the Apple ecosystem. Be prepared to run from one service center after another, get gaslit by both Apple support and these third party service centers.
 5. Apple online support is full of low agency Indian call center employees with slightly better English speaking skills. Don't expect any technical support.
 6. There is no escalation matrix for Apple. I have talked to half a dozen support staff over chat, and another dozen support agents over call. Inspite of me requesting them to escalate the issue to someone senior, they refused. I had to explain the same issue each time I went into a call with someone from Apple support.
-7. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
+7. Don't buy first generation software without reading enough reviews. I pity the people who will buy the first Apple cars. They will probably see some random popup, crash their car, and get killed. And Apple Support will mark that as an expected user behavior and close the case.
+8. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
 
 ![Tim Apple](/assets/img/timapple.png)
+
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
