@@ -17,7 +17,7 @@ I reach out to Apple support. And from here the Kafkaesque nightmare begins.
 
 They have no clue. I google and see that other people have faced the same issue [here](https://discussions.apple.com/thread/252249950) and [here](https://forums.macrumors.com/threads/macbook-air-m1-touch-id-wake-up-issue.2276820/page-2?post=29555181#post-29555181).
 
-For me, I get this prompt, but the laptop does not restart. I know there has to be a deeper issue. Apple support told me to do an SMC reset.I do that but it did not help. I get on a call with 2-3 different Apple support representatives, no one could figure out where the real problem is. Is it hardware, is it software?
+For me, I get this prompt, but the laptop does not restart. I know there has to be a deeper issue. Apple support told me to do an SMC reset. I do that but it did not help. I get on a call with 2-3 different Apple support representatives, no one could figure out where the real problem is. Is it hardware, is it software?
 
 Apple Support requests me to the go to the nearby Planetcare. There they claim it is a software issue and that it can be fixed easily.
 
@@ -56,7 +56,7 @@ I am planning to get the laptop back. It has been more than 2 months since I bou
 
 ![Planet proof](/assets/img/planetproof.png)
 
-Instead of fighting more, I just decided to cut my loss and come back home.
+Note: They had claimed that they could not reproduce the pop up inspite of keeping my laptop for 10 days. Instead of fighting more, I just decided to cut my losses and come back home.
 
 **Lessons learned:**
 1. AppleCare+ is useless here in India. I paid 22K for nothing.
@@ -65,7 +65,7 @@ Instead of fighting more, I just decided to cut my loss and come back home.
 4. There is no SLA for fixing an issue you face in the Apple ecosystem. Be prepared to run from one service center after another, get gaslit by both Apple support and these third party service centers.
 5. Apple online support is full of low agency Indian call center employees with slightly better English speaking skills. Don't expect any technical support.
 6. There is no escalation matrix for Apple. I have talked to half a dozen support staff over chat, and another dozen support agents over call. Inspite of me requesting them to escalate the issue to someone senior, they refused. I had to explain the same issue each time I went into a call with someone from Apple support.
-7. Don't buy first generation software without reading enough reviews. I pity the people who will buy the first Apple cars. They will probably see some random popup, crash their car, and get killed. And Apple Support will mark that as an expected user behavior and close the case.
+7. Don't buy first generation software without reading enough reviews.
 8. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
 
 ![Tim Apple](/assets/img/timapple.png)
