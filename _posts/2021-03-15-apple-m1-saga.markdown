@@ -70,5 +70,6 @@ Note: They had claimed that they could not reproduce the pop up inspite of keepi
 
 ![Tim Apple](/assets/img/timapple.png)
 
+**Update on 8th April 2021:** I got a call from from Tim Cook's executive liason. He offered to own the case and helped me get the Topcase replaced. Since I have visited the service center 4 times and don't want to go again for the 5th time, that too at a time when there might be more stringent Covid restrictions coming. I've decided to just keep the laptop as it is for now. I have disabled touchid that was causing the issue and will be replacing the top case in a few months when the Covid situation gets better. I am surprised that emailing the CEO approach actually worked. There is some good left in this world :)
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
