@@ -24,7 +24,7 @@ I was obsessed with Zynga Poker when I was in college. Every morning I would wak
 
 - One of the main aspects of playing Poker is mastering the mental side: Avoiding tilt, learning from your mistakes, realizing that the Gita teaching "karm kar without focussing on results" is true both in Poker and in life. For this, I recommend reading: [The Mental Game of Poker - Barry Carter, Jared Tendler](https://manassaloi.com/booksummaries/2017/05/11/mental-game-poker-jared-tendler.html).
 
-- Bad beats will happen. That is part of the game. But you can't change your strategy based on how the last hands went. AA shove might run into a J2 flush and lose out. Does not mean that it was a bad play. Believe in the math. Believe in your own strategy.
+- Bad beats will happen. That is part of the game. But you can't change your strategy based on how the last hands went. AA shove might run into a J2 flush and lose out. Does not mean that it was a bad play. Believe in the math. Believe in your own strategy. I also read [Blackrain79's Massive Profit at the Micros](https://manassaloi.com/booksummaries/2020/12/28/micros-profit-blackrain.html).
 
 - If you are a beginner you need to track your performances and see how you are faring. Here are 3 sheets I maintained.
 
