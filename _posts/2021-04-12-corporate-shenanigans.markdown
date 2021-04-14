@@ -12,4 +12,6 @@ As a startup scales and matures, a lot of builders get replaced by seasoned poli
 
 We don't have an answer. Yet.
 
+Maybe 'if you can't beat them, join them' is the only optimal strategy at this point.
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
