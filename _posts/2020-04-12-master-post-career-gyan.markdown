@@ -43,6 +43,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Playing the PM vs being one](https://manassaloi.com/2021/02/11/playing-being-PM.html)
 - [How to ask for a referral](https://manassaloi.com/2021/03/07/referral.html)
 - [PM'ing at a big company](https://manassaloi.com/2021/03/08/pming-bigco.html)
+- [Exit and entry](https://manassaloi.com/2021/04/14/exit-entry.html)
+- [Managing other PMs](https://manassaloi.com/2021/04/16/managing-PMs.html)
 
 ### Favourite books on Career
 
