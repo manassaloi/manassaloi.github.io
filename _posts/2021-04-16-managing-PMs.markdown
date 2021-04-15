@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Managing other PMs"
+title:  "Managing PMs"
 ---
 
 I have been a people manager before. I have led growth teams, I have even had developers report to me on occasion, but I have never been a full-time PM Manager without having any IC responsibility. Since last year, I have been mostly managing PMs. Some of the things I have learned to do:
