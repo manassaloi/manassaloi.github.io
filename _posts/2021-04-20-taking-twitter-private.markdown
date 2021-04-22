@@ -9,9 +9,7 @@ So, adding my thoughts on me being "tone deaf":
 
 1. Once upon a time I used to be this internet warrior, posting all about Modi and the Government and how everything sucks. It helped me get likes. A lot of people laughed, but it did fuck all. I know I can stop tweeting about everything else in my life, and just shit on how the situation is so badly managed. Share thought leadership on the covid situation, but I don't know enough to add my 2c.
 
-2. I thought going off Twitter would help. Hence for 2 weeks, I did not even come here. I don't follow people, even through lists. But I don't need to read social media to know the situation is bad. My brother works in the civil services back in Assam. My mom's a doctor. The situation scares me. Every day someone or the other is getting covid. My main distraction: going out to play football is gone thanks to this lockdown. Some people doom scroll, get pissed at everything but I like to focus on what I can control.
-
- I don't read the news.
+2. I thought going off Twitter would help. Hence for 2 weeks, I did not even come here. I don't follow people, even through lists. But I don't need to read social media to know the situation is bad. My brother works in the civil services back in Assam. My mom's a doctor. The situation scares me. Every day someone or the other is getting covid. My main distraction: going out to play football is gone thanks to this lockdown. Some people doom scroll, get pissed at everything but I like to focus on what I can control. I don't read the news too.
 
 3. Forgive me for being selfish and cracking a few jokes. Or talking about startups or product management. I know your method of dealing with the situation might be different. Do what makes sense to you.
 
