@@ -49,6 +49,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 
 ## Product development, Research & Design
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
+- [One level up](https://manassaloi.com/2021/04/18/one-level-up.html)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Work backwards](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
 - [Data informed, not driven](https://manassaloi.com/2020/03/02/data-driven.html)
