@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 36 Frameworks for your professional life"
+title:  "[Frameworks] 46 Frameworks for your professional life"
 
 ---
 
@@ -77,6 +77,27 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 35. [Signal to noise ratio](https://paygo.media/p/25171); Why did the Wave founder leave Google?
 
 36. [Surround yourself with the smartest people](https://kristinasimmons.medium.com/a-few-lessons-from-vinod-khosla-621dd7b38e62); Surround yourself with the people you can learn from at the fastest pace.
+
+37. [Working on the wrong thing](https://mobile.twitter.com/Julian/status/1384971872928944129); What made Julian Shapiro decided decide to not startup again.
+
+38. [Focus on meta skills](https://www.forcingfunction.com/articles/play-to-win); The most important skills for winning in poker are not about playing poker.
+
+39. [Ask who your backers are](https://davidhoang.substack.com/p/who-are-your-backers); David Hoang reflects on the people in his corner.
+
+40. [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/); The problem with fast, accurate data.
+
+41. [Your product is your garden](https://herman.bearblog.dev/my-product-is-my-garden/); Teat it like one.
+
+42. [Forget Passion, Focus on Surfing](https://willlawrence.substack.com/p/forget-passion-focus-on-surfing-); Chase Big Waves.
+
+43. [World Building](https://alexdanco.com/2021/04/10/world-building/); Everyone’s job is world-building, even if they don’t realize it.
+
+44. [Spotting Pivotal Jobs](https://willlawrence.substack.com/p/spotting-pivotal-jobs-); Use the Pivotal Growth Model to identify key career opportunities.
+
+45. [From Listening Tour to State of the Union](https://debliu.substack.com/p/from-listening-tour-to-state-of-the); Lessons in onboarding to a new job.
+
+46. [Learn or earn](https://mobile.twitter.com/garrytan/status/1377661970178973696); Both is best. But if it's neither, quit.
+
 
 **Note:** I will keep expanding this list
 
