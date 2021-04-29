@@ -6,6 +6,7 @@ title:  "VC investment theses"
 Investment theses and ideas:
 
 - New Zealand - [Andrew Wilkinson](https://twitter.com/awilkinson/status/1216459257085743104?lang=en)
+- Airport businesses - [Andrew Wilkinson](https://youtu.be/thN8VLUMOHY?t=2383)
 - Butter thesis - [USV](https://www.theslowhunch.net/2019/the-butter-thesis/)
 - Remote control for life - [Matt Cohler](https://techcrunch.com/2012/09/21/great-mobile-apps-are-remote-controls-for-real-life/)
 - Product innovation or GTM innovation - Unknown
