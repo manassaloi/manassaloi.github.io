@@ -24,7 +24,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 - [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
 
-## (People I learn from)
+## (People I follow)
 
 - **Elad Gil. [http://blog.eladgil.com/](https://t.co/mPd6SDxyMV)**
   - fav: [How To Win As Second Mover](http://blog.eladgil.com/2012/10/how-to-win-as-second-mover.html)
@@ -179,6 +179,14 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Hey Designer](https://heydesigner.com/)
 
 - [Minimum Viable Publication](https://mvpublication.com/issues/)
+
+- [Bookbear Express by Ava](https://ava.substack.com/)
+
+- [Perspectives by Deb Liu](https://debliu.substack.com/)
+
+- [Chinese Characteristics](https://lillianli.substack.com/)
+
+- [Product Life by Will Lawrence](https://willlawrence.substack.com/)
 
 ## (Podcasts I listen to)
 
