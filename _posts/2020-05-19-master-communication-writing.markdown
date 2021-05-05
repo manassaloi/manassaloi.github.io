@@ -21,6 +21,7 @@ This will be the place where I link to all the gyaan on communication I have giv
 - [Best practices for cross-team collaboration](https://manassaloi.com/2020/05/24/collaboration-checklist.html)
 - [Slack update](https://manassaloi.com/2021/03/09/slack-update.html)
 - [Running a productive meeting](https://manassaloi.com/2021/03/11/running-meeting.html)
+- [Running a project better](https://manassaloi.com/2021/05/04/running-project-better.html)
 
 **Note:** I will keep expanding this list
 
