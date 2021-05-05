@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking my Twitter private"
+title:  "Fast paced non fiction recommendations"
 ---
 
 Fast paced, highly entertaining non fiction books that I loved reading:
@@ -19,7 +19,7 @@ Fast paced, highly entertaining non fiction books that I loved reading:
 
 7. [Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork by Reeves Wiedeman](https://goodreads.com/book/show/54502643-billion-dollar-loser)
 
-8. [The New New Thing: A Silicon Valley Story by Michael Lewis]https://goodreads.com/book/show/17986421-the-new-new-thing)
+8. [The New New Thing: A Silicon Valley Story by Michael Lewis](https://goodreads.com/book/show/17986421-the-new-new-thing)
 
 9. [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio García Martínez](https://goodreads.com/book/show/28259132-chaos-monkeys)
 
