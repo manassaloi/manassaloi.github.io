@@ -30,9 +30,9 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 9. Become the mega supporter of a popular account. Always reply to their tweets. See ParikPatelCFA and Chamath. You know a lot of people love and hate Chamath equally. So his posts will always get massive distribution. Use a popular account for your own growth.
 
-10. Remember the first hack about creating a bot? Too lazy? Then just tweet out content by popular accounts. Remember to tag them.
+10. Remember the first hack about creating a bot? Too lazy? Then just tweet out content by popular accounts. Remember to tag them. Template: [Truism or popular thought attributed to some thought leader] - [Thought leader name tagged].
 
-Template: [Truism or popular thought attributed to some thought leader] - [Thought leader name tagged].
+11. Acquire an imaginary 2 year old to have deep conversations with that you can share on LinkedIn later.
 
 These are the 10 hacks. Try them for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
