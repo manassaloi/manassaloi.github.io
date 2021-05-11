@@ -22,4 +22,6 @@ Lessons learned from my 2021 Fifa journey:
 3. Know why you started something in the first place.
 4. It is stupid to get upset and break controllers because a few pixels on the screen did not go where you wanted them to.
 
+**Update:** I installed FIFA again because I needed a distraction during the new lockdown in Bangalore. And this time I actually won Division 1.
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
