@@ -1,0 +1,167 @@
+---
+layout: post
+title:  "Bangalore food recommendations"
+---
+
+I had posted the following on Twitter: If you had to order just one dish from any place in Bangalore, what would that be? Looking for recommendations.
+
+Got tons of replies. Compiling this list so that you all never run out of ideas! I know a lot of people requested me to not delete the thread, but sadly that is not something I can do. But you can bookmark this blogpost instead :)
+
+- Brick Oven - Pizza
+- Bombay Brasserie - Indian
+- Nasi n Mee - Asian
+- Boneless chicken biryani from Meghana Koramangala
+- The Fatty Bao - Char Siu Pork Baos & Lemon Cheesecake
+- Taiki - California & Philadelphia rolls (sushi)
+- Pasta Street - Chicken Al Pomodoro
+- The Potbelly Cafe - Fish / Chicken Biryani
+- Nagarjuna - Chicken biryani
+- Leon Grill - chicken fillet burger
+- Tom's - Tom's special chicken curry + Appam
+- Sodabottleopenerwala - Salli boti and pav
+- Bombay brassiere - Bread pudding
+- Paris Panini - Hugo + onion rings
+- Bharatiya Jalpan - Dahi papdi chaat
+- From nearest darshini - Masala dosa
+- Permit Room - Hyderabadi chicken curry + Dosa
+- Sly granny - Arabiata pasta
+- Third wave - Basque cheesecake
+- Tandoori Taal - Chicken tikka masala + Naan/biryani rice
+- A2B - Idli vada
+- Al-Amanah - Chicken crispy roll
+- Chung's - Hunan chicken + Burnt garlic fried rice
+- Zaitoon - Effa Dajaj or anything middle eastern
+- Smoor - Desserts
+- Sethi's Homemade kitchen Indiranagar - Homemade North Indian food
+- Third wave coffee roasters - Masala egg bun
+- Little Italy - 11” Sicilia pizza
+- Paris Panini French street food - Sophie
+- Smoor - Burnt chilli fried rice (Prawns)
+- Whitefeild Socials - Achari Basa
+- The whole in the wall cafe - Masala Bombay toast, French toast
+- Vasudev Adigas - Idly vade sambhar dippaa
+- Mysuru Coffee Thindi - Enne benne tuppa beda masala dose
+- Chinita - Soyrizo Vegan Burrito with mushrooms.
+- HSR High Street- Podi Dosa and Idly
+- Brahmins- Idli
+- Meghana’s and nagarjuna- Biriyani
+- Sea rock - Literally anything
+- Hyderabad Biryaani House, Victoria layout - Chicken Biryani
+- Hotel Tom’s - Chicken ghee roast and appams/parottas
+- Zaitoon - Effa Dajaj or anything middle eastern
+- Smoor - Desserts
+- Sethi's Homemade kitchen Indiranagar - Homemade North Indian food
+- ITC Windsor - North Indian! (THE daal bhukara)
+- Green Theory - Vegan
+- Burma Burma - Samosa soup and Mango Salad
+- Street Storyss - Rajma Khichdi
+- Goila Butter Chicken - The namesake
+- Sanchez for the Tres Leches, Chianti for the tiramisu!
+- The Permit Room - Beef fry on coin parottas, Paati's magic rasam.
+- Arogya aahara - Masala dosa, vada, coffee
+- Kunafa World - Classic cream Kunafa
+- Chianti - Spinach ravioli in sage butter sauce, prawns in garlic butter, tiramisu
+- Nagarjuna - Biryani and chicken 65.
+- Tarbouche - Chicken whole meat platter.
+- Sangam Sweets - Kachori, other namkeens (this one's a secret and I'm making a big leap sharing it with the world lol).
+- Fresh Pressery - Avocado chicken sandwich.
+- Leon Grill - Burger combo 4 (hidden gem)
+- Candice's Gourmet Sandwiches - any of the Banh Mi variants
+- Hae Kum Gang - Gimbap
+- Chinita - Fish grilled tacos, horchata and flan (a dream meal). Or the prawn chinita salad.
+- The Hole in the Wall cafe - lemon cream waffles.
+- Arogya Ahaara - Dosa, Idli & Vada Face savouring food
+- Portland Steak House/The Only Place - Chateaubriand Supreme
+- The Permit Room - Okra podu chips
+- The Pump House - Tawa fish fry
+- India Coffee House - Mutton cutlet
+- Natraj - Chhole bhature
+- Anand Sweets - Sooji gol gappe
+- Milano - Dark chocolate gelato
+- Beijing Bites - Fried paneer momos (fried key)
+- Five Star Chicken - Masala fries (yes)
+- Chaayos - Desi chai, add adrak tulsi kali mirch
+- Happy Belly Bakes - Salted caramel chocolate / ferrero cake
+- Bhartiya Jalpan - Chole Bhature/Pani Puri
+- Shanghai Court - Veg Chilli Chowmein
+- Meghana Biryani - Aloo Dum/Egg Biryani
+- The Nosh House - Mushroom Aglio Olio
+- Mumbai Tiffin - Thali
+- Cream Stone - Ferrero Rocher
+- Claytopia - Tukpa
+- Polar Bear - Death by Chocolate
+- Vidhyari bhavan - Dosa
+- CTR - Dosa
+- Corner house - Hot chocolate fudge/ DBC
+- Pasta street - Pasta
+- Truffles - multiple dishes
+- Little Italy - Pasta del Barone (pink sauce pasta)  
+- Dofu - Boba cheesecake  
+- Chez Marianick - Pizza
+- Mumbai Tiffin - Aloo Paratha
+- Sharief Bhai - Briyani
+- Habibi Falafel - Hummus and veggies roll
+- New Shanthi Sagar (Domlur): Rawa onion dosa and musambi juice
+- Fatty bao - Fatty pho
+- Suryawanshi - Fish thali, keema pao, misal pao
+- Nagarjuna - Pepper mutton/chicken
+- Bhojohori manna - Kosha magsho, luchi, any fish and rice thali, pabrai nolengur er icecream
+- Kota kachori - Aloo pyaaz kachori, chaat
+- Truffles - All american cheese burger XL
+- Zeeshan - Biryani
+- Toscano - Lemon grilled basa
+- Karama - KarachiNaan/TawaMurgh
+- Shivajji military hotel - Karnataka donne style
+- Boring institute - Biryani
+- Mumbai Xpress - Bindaas Bombay Burger
+- Aligarh House - Very underated but very good Kashmiri food and Biryani
+- Cafe Soy - Asian food
+- Andhra Gunpowder - Andhra food
+- Petuk - Bengali food
+- The Circle Dream - Pizza
+- Chinita - Tacos
+- Burger Signeur - Burgers
+- Maa Di Hatti - Roti and paneer curries. 
+- Anand Sweets - Purani Dilli
+- Itsah - Shwarma
+- Mumbai XpressFor - Bindaas Bombay Burger
+- HSR High Street/Anjappar/Hotel Junior Kuppanna/Potful(Claypot Biriyani was novel)/Shanmukha - Biriyani
+- For very spicy Biriyani - Nizam's Kitchen
+- For Andhra Non Veg meals - Andhra Gunpowder
+- Permit Room - Haleem Samosa
+- Fenny’s - Onion Glazed Chicken / Caramel Pudding
+- Brik Oven - Seafood Pizza
+- Bombay Brasserie - Prawn Mango Curry
+- God’s own café (shut) - Prawn Ghee Roast
+- Asia Kitchen - Chinese
+- Cakewala- Dahi Puff
+- Puchkas- Chaat / Tandoori Momos
+- Homms - Whacky Momos
+- Kairali - Fish curry rice / Fried Fish
+- Dindigul Thalappakatti / Mani’s - Biryani
+- Leon’s - Peri Peri Chicken Salad
+- Punjabi Rasoi - Afghani Chicken
+- Kapoor’s / Murali’s (closed) - Chole Bhatura
+- Shubh - Jalebi Rabri
+- Khawa Karpo - Thupka
+- La-Pinoz - Pizza
+- Shree Khana Khazana - Ghar ka khana
+- MTR indranagar - wheat dosa Grinning face with smiling eyes
+- LaPinoz - Cheezy7 Pizza
+- HaveMore, new BEL Road - Dahi Bhalla
+- Box8 - Moongdal halwa
+- Havmor - Mango/Seetaphal Ice-cream
+- NIC - Anjeer/Almod Jaggery Kulfi
+- Truffles - Peri Peri Chicken Burger
+- Nuty's - Fish keema with Roti (if they ever start serving it again)
+- Empire - Shawarma
+- Smoor - Gooey Cake
+- Santé - Dark chocolate milkshake
+- Lazy Suzy - Hazelnut hot chocolate
+- Chinita - Burrito Bowl
+- Oh Calcutta - engali
+- CTR - Benne Masala Dosa
+- Burma Burma - Samosa soup and Mango Salad
+- Street Storyss - Rajma Khichdi
+
+Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
