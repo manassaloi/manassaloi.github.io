@@ -49,8 +49,6 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Hyderabad Biryaani House, Victoria layout - Chicken Biryani
 - Hotel Tom’s - Chicken ghee roast and appams/parottas
 - Zaitoon - Effa Dajaj or anything middle eastern
-- Smoor - Desserts
-- Sethi's Homemade kitchen Indiranagar - Homemade North Indian food
 - ITC Windsor - North Indian! (THE daal bhukara)
 - Green Theory - Vegan
 - Burma Burma - Samosa soup and Mango Salad
@@ -163,5 +161,27 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - CTR - Benne Masala Dosa
 - Burma Burma - Samosa soup and Mango Salad
 - Street Storyss - Rajma Khichdi
+- Burma Burma - Khow Suey
+- DYU Art Cafe, Koramangala - Banoffee Pie
+- You Mee - Asian
+- Truffles - Cottage Chese Burger (veg) / peri peri chicken burger (non veg)
+- Chalukya Hotel - Any dish even north indian food is also good
+- Glen's Bakehouse -Red Velvet cupcakes
+- Toast and Tonic - Tuna Pokè Bowl
+- Happy Belly Bakes - Salted Caramel Cake
+- Naturals - Tender Coconut Ice cream
+- Pho Biden - Grilled Meat in Lettuce Cups
+- Coorg Food Co - Onake Erachi
+- Karavalli@The Gateway - Patrade
+- Carnivale de Goa - Crispy Okra
+- Misu - Nasi Goreng
+- Lucky chan - California Maki
+- Social - Butter chicken biryani
+- Milano Ice cream - Choux Pastry
+- Lakeview Milkbar - Banofee Waffle (Highly Recommended)
+- The Filter Coffee - Idli
+- FlyingKombucha - Ginger Kombucha
+- Smoodies - Strawberry Smoothie
+- Flax - It’s a tofu thing
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
