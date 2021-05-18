@@ -66,8 +66,10 @@ Also making tons of mistakes :)
 
 It requires a lot of effort to be good at something.
 
-- Finally, you have to be willing to make sacrifices. Thankfully my amazing girl friend supported me, was okay with me spending so many hours on it, and even consoled me when I had bad beats.
+- Finally, you have to be willing to make sacrifices. Thankfully my amazing girl friend (now wife) supported me, was okay with me spending so many hours on it, and even consoled me when I had bad beats.
 
 Hope this was useful.
+
+**Update:** I recently read The [Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova](https://www.goodreads.com/book/show/49814228-the-biggest-bluff) and loved it. 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -135,6 +135,11 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness - Eric Jorgenson](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant)
 + [Hell Yeah or No: what's worth doing - Derek Sivers](https://www.goodreads.com/book/show/52523856-hell-yeah-or-no)
 + [Designing Your Life: Build a Life that Works for You - Bill Burnett, Dave Evans](https://www.goodreads.com/book/show/26046333-designing-your-life)
++ [Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed - Lori Gottlieb](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)
++ [The Key to Happiness: How to Find Purpose by Unlocking the Secrets of the World's Happiest People - Meik Wiking](https://www.goodreads.com/book/show/40545822-the-key-to-happiness)
++ [The Art of Making Memories: How to Create and Remember Happy Moments - Meik Wiking](https://www.goodreads.com/book/show/43245559-the-art-of-making-memories)
++ [Die with Zero: Getting All You Can from Your Money and Your Life - Bill Perkins](https://www.goodreads.com/book/show/52950915-die-with-zero)
++ [The 4-Hour Workweek - Timothy Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
 
 
 ### Health, Habits & Productivity
@@ -173,6 +178,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [How I Invest My Money - Joshua Brown, Brian Portnoy](https://www.goodreads.com/book/show/55082355-how-i-invest-my-money)
 + [How to Be a Capitalist Without Any Capital - Nathan Latka](https://www.goodreads.com/book/show/43082141-how-to-be-a-capitalist-without-any-capital)
 + [What I Learned Losing a Million Dollars - Jim Paul](https://www.goodreads.com/book/show/1334384.What_I_Learned_Losing_a_Million_Dollars)
++ [The Snowball: Warren Buffett and the Business of Life - Alice Schroeder](https://www.goodreads.com/book/show/2054761.The_Snowball)
 
 
 ### Venture Capital
@@ -198,6 +204,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp](https://www.goodreads.com/book/show/25814544-sprint)
 + [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 + [Emotional Design: Why We Love (or Hate) Everyday Things - Donald A. Norman](https://www.goodreads.com/book/show/841.Emotional_Design)
++ [The Design of Everyday Things - Donald A. Norman](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 
 ### Visual Design, Art & Branding
 
@@ -260,6 +267,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 + [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 + [The Presentation Secrets of Steve Jobs - Carmine Gallo](https://www.goodreads.com/book/show/6908348-the-presentation-secrets-of-steve-jobs)
++ [Your Next Five Moves: Master the Art of Business Strategy - Patrick Bet-David](https://www.goodreads.com/book/show/50542735-your-next-five-moves)
 
 
 ###  History
@@ -315,3 +323,4 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Sharp Objects - Gillian Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects)
 + [Stoner - John Williams](https://www.goodreads.com/book/show/166997.Stoner)
 + [The House in the Cerulean Sea - T.J. Klune](https://www.goodreads.com/book/show/45047384-the-house-in-the-cerulean-sea)
++ [Circe - Madeline Miller](https://www.goodreads.com/book/show/35959740-circe)
