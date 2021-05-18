@@ -150,6 +150,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [The Four Big Risks](https://svpg.com/four-big-risks/)
 - [3 types of research](https://manassaloi.com/2020/12/07/research.html)
 - [How to do a design review](https://manassaloi.com/2020/06/30/on-design-reviews.html)
+- [Let Fires Burn](https://productlife.to/p/-pms-let-fires-burn)
 
 ## Decision making
 - [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
@@ -164,6 +165,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [SPADE](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 - [What could go right?](https://mobile.twitter.com/bgurley/status/572255806051131392)
 - [Scaling decision making](https://manassaloi.com/2021/02/03/scaling-decisionmaking.html)
+- [Your organization needs product principles](https://slack.design/articles/why-your-organization-needs-product-principles/)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
@@ -204,6 +206,9 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Coupondunia shamelist](https://manassaloi.com/2020/11/20/coupondunia-shamelist.html)
 - [Risks of PM'ing at a big company](https://manassaloi.com/2021/03/08/pming-bigco.html)
 - [Directi Shamelist](https://manassaloi.com/2021/02/16/directi-shamelist.html)
+- [Part clouds and part dirt](https://mobile.twitter.com/gokulr/status/1358240423823609858)
+- [Extreme Focus](http://paulgraham.com/paypal.html)
+- [Product leader anti-patterns](https://mobile.twitter.com/shreyas/status/1385408214036926466)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
@@ -237,6 +242,9 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
 - [Tell a better story](https://medium.com/@jack_mattr/how-apple-killed-blackberry-20535ea294bb)
 - [Building Better Products with Escalation](https://medium.com/@saumil/well-that-escalated-quickly-building-better-products-with-escalation-feb259d733c9#2a07-3e2b456edc38)
+- [Do, Try, Consider](https://jackiebo.medium.com/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)
+- [Leaders build consensus](https://hyperbo.la/w/nemawashi/)
+- [The 10/50/99% Approach to Feedback](https://i-am-brennan.medium.com/the-10-50-99-approach-to-feedback-e32157865c50)
 
 ## Interview
 - [Least known favourite product](https://manassaloi.com/2020/12/18/fav-product.html)
