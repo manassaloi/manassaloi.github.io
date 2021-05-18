@@ -23,6 +23,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 - [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
+- [Ultimate house hunting checklist](https://manassaloi.com/2021/01/03/ultimate-house-hunting.html)
 
 ## (People I follow)
 

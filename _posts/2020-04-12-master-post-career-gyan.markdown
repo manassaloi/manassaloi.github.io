@@ -8,7 +8,6 @@ This will be the place where I link to all the career gyaan I have given or accu
 
 ### My own Gyaan
 
-- [Frameworks for your career](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [How to think about a job switch](https://manassaloi.com/2020/01/22/random-career-gyan-1.html)
 - [How to negotiate during a job hunt](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
 - [High Leverage Activities](https://manassaloi.com/2020/01/09/high-leverage-activity.html)
@@ -45,6 +44,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [PM'ing at a big company](https://manassaloi.com/2021/03/08/pming-bigco.html)
 - [Exit and entry](https://manassaloi.com/2021/04/14/exit-entry.html)
 - [Managing other PMs](https://manassaloi.com/2021/04/16/managing-PMs.html)
+- [Stay in a company that is winning](https://manassaloi.com/2021/05/05/employee-retention.html)
+- [One level up](https://manassaloi.com/2021/04/18/one-level-up.html)
 
 ### Favourite books on Career
 
@@ -57,6 +58,10 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://manassaloi.com/booksummaries/2016/05/31/startup-of-you-reid-hoffman.html)
 - [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers - Alex Banayan](https://manassaloi.com/booksummaries/2017/07/12/third-door-alex-banayan.html)
 - [The CEO Next Door: The 4 Behaviours that Transform Ordinary People into World Class Leaders - Elena L. Botelho, Kim Powell, Tahl Raz](https://manassaloi.com/booksummaries/2016/05/04/the-ceo-next-door-elena.html)
+
+### Career frameworks
+
+[Frameworks for your career](https://manassaloi.com/2020/01/25/career-frameworks.html)
 
 **Note:** I will keep expanding this list
 
