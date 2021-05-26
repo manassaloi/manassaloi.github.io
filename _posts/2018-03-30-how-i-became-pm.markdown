@@ -6,8 +6,6 @@ title:  "How I became a Product Manager"
 
 A brief* career retrospective
 
-![Image source: [http://chrislema.com/five-tips-for-product-managers/](http://chrislema.com/five-tips-for-product-managers/)](https://cdn-images-1.medium.com/max/2000/1*jsToyxm31Qv9lPAwTLx7LA.png)*Image source: [http://chrislema.com/five-tips-for-product-managers/](http://chrislema.com/five-tips-for-product-managers/)*
-
 This post has been in drafts for over a year now. I wrote this as a response to the countless messages I get on Linkedin/Twitter asking how to move to a product role. Over the past 5 years I have worked for various startups, built a few interesting products and switched from a developer to a product manager. This is also my attempt to summarise my career as it stands now and includes learnings from my previous jobs.
 
 **I have worked at:**
@@ -48,11 +46,11 @@ I got into RedBus thanks to something I learnt quite early in my life: there are
 
 My only experience till 3rd year of college was a summer internship at IOCL and a failed attempt at starting up. Inspired by my friend, I decided to send out as many applications as possible, no matter how many rejections I got. Thankfully the first email itself worked.
 
-![](https://cdn-images-1.medium.com/max/3292/0*6eG2_93gNP7Tq70W.)
+![redbusmail](/assets/img/redbusmail.png)
 
 By leadership positions I meant a position at the Student Council as an elected representative from my hostel and being a co-founder of NGOSphere (which I will talk about later in this post). I still got an interview. Showing up something is the only thing you need to do, even if you might thing you are not there yet.
 
-![](https://cdn-images-1.medium.com/max/2684/0*KWPb3hrsJVtVQLDe.)
+![shankar reply](/assets/img/shankar.png)
 
 Shankar Prasad, the COO, told me that RedBus was exploring expansion in the North East. They had started operations almost a year before, but they had very few tie ups and hence wanted someone to go there. My work was to convince bus operators & travel agencies to partner with RedBus, scale up RedBus’s operations and run a few marketing projects. I don’t know why they felt that I was the guy who could do that, but I was still thankful and jumped at the opportunity.
 
@@ -68,7 +66,7 @@ Shankar Prasad, the COO, told me that RedBus was exploring expansion in the Nort
 
 **NGOSphere**
 
-![This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.](https://cdn-images-1.medium.com/max/2012/1*NBUpP-T4QC7OEgk2aAFnqQ.png)*This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.*
+![This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.](/assets/img/ngosphereannouncement.png)*This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.*
 
 During my 2nd year of college I got fascinated with the world of startups. This was the beginning of the startup boom in India. Everywhere I turned, I could see people starting up. Also maybe, I was reading too much TechCrunch.
 
@@ -106,7 +104,7 @@ I worked at KonyLabs for just 2 months before joining Kore, which spun out from 
 
 * Working at Kore was fun mostly, but with periods of extreme frustration. [I felt we were moving too slow and needed to ship much faster if we wanted to have any chance against Slack](https://hackernoon.com/speed-as-a-competitive-advantage-ddc0e1050211). Speed is indeed something which can make or break early startups. [We also kept changing our product roadmap and working on the next cool feature](https://hackernoon.com/how-you-write-product-specs-is-how-you-build-products-8072e52dabed). There was no north star to speak of
 
-* Worked under an amazing Tech lead. I understood why they say [the effective Tech Lead is a 100x enginee](https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63)r. I learnt a lot during my time at Kore. I had no clue about APIs before I joined Kore. I did not know the difference between SOAP and REST properly. One and a half year of writing code helped me learn how to actually roll up my sleeves and build products myself. It also helped me become more emphatic later as a PM, having been a dev myself. I wrote a blogpost on that too: [what separates good managers from the rest](https://hackernoon.com/what-separates-good-managers-from-the-rest-8d43453decca)
+* Worked under an amazing Tech lead. I understood why they say [the effective Tech Lead is a 100x enginee](https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63)r. I learnt a lot during my time at Kore. I had no clue about APIs before I joined Kore. I did not know the difference between SOAP and REST properly. One and a half year of writing code helped me learn how to actually roll up my sleeves and build products myself. It also helped me become more emphatic later as a PM, having been a dev myself.
 
 * I realised I could never become a good enough dev to work at Google or Amazon. Instead of reading tech blogs I spent far more time reading product development blogs. If I could not finish my work, I would just go home and have a sound sleep, without being up all night figuring out the fix
 
@@ -118,7 +116,7 @@ I realised that even though I could continue at Kore, working as a developer, I 
 
 I told my manager that I was quitting and put in my papers. I had a 2 months notice period and in the worst case I was willing to go back to being a dev. Or maybe I could just join a startup as a Product Management intern? I was willing to take the risk. I had been thinking about the switch for a long time and I knew I would just keep thinking about it and not do anything if I was not pushing myself hard enough and showed enough intent. And what is the best way to show intent than quitting your safe job without a new job offer!
 
-![The time capsule which changed my life. Literally.](https://cdn-images-1.medium.com/max/3288/0*Pcs2al9KHgnDfGtf.)*The time capsule which changed my life. Literally.*
+![The time capsule which changed my life. Literally.](/assets/img/timecapsule.png)*The time capsule which changed my life. Literally.*
 
 Instead of writing on how I prepared for Product Management interviews in particular I am linking some really good resources here:
 
@@ -132,17 +130,17 @@ You can also go through all the Product School videos. Also read [Crack the PM I
 
 I had connected with Sameer, the CEO of CouponDunia on Angellist and I sent my pitch to him.
 
-![CouponDunia pitch](https://cdn-images-1.medium.com/max/3136/0*xx9ygUEpY26SaQkq.)*CouponDunia pitch*
+![CouponDunia pitch](/assets/img/couponduniapitch.png)*CouponDunia pitch*
 
 The answer to why I wanted to move to a Product role:
 
-![Why Product manager?](https://cdn-images-1.medium.com/max/2944/0*xLZ7aNaFzVHKRqp9.)*Why Product manager?*
+![Why Product manager?](/assets/img/whyproductmanager.png)*Why Product manager?*
 
 I wrote a long product critique of the app as well as the website. I even found broken links. I had seen how people apply at companies without even using their products. I wanted to show that I cared about the company. I had invested enough time to understand the market as well as the existing products. All I wanted now was a chance.
 
-![Product Critique of the CD app and website](https://cdn-images-1.medium.com/max/2920/0*C27Mn0x_J4_8uc9i.)*Product Critique of the CD app and website*
+![Product Critique of the CD app and website](/assets/img/productcritiquecd.png)*Product Critique of the CD app and website*
 
-![More ideas to grow the usage](https://cdn-images-1.medium.com/max/2932/0*UHEB_t9xlngoRP9q.)*More ideas to grow the usage*
+![More ideas to grow the usage](/assets/img/howtogrowcd.png)*More ideas to grow the usage*
 
 **Learnings:**
 
@@ -166,7 +164,7 @@ It was during that time Craftsvilla reached out to me. It was supposed to be a r
 
 I talked about ways to demonstrate value earlier. Even before I officially joined Craftsvilla, I started working on growth. Thinking about how to make Craftsvilla the next unicorn was all I could think of.
 
-![Always be ready to contribute and demonstrate value as early as possible](https://cdn-images-1.medium.com/max/3200/0*FeyfwI4Rc3TwA4BD.)*Always be ready to contribute and demonstrate value as early as possible*
+![Always be ready to contribute and demonstrate value as early as possible](/assets/img/craftsvillamail.png)*Always be ready to contribute and demonstrate value as early as possible*
 
 **Learnings:**
 
@@ -188,13 +186,13 @@ So I decided to apply to the only two companies in India working on Chat: Hike a
 
 **Fun fact:** When I say I hope this somehow lands in your inbox I meant it literally. I normally don’t go through the typical HR route and just reach out to the Hiring manager/Head of Product/ CEO with a value proposition mail. And I sure as hope it lands on their Inbox and not the spam folder.
 
-![first part of the mail/pitch](https://cdn-images-1.medium.com/max/3264/0*WmtjtTPxNiOnv6cG.)*first part of the mail/pitch*
+![first part of the mail/pitch](/assets/img/directimail1.png)*first part of the mail/pitch*
 
-![a bunch of product ideas](https://cdn-images-1.medium.com/max/4040/1*pHcttN9eJf_WgPsa1iJuOQ.png)*a bunch of product ideas*
+![a bunch of product ideas](/assets/img/directimail2.png)*a bunch of product ideas*
 
-![invoking wechat spirit](https://cdn-images-1.medium.com/max/4044/1*lpFlPXQ8OR7AnMIsTuzWTQ.png)*invoking wechat spirit*
+![invoking wechat spirit](/assets/img/directimail3.png)*invoking wechat spirit*
 
-![Always explain the ‘why’](https://cdn-images-1.medium.com/max/3112/0*AH_eMxZFUSu0SivT.)*Always explain the ‘why’*
+![Always explain the ‘why’](/assets/img/directimail4.png)*Always explain the ‘why’*
 
 I managed to get into Directi and join their Apps team. I have been working on exactly the same things I mentioned in the mail. There have been pros as well as cons but there won’t be a retrospective section for Directi for now.
 
