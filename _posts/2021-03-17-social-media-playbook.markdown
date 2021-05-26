@@ -34,7 +34,9 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 11. Acquire an imaginary 2 year old to have deep conversations with that you can share on LinkedIn later.
 
-These are the 10 hacks. Try them for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
+12. Pick a fight with popular accounts, aka the Taylor Lorenz playbook. Do a lot of quote tweets for maximum impact.
+
+Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
 
