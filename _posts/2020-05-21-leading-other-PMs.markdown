@@ -32,6 +32,7 @@ As someone who has transitioned from managing a stream to managing a group of PM
 - [Unconventional advice for transitioning to Head of Product](https://www.departmentofproduct.com/blog/unconventional-advice-for-transitioning-to-head-of-product/)
 - [Lessons learned from scaling a product team](https://www.intercom.com/blog/how-we-build-software/)
 - [How To Become a Peak Product Manager](https://www.ravi-mehta.com/product-manager-skills/)
+- [Managing Up - Lessons From Scaling Teams at Credit Karma and Lyft](https://www.reforge.com/blog/managing-up)
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
