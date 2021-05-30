@@ -210,5 +210,3 @@ Collection of tips based on browsing r/bootroom, youtube videos, watching top pl
 Disclaimer: I have been playing regularly only for the last couple of months. I am not an expert in any way. The best part about my life is my willingness to learn new things, never relying on pure skills and putting in the hours till I am at a level I am proud of
 
 P.S I will keep adding more things to this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

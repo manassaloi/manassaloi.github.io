@@ -17,5 +17,3 @@ I used to think "What if people judge me? So many people from work follow me, wh
 Then I realised that if [Aaron Levie can run a billion dollar company, and joke about conversations with his mom](https://twitter.com/levie/status/1248103960629506048), I (a middle manager) can probably do the same.
 
 Life is too short to take your online persona seriously anyway.
-
-Stay up to date with my shitposts here: [@manas_saloi](http://twitter.com/manas_saloi)

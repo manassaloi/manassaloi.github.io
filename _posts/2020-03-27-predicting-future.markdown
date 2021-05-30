@@ -91,5 +91,3 @@ What comes after the cloud? After the smart phone?
 I have no clue. But I do surely spend a lot of time thinking about it.
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

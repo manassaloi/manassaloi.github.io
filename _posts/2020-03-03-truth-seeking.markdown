@@ -12,5 +12,3 @@ The job of a PM is to be a truth seeker.
 - It means doing a RCA whenever there is a dip in conversion.
 - It means doing pre-mortems and post-mortems.
 - It means doing retrospectives.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

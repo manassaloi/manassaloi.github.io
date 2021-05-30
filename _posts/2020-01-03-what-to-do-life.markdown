@@ -34,5 +34,3 @@ Some of them which I can think of right now are
 My aim is to close the gaps (where I am right now vs where I want to be) over the next decade or so
 
 Thanks for reading!
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -252,5 +252,3 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 
 ## Random
 - [McDonald’s Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

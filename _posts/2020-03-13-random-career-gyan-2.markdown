@@ -197,6 +197,3 @@ This essentially means that there is no permanent social network. You can always
 This was all. Phew!!
 
 **/end**
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

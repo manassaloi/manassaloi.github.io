@@ -35,5 +35,3 @@ Data points they might have used:
 I found this decision interesting and wonder if other apps will follow what Insight Timer has done
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

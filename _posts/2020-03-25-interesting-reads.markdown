@@ -14,5 +14,3 @@ Before this I was reading [Venture Desktop](https://venturedesktop.substack.com)
 This is quite similar to my Twitter workflow.
 
 **Twitter workflow:** Go to the profile of someone I admire -> Read their latest tweets -> Go through their 'Likes' section -> Discover interesting tweets by other people -> Go to the profile of these new people -> Read their tweets -> Go to tweets they have liked -> Repeat.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

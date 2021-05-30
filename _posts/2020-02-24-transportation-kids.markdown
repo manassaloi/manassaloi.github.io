@@ -12,5 +12,3 @@ Transportation of children from 3-15 will be the next sector seeing massive fund
 4. Letting kids do other activities than attend school
 
 **Disclaimer:** I originally tweeted this out in December (I think), and did not account for Covid-19. Not sure how the post Covid-19 world will look
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

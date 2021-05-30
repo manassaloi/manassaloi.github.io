@@ -50,5 +50,3 @@ We like involving Design as early as we can in the product development process. 
 - [Tactical Design Critique](https://medium.design/tactical-design-critique-bb74d1a5e350)
 - [Design Critiques: Encourage a Positive Culture to Improve Products](https://www.nngroup.com/articles/design-critiques/)
 - [The why and how of effective design critiques](https://uxdesign.cc/the-why-and-how-of-effective-design-critiques-944313947fe4)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

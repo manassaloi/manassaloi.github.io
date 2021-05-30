@@ -18,5 +18,3 @@ It is part of the spec template I shared here: [Twitter emoji spec](https://docs
   - Gaps in the current workflow which are avoiding us getting the outcome we want
   - Path to the outcome
 I have not yet shared a template for this, but it something I want to do eventually!
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

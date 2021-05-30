@@ -64,5 +64,3 @@ This will be the place where I link to all the career gyaan I have given or accu
 [Frameworks for your career](https://manassaloi.com/2020/01/25/career-frameworks.html)
 
 **Note:** I will keep expanding this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -37,5 +37,3 @@ The template is inspired from the following resources I have read on decision ma
 - [Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
 - [Going fast vs slow](https://mobile.twitter.com/ShaneAParrish/status/1277415631965519873)
 - [Odyssey Plan](https://www.youtube.com/watch?v=wnU5DaIPr2Q)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

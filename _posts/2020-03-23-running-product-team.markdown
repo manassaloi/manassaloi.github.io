@@ -129,6 +129,3 @@ I plan to create templates and best practices for the following over the next 3 
 - **Career development** (Mid term) (Long term)
   - [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html)
   - [Read me](https://www.notion.so/Manager-s-Readmes-b3a5b7b791fe4e86a69bbdeaeda00ee2)
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

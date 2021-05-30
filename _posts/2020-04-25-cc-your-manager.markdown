@@ -11,5 +11,3 @@ My own turn around time (TAT) is one day. Unless I honestly forget about it, and
 To shame idiots who don't reply for a week in a P0 task, I now tag their manager in a follow-up mail and mark their dependency item in red color. Also, mark the status as DELAYED/ AT RISK.
 
 It is the only thing that works sadly.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

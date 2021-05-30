@@ -158,5 +158,3 @@ Fuck that. Ask for 6 months and later settle for 1 if needed (which is generally
 Hope this helps!
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

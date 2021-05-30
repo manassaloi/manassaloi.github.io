@@ -20,5 +20,3 @@ Feel free to use this template
 + I am thinking of writing a separate doc with wireframes (on how I would do the reactions feature)
 + Will also write a separate doc on how to prioritise between features
 + My goal is to start from planning OKRs and come down to individual product specs :)
-
-Stay up to date with my latest posts/tweets here: @manas_saloi

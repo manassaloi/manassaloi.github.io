@@ -51,5 +51,3 @@ Maybe Softbank instead of pursuing growth at all costs could have taught their p
 I don't have the answers. But once the good times end, we will all start asking the same question: if Blitzscaling was the only way.
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

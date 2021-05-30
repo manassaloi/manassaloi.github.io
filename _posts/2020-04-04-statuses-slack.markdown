@@ -17,5 +17,3 @@ The best product companies are at level 5. They anticipate user need by observin
 **Slack is at Level 5.**
 
 I am a big fan of Slack's Design team. I have written about them [here](https://manassaloi.com/2019/12/27/little-things-slack-great.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -67,5 +67,3 @@ Following these rules will help you to manage a big project more effectively.
 35. All features shipped successfully are celebrated with ice-cream parties; mostly the PM's treat.
 
 I am working on a master post of all principles and frameworks I use as a PM here: [PM frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

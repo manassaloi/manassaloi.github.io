@@ -16,5 +16,3 @@ This is another post written in the same vein. I hope you can use this to collab
 **Note:**
 + If you follow this format, you will find it far easier to collaborate with external stakeholders.
 + A good MOM is not just about the MOM, it lets you start a mail thread, where you can keep posting follow on updates.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

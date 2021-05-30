@@ -7,6 +7,4 @@ I am the kind of person who likes sitting in a corner, being to myself. At work,
 
 Why I am writing this? After a long time, I have realized how important being upbeat, and approachable is to your success as a PM. Energy is contagious. If you are a high energy PM, who looks excited to come to work, tackle big problems, then your team will also look like a reflection of you. People say culture is a reflection of the manager of the team. I say it is not just culture. It is also the energy of the team.
 
-Remember: PM is the energy curator of the team. Your mood, your energy affects your team much more than you realize. 
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+Remember: PM is the energy curator of the team. Your mood, your energy affects your team much more than you realize.

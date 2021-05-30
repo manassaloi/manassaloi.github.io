@@ -28,6 +28,3 @@ Ephemerality through fleets might not be a strong buy.
 - A usecase can be influencers/movie stars/authors for sharing and promoting upcoming projects and reviews.(happens on YouTube stories).
 
 - Also to increase engagement on tweets, people might keep pushing the same tweets and new responses on it through stories for few days.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

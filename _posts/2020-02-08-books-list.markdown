@@ -25,6 +25,3 @@ What I am reading right now (with completion %)
 - Never Split the difference 50%
 - An American marriage 16%
 - Michael Beirut 79 short essays on design 22%
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

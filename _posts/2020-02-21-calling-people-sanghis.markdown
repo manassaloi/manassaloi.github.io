@@ -29,5 +29,3 @@ CURRENT STATUS: So far so good. The urge to see what people have replied on my p
 In the last 2-3 years, I have spent very less time reading non work/career related articles. Earlier I used to spend hours reading things on Pocket, or just normal publications. I am taking the time during Coronavirus lockdown to find a balance between career, and non career things I enjoy.
 
 CURRENT STATUS: I am spending way more time on Pocket. Have also downloaded a bunch of novels on my Kindle.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

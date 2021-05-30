@@ -52,5 +52,3 @@ Wonder why no credit card company has tried to make their card stand out. Such a
 A company who has used unique form factor or color to stand out in a crowded marketplace is Apple. White earphones for iPod which get people to notice vs standard black earphones. Glowing apple logo in Macs. Now their titanium credit cards.
 
 Related post: [Distinctive design can make consumer products go viral](https://medium.com/craft-ventures/real-world-virality-257941db9507).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

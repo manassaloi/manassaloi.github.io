@@ -10,5 +10,3 @@ At [CashBoss](https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloa
 At Craftsvilla we did an RCA for even a 2% conversion drop. Sundays were spent obsessing on what we could do over the next week to boost our conversion. It was our north star. But like CouponDunia, we spent way too much time with [dashboard paralysis](https://mobile.twitter.com/jmj/status/1228035392256892937) than thinking about what big problems we could solve for our customers.
 
 [Be data-informed, and not data-driven](https://andrewchen.co/know-the-difference-between-data-informed-and-versus-data-driven/). [Also don't let data decide everything](Stop letting the data decide).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

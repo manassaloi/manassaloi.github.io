@@ -35,5 +35,3 @@ The media is focusing on this because it is something which their audience will 
 6/ Have I read as much as I can? Yes, I have seen enough data points to judge whether the Government is performing well or not. I don't need TV anchors to shout at me to form an opinion. I have watched enough of Arnab Goswami, know who the backers of Republic TV are.
 
 7/ Can I argue on points and no opinions? I hope so.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

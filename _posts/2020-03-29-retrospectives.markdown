@@ -36,7 +36,7 @@ title:  "[Retrospectives] How to run a Retrospective"
   - Do a safety check: a survey on How safe the team feels about sharing their views in this group
   - Create a timeline of key projects delivered
   - A timeline of things which did not go well can be helpful too
-  - In one retro I attended the moderator drew a timeline for the year, and he put both success and failures for each month. It was helpful to see the months where we outperformed vs the months our delivery slowed 
+  - In one retro I attended the moderator drew a timeline for the year, and he put both success and failures for each month. It was helpful to see the months where we outperformed vs the months our delivery slowed
   - Add an Accomplishment section (check Coinbase' template below)
   - 3 sections: what went well, what did not go well, action items
   - A fourth section called 'What's confusing' can also be added
@@ -52,5 +52,3 @@ title:  "[Retrospectives] How to run a Retrospective"
   [Retro template](https://docs.google.com/document/d/1d4t_c30qz8MzSHcQlfb94TpW3vZogwaYNTHnHeMeGQM/edit?usp=sharing)
 
   **Good reads on how to run Retrospectives:** [Reflection: a key ingredient to great product teams](https://www.intercom.com/blog/reflection-the-key-to-great-product-teams/), [How we run project retrospectives at Intercom](https://www.intercom.com/blog/how-we-conduct-project-retrospectives-at-intercom/), [What we accomplished at Coinbase in Q2 2018](https://blog.coinbase.com/quarterly-retrospective-what-we-accomplished-at-coinbase-in-q2-2018-32b4558603e8),[Continue, Stop, Start: a new take on retrospectives](https://www.intercom.com/blog/continue-stop-start-retrospectives/), [Start doing Retrospectives](https://medium.muz.li/improve-your-product-team-with-this-retrospective-exercise-6a305384f94e)
-
-  Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

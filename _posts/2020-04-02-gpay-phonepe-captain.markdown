@@ -16,5 +16,3 @@ My brother's nickname is Captain, if that is not clear. See how PhonePe searches
 Google Pay's success rate when it comes to transactions is far behind Phonepe's. The least they can do is fix their user experience. A clutter-free homepage is good, but you expect more from a company like Google.
 
 **Update:** Google Pay has fixed this now.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

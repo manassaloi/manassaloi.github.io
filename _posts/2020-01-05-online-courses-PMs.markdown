@@ -14,5 +14,3 @@ Online courses I recommend for aspiring PMs:
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 - [Designing, Running, and Analyzing Experiments](https://www.coursera.org/learn/designexperiments/home/welcome)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

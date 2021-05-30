@@ -70,6 +70,4 @@ It requires a lot of effort to be good at something.
 
 Hope this was useful.
 
-**Update:** I recently read The [Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova](https://www.goodreads.com/book/show/49814228-the-biggest-bluff) and loved it. 
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+**Update:** I recently read The [Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova](https://www.goodreads.com/book/show/49814228-the-biggest-bluff) and loved it.

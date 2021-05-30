@@ -98,7 +98,4 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 46. [Learn or earn](https://mobile.twitter.com/garrytan/status/1377661970178973696); Both is best. But if it's neither, quit.
 
-
 **Note:** I will keep expanding this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

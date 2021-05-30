@@ -14,5 +14,3 @@ A few good reads on how to do a pre-mortem and post-mortem:
 - [Practical Postmortems at Etsy](https://www.infoq.com/articles/postmortems-etsy/)
 - [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 - [Example Postmortem](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/app04.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

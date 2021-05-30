@@ -31,5 +31,3 @@ The best UX is to let the user see the result by
 - Or have a separate button below somewhere
 
 Do not show the result upfront under any circumstance
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

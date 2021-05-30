@@ -19,5 +19,3 @@ A list of strong opinions which I held once but no longer belive in:
 10. **Fuck soft skills. If you are good, these things don't matter.** Nope. Communication matter much more than your tech or design skills. Spend a year in a large organisation and you will know why.
 
 **Note:** I will keep expanding this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

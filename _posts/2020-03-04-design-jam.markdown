@@ -11,5 +11,3 @@ Tools: Same as what you use in a design sprint: [sticky notes, a whiteboard, mar
 We started the jam with the problem we were trying to solve. Then dug deep into the motivations, and needs of all our stakeholders: customers, drivers, and Gojek. Then we came up with product and design principles for deciding the feature. We even did wireframes. It was super fun. For me at least the effort to write the spec reduced by a lot.
 
 I strongly recommend doing design jams. If you have time, I would even say do the 7-day design sprint. I know I will probably do it for our next big feature.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

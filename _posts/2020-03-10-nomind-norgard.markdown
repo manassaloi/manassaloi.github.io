@@ -23,5 +23,3 @@ Notes from [Pomp's interview of Brian Norgard](https://podcasts.google.com/?feed
 - Match your product with the correct attention span of the user
 - All physical technologies follows a similar trend: over time, its size goes from big to medium, from medium to small, and from small to invisible
 - People love podcasts because of multimodal consumption — you can listen while driving, running, walking to work, etc
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

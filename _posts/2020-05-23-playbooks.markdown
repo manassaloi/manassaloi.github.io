@@ -31,5 +31,3 @@ title:  "Company Principles, Values and Playbooks"
 - [How HashiCorp Works](https://works.hashicorp.com/#about)
 
 Items marked as * are from 3rd party sources.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

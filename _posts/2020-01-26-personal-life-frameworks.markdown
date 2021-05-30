@@ -109,5 +109,3 @@ Some of the most important frameworks/models/principles I learned in the last fe
 51. [Create then edit](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/); separate the processes of creation from improving.
 
 **Note:** I will keep expanding this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

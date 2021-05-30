@@ -44,6 +44,3 @@ Fixed costs can always be cut later to achieve overall profitability
 See how Ola, which is anticipating a tough economic climate, and wants to do an IPO, [laid off 1/5 to 1/3 of their workforce to cut their fixed cost](https://entrackr.com/2019/12/ola-layoffs-500-pink-slips-total-cuts-upto-1000/). Suddenly their overall losses will have gone down massively
 
 Read more on [how Dropbox cut costs before their IPO a few years back](https://bizjournals.com/sanfrancisco/blog/techflash/2016/05/as-bay-area-startups-cut-costs-perks-dropbox.html)
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

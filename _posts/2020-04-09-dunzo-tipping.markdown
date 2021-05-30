@@ -43,5 +43,3 @@ The notification took me to a screen which was my last order details. It did not
 This is a great time for Dunzo, as well as other gig economy apps, to create a tipping culture, and change behavior of us Indians. We generally avoid tipping for services, and maybe this Coronavirus epidemic, will trigger a positive change.
 
 And hence improving the tipping feature, both in terms of design as well as discovery, is needed.
-
-**Get more Design gyaan here:** [@manas_saloi](http://twitter.com/manas_saloi)

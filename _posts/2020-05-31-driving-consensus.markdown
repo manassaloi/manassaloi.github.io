@@ -45,6 +45,3 @@ title:  "[Stakeholder Management] Driving consensus"
 It took years for me to perfect approach 5. As a junior PM, you probably go with one of the other approaches, then feel powerless after a decision goes against you. It is far better to learn how to navigate these situations, learn stakeholder management than blame big company politics.
 
 **Note:** You can replace X with any open item in your [spec]((https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html).
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

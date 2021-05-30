@@ -14,5 +14,3 @@ If only essential goods are being sold, and your app is not even allowed to oper
 You can also use your free time to do other things you enjoy. Covid-19 has given all of us the chance to be proactive instead of reactive in life. Instead of living life by defaults, take time to think about what you want out of your life. Set up good systems. Develop good habits. And come out stronger when this thing is finally over.
 
 Disclaimer: Not saying the situation is perfect. I know that I have done my share of ranting on Twitter about 'bartan dhona padta hai' and whatnot. And I have also expressed fear to my friends about the economy, and whether we will ever recover from the impact Covid-19 has had. But most of the time I try to focus on what I can do instead of things beyond my control. And I request to do the same.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -162,6 +162,3 @@ TBH the entire point of this long ass rant  is that Twitter shipped a half asse
 And my weekend is ruined
 
 **/end**
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

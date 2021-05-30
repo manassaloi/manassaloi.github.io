@@ -22,5 +22,3 @@ A few good podcast links if you are looking for things to listen to this weekend
 - [Jason Fried — How to Live Life on Your Own Terms](https://tim.blog/2018/07/23/jason-fried/)
 
 [You can check the list of podcasts I listen to here](https://manassaloi.com/links/) 
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

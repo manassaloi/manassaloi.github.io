@@ -42,6 +42,4 @@ One of my [KRs for 2020](https://manassaloi.com/2020/01/15/personal-OKRs-2020.ht
 
 [Diligence at Social Capital](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc)
 
-I will add more links to this blogpost as I read more on this topic
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+I will add more links to this blogpost as I read more on this topic.

@@ -23,5 +23,3 @@ If you do not work on an important problem, it's unlikely you'll do important wo
 I spoke earlier about planting acorns so that oaks will grow. You can't always know exactly where to be, but you can keep active in places where something might happen. And even if you believe that great science is a matter of luck, you can stand on a mountain top where lightning strikes; you don't have to hide in the valley where you're safe. But the average scientist does routine safe work almost all the time and so he (or she) doesn't produce much. It's that simple. If you want to do great work, you clearly must work on important problems, and you should have an idea."
 
 Read the [entire transcript](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). It is worth it.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

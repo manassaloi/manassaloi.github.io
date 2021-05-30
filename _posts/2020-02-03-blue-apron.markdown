@@ -42,5 +42,3 @@ But this is another lesson [on why Product - Market fit is just not enough](http
 Having just one is not enough.
 
 **P.S** One of my goals for this year is to pick up on [LTV and Churn modeling](https://manassaloi.com/2020/01/14/so-you-want-to-understand-ltv-churn.html). You can follow this post and learn with me :)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

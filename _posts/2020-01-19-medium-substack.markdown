@@ -74,5 +74,3 @@ For now this is all I have. If you don't see a more detailed post on this topic 
 **/end**
 
 **P.S** Someone rightly pointed that Amazon vs Shopify is a much better comparison. It is true. I completely missed it
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

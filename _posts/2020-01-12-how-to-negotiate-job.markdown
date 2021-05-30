@@ -78,7 +78,4 @@ If you don't get the desired base pay, know that there is always a scope to get 
 
 The best way to get companies to up their offer and compete for your signature is by signalling value. The easiest way to signal value is by getting offers from places, that the company considers superior to them or direct competitors
 
-
 **</threadends>**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

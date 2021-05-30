@@ -21,5 +21,3 @@ You need to discuss the following with your manager:
 - [Intercom ladder](https://mobile.twitter.com/Padday/status/1237753130911174656)
 - [Product Manager Skills by Seniority Level](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
 - [3 reasons why PMs don’t get promoted](https://productcoalition.com/3-reasons-why-pms-dont-get-promoted-619ecc60a6f1)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

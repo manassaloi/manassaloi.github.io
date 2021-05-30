@@ -23,6 +23,3 @@ With Snapchat, there was no pressure to get likes. There was a shared understand
 [Michael Porter calls these constraints tradeoffs and he considers tradeoffs to be the 3rd test of whether or not you have a strategy.](https://manassaloi.com/booksummaries/2017/07/17/understanding-porter-joan.html)
 
 Facebook's Poke never seriously posed a danger to Snapchat because not collecting data, letting users' photo conflicted with their business model. Snapchat's tradeoffs included putting a bunch of constraints on the product. Snapchat letting users only add people from Phonebook meant users forming smaller but close networks, where users trader quality for quantity and shared 10X more photos during the day vs an Instagram or a Facebook. Facebook's vision is to connect the world and they could not copy the tradeoffs Snapchat focused on. You can copy features. But you can't copy the constraints/tradeoffs easily. Hence apart from a unique value proposition and tailored value chain, the tradeoff is essential for your business strategy.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -12,5 +12,3 @@ Defaults for an interviewee:
 4. Giving the impression that you know everything; I had a candidate who tried to convince me to go for an MBA when I took him out for tea as part of our interview process. Then he started arguing about how the product management process at our company was flawed. He failed to clear the interview. But if he did, I am sure he would have been a terrible culture fit
 
 Please give a chance to the interviewer to root for you. The company has probably spent hours going through candidate resumes for the role before selected you, and asking you to come to an onsite interview. We really want you to do well. Hire you. Make it easier for us!
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

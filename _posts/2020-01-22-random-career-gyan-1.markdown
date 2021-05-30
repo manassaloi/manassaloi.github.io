@@ -57,6 +57,3 @@ Structuring and articulating your thoughts will come with experience eventually.
 + Talk about your leverage instead of focusing on theirs.
 + Read [this post on salary negotiation](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html).
 + If you have an option, go for RSUs rather than ESOPs.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

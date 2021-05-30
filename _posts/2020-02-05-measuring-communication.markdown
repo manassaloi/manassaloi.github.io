@@ -16,5 +16,3 @@ Communication is one of the things I talk and tweet about the most. [It is also 
 6. If we have another Growth Framework Review, the score I get on communication.
 7. How many times my manager has to follow up with me on some message where we were both tagged.
 8. If I am following the [pyramid principle of communication or not](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

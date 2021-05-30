@@ -30,5 +30,3 @@ I know people would argue about discounts, but I am sure a lot of people would c
 Wrapping up, 2 characteristics of a great businesses:
 - Unlocks use cases for more people. Makes new things possible
 - Changes behavior and  increases category spend
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

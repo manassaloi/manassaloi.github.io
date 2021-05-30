@@ -15,5 +15,3 @@ Lets take an example of my own growth according to the HOW -> WHAT -> WHY framew
 **Before:** As a beginner PM I used to be obsessed with firing the right analytics events, combining multiple events and turning them into a parameter instead of a different event.
 
 **Now:** Before I even define the events and parameters, I ask WHAT are the questions we are TRYING to answer here with this feature or experiment's launch and WHY are we launching this in the first place.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -23,5 +23,3 @@ As a team, we should focus more on better processes and less on tools.
 /mailends
 
 P.S If you have worked for as many companies as me, you might have seen your own share of process/tool changes just because someone in management had shiny tool syndrome.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

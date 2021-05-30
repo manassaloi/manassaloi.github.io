@@ -30,5 +30,3 @@ Wrapping up, there are 2 jobs when it comes to ordering food:
 The success of Amazon (even after they get the basics right) will depend on what is the % of these two jobs. If food delivery is anything like the fashion vertical Amazon will find it hard to win the market, unless they burn millions and heavily subsidize this sector till Swiggy and Zomato die.
 
 One thing is certain: It is a win-win for customers in the short term. Let's see what happens in the long run.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

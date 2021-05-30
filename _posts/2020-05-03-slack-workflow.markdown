@@ -27,5 +27,3 @@ title:  "Slack workflow"
 - Standup updates for people who missed posted in Stream channel (core)
 - If you are taking leave etc, you post on Stream channel (external) where there are more people
 - More project workflow info posted here: [Project management rules](https://manassaloi.com/2020/04/26/rules-project-management.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

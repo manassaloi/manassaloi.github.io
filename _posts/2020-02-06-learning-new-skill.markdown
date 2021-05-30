@@ -19,5 +19,3 @@ If you see the below images, you will see the 2 notes I created while learning P
 2. Second note is called Daily poker; Every time I went out in a tournament, I would write how it happened. What decision led to my downfall and things I should avoid in the future.
 
 What I was trying to do wrt Poker was separate Skill from Luck, and not base my decisions on Tournament outcomes.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

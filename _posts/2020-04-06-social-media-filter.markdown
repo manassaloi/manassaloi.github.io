@@ -17,5 +17,3 @@ On Twitter, you will see 90% of people only putting out tweets/ sharing photos 
 Instagram partially solved this filtered vs unfiltered self problem with their Stories product. It allowed people to post filtered photos (high effort, high ROI) on their feed, while people used Stories to put out unfiltered content which disappeared in 24 hours. Mundane photos became acceptable thanks to Stories. 
 
 But doing it for photos is easier. How do you do it for thoughts? I don't have an answer to that. Yet.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

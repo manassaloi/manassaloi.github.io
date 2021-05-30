@@ -48,6 +48,4 @@ They also have a hook for Grammarly Business which is their B2B product. But it 
 
 7/ Apps like Duolingo have become associated with aggressive tactics to boost their apps' engagement.
 
-Grammarly takes the opposite approach: Being your cheerleader
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+Grammarly takes the opposite approach: Being your cheerleader.

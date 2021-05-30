@@ -240,5 +240,3 @@ I am currently doing this course for undergrads, Spring 2020
 I think 100 is a good number to end this thread
 
 **/endthread**
-
-I tweet dozens of reads every day on Twitter. You can follow me here: [@manas_saloi](http://twitter.com/manas_saloi)

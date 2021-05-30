@@ -43,5 +43,3 @@ Here is a post which a Linkedin connection had shared which sums up my views on 
 I don't think I will take an extreme stance like deleting my account like this person, but I will surely be careful about how I spend my time: [Playing long term games with long term people](https://nav.al/long-term)
 
 Note: A lot of people might argue that this is a privileged take; that Twitter is amazing if you are from an underprivileged background. Agree to both. But then again, most blogposts are subjective, and a representation of the author's experience and view of the world. There are thousands of tweet-storms already on why Twitter is net positive for the world. So do what is best for you.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

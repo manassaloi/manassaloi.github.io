@@ -20,5 +20,3 @@ Interesting links on this topic:
 - [BrandColors](http://brandcolors.net/)
 - [Vibrant Colors For Apps and Sites](https://uxplanet.org/vibrant-colors-for-apps-and-sites-ee488953de55#.70ypgq8m3)
 - [The fundamentals of understanding color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -99,5 +99,3 @@ Swiggy won in all 3 in their fight with Tinyowl and foodpanda.
 Swiggy did have an amazing product. And maybe superior tech. But without the other things mentioned in the post, they would not have been able to win the market share that they did way back in the days.
 
 **/ends**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

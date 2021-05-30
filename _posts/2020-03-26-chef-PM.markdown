@@ -25,5 +25,3 @@ Here is the note I had created while reading the book. It contains similarities 
 10. Clarity of roles is super Important. Ambiguity cant be tolerated in a high pressure environment. There is a chapter in the roles of a porter, chef, line cook etc and what is expected out of each role. I think is similar in a product development org. Job descriptions need to be clear. Same with ownership
 
 This book turned out to be as good as promised. And it is definitely one of the books I will recommend to aspiring PMs going forward.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

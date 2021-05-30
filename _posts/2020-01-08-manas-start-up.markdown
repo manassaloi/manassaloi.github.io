@@ -165,5 +165,3 @@ This post is something I wrote after making a statement on Twitter about why peo
 Thanks for reading it. Next time someone asks me this question, I will just send them this post
 
 **P.S** A friend mentioned that you can always do side projects and for that you don't need a 10 year commitment. That is true, but this post is more around starting a VC scale fast growing business and not a side project. I encourage people to do side projects to learn new things. Side projects are fun :)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

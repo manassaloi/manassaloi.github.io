@@ -13,5 +13,3 @@ You can read more: [here](https://medium.com/@saumil/steer-into-the-objection-a-
 More links around this principle:
 - [Reid Hoffman's series B pitch](https://reidhoffman.org/linkedin-pitch-to-greylock/)
 - [Dorsey's The 140 reasons why Square will fail](https://inc.com/audacious-companies/issie-lapowsky/square.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

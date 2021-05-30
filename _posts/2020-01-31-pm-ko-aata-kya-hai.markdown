@@ -102,5 +102,3 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
   -  to be the person who became a PM because he could not be good in anything.
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

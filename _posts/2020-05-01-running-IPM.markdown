@@ -49,6 +49,3 @@ I run weekly Iteration Planning Meetings (IPMs) for the sub-streams I run inside
 - Sprints are independent or milestones, which in turn are independent of client releases
 - Milestones for a feature might stretch across multiple sprints
 - Completed features get shipped in the next release
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

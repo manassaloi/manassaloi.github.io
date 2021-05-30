@@ -71,5 +71,3 @@ Go Dunzo go
 Bigbasket wapas chalu ho gaya kya?
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

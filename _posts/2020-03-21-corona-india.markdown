@@ -42,5 +42,3 @@ Lets start
 If your chest swelled with pride and you said 'Proud of my PM', then congrats. You are an idiot.
 
 - Also note that there is no causation between eating vegetarian food with corona immunity. If you are someone who believe that, you are also an idiot.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

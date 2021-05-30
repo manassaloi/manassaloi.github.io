@@ -19,5 +19,3 @@ Since then, I have thought a lot about my communication and added a few more pri
 - Don't post anything, either at work or social media, which will cause anxiety to your future self. It is not worth it. Control your impulse.
 
 - Whenever I am involved in a miscommunication, once the thing calms now, I pause and unpack the entire thing, see where I could have communicated better. If there were mistakes made, I would add them to my ['Don't do' list.](https://manassaloi.com/2019/11/24/build-measure-learn.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -24,5 +24,3 @@ This will be the place where I link to all the gyaan on communication I have giv
 - [Running a project better](https://manassaloi.com/2021/05/04/running-project-better.html)
 
 **Note:** I will keep expanding this list
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -13,5 +13,3 @@ After 2 years of working at a company of ~5000 employees, and 100+ PMs, I have f
 - Make sure the decision maker's slot is free though. In case he actually has a clashing meeting, then you are screwed. Don't have a meeting without the decider. It is an utter waste of time.
 
 - Send the invite with a note "Blocking your time in advance to discuss X", followed by a detailed agenda. If the meeting agenda is shared in advance with all the relevant docs, there is a far higher chance of people attending. Request them to add other relevant participants. Add a line apologising for blocking their calendar. Mention that it is hard to find a time that worked for everyone, and hence this particular meeting time slot was chosen. This should do the trick.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -22,6 +22,4 @@ A few tips to get your time back:
 - Following [these rules](https://manassaloi.com/2020/04/26/rules-project-management.html) will help you run projects well free up your time.
 - Delegate.
 - [Communicating better](https://manassaloi.com/2020/05/19/master-communication-writing.html) will help you cut useless meetings.
-- [Use frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html) to help people decide over you being part of every decision
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+- [Use frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html) to help people decide over you being part of every decision.

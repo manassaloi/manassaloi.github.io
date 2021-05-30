@@ -8,5 +8,3 @@ Origin story of Snapchat stories: something Evan Spiegel conceived as an alterna
 ![Snapchat stories](/assets/img/snapchat_stories.png)
 
 Source: [How to turn down a Billion dollars](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

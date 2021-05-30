@@ -30,5 +30,3 @@ How do you create a Premium category?
 ![Premium Category](/assets/img/premium_category.png)
 
 Now that I think more on this, maybe Average Car quality and Good Drivers can become a Budget category
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

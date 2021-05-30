@@ -19,5 +19,3 @@ Now is it because Uber wanted a faster GTM for this feature? Wanted to test it w
 I find it super interesting to think about the trade-offs made for this OTP feature.
 
 What I am trying to say is: Think of all the products you use on a day to day basis. Don't just use it as a user. Think like a designer or a PM. Ask questions. That is the best way to learn how to be a better PM.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

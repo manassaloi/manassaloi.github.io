@@ -33,5 +33,3 @@ I have been thinking about the concept of superpowers a lot. [Brian Norgard keep
 The client which the fastest email experience literally calls itself Superhuman.
 
 What superpower are you giving to your users?
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

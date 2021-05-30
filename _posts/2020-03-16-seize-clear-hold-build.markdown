@@ -8,5 +8,3 @@ The U.S. Army’s Ready First Brigade Combat Team (1st Armored Division) adopted
 
 
 (excerpt from [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) which I am currently thinking about)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

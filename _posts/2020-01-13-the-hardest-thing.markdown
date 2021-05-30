@@ -21,5 +21,3 @@ I have read a lot of resources on this topic and here are some of the few which 
 **Books:** [Nonviolent Communication: A Language of Life](https://manassaloi.com/booksummaries/2016/05/10/nonviolent-communication-marshall-rosenberg.html), [Crucial Conversations: Tools for Talking When Stakes Are High](https://manassaloi.com/booksummaries/2016/05/09/crucial-conversations-kerry-patterson.html)
 
 **Articles:** [Best reads on Firstround to deal with conflicts](https://firstround.com/review/our-6-must-reads-for-cutting-through-conflict-and-tough-conversations/), [5 hard questions to ask yourself during a conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a), [How to make a good argument](https://medium.com/@ameet/the-5-principles-of-good-argument-63d394ca3051), [5 steps for Disagreeing Effectively](https://medium.com/@joulee/5-steps-for-disagreeing-effectively-9d745ce0dbb4)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

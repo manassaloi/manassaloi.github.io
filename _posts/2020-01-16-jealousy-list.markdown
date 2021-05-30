@@ -87,5 +87,3 @@ ye padho: [chamath's archive](http://chamatharchive.com)
 i am so jealous of this guy! banda duniya ke best companies mein kaam kiya. log ek cool concept nikaal nahi paate ye bhaisahab blogging world aake [status as a service](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service) and [invisible asymptote](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes) pel diye
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

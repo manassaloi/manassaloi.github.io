@@ -27,6 +27,3 @@ Nowadays if I want help in making a decision, I just ask for facts or data inste
 This is the same reason I don't give very specific advice too. I keep my advice generic, and try to talk [decision making frameworks](https://manassaloi.com/2019/02/23/how-to-make-big-decisions.html) instead.
 
 Because we already know the decision we are going to make. We have always known.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

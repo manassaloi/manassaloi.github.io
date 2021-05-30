@@ -35,5 +35,3 @@ It is small things like these which gets me excited about product design
 You don't have to do anything revolutionary as a PM or designer. Just think about the small improvements which can bring outsized delight to your customers
 
 **P.S** Thanks to [R. Bhavesh](https://twitter.com/rbhavesh) (who pointed out the SMS example) & [Sunil Patro](https://twitter.com/spatro) (who shared the Outlook Calendar improvement)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
