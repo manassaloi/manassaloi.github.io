@@ -210,5 +210,3 @@ categories: booksummaries
 - Casey Stengel liked to point out that on any baseball team, one-third of the players loved the manager, one third hated him, and one third were undecided. “The secret to managing a baseball club,” said Stengel, “was to keep the third who hated you from getting together with the third who were undecided.”
 
 - In the same way that some of your problems do not need fixing because they are an issue to only a small minority of people, as a boss you should stop trying to change people who don’t want to change. This may sound harsh, but some people are unsalvageable. You’re only banging your head against a wall if you think you can fix them.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

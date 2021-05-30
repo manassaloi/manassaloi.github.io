@@ -97,6 +97,3 @@ All’s well that ends well, but there are lessons we can learn from Flickr’s 
 Flickr worked through the stressful situation by communicating calmly and honestly with their users. Let’s take a closer look at how Flickr handled the event to learn how emotional design shaped user reactions.
 
 Speed through the generic stuff, but take the time you need to perfect the few things that you’re most proud of. Remember that customers don’t engage with functionality. They engage with experiences. They are moved not by features but rather by their experience of using your product. Moving a mile a minute is great, so long as you slow down when you’re crafting something that will ultimately become your competitive advantage.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

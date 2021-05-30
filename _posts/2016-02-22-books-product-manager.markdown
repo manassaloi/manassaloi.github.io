@@ -49,5 +49,3 @@ by James C. Collins
 Happy reading!
 
 You might also like: [How to read 55+ Books per year](https://www.linkedin.com/pulse/how-read-55-books-per-year-manas-j-saloi)
-
-P.S I **tweet** interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)

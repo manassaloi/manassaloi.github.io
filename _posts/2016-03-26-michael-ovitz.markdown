@@ -24,13 +24,5 @@ categories: booksummaries
 + CAA had four commandments:
   * Never lie to your clients or colleagues.
   * Return every call by end of day (or at least have your assistant buy you a day’s grace).
-  * Follow up and don’t leave people guessing. Every desk phone at CAA bore the message COMMUNICATE. After our Fred Specktor heard me use that word in every speech I gave, he stuck the plaques on Ron’s phone and mine—and when we admired them, he stuck them on everyone’s phone. It was our version of IBM’s famous imperative to THINK.	
+  * Follow up and don’t leave people guessing. Every desk phone at CAA bore the message COMMUNICATE. After our Fred Specktor heard me use that word in every speech I gave, he stuck the plaques on Ron’s phone and mine—and when we admired them, he stuck them on everyone’s phone. It was our version of IBM’s famous imperative to THINK.
   * Never bad-mouth the competition
-
-
-
-
-
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

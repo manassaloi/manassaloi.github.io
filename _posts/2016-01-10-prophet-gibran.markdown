@@ -52,5 +52,3 @@ categories: booksummaries
 - You know that yesterday is but today's memory and tomorrow  is today's dream. And let today embrace the past with remembrance and the future with longing.
 
 - Your daily life is your temple and religion.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

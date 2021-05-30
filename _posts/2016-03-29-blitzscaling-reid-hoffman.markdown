@@ -110,6 +110,3 @@ categories: booksummaries
 + Would she be able to answer those questions? If you asked another employee, would he give the same answers? When organizations have strong cultures, their employees give consistent answers and act accordingly
 
 + Xiaomi’s response to this crisis demonstrates both the fierce competitiveness of Lei Jun and the amazing tempo possible in China. The company attacked its distribution problems with a rapid, massive effort to build up its off-line sales channel, opening one hundred Mi Home retail stores in a single year, with a target of opening two thousand stores by 2019. In the first quarter of 2017, an astounding 34 percent of Xiaomi’s smartphone sales in China came from its one hundred retail stores, which the company claims generate sales per square foot second only to Apple’s famed Apple Stores. In 2017, IDC reported that Xiaomi’s sales had rebounded 59 percent from the previous year, placing it back among the world’s top five smartphone makers
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

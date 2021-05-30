@@ -18,7 +18,3 @@ categories: booksummaries
 + Getting rid of the latch was not initially seen as a “wow” factor but part of the team’s relentless drive to make products with fewer and fewer parts—again, a defining characteristic of Jony’s design vision. “Less parts means better tolerancing and better part-to-part relationships,” said one designer. In other words, the product goes together better.
 
 + As with the marketing of the iPod, Jony’s team also designed the iMac’s packaging. Boxes may seem trivial, but Jony’s team felt that unpacking a product greatly influenced the all-important first impressions. “Steve and I spend a lot of time on the packaging,” Jony said then. “I love the process of unpacking something. You design a ritual of unpacking to make the product feel special. Packaging can be theater, it can create a story.”
-
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

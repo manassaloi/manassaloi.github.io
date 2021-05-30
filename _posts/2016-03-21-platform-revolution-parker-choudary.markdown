@@ -256,6 +256,3 @@ Second, keeping a partnership at arm’s length reduces the platform’s technol
 + The burgeoning Internet of things will add a new layer of connectivity and power to the platforms of the future, linking people and devices to one another in new value-creating ways
 
 + The platform revolution will ultimately transform our world in unpredictable ways, calling for society as a whole to develop creative, humane responses to the challenges this change will produce
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

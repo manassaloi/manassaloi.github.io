@@ -88,5 +88,3 @@ The reason why major corporate restructurings may be a fruitful place to seek ou
 3. In potential restructuring situations, also look for a catalyst to set things in motion.
 
 4. Make sure the magnitude of the restructuring is significant relative to the size of the total company.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

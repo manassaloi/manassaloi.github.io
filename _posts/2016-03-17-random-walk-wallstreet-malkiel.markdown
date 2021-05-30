@@ -15,5 +15,3 @@ categories: booksummaries
 - Bond returns are determined by
   - the initial yield to maturity at which the bonds were purchased
   - changes in interest rates (yields) and therefore in bond prices for bond investors who do not hold to maturity
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

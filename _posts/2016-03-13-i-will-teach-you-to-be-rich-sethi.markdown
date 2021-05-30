@@ -80,6 +80,3 @@ categories: booksummaries
 ![Automating your money](/assets/img/automating_money.png)
 
 ![Swensen model of asset allocation](/assets/img/asset_allocation_model.png)
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -38,5 +38,3 @@ A few years go by, and the economy has recovered a bit. Renters can afford to pa
 + If any investor has more than 10 to 20 years before part of the portfolio may be needed, this can be invested in subsets of the market that are extremely volatile but have a long, well-documented history of rewarding the investor for their patience. This includes mid-cap stocks, small-cap stocks, microcap stocks, and emerging markets stocks. The higher volatility should reward the investor with a higher return. As an example, if an investor has more than 20 years to retirement, they might have a substantial part of their portfolio in emerging markets. Some investors have wealth they will never spend or parts of the portfolio they will never touch. For situations like this, it can make sense for even a 75-year-old to have a significant portion of their portfolio in small stocks or emerging markets stocks
 
 + Actively trading securities in any asset class will likely yield lower returns. Choose index-based holdings for most if not all of your portfolio
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

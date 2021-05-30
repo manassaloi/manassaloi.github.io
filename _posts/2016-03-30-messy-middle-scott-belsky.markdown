@@ -139,6 +139,3 @@ True innovators value art up front and compete against incumbents through the ar
 
 The beginning stages of a business are more art than science. You must try to solve problems with new ideas that will feel strange and are in no way economical. You must run manual experiments, spend endless amounts of your own time with customers, and tinker until you find something special.
 Give your customers something precious, something that cannot be easily scaled, automated, or commoditized. The greatest innovations in an industry are strange and artlike before they become the new standard. Do things that your competitors and incumbents wouldn’t even think of doing for lack of financial reward. Only through these explorations will you discover the key differentiator—the art—that surprises customers and builds a remarkable product and brand
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -164,5 +164,3 @@ part of your organizational toolbox. The Integration matrix is an expanded tic-t
 + Choose service solutions that are high-touch, high-show, and high-tech. When analyzing service solutions, look for those that meet a guest’s need for interaction, vivid presentation, and efficiency.
 
 + Plan and manage solution implementations using storyboards. Use storyboards—visual maps of service solutions—as an aid to implementation
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -34,5 +34,3 @@ categories: booksummaries
 - Idea Meritocracy = Radical Truth + Radical Transparency + Believability-Weighted Decision Making.
 
 - Great managers orchestrate rather than do. Like the conductor of an orchestra, they do not play an instrument, but direct their people so that they play beautifully together.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

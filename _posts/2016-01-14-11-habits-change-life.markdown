@@ -66,5 +66,3 @@ The 1–3–5 Rule states that on a given day you can only accomplish one big th
 **#11 Stop procrastinating using the 2 min rule**
 
 If it takes less than two **minutes**, then do it now. If it takes more then add a task on any.do.
-
-**Like what I write? Follow me here:[@manas_saloi](http://twitter.com/manas_saloi)**

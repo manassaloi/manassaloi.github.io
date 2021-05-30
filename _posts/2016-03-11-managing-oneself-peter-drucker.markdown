@@ -61,5 +61,3 @@ Finally, there are the social entrepreneurs. These are usually people who have b
 * Learn about your colleagues just like you learn about yourself
 
 * Think about your second career once you have spent 20–25 years in your industry
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

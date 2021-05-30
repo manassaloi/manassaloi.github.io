@@ -113,5 +113,3 @@ I have been obsessed with start-ups since I got introduced to the world of start
 [A simple Growth Model for your Start-Up](http://www.linkedin.com/pulse/simple-growth-model-your-start-up-manas-j-saloi)
 
 [Want To Work For An Indian Startup? Here’s What You Need to Do](http://www.linkedin.com/pulse/want-work-indian-startup-heres-what-you-need-do-manas-j-saloi)
-
-**P.S I tweet a lot of interesting articles/studies related to start-ups. Follow me here:[@manas_saloi](http://twitter.com/manas_saloi)**

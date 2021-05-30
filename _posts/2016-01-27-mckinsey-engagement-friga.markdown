@@ -204,6 +204,4 @@ categories: booksummaries
   - Tell a story—use a very brief situation and complication followed by the resolution, which is the most important aspect of the project.
   - Share the story with the client and the team ahead of time to obtain input and ensure buy-in.
   - Keep the story simple, and focus on the original problem and specific recommendations for improvement; include the estimated impact on the organization.
-  - Tactic 40: Have fun!
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+  - Have fun!

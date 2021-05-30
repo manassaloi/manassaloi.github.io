@@ -18,5 +18,3 @@ categories: booksummaries
   + Helps with career development
   + Has a clear vision/strategy for the team
   + Has important technical skills that help him/her advise the team
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -48,5 +48,3 @@ categories: booksummaries
 - The traits I respect are erudition and the courage to stand up when half-men are afraid for their reputation. Any idiot can be intelligent.
  
 - You know you have influence when people start noticing your absence more than the presence of others.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -172,6 +172,3 @@ Companies that have been granted a patent, trademark, or other type of intellect
 + Identifying a startup that may acquire a moat before it becomes evident is something that some venture capitalists can do when there is a sufficiently high level of probability that they can generate an attractive return on capital overall. Venture capitalists harvest something called optionality, which is a different form of arbitrage than Graham’s value investing system. The skill needed to be successful as a venture capitalist is rare, as evidenced by the fact that the distribution of returns in venture capital is a power law. Moats that emerge from complex adaptive systems like an economy are hard to spot. This is because a moat is something that is greater than the sum of its parts, emerging from something else that is greater than the sum of its parts. In contrast, a moat being destroyed is easier to spot because this is a process of something transforming into nothing
 
 + Graham value investors spend a lot of time thinking about return on equity and return on capital
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

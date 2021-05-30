@@ -35,5 +35,3 @@ categories: booksummaries
 1. See if someone is trying to create barrier. One sitting position might put the knee in front making it seem like a blocker for physical contact. This generally means lack of trust/comfort.
 
 1. Foot lock is a freeze behavior. If this is accompanied by a pacifying behavior then take notice.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

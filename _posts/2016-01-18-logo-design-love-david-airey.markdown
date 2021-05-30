@@ -98,6 +98,3 @@ Everyone makes mistakes. Learn from them, and move on.
 A logo is just one part of a company’s brand identity. The brand, as a whole, represents much more—the mission of the company, its history, people’s perceptions of it, and so on. An effective logo plays an important part, but it won’t save a poor product or service, or a company with a weak mission.
 25. Remember, it’s a two-way process
 Projects do not always pan out the way you think they will. Your client might request something you don’t initially agree with. If this happens, work with him on what he wants, and if you still disagree, then show what you believe is an improvement, and give your reasons why. Your clients will be more open to your ideas if you’re open to theirs.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

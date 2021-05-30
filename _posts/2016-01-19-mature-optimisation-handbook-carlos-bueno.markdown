@@ -39,5 +39,3 @@ Here are some metrics that are probably relevant to any large networked applicat
 These metrics should be further broken down by country, datacenter, WWW versus API versus mobile, and a half-dozen other dimensions.
 
 In particular, making schema changes or adding indexes to a database with more than 10-20 million rows completely locks the database for hours at a time. Removing old indexes takes just as much time, and not removing them hurts performance... There are complex operational procedures you can do to circumvent these problems... so error prone and heavyweight, they implicitly discouraged adding features that would require schema/index changes...
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

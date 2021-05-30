@@ -44,5 +44,3 @@ If you don’t believe in what you are saying, there is no point in your saying 
 Writing is about hypnotizing yourself into believing in yourself, getting some work done, then unhypnotizing yourself and going over the material coldly. There will be many mistakes, many things to take out and others that need to be added. You just aren’t always going to make the right decision.
 
 All the good stories are out there waiting to be told in a fresh, wild way
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

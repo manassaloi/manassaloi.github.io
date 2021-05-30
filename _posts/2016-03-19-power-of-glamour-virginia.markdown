@@ -51,6 +51,3 @@ In 1973 Revlon introduced Charlie, a “lifestyle fragrance” aimed at young, l
 The most striking thing about Charlie wasn’t its smell but its advertising. Instead of the usual evening gowns, starlit nights, or exotic locales, Charlie ads featured the blond model Shelley Hack striding along in a pantsuit, with no man in sight.2 The “Charlie Girl” represented a new version of glamour: youthful, energetic, and supremely confident. The androgynously named Charlie was “breeziness incarnate,” writes New York Times style reporter Susan Joy.3 Women didn’t know where she was going, what she did for a living, or whether she had a boyfriend, but they knew they wanted to be like her.
 
 Women who lived through World War II yearned for fashionable new clothes and an escape from the constraints of shortages and rationing. For them newness meant quality and progress. An old dress was the antithesis of glamour.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

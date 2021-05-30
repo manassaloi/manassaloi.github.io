@@ -327,5 +327,3 @@ These four dimensions can be understood through a framework we call the strategy
   - More resources to spend on an ongoing basis than competitors have. This means you are winning the value equation and have the biggest margin between price and costs and the best capacity to add spending to take advantage of an opportunity or defend your turf.
   - Competitors who attack one another, not you. It means that you look like the hardest target in the (broadly defined) industry to attack.
   - Customers who look first to you for innovations, new products, and service enhancement to make their lives better. This means that your customers believe that you are uniquely positioned to create value for them.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

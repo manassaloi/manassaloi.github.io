@@ -50,6 +50,4 @@ Solve problems not symptoms. In case of fire don't open window, get smoke out. F
 
 Figure out consequences of a problem. Check your goal. See if problem conflicts with goal. What is actually the real problem. For this go upward
 
-To figure out root go down ward. Use 5 why's
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+To figure out root go down ward. Use 5 why's.

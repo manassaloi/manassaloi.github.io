@@ -58,5 +58,3 @@ One of my current goals is to prepare a list of 1 star reviews every week and ad
 I truly believe that. **As a PM you are the super user of your app.** You are the one who is ultimately responsible for shipping the right product to the right users. You are the voice of your users. There is no greater feeling than seeing people leave positive feedback on your latest build.
 
 It has been a wonderful first year learning how to build products and I am looking forward to [write more in 2016.](https://medium.com/the-year-of-the-looking-glass/write-in-2016-938f569b535e#.sntzhtsv0)
-
-I share articles on product management/ start ups here : [@manassaloi](https://twitter.com/manas_saloi)

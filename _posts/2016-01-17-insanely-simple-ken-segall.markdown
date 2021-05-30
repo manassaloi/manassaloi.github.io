@@ -43,11 +43,8 @@ categories: booksummaries
 
 + The technology that drives Apple devices is incredibly complex. One with technical expertise could write dissertations describing how these “simple” devices do what they do. But Apple never will. It prefers to speak in more human terms.
 Apple didn’t describe the original iPod as a 6.5-ounce music player with a five-gigabyte drive. It simply said, “1,000 songs in your pocket.” This is the way human beings communicate, so this is the way Apple communicates.
-Human-speak is a hallmark of Simplicity. It’s the recognition that the best way to connect with people is to put things in human terms and use the words that people use in everyday conversation
+Human-speak is a hallmark of Simplicity. It’s the recognition that the best way to connect with people is to put things in human terms and use the words that people use in everyday conversation.
 
-+ Simplicity calls for a clear strategy, followed by consistent messaging
++ Simplicity calls for a clear strategy, followed by consistent messaging.
 
-+ It’s because a company is likely to experience both success and failure along its trajectory that Steve Jobs was a firm believer in the concept of the “brand bank.” He believed that a company’s brand works like a bank account. When the company does good things, such as launch a hit product or a great campaign, it makes deposits in the brand bank. When a company experiences setbacks, like an embarrassing mouse or an overpriced computer, it’s making a withdrawal. When there’s a healthy balance in the brand bank, customers are more willing to ride out the tough times. With a low balance, they might be more tempted to cut and run. Steve went on record many times about the importance of building a strong Apple brand. And he benefited from having a high balance in the brand bank many times
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
++ It’s because a company is likely to experience both success and failure along its trajectory that Steve Jobs was a firm believer in the concept of the “brand bank.” He believed that a company’s brand works like a bank account. When the company does good things, such as launch a hit product or a great campaign, it makes deposits in the brand bank. When a company experiences setbacks, like an embarrassing mouse or an overpriced computer, it’s making a withdrawal. When there’s a healthy balance in the brand bank, customers are more willing to ride out the tough times. With a low balance, they might be more tempted to cut and run. Steve went on record many times about the importance of building a strong Apple brand. And he benefited from having a high balance in the brand bank many times.

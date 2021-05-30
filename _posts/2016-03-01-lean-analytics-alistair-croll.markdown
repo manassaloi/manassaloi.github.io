@@ -67,5 +67,3 @@ Empathy, Stickiness, Virality, Revenue, Scale
   * Increase acceptance rate
   * Shorten cycle time
   * Make people invite their friends
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
