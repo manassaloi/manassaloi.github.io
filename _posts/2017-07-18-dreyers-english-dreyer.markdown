@@ -302,6 +302,3 @@ You’re also overfond of “suddenly.”
 
 
 My nightmare sentence is “And then suddenly he began to cry
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

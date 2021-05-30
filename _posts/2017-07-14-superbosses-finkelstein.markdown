@@ -33,6 +33,3 @@ categories: booksummaries
 10. Are you removing the bureaucratic barriers and hierarchy that get in the way of meaningful interaction and getting the job done?
 11. How often do you actively teach people how to do something, as opposed to just telling people what to do?
 12. Are you doing all you can to continue helping former employees in their careers? Are you capitalizing on the power of your network, or have you let it become a nonentity?
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

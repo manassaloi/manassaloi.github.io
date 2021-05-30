@@ -47,5 +47,3 @@ Our first response to hearing a story is the desire to tell it ourselves—the g
 Great stories cannot be observed, any more than an infinite game can have an audience. Once I hear the story I enter into its own dimensionality. I inhabit its space at its time. I do not therefore understand the story in terms of my experience, but my experience in terms of the story. Stories that have the enduring strength of myths reach through experience to touch the genius in each of us. But experience is the result of this generative touch, not its cause. So far is this the case that we can even say that if we cannot tell a story about what happened to us, nothing has happened to us.
 
 - Infinite players are not serious actors in any story, but the joyful poets of a story that continues to originate what they cannot finish.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

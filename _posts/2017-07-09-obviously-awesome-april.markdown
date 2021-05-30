@@ -325,5 +325,3 @@ categories: booksummaries
 - Understanding what your best customers see as true alternatives to your solution will lead you to your differentiators
 - Position yourself in a market that makes your strengths obvious to the folks you want to sell to
 - Use trends to make your product more interesting to customers right now, but be very cautious. Don’t layer on a trend just for the sake of being trendy—it’s better to be successful and boring, rather than fashionable and bewildering
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

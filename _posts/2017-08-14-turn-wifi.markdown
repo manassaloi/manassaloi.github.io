@@ -36,6 +36,4 @@ A particular e-com company focussing on the female demographic used to send push
 
 This is not something which you can know by asking your users to fill a form. So go out. Talk to your users. Understand why they open your app during certain periods of the day. Understand their motivation
 
-I can go on and on. Give your more examples. But the takeaway is clear. The more the data you have on your users, the better you can tailor your product to extract meaximum value out of your users. It works even if your business model is not running ads
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+I can go on and on. Give your more examples. But the takeaway is clear. The more the data you have on your users, the better you can tailor your product to extract meaximum value out of your users. It works even if your business model is not running ads.

@@ -1332,5 +1332,3 @@ throwing open more windows in the summer. Maybe I should buy a couple of dehumid
 Santa Barbara or San Francisco, where Mother Nature has obviated the problem of insulation—and I could move there.
 
 - We can see that this is a Job to Be Done and not a technical specification or requirement. We know this because the alternatives of things to hire to get the job done come from very different categories of products and services.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -2429,5 +2429,3 @@ isn’t in the same sort of trouble.
 An aging analysis will present you with just these kinds of figures: total receivables under thirty days, total for thirty
 to sixty days, and so on. It’s usually worth checking out that analysis as well as your overall DSO number to get the full
 picture of your receivables.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

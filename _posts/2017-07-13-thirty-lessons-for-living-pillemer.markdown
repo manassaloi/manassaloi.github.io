@@ -36,5 +36,3 @@ The author of the book "30 Lessons for Living: Tried and True Advice from the Wi
 + Have you learned any lessons regarding staying in good health?
 
 + What advice would you give to people about growing older?
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

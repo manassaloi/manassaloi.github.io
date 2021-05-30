@@ -267,6 +267,3 @@ Even when I make a Pair with them on the Flop ... I play them extremely cautious
 + So, in a short-handed game, you'd play your position along the same theories I discussed in a full game - except the values of the hands go up a few notches. The  trouble hands become better hands because you don't figure to be up against A-A, K-K or A-K nearly as often as you might in a Ring game
 
 + You simply play more in line with a big-card theory in a short-handed game. I mean, the bigger your cards are ... the better hand you'll have. For instance, two Aces or two Kings is just a mountain in a short-handed game ... and you could play them real fast. But, in a Ring game, you might play either hand a lot slower because there could be a lot of people taking a Turn to beat those big Pairs. That wouldn't be the case in a short-handed game. Consequently, they're much more valuable hands than they are in a Ring game. What you're trying to catch in a short-handed game is big cards in position
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

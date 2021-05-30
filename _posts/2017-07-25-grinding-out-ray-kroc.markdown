@@ -19,5 +19,3 @@ categories: booksummaries
 - My way of fighting the competition is the positive approach. Stress your own strengths, emphasize quality, service, cleanliness, and value, and the competition will wear itself out trying to keep up.
 
 - I believe that if you think small, you’ll stay small.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

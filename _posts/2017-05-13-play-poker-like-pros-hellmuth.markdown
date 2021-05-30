@@ -579,6 +579,3 @@ When you’re playing against a player who bluffs out against you all the time h
 
 **Slow-Playing against a Superaggressive Player**
 Often, you will find yourself playing heads-up with a superaggressive player. When this is the case, I like to slow-play my hands. Suppose that I have Q-Q in the pocket and the aggressive player has raised on the button. Most of the time in this situation, I will just call him before the flop to trap him later on. Suppose that the flop is J-8-5. Now I like to check and just call again! Give him a little rope. Let’s say that the next card off is a deuce for J-8-5-2. Now I check again, and if my opponent bets, now I finally raise! If I trap my opponent here, he will be less likely to try to bluff on every hand, because he knows that I am capable of trapping him again soon!
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

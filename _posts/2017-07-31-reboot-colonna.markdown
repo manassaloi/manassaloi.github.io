@@ -59,5 +59,3 @@ categories: booksummaries
 - How has who I am shaped the ways I lead others and myself? Which of my unconscious patterns might be showing up in my organization? How have those patterns benefited my organization? How might they be holding it back?
 
 - How has my heart been broken? What have I learned about myself as a result of that heart being broken? In what ways do I embody resiliency? What does a life of peace and equanimity feel like? How will I know my work is done?
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -997,6 +997,3 @@ less favored play
 ![Poker Mistakes 1](/assets/img/poker_mistakes_1.png)
 ![Poker Mistakes 2](/assets/img/poker_mistakes_2.png)
 ![Poker Mistakes 3](/assets/img/poker_mistakes_3.png)
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

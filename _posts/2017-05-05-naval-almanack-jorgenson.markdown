@@ -95,5 +95,3 @@ categories: booksummaries
 - Once you’ve truly controlled your own fate, for better or for worse, you’ll never let anyone else tell you what to do.
 
 - Honesty is a core, core, core value. By honesty, I mean I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say. If I disconnect what I’m thinking from what I’m saying, it creates multiple threads in my mind. I’m no longer in the moment—now I have to be future-planning or past-regretting every time I talk to somebody. Anyone around whom I can’t be fully honest, I don’t want to be around.
-
-P.S You can follow me on Twitter and stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

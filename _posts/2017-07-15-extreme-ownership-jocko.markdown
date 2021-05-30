@@ -514,6 +514,4 @@ A good leader must be:
  - close with the troops but not so close that one becomes more important than another or more important than the good of the team; not so close that they forget who is in charge.
  - able to execute Extreme Ownership, while exercising Decentralized Command.
 
-A good leader has nothing to prove, but everything to prove
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
+A good leader has nothing to prove, but everything to prove.

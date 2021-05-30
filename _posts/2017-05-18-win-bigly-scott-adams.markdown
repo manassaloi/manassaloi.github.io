@@ -59,5 +59,3 @@ Visual persuasion is more powerful than non visual persuasion, all else being eq
 Trump had a natural visual advantage for his accomplishments in the form of Trump properties (hotels, golf courses, etc.) around the world. Every time you saw one of those hotels you were reminded of his success. Compare that with the Clinton Foundation’s accomplishments, which had no visual element.
 
 People are more persuaded by contrast than by facts or reason. Choose your contrasts wisely.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

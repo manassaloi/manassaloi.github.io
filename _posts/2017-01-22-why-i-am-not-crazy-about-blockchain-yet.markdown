@@ -46,5 +46,3 @@ For other cryptos trying to replaces currencies, they need to have a stable valu
 For all the other crypto projects, they have to prove that apart from the decentralised aspect they are as usable, safe, reliable as an Amazon or an Uber. Only then people would invest in their ICOs and start using their services. Till now I have not seen many projects take off. After the initial ICO buzz most have failed. So I guess only time will tell how many of them actually create a real use case and convince users to switch from mainstream services.
 
 If you have been thinking about this as much as me, why not join the discussion and leave your opinion? Would love to learn your views too.
-
-P.S You can follow me on Twitter and stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

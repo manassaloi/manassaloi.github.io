@@ -2482,7 +2482,3 @@ We now have a total of 22 combinations of 3-bet bluffing hands, giving us a bala
 <Polarised range table>
 
 <ALL THE SCREENSHOTS>
-
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

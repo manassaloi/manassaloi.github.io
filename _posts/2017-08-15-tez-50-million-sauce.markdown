@@ -57,5 +57,3 @@ If you start thinking about variable reward, it is everywhere. Imagine if you go
 Another interesting possibility. What if Dropbox instead of rewarding users with 500 MB storage for every referral gave you a variable space? Would you refer more people?
 
 If you liked this post, you should read the book Hooked: [How to Build Habit-Forming Products by Nir Eyal](https://www.goodreads.com/book/show/22668729-hooked).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

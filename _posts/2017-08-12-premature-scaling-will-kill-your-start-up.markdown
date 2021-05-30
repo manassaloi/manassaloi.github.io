@@ -43,5 +43,3 @@ With the ideas of Premature Scaling, Consistent and Inconsistent Start-ups clear
 [19 lessons I learned during my first year as a Product Manager](http://www.linkedin.com/pulse/19-lessons-i-learned-during-my-first-year-product-manager-saloi?trk=mp-reader-card)
 
 [10 Tools for every Mobile Product Manager](http://www.linkedin.com/pulse/10-tools-every-mobile-product-manager-manas-j-saloi?trk=mp-reader-card)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

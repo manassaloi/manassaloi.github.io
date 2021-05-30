@@ -236,5 +236,3 @@ categories: booksummaries
 - Use the visuals on your slide to prompt you to deliver just one key theme—one main message—per slide. Think “one theme per slide.”
 
 - Treat presentations as “infotainment.” Your audience wants to be educated and entertained. Have fun. It’ll show. Never apologize. You have little to gain from calling attention to a problem. If your presentation hits a glitch, acknowledge it, smile, and move on. If it was not obvious to anyone but you, do not call attention to it. Change your frame of reference. When something does not go exactly as planned, it did not “go wrong” unless you allow it to derail the rest of your presentation. Keep the big picture in mind, have fun, and let the small stuff roll off your back.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -50,5 +50,3 @@ Alex
 + “Don’t send Zuckerberg another email,” Elliott said.
   “But shouldn’t I confirm?” I asked.
 	“No. Never oversell. He already said yes. At this point, all you have to do is show up.”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

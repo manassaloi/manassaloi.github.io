@@ -78,6 +78,3 @@ categories: booksummaries
 + For traffic lights scenes, use auto exposure and 1/8 or 1/15 shutter speed.
 
 + Take night city photos at dusk instead.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
