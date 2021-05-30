@@ -75,5 +75,3 @@ categories: booksummaries
   + Constantly create and ask challenging questions (Air).
   + Consciously consider the flow of ideas (Water).
   + And, of course, remember that learning is a lifelong journey; thus each of us remains a work-in-progress—always evolving, ever changing—and that’s Quintessential living.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

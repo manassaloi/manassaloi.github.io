@@ -67,6 +67,3 @@ categories: booksummaries
 1. Never hesitate to imitate another writer. It is part of the creative process for anyone learning an art or a craft. Find the best writers in the fields that interest you and read their work aloud.
 
 1. After verbs, plain nouns are a writer’s strongest tools; they resonate with emotion
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

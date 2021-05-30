@@ -147,7 +147,4 @@ You may have more weapons than you realize. Threaten to move your headquarters. 
 + Can you build a coalition? Is this a true consumer-rights issue? Will other advocates come to your defense?
 Americans don’t like being told where they can and can’t shop, what they can and can’t do with their cars, their homes, their stuff. Property rights are underappreciated as a narrative and advocacy tool.
 
-+ Are there other political dynamics at play that can be useful? Did the same politician just crack down on a different startup and
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
++ Are there other political dynamics at play that can be useful? Did the same politician just crack down on a different startup?

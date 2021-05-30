@@ -68,6 +68,3 @@ You have two options: either run a middling company going nowhere or clear out t
 - Hire 10s whenever you can. They are proactive about sensing problems, designing solutions, and taking a business in new directions. They also attract and hire other 10s. You can always build something around a 10
 - Be there for the people you know to be good, even when everyone else is walking away. Anyone can end up in a tough situation. A random act of kindness in someone’s time of need can change the course of a life and create an unexpected friendship or loyalty
 - Everyone has dreams. Do what you can to help others achieve theirs
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

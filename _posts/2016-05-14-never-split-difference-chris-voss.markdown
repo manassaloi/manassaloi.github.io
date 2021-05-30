@@ -440,5 +440,3 @@ After quizzing the broker if the seller would be willing to close quickly, and g
 - **SECTION V: NON CASH OFFERS**
   - Prepare a list of noncash items possessed by your counterpart that would be valuable
   - Ask yourself: “What could they give that would almost get us to do it for free?” Think of the anecdote I told a few chapters ago about my work for the lawyers’ association: My counterpart’s interest was to pay me as little cash as possible in order to look good in front of his board. We came upon the idea that they pay in part by publishing a cover story about me in their magazine. That was low-cost for them and it advanced my interests considerably
-
-  Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

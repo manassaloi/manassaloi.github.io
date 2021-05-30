@@ -198,5 +198,3 @@ As you begin to share your views, remember:
 Determine who does what by when. Make the deliverables crystal clear. Set a follow-up time. Record the commitments and then follow up. Finally, hold people accountable to their promises
 
 **Example** “I’d like to step away from this scheduling issue for a moment—then we’ll come right back to it. The way you’re leaning in toward me and raising your voice seems disrespectful. I want to help address your concerns, but I’m going to have a tough time doing so if this continues.”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -20,5 +20,3 @@ categories: booksummaries
 + What do you want from me?’/' How can I help?'
 + 'What are you saying No to?'
 + 'What was most useful for you about this conversation?'
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

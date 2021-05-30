@@ -106,6 +106,3 @@ categories: booksummaries
 + USE FEEDBACK RESPONSIBLY. Evaluation should happen every day, not once a year. Don’t use performance reviews for developing your team or addressing issues. Those things should be occurring day by day, month by month. There should never be anything, good or bad, in an employee’s formal review that you haven’t discussed with him/her several times throughout the year.
 + DISCIPLINE. Don’t try to force your employees to behave, simply employ clarity and consequences. Give employees the benefit of the doubt by clarifying expectations first. If they continue to exhibit the problematic behavior, outline consequences. If it happens again, consequences are enacted. This is fair, consistent, and effective.
 + THOSE ON A PEDESTAL GET KNOCKED OFF. Putting yourself “above” others will only create resentment and backlash. Positioning yourself as a foundational force will create support, loyalty, high-level team building, and triumph.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

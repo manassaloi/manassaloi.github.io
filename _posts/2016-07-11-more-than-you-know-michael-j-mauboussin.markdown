@@ -415,5 +415,3 @@ Here are some quick thoughts about where a multidisciplinary approach might help
 **Note:** I ignored lessons from a few chapters. As with “The Essays of Warren Buffett: Lessons for Corporate America”, I could not follow through some of Michael J. Mauboussin’s ideas and hence just skimmed through them.
 
 Link:[ Goodreads](https://www.goodreads.com/book/show/33331.More_Than_You_Know)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

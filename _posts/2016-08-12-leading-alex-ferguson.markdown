@@ -16,5 +16,3 @@ categories: booksummaries
 - Be in a position to be able to zoom in to see the detail and zoom out to see the whole picture.
 
 - Youngsters think they have all the time in the world. If you are a boy who has just had his tenth birthday, your next one seems an eternity away. That’s because the single year that stretches ahead amounts to 10 per cent of the time you have been on earth. It’s a different sensation when you turn 50, because the distance to your 51st birthday amounts to just 2 per cent of the time you have been alive. As you get older and more experienced, you start to think about how you allocate time. You gradually come to appreciate that an hour–or weekend–squandered is time you will never recapture.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

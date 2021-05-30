@@ -257,5 +257,3 @@ who has it, and then assess how you might be able to get
 it.If you are involved in project management, you are defining
 a political playing field around you. It's up to you to decide how
 fair or insane it is.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

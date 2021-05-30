@@ -55,5 +55,3 @@ categories: booksummaries
 + Transform this judgmental image into the need that it is expressing; in other words, bring your full attention to the need that is behind the judgment.  
 
 These three steps are done internally—nothing is said out loud. Instead, you simply become aware that your anger is not caused by what the other person has done, but rather by your judgment. Then it’s time to look for the need behind the judgment.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

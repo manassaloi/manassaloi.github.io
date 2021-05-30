@@ -174,5 +174,3 @@ consultants or investment bankers whether an acquisition or two might make sense
 Note: I ignored highlights from a few chapters related to Accounting. Not being an accounting nerd, I had a hard time grasping all the concepts. I also mostly focussed on stocks and bonds and ignored other money instruments.
 
 Links: [Goodreads](https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett), [Amazon](https://www.amazon.in/Essays-Warren-Buffett-Lessons-Corporate/dp/1611637589)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

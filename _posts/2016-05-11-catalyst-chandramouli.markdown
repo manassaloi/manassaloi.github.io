@@ -96,6 +96,3 @@ The four quadrant technique is a good way of evaluating if you have made a sound
 For the join decision, evaluating prospective learning and fit in the new company is more important than pay and other prospects. Will the new place accelerate your real individual growth? Will the new place have a culture and value system where you will fit in and find it easy to deliver in?
 
 **Leadership = (Position + Content) × Values**
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

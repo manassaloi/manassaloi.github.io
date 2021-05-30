@@ -389,6 +389,3 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
    + Discuss forward-looking early-warning operating metrics, not just the rear-view prior-month revenue and profits. By the time you miss P&L targets, it is too late to adjust course.
    + Come with a plan that identifies what is happening, the ultimate impact to the business, the root cause, and the roadmap to address it. If the plan is not yet clear, discuss what you need to know or what help you require to get there.
    + An occasional “I don’t know. We’ll look into it and get back to you” builds a lot more trust and credibility than trying to wing it.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -79,6 +79,3 @@ The good news is that you learned the secret to sharing your logic in high schoo
 * Situation, behavior, and impact applies to praise as well as to criticism
 
 * **Giving feedback:** When somebody says, “I’m so proud of you!” it’s natural to think, “Who are you to be proud of me?” Better to say, “In your presentation at this morning’s meeting (situation), the way you talked about our decision to diversify (behavior) was persuasive because you showed everyone you’d heard the other point of view (impact)”
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

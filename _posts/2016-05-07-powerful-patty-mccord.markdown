@@ -322,6 +322,3 @@ A few months later, I sat in on a meeting his team was having, and it was really
 * How well are you keeping up on changes in business operations and personnel at firms that might offer good opportunities for them?
 
 **“Culture is the strategy of how you work. And if people believe it is a strategy and that it is important, they will help you think about it deeply and try things.”** - Former VP of HR at Netflix Jessica Neal
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

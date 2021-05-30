@@ -107,5 +107,3 @@ categories: booksummaries
 - You have to approach your work and life with a sense of genuine humility. The success I’ve enjoyed has been due in part to my own efforts, but it’s also been due to so much beyond me, the efforts and support and examples of so many people, and to twists of fate beyond my control.
 
 - Hold on to your awareness of yourself, even as the world tells you how important and powerful you are. The moment you start to believe it all too much, the moment you look at yourself in the mirror and see a title emblazoned on your forehead, you’ve lost your way.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

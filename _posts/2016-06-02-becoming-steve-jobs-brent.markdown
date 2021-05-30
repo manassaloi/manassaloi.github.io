@@ -22,5 +22,3 @@ categories: booksummaries
 - Susan Barnes has observed that Steve entered every negotiation knowing exactly what he had to get, and what his position was versus the other side. In negotiating with Lucas, he had been able to exploit Lucas’s need for cash. This time Steve went in knowing that Katzenberg had the power, and that Pixar needed a deal to survive. He kicked off the negotiations with a certain brashness, saying that he wanted Pixar to be a partner on all aspects of the revenue from the film, something no neophyte studio filmmaker would ever get. Katzenberg promptly nixed that.
 
 - “We had to have been there at least an hour, just talking about stuff. I was telling him I was nervous, that I was kind of scared of the IPO. I wished that we could wait for the second movie. And he did that thing, where he kind of looks off, and he said, ‘You know, when we make a computer at Apple, what’s its life span? About three years? At five years, it’s a doorstop. But if you do your job right, what you create can last forever.'”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

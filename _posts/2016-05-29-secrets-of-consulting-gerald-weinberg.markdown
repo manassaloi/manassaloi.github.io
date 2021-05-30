@@ -49,5 +49,3 @@ categories: booksummaries
 **The Five-Minute Rule:** Clients always know how to solve their problems, and always tell the solution in the first five minutes.
 
 + The Second Law of Pricing states,The more they pay you, the more they love you.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

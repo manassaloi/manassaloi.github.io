@@ -26,5 +26,3 @@ The most obvious way to improve your competitive advantage is to strengthen and 
 - Plan Z: a reliable plan you shift to when you no longer have confidence in Plan A and B, or when your plans get severely disrupted. The certainty of the Plan Z backstop is what enables you to be aggressive—not tentative—about Plans A and B. With a Plan Z, you’ll at least know you can tolerate failure. Without it, you could be frozen in fear contemplating the worst-case scenarios
 
 - When I started my first company, my father offered up an extra room in his house in the event it didn’t work out—living there and finding a job somewhere else to earn money was my Plan Z. This allowed me to be aggressive in my entrepreneurial pursuits, as I knew I could draw my assets down to zero if necessary and still have a roof over my head. Becoming homeless or bankrupt or permanently unemployable is an unacceptable outcome when one of your career plans fails. Your Plan Z is there to prevent these unacceptable outcomes from becoming realities
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

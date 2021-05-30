@@ -192,6 +192,3 @@ Create Your Own “Profile” as a Leader. Know the ultimate requirements for yo
 ![to dos boxes](/assets/img/to_dos_boxes.png)
 
 ![peripheral activities](/assets/img/peripheral_activities.png)
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

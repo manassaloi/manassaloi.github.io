@@ -295,6 +295,3 @@ Control	the frame, be	 mindful	 of	 the	 optics help	 the	 other	 side	�
 process	 before	 substance,	 normalise	 the	 process,	 lower	 the	 bar	 for	 progress,	 stay	 at	 the	 table,
 empathise,	 create	 slack,	 work	 the	 whole	 body,	 map	 out	 the	 negotiation	 space,	 seek	 greater
 understanding,	create	value,	and	so	on
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

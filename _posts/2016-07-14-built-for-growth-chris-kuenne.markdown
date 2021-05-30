@@ -35,6 +35,3 @@ Captains are as much team assemblers as catalysts. These builders are intent on 
 They are motivated to build enterprises of enduring value through unleashing the productive potential of the individuals and teams around them.
 
 As leaders, Captains believe in setting clear goals and expectations, then delegating responsibility for execution. While they prefer consensus-rooted decisions, they sometimes manifest an iron fist in a velvet glove when their teams underperform.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

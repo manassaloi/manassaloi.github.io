@@ -143,6 +143,3 @@ categories: booksummaries
 * It’s fine for a startup to miss a month or to do updates every other month or quarterly if they are more established, but it’s never acceptable to go radio silent. If we don’t get an update for two months, we email them and ask, “Did we miss your monthly update?”
 
 * However, remember that we want your first ten investments to be $1,000 syndicate-level swings at bat so you can learn at the low-stakes table, where mistakes aren’t devastating. After that, in this book, we talk about making twenty $25,000 bets and quadrupling down on the winners with a $100,000 follow-on investment. In this model, no one investment is more than 12.5 percent of your angel investing portfolio, which in turn is only 10 to 20 percent of your overall net worth. That makes no one investment more than 1.25 to 2.5 percent of your net worth.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

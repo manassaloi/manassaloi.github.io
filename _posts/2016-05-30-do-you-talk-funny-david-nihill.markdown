@@ -175,5 +175,3 @@ to the punch line quicker. Watch out for them in your writing. Scott Adams, the
 writer of Dilbert comics notes, “Keep your writing simple, as if you were
 sending a witty email to a friend. Be smart, but not academic. Prune words that
 don’t make a difference.”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -142,5 +142,3 @@ Teams communicate mainly through messages and meetings. Both should be kept brie
 - Delegate around your limitations. Understanding the limitations of others: your client, your organization, your team, and even your organization’s structure is key. Now we recommend that you turn that same understanding inward and understand your own limitations. Know them for what they are and respect them. In a modern organization, you can’t last very long as a one-man band. Not even Tiger Woods plays in every golf tournament.
 
 - Once you’ve recognized your limitations, you can go about circumventing them. Sometimes this just means having an assistant you can trust to handle your travel arrangements and messaging
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

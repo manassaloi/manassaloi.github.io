@@ -98,6 +98,3 @@ Good marketing tells the story. Great marketing is the story.
 We don’t just notice or respond to difference; most of the time we can’t even explain it.
 We simply feel it. We just know.
 And that’s what makes it matter.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

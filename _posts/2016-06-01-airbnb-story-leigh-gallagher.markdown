@@ -33,5 +33,3 @@ In the summer of 2014, after the executive team was beginning to realize the com
 #### Company eras
 
 Musk cautioned him against becoming a company that gets so big that it enters what he calls the “administration era”: a phase of 10 or 20 percent growth that a company settles into after the “creation era” and then the “building era” and signals a mature business. “Airbnb will never be in an administration era,” Chesky vows. “It will always be in a building era. It will always be in a phase 1, phase 2 era. And this is why we’re going to be launching a lot of stuff in November—and then many, many things after that.”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

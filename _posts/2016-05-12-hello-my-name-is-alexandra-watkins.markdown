@@ -25,5 +25,3 @@ categories: booksummaries
 * Tame —is flat, descriptive, uninspired
 * Curse of Knowledge —makes sense only to insiders
 * Hard to pronounce —is not obvious or is unapproachable
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

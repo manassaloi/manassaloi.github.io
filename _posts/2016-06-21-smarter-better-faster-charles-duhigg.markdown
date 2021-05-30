@@ -37,5 +37,3 @@ categories: booksummaries
 • Creativity often emerges by combining old ideas in new ways—and “innovation brokers” are key. To become a broker yourself and encourage brokerage within your organization.
 
 • Be sensitive to your own experiences. Paying attention to how things make you think and feel is how we distinguish clichés from real insights.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

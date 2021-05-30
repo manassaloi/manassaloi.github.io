@@ -18,5 +18,3 @@ categories: booksummaries
 - So the next time you ask an employee to go pick some low-hanging fruit — stop yourself. Respect the work that you’ve never done before. Remind yourself that other people’s jobs aren’t so simple. Results rarely come without effort. If momentum and experience are on your side, what is hard can masquerade as easy, but never forget that not having done something before doesn’t make it easy. It usually makes it hard.
 
 - People who visit our office for the first time are startled by the silence and serenity. It doesn’t look, sound, or behave like a traditional office. That’s because it’s really a library for work rather than an office for distraction. In our office, if someone’s at their desk, we assume they’re deep in thought and focused on their work. That means we don’t walk up to them and interrupt them. It also means conversations should be kept to a whisper so as not to disturb anyone who could possibly hear you. Quiet runs the show.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

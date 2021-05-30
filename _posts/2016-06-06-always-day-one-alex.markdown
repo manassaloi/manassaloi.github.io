@@ -109,5 +109,3 @@ TGIF is technology enabled too. Googlers from around the world can tune in for a
 - This listening campaign was a departure from Ballmer’s style, but consistent with Nadella’s conduct. From his early days at the company, he’d take young employees out for meals, simply to hear their thoughts on where the technology world was going. “Satya would seek my opinion out,” one former Microsoft employee who worked with Nadella in the early 2000s told me. “It was unthinkable that some senior exec would ask some random twenty-three-year-old program manager, ‘Hey, how is this startup doing?’ No other exec would give me the time of day.”
 
 - Nadella’s style made the company’s leadership newly approachable, several current and former Microsoft employees told me. “In every meeting, every situation, he would be very open about what he knew and didn’t know,” Julie Larson-Green, the former chief experience officer, said. “That made it okay for other people to talk about how they felt.”
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

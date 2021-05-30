@@ -227,6 +227,3 @@ Ask yourself the second question: Are we aligned in how we think about people, p
      + Where are the biggest gaps between your current team culture and your aspirations?
      + What are the obstacles that might get in the way of reaching  your aspirations? How will you address them?
      + Imagine how you want your team to work in a year’s time. How would you describe to a report what you hope will be different then compared to now?
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

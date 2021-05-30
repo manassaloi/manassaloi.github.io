@@ -71,5 +71,3 @@ categories: booksummaries
 + Good eye contact is incredibly important. Profound eye contact can have a powerful impact on people; it can communicate empathy and give an impression of thoughtfulness, wisdom, and intelligence. You simply cannot be charismatic without it.
 
 + People who come across as powerful, confident, or high-status are usually more contained; they don’t feel the urge to give so much reassurance because they’re not as worried about what their counterpart is thinking.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

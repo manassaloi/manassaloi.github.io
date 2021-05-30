@@ -35,5 +35,3 @@ Xiaomi’s marketing chief Tony Wei says that new software sent to early testers
 The population of mobile phone users in China is larger than the combined population of the U.S. and Western Europe. (Not larger than the mobile phone using population, larger than the  total  population.) Nearly 90 percent of the adult population in China has a mobile phone (the only kind, in many households.
 
 Lei Jun seems determined to demonstrate that China is more than cheap factories and knockoffs—that a Chinese brand can even be coveted and adored.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

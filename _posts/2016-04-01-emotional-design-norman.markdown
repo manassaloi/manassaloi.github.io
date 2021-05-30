@@ -50,6 +50,3 @@ categories: booksummaries
 - I predict that a conversation with real passengers will prove to be not as dangerous as one with far-away people, for the mental space we create for real passengers includes the auto and its surround, whereas the other one distances us from the auto. After all, we evolved to interact with others in the midst of other activities, but the evolutionary process could not anticipate communication at a distance.
 
 - Form should follow function.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

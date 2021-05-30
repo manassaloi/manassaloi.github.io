@@ -214,5 +214,3 @@ The goal of an AAR is not to excavate truth for truth’s sake, or to assign cre
 
 - Use Artifacts: If you traveled from Mars to Earth to visit successful cultures, it would not take you long to figure out what they were about. Their environments are richly embedded with artifacts that embody their purpose and identity. These artifacts vary widely: the battle gear of soldiers killed in combat at the Navy SEAL headquarters; the Oscar trophies accompanied by hand-drawn sketches of the original concepts at Pixar; and the rock and sledgehammer behind glass at the San Antonio Spurs practice facility, embodying the team’s catchphrase “Pound the rock”—but they all reinforce the same signal: This is what matters.
 Focus on Bar-Setting Behaviors: One challenge of building purpose is to translate abstract ideas (values, mission) into concrete terms. One way successful groups do this is by spotlighting a single task and using it to define their identity and set the bar for their expectations.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

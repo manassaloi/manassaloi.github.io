@@ -60,6 +60,3 @@ categories: booksummaries
 + Humble Inquiry was conveyed by the whole attitude, not just the specific questions that the doctor asked.
 
 + The questions that were most important in establishing the relationship were personal ones, not technical/medical ones.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
