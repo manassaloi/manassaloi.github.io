@@ -22,5 +22,3 @@ You want your short-term experiments to succeed and improve the identified succe
 They identify the key levers that move the needle (North Star) for their product. When they plan their OKRs, they identify these levers/themes and then execute them over the next quarter/semester.
 
 See example [here](https://docs.google.com/document/d/1DszNh1PTsSfYaO7o7tiIftSqaLjorrB5RQqptGlwcZ8/edit?usp=sharing).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

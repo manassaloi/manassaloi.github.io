@@ -22,5 +22,3 @@ So, adding my thoughts on me being "tone deaf":
 A few people Whatsapp'ed me to express their concerns. Their message was to ignore the haters. Just continue to do my thing. They also felt letting people bully me was idiotic. I don't honestly think I succumbed to some online mob. I really don't enjoy interacting with random internet people. I get the irony. So I am okay with fewer people seeing my feed. I will turn my Twitter public later once the situation improves. I don't have the mental stamina to argue right now.
 
 **Update:** I made my Twitter public because I had to share update on a covid fundraising initiative. I might turn it back to private later.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

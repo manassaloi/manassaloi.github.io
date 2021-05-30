@@ -183,5 +183,3 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - FlyingKombucha - Ginger Kombucha
 - Smoodies - Strawberry Smoothie
 - Flax - It’s a tofu thing
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

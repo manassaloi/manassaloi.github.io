@@ -40,5 +40,3 @@ For me, at least it was just a discussion. There was no written commitment, but 
 So what I am getting at is that join companies based on the current offer at hand and not assume the future.
 
 This way you will remain sane and not feel like someone wronged you later when you don't get the promotion or pay hike you think you were promised.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -21,5 +21,3 @@ If you don't have time to build something that is going to be a [gamechanger](ht
 This is hard for designers and even PMs to accept.
 
 Related: [You should copy your competitors](https://manassaloi.com/2020/02/09/distribution-advantage-copying.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -17,5 +17,3 @@ But it is too early to celebrate Unicorn face valuations.
 Stock market and even private market valuations do not reflect the economic reality of India. With stagnating growth, record-high covid cases, there is a long way to go for startups to justify their valuation. For now, I am happy that people will get some liquidity. More options for employees too. Salaries are at an all-time high. And I can definitely understand the optimism.
 
 Let's just hope this time it ends well.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

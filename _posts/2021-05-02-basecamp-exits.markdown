@@ -9,5 +9,3 @@ Want to be activists and offer your 2c on every political issue? Sure, do that i
 Even more extreme position that I hold: Society (+most) Whatsapp groups should not have political discussions. I am there to know why the water pump did not run as per schedule. I don't go there to learn about Modi's covid performance report.
 
 (Just my thoughts. Does not reflect my employer yada yada.)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

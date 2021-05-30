@@ -16,5 +16,3 @@ A list of underrated books by authors from the Indian sub continent that I wish 
 10. The Crow Eaters by Bapsi Sidhwa
 
 Wanted to restrict the list to just 10. If you want more, you can check out the list here: [Goodreads](https://goodreads.com/review/list/9698257?shelf=read&sort=date_read)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

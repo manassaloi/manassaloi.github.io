@@ -22,5 +22,3 @@ I thought [capital as a moat](https://manassaloi.com/2020/01/29/capital-as-moat.
 I was talking about this with a friend who works in VC. He told me that each year there is a new fad, the goal of each VC fund is to back one of the players, and hope that they will end up as the winner of the sector. But it is very hard to figure out the winner in year 1. So there is a lot of luck involved.
 
 I have been thinking about this a lot.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

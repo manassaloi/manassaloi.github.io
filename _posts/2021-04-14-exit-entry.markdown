@@ -8,5 +8,3 @@ I was talking to a friend who wanted some advice for his friend. Let's call this
 One thing I have seen people do again and again is just because they don't like situation X and want to get out of X, they assume that anything will be better than X, and jump to situation Y. They don't separate exiting from X with selecting Y over other potential options they have. They just jump in Y. Example: just because your current job sucks, you don't need to jump at the first escape opportunity available. You might face the same problems in the new job. So think carefully.
 
 Entry and exit are totally different decisions. Don't combine both.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

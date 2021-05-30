@@ -39,5 +39,3 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

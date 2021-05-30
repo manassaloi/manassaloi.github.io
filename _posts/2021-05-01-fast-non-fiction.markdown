@@ -32,5 +32,3 @@ Fast paced, highly entertaining non fiction books that I loved reading:
 13. [Super Pumped: The Battle for Uber by Mike Isaac](https://goodreads.com/book/show/44573628-super-pumped)
 
 (I had posted a similar list a year back. Since then I have read more. Also forgot to put that list on my blog)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

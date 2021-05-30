@@ -18,5 +18,3 @@ Maybe we are privileged to have this culture and this does not work everywhere. 
 But it started with a few people saying No to outside of work hours invites. 1 hour here and there is fine occasionally. Just that it should not become a habit.
 
 (Okay, I myself have declined very early morning meetings and told the organisers to be mindful.)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

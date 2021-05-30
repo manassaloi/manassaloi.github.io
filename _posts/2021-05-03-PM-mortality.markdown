@@ -18,5 +18,3 @@ Evening: Let me send out this email to the entire company about this cool ass pr
 Night: Ranting about how everything is bullshit and we all will die of covid.
 
 <Sleep time>
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

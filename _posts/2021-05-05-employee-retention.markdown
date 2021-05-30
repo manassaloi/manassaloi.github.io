@@ -12,5 +12,3 @@ If a company is not winning, then everything (promotions, hikes) become zero sum
 Some thrive in it. Most leave.
 
 PS. Inspired by [Always choose growth](https://www.linkedin.com/feed/update/urn:li:activity:6430144105048870912/).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

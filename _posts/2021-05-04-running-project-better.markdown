@@ -14,5 +14,3 @@ A few things that have helped me run projects better:
 8. Over communicating.
 
 More posts on communication and running projects here: [How to communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
