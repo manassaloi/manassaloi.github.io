@@ -349,5 +349,3 @@ categories: booksummaries
   4. Shake it off. Marv Levy lost four straight Super Bowls as head coach of the Buffalo Bills and was able to keep it in perspective: “It hurts like the devil for ten days or two weeks and then you bury it and go back to work and look ahead.” Bud Grant lost four Super Bowls as head coach of the Minnesota Vikings and was able to keep it in perspective: “I’ve got a 24-hour rule. You only let it bother you for 24 hours and then it’s over.”
 
 - Superb, reliable results take time. The little improvements that lead to impressive achievements come not from a week’s work or a month’s practice, but from a series of months and years until your organization knows what you are teaching inside and out and everyone is able to execute their responsibilities in all ways at the highest level.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

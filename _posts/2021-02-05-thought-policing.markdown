@@ -55,5 +55,3 @@ Thanks for reading.
 Related read: [A post I wrote on On truth speaking and not virtue signalling](https://manassaloi.com/2020/02/29/truth-speaking.html)
 
 [Also read about this toxic trend of policing what people can tweet or not, especially by so called reporters](https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

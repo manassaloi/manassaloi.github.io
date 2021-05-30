@@ -31,5 +31,3 @@ Here is what works for me:
 - One interesting thing to ask: What is the most interesting book/podcast I could be consuming instead of reading what is easily accessible? I add a lot of podcasts to my downloads but only listen to the ones I am in the mood for. If something is on my downloads for a long time, I delete them. I do the same with my bookmarks in my ‘to-reads’ folder. 
 - I find it helpful to [set goals for the year](https://manassaloi.com/2020/12/31/okrs-2020-update.html), so that whenever I am bored, I can just pick from one of the goals. These goals come from a long list of [priorities that I maintain](https://manassaloi.com/2020/06/08/priorities-doc.html).
 - The biggest hack when it comes to time management is being very deliberate; know where you are spending your waking hours. [Calendar audit](https://manassaloi.com/2020/06/25/calendar-audit.html) helps.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

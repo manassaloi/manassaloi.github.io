@@ -32,5 +32,3 @@ Disclaimer: Like most Blind comments, these are a bit dark. Compare these to say
 - Be a problem solver for your manager rather than become a problem.
 
 - If your manager isn’t talking about you to her/his lead and his/her skip your chances of 100% rewards go way down. Ask your manager for feedback about you from their boss. If there isn’t any, ask for a project that can give you visibility at skip level.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

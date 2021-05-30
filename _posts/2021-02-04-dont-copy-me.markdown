@@ -58,6 +58,3 @@ I want to add a few more things that I missed putting in the original thread:
   - Don't just blindly follow people on social media
   - It is perfectly fine to do other things in life. If you are doing well at work, reward yourself with Netflix than hustling more and churning out more content. But if doing the second makes you happy, then don't let others shame you into focusing on the first
 - IMHO writing is the best activity one can pursue. It helps crystallize your thoughts and help you become a better thinker.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

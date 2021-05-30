@@ -258,5 +258,3 @@ I think one of the coolest things about Alejandro’s data set is that he enable
 Or, if you want to memorize the names and order of the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, you could use a phrase like “My Very Educated Mother Just Served Us Nachos” or, if you don’t want to leave Pluto out in the planetary cold, “My Very Educated Mother Just Served Us Nine Pizzas.”
 You can also harness the power of acronyms and use memo snaps when thinking about how to create memories and hold on to them. Memo snaps.
 Multisensory, Emotional, Meaningful, Outsource, Stories, Novel, Attention, Peak and Struggles—or you can also go with an anagram like Aspen moms, Omen spasm or Mensa poms. Whatever rocks your boat.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

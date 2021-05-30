@@ -14,5 +14,3 @@ I have heard Chamath P talk about these 3 topics repeatedly across multiple podc
 Listen to [this amazing podcast](https://youtu.be/SwpNbT6G5Gs?t=2579) to understand the above more. BTW Capital Allocators is an amazing podcast.
 
 Related read: [Chamath's archive](https://chamatharchive.com).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

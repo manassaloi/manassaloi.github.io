@@ -51,6 +51,3 @@ categories: booksummaries
 - In order to understand why people invest or want to invest their money in a certain way, I believe that it is especially important to understand people’s backgrounds and their first experience of personal finances. It’s vital to find out what money means to them and what were their initial experiences that shaped their ideology on wealth.
 
 - Wealth means different things to different people. But for me, after watching my family struggle for years, it meant having financial independence. As I have grown older, and hopefully wiser, wealth has taken on a whole different meaning. Wealth now means health, time and options.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

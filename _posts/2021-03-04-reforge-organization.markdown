@@ -43,5 +43,3 @@ How to think about your PM career:
   - Join ambitious companies.
   - Blend multiple high-demand skills.
   - Wear more hats.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

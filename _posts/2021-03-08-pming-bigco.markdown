@@ -33,5 +33,3 @@ PM'ing at bigcos/late stage startups is mostly about risk mitigation. Let's talk
   - To avoid missing things, I make sure that there is an open item list to track all the dependencies. To avoid edge cases, I make sure we have covered all the states in a design spec and have an acceptance critaria list ready. To cover all tech changes, we write a tech spec. We also get stakeholders from Design and Security to give sign offs on big projects. Links to all of these are [here](https://manassaloi.com/2020/03/23/running-product-team.html).
 
   **Note:** I talked about the risks you face as PM at a big company, not about product risks. If you want to read about the later, then go to this post: [The Four Big Risks by Marty Cagan](https://svpg.com/four-big-risks/).
-
-  Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

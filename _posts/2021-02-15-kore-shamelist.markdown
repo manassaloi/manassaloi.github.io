@@ -22,5 +22,3 @@ I create a shame list and a learnings doc whenever I join a new company. I keep 
 Related read:
 - [Craftsvilla learnings](https://manassaloi.com/2020/11/21/craftsvilla-learnings.html)
 - [Coupondunia shamelist](https://manassaloi.com/2020/11/20/coupondunia-shamelist.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

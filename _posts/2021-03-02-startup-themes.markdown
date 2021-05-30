@@ -25,5 +25,3 @@ Like every person in tech who has ever read a PG essay, I have also thought of s
 - Make things multiplayer (figma - multiplayer design)
 
 Note: An idea can belong to multiple themes.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

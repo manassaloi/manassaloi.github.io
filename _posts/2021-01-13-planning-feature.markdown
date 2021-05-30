@@ -33,5 +33,3 @@ Most beginner PMs jump to the HOW directly without spending effort on the WHY an
 Your job as a PM is to Focus on all 3. Don't pick up a new project just because your CEO asked you to. First be convinved yourself. If you are just running after developers doing what your CEO is asking you to do, you are just a glorified project manager. Sorry.
 
 Please do your homework.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

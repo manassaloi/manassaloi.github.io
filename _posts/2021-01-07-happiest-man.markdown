@@ -13,5 +13,3 @@ Maybe someday.
 Disclaimer: This is something I have been thinking about. It does not mean I hate my life or something. I probably have 100s of thoughts every day, each contradicting the other. Like everyone else. The only difference is I chose to write this post instead of keeping my thoughts to myself or discussing with my friends. Also, while I am talking about tier 3 banking jobs, I am currently doing my 360-degree reviews and hoping to get a good pay hike. I am also planning to order an M1 tonight. I am not requesting a commentary on rural life. Take whatever you want from this post. Thank you.
 
 This post is heavily inspired by this [tweet](https://mobile.twitter.com/XivTroy/status/1295830197435084800) which I read and bookmarked a few months back.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

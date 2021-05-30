@@ -20,5 +20,3 @@ One of the main learnings of Dhrishyam 2 is that once you become successful and 
   -  we hate the thought leadership of Warikoo from our Indian ecosystem but listen to Naval's thought leadership on Clubhouse.
 
 Most of the events of Dhrishyam 2 happened because Mohanlal dared to become successful and stand out from the rest of the villagers. Once he became successful he should have got out of his small town, but he did not and that lead to mimetic theory playing out.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -97,5 +97,3 @@ categories: booksummaries
 - Too much free time is no more than fertilizer for self-doubt and assorted mental tail-chasing. Subtracting the bad does not create the good. It leaves a vacuum. Decreasing income-driven work isn’t the end goal. Living more—and becoming more—is.
 
 - But This Is What I Always Wanted! How Can I Be Bored?! Don’t freak out and fuel the fire. This is normal among all high-performers who downshift after working hard for a long time. The smarter and more goal-oriented you are, the tougher these growing pains will be. Learning to replace the perception of time famine with appreciation of time abundance is like going from triple espressos to decaf. But there’s more! Retirees get depressed for a second reason, and you will too: social isolation.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

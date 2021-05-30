@@ -150,6 +150,3 @@ As you establish a baseline for each key person you work with, you’ll become m
 - When career adversity strikes, many of us are initially stunned and inert. We aren’t sure what to do, feel confused and uncertain, and often spend a fair amount of time in denial, contemplation, desperate bargaining, and, finally, sometimes panicked action. Most people wait too long to jump into action and the action they do take isn’t enough. Then when something they try doesn’t work they tend to get stuck again in a stunned pause, overthinking and inert again.
 
 - Researchers have found that even during natural disaster situations, most people react with a delayed, lethargic response (“no need to panic here folks . . .”) and these people actually have a greater tendency to perish. The survivors tend to be those who take quick, targeted, and massive action.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

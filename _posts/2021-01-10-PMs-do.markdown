@@ -11,5 +11,3 @@ PMs focus on
 - WHY, WHAT, and HOW
 
 These are slight modifications of 'what a PM' does frameworks I have collected from the internet over the last few years. Except the 2nd one which is lifted from a Shreyas Doshi tweet storm, I don't know who first came up with the other ones. I will keep adding to this list.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

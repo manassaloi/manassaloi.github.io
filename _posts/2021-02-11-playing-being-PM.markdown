@@ -66,5 +66,3 @@ Why be a PM if it sucks so much? PMing is fun if you love:
 - No other role will let you do all of these. Unless you are the CEO. But but but remember, you are not the CEO. Just remember that Day 5 to Day of Release involves you running after people to get the feature live on production.
 
 So read less blogs. Spend more time on collaborating with people on getting shit done. And take ownership.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

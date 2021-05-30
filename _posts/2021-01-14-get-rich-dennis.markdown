@@ -187,5 +187,3 @@ categories: booksummaries
 - If you loan money to a friend, you will lose your friend as well as your money. Give them whatever you feel like giving. Then forget it. Ditto with relatives. If you diligently follow this one piece of advice, you wilt be saved a sackful of misery. Trust me. Broadcast your policy loudly. This will spare you from many embarrassing demands that will otherwise vex you.
  
 - When you are worth several hundred or a thousand times what a member of your staff is worth financially (do the math), then trying to be friends with them or encouraging them to be friends with you is silly. They know it's phony and you know it's phony, and they know that you know. Not being friends comes with the territory. Being fair and friendly is always cool. Trying to be 'one of the boys' is pathetic.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -28,5 +28,3 @@ Let’s take us. When we did our Finding Driver Screen (FDS) redesign project, 
 So basically the MVP is whatever we need to ship to move the numbers/meet our goal. That's it."
 
 **Note:** I have removed some sensitive data.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

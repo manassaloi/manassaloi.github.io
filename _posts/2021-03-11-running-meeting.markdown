@@ -19,5 +19,3 @@ title:  "Running a productive meeting"
 14. Communicate the MOM verbally before ending the meeting. Everyone should leave a meeting with the same takeaways as you. Action items should be clear.
 15. End the meeting early if you have achieved your outcomes.
 16. Share the [MOM](https://manassaloi.com/2020/03/22/mom-update.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

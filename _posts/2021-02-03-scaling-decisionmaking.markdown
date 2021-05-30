@@ -29,5 +29,3 @@ After a lot of experiments, trying out new processes and frameworks, here is wha
 20. Agree on your report's priorities for the week on Monday itself. I have [1-1 with all my reports on Monday](https://manassaloi.com/2020/01/28/one-on-ones.html) to kick off the week.
 
 Related read: [On making good decisions](https://manassaloi.com/2020/04/29/decision-making.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

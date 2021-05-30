@@ -36,5 +36,3 @@ If you are sending a general update, additional things to keep in mind:
 8. Information architecture is not relevant only for design, but also messages. Use proper IA.
 9. Follow pyramid structure.
 10. Put your answer at the top. Most busy stakeholders will just read the first paragraph and then skim the message.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

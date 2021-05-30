@@ -10,5 +10,3 @@ Mistakes at the beginning are easy to correct. So catch them at the beginning. M
 As a PM, I have tried to front-load the process dev process than backload it. Executive alignment happens before we decided to pick up a project. A feature is broken into detailed milestones before we design for a single one. Kick-off with all members of the team (PM + QA + front end + back end devs) happens before we close implementation details. RFCs are floated early, comments are invited from team members. People escalate their concerns during the beginning and not the end. Questions around the WHY behind a feature are answered while writing the spec and not close to shipping something on Production.
 
 In simple words: Do things at the beginning than at the end of the dev process to avoid waste.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

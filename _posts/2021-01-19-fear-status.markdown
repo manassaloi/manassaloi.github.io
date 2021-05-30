@@ -10,5 +10,3 @@ So many B2C companies are growing through a mix of fear (F) and status (S) games
 - WhiteHat Jr -> Status: See my kid go to silicon valley because she is a 6-year-old coding prodigy, Fear: Tech is the future. Don't start early and you miss out.
 
 - Clubhouse -> Status: Invite only. Remember to use your invites well. Only iOS, no android peasants, Fear: More like FOMO. We are having these cool convos and you are not invited hahaha. Fear not as strong as Status though in this case.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

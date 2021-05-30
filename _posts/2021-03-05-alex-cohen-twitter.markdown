@@ -51,5 +51,3 @@ Scattered thoughts on social media, truth speaking, digital presence [oldest to 
 - [Religion and Truth seeking](https://manassaloi.com/2020/05/05/religion.html)
 - [On truth speaking and not virtue signalling](https://manassaloi.com/2020/02/29/truth-speaking.html)
 - [Digital minimalism](https://manassaloi.com/2020/06/22/digital-minimalism.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

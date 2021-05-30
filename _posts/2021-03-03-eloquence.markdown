@@ -20,5 +20,3 @@ The same tweets that get Delian likes on Twitter and Chamath followers, the same
 The same goes for skills. Elon does not need to convince anyone now. He is successful and rich. But if you are not learning negotiations/not getting better with your speaking abilities, you might end up with 30% less salary compared to market. So, don't blindly idolize someone and come with counterpoints like "ye bande ne to nahi kiya". Remember: **Aap wo banda nahi ho**.
 
 My old boss [@madhurchadha](https://twitter.com/madhurchadha) gave me this advice once: "Pehle apna company 100s of millions mein becho, fir jo mann tweet karna. I think of that everyday".
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

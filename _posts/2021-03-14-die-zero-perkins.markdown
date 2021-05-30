@@ -115,5 +115,3 @@ When I say it makes sense to borrow money when you’re young, I’m not saying 
 - Most opportunities don’t present an extreme asymmetry of risk, but if you think them through, you’ll often see that the downside isn’t as high as you might think.
 
 - Bear in mind what I said about investing in experiences, especially when you’re young. The idea is that it’s always good to invest in experiences—but it’s especially good to do it when you’re young. Well, a similar logic applies to being bold: When you’re older, some risks become more foolish than bold.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

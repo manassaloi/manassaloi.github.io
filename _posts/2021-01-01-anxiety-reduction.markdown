@@ -12,5 +12,3 @@ One of my favorite meetings at Gojek was when our founder Nadiem walked us throu
 He did not come to the call as a CEO. We just brainstormed as a team on what we can do to make the pickup process more seamless and make sure the customer does not get anxious about the uncertainties of the pickup process.
 
 Thought exercise: Think about your favorite food ordering app. What else can they be doing to reduce your anxiety while ordering food during Covid?
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

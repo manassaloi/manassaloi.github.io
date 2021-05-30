@@ -16,5 +16,3 @@ As every company becomes a super app and delivers across multiple verticals it b
 Having different SOPs is needed. Teaching the nuances is key.
 
 This is not a rant. Amazon, Swiggy, Uber will all do the same things eventually. Supply is commoditized and leveraged to do N different tasks. Designing a delivery experience suited for different use cases will be the key.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

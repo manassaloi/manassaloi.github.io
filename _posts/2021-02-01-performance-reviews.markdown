@@ -45,6 +45,3 @@ If you are managing someone, you should make it explicit how you will measure th
 Documents for all the above can be found in [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html).
 
 I request my reports to touch upon all 4 aspects when it comes to writing their self reviews. Do this and you won't have issues with your reports when the time comes for their performance evaluation.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

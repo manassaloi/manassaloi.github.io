@@ -127,5 +127,3 @@ title:  "Ultimate house hunting checklist"
 - Form a good relationship with the guards, society secretary, and your neighbors. You will need it.
 
 Check out this related doc by [vetrijedi](https://twitter.com/vetrijedi): [House Search Public Template](https://docs.google.com/spreadsheets/d/1Lf8skjZGb76yBksevnuN8c33yDUftpWH6Z-Sv3H4Tvg/edit#gid=444929138)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
