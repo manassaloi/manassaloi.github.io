@@ -17,5 +17,3 @@ I think there are 4 ways to measure the performance of a product manager.
   - I check peer feedback to evaluate if they are meeting their goals in the right way while collaborating in the right way vs just meeting their goals. I appreciate PMs in my team who share feedback they have got from other stakeholders without me even having to ask for it. One PM in my team shares feedback, both good and bad, as soon as he receives it from someone. To make this exercise comfortable, I share all the feedback I have got with my team.
 
 Documents for all the above can be found in [Career development plan for PMs](https://manassaloi.com/2020/05/11/career-dev-plan.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

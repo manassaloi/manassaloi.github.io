@@ -99,5 +99,3 @@ title:  "Subreddits I have subscribed to"
   - r/VillagePorn                                  
   - r/wallstreetbets                                 
   - r/wholesomegreentext
-
-  Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

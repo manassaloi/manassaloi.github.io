@@ -11,5 +11,3 @@ According to my boss, managers should aspire for a 2/3 rating in their performan
 2/3 = optimum.
 
 I agree.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

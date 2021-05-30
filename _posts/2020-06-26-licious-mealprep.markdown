@@ -15,5 +15,3 @@ I remember reading this post on Zomato [building a farm to fork](https://forbes.
 To sum up: I am long Licious. I think it will become a billion-dollar company in the next 5 years.
 
 P.S I am bullish about both Swiggy and Licious. Though I use Swiggy a bit less because of Licious, it is still my go-to food ordering app. There has never been a better time to be a food lover in India.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

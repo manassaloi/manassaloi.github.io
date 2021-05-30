@@ -51,5 +51,3 @@ Leading mobile apps at Craftsvilla was my 2nd job in product management. I maint
 - Do regular research.
 - Every week go through play store reviews to understand the sentiment of customers. Don't use generic replies for customer complaints. It is the easiest way to lose trust.
 - Optimise your Playstore page to improve top of the funnel acquisition.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

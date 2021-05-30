@@ -17,5 +17,3 @@ I am paraphrasing here.
 I give the same advice now to juniors who want to apply to Product. Most of PM'ing is not thinking about cool ideas which will put you in the same league as Steve Jobs. It is not writing strategy demos. It is not tweeting platitudes like 'distribution > product'. It is sending out meeting invites to people who don't even know you exist. It is crying at night because your QA applied for last min leave, now your release is delayed, and you have to go to a product cadence with the bad news and face your CEO.
 
 So here is the advice when it comes to thinking about picking something as your career: Think about the other sucky 90% bit. Like Beyonce said, "If you can't handle your job at its worst, you don't deserve the best."
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

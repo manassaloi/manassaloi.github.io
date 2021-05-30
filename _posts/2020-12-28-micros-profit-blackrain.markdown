@@ -105,6 +105,3 @@ good that your opponent will fold.
 - Under-betting the Pot Postflop is another pretty clear sign a weaker player. Especially when they are betting amounts such as a 1/4 of the pot or less. No good player would ever do that because it gives the other player(s) almost no incentive to fold at all and clear odds to call with basically any draw.
 
 - Even bets of 1/3 pot have very little applicability in a no limit hold'em cash game.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

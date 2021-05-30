@@ -33,5 +33,3 @@ Basically, I will use the same docs/processes I use for running my team but inst
 Interesting read: [Athena](https://www.growthmentor.com/blog/origin-of-word-mentor/)
 
 Update: I have already said Yes to a few people. Not taking in any more folks. Thanks.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

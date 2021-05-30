@@ -24,5 +24,3 @@ This post is based on both: my experience as a report as well as a manager.
 12. A good report stands up for what they believe in. They are not scared to speak up. A bad report does not have a backbone, constantly gossips, and plays the victim.
 13. A good report learns from their mistakes, takes feedback well, and follows up on the feedback. A bad report focuses on the criticism part and not the learning opportunity from mistakes.
 14. A good report creates tremendous leverage for their manager. A bad report is a rent seeker and fails the [keeper test](https://jobs.netflix.com/culture).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -24,5 +24,3 @@ Then answer the following:
 This exercise takes roughly 3.5 minutes to complete. It can be an interesting PM interview question too.
 
 Related read: [Product Critique](https://manassaloi.com/2020/12/01/product-critique.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

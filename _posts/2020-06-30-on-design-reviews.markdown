@@ -41,5 +41,3 @@ Only once you do this exercise you will realise that you are not designing a sea
 - Avoid design through committee. Don't let stakeholders come and add/remove UI components just because they wanted to add some value.
 - Design for the happy flow but keep thinking where things might break. Don't over design the v1 trying to cover all edge cases. Some of them can be fixed post the MVP.
 - Test with real users. Unless you have feedback from actual users most debates are mental masturbation. 
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

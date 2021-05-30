@@ -51,5 +51,3 @@ Maybe they could still have run Swiggy Super but removed the discounts
 I don't have data based on what the decision was made. But I wonder how many orders they are losing out because users don't want to pay extra for delivery fee when they had already paid for Swiggy Super
 
 **/end**
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

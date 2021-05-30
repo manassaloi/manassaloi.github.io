@@ -24,5 +24,3 @@ A few good posts I have read on meetings:
 - [Meetings](https://medium.com/@padday/meetings-e27767bcf6b6)
 - [A Simple Rule to Eliminate Useless Meetings](https://www.linkedin.com/pulse/20130701022638-22330283-a-simple-rule-to-eliminate-useless-meetings/)
 - [How to persuade people in a large 'hero' meeting](https://mobile.twitter.com/sriramk/status/1226959362918215680)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

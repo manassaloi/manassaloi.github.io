@@ -36,5 +36,3 @@ You will find dozens of these process documents here: [How to run a product team
 Trust me, I have never seen anyone do 7 powers analysis or draw Porter's 5 forces diagram in any of the company I have worked at.
 
 Just do all the things I mentioned above. That's it. Now you are someone who is strategic.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -30,5 +30,3 @@ It has been 6 months since I posted the [first list of PM interview questions](h
 - You are the Twitter PM who worked on their new selected replies feature. Write the roadmap for that feature detailing how it will evolve over time. Should you have pay to comment functionality like youtube?
 
 - You are the part of Twitter's monetisation team. Your Head or Product wants you to explore subscriber only videos. Write a pitch doc for the feature. What would it contain?
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

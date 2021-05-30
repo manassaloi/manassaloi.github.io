@@ -81,5 +81,3 @@ I ask the following questions while doing the critique:
 - Does the app experience tie back to what was promised in the Playstore?
 
 Relevant links: [Growth & UX case studies](https://growth.design/case-studies/), [UX teardowns](https://www.useronboard.com/user-onboarding-teardowns/)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

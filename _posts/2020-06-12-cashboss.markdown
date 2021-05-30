@@ -21,5 +21,3 @@ The first successful product I built was [CashBoss](https://play.google.com/stor
 A lot of things have to go right for your startup to scale. We were lucky to find a hot market. The rest we managed with hard work.
 
 More in this post: [How We Scaled CashBoss To 500K downloads in 5 months](https://linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi/)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

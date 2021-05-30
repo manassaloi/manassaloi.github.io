@@ -17,5 +17,3 @@ Here are the best learnings from a thread titled 'what have you learned from you
 - If you are swimming with sharks, don't act like bait.
 - “We’re not launching the Space Shuttle, guys. We’ll fix it and learn from our mistakes. Relax.”
 - The job belongs to the company but the career belongs to you.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

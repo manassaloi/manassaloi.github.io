@@ -18,5 +18,3 @@ Other books I have read on Mckinsey and consulting in general: [The firm](https:
 Read about the Orange juice test here: [Orange juice test](https://intercom.com/blog/the-orange-juice-test/)
 
 I am currently reading: [The Pyramid Principle by Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle). Here is a good summary of the book: [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

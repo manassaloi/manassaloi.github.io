@@ -32,5 +32,3 @@ Let us go through all the popular social media products and see where I stand no
 I obsessively monitor the digital wellbeing app on my Android phone and see where I am spending my hours.
 
 Relevant read on this topic: [Digital Minimalism - Cal Newport](https://manassaloi.com/booksummaries/2017/05/07/digital-minimalism-newport.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

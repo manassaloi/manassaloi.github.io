@@ -11,5 +11,3 @@ title:  "Simple goal setting"
 These are the only 3 things you need to set and achieve your personal goals. Goal setting workflows need not be so complex. You don't need to read a dozen books on productivity to understand that finally it is about processes and intent, not tools.
 
 Keep it simple.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

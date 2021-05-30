@@ -23,5 +23,3 @@ title:  "Things I watch on Youtube"
 Obviously, these are not the only channels/playlists I have subscribed to, but these are the ones I find myself going back to the most.
 
 Subreddits I have subscribed to is [here](https://manassaloi.com/2020/06/27/subreddits.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

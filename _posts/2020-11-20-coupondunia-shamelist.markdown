@@ -15,5 +15,3 @@ CouponDunia was my 1st job in product management. I maintained a [shamelist doc]
 - All my design decisions were instinctive and not backed by any UX principles. I did not do UTs. I did not run any research projects.
 - I did not have a long-term roadmap. I did not have a vision document. I did not have a 20000 feet view.
 - I did not even write detailed product specs. I was just making things up on the fly.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

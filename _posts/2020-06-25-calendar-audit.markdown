@@ -22,5 +22,3 @@ Something I recommend to PMs in my team: If you are feeling overwhelmed with wor
 4. I spend far more time on work than the 40 hours mentioned here. Sometime I am on call with my team as late as 9 PM if we are stuck with some production issue or are running late on a P0 project. The goal is not the count work hours. The goal is to be more conscious of where your time is going.
 5. Don't do this exercise every week. Do it when you don't understand where your work hours are going.
 6. You want to own your work day or else someone else will.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

@@ -22,5 +22,3 @@ Here are the things to do before you buy a product:
 - Don't buy things on impulse. I keep a note of all the items I want to purchase. Instead of buying all of them at once, I stagger the purchases over months. Sometimes I don't even feel like buying after a few weeks pass. Don't succumb to FOMO sales tactics. Most discounts are fake anyway. They just jack up the price and then offer a discount.
 - Instead of buying something first and then planning to do the activity for which you bought the item, first promise to do the activity and then buy it as a reward. Example. I promised myself that I won't buy football boots until I play at least for a couple of months with my normal sports shoes and the boots will be a reward for my regularity. I did end up getting the boots, but then Coronavirus struck and all courts closed.
 - Remember, you don't need so many things.
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

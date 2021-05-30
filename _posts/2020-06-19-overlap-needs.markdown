@@ -9,5 +9,3 @@ On each screen of your product there is something you want the user to do and t
 As a PM, I feel that there should be a strong overlap between the things you want to show the user on a screen and the things they actually care about. The smaller the overlap, the more you irritate the user with things they don't care about, the stronger the chance of the user churning.
 
 Relevant post: [You vs Your users](https://manassaloi.com/2019/02/22/you-vs-your-users.html).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
