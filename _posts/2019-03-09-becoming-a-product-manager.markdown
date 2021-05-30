@@ -75,5 +75,3 @@ Book excerpt from PM Interview Questions
 [What separates good managers from the rest](https://www.linkedin.com/pulse/what-separates-good-managers-from-rest-manas-j-saloi/)
 
 [Help! Our numbers went down yesterday](https://www.linkedin.com/pulse/help-our-numbers-went-down-yesterday-manas-j-saloi/)
-
-P.S I also tweet the best posts I read on the internet. Follow me here: [manas_saloi](https://twitter.com/manas_saloi).

@@ -55,5 +55,3 @@ Uninstalls also affect Play Store rankings. Google not only looks at **installs*
 * All data from [Similar Web](http://www.similarweb.com/) and [Sensor Tower](https://sensortower.com/).
 
 **If you liked reading this blog post you might also want to check out:**
-
-**P.S Follow me on Twitter: [@manas_saloi](https://twitter.com/manas_saloi)**

@@ -59,5 +59,3 @@ There are still a few users who will complain no matter what. But having a bette
 Always try to build a connection with your loyal users.
 
 Reviews and ratings can have a major impact on the success/failure of your app. Try to make them work for your company.
-
-**P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)**

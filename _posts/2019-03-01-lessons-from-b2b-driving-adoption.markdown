@@ -90,5 +90,3 @@ Think deeply about all of these 5 factors if you are working on a B2B product.
 **P.S** These are just my views. Feel free to discuss/agree/disagree
 
 Don’t care about B2B, why not read my thoughts on [Google Tez](https://www.linkedin.com/pulse/tezs-50-million-installs-secret-sauce-manas-j-saloi/) and [Reliance Jio](https://www.linkedin.com/pulse/why-jio-crush-all-ad-networks-manas-j-saloi/)?
-
-[Or, just follow me on Twitter.](https://twitter.com/manas_saloi)

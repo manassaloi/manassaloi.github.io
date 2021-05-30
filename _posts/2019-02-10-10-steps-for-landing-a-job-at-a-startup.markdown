@@ -81,6 +81,3 @@ title:  "10 Steps for Landing a Job at a Startup"
 * **[Join Start Up communities](https://42hire.com/how-to-attract-top-talent-like-a-startup-e0bc8b174fe1) on LinkedIn, Facebook, Meetup.com and Twitter** ( Basically every social network you are on).
 
   I am a member of BITS2STARTUP here in India (a google group for BITSian StartUp enthusiasts) and I am sure there are many such communities/groups for your colleges too. Join Referral Networks present for your College Alumni and make sure you sure all your connections to land interviews.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

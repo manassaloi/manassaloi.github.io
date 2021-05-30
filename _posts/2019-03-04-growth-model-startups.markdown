@@ -184,5 +184,3 @@ Try to increase conversion on each step of the funnel and see where you are losi
 If you are an e-commerce company it makes sense to do this. Figure out the average ticket size for now and have a road map of product features you are going to include to increase your average ticket size with time. Here is a great infographic by Kissmetrics on [using cross-sells and upsells to increase revenue](https://blog.kissmetrics.com/upsells-increase-revenue/).
 
 Final words: Growth hacking seems like a bunch of crazy hacks which will get you the magical “hockey stick” growth that most venture funded start-ups crave. It is not. Instead it is about[ setting growth processes](http://www.coelevate.com/essays/growth-process-first-tactics-second). [Building your analytics stack. ](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83#.b4qjvoa3y)And creating a [versatile, focused, data driven and aggressive team for whom growth is the true north](http://www.coelevate.com/growth-team/).
-
-Thanks to [@Aamna Khan ](https://twitter.com/_aamnakhan)for reading and providing feedback.

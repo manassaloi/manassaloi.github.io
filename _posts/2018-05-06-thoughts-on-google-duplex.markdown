@@ -71,5 +71,3 @@ I am not saying I was not impressed by the advances in work related to ML that G
 I know this might seem like cherry picking tweets to suit my agenda but here is another interesting thread which discusses use cases of Duplex: [Benedict Evan’s thread](https://twitter.com/BenedictEvans/status/994249765490589697?s=19)
 
 If you have been thinking about this as much as as have, why not join the discussion and leave your opinion! Would love to learn your views too.
-
-P.S You can follow me on Twitter and stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

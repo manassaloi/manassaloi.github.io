@@ -48,5 +48,3 @@ If your answer to the above is Yes then it means either:
 * You lack understanding of your platform. Spend more time understanding the tech behind your product.
 
 * There are better optimised ways to solve the problem. The **HOW** part is not something which should come just from you. Involve your tech counterpart early in the process and do a proper tech feasibility analysis.
-
-**Stay up to date with my latest posts/tweets here:** [@manas_saloi](http://twitter.com/manas_saloi)

@@ -64,5 +64,3 @@ After doing all these steps there is a high chance I would find the root cause o
 I have shared another example on how to do an RCA here: [Youtube RCA case study](https://docs.google.com/document/d/1-pSIUqqUJ9CB4XTypOZq4R5lXvomPU0gjTopD2agtTI/edit?usp=sharing).
 
 Good read: [What to do when your metrics dip](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip).
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

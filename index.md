@@ -6,6 +6,6 @@ layout: page
 ---
 👋, I am Manas J Saloi.
 
-I spend my time [writing](https://manassaloi.com/posts/), [reading](https://www.goodreads.com/user/show/9698257-manas-saloi), and [tweeting](https://twitter.com/manas_saloi).
+I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
 
 Check out the posts I’ve written [here](https://manassaloi.com/posts/).

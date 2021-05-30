@@ -85,5 +85,3 @@ You can read more about the entire exercise from Uber’s official blogpost here
 The only issue I have with the whole exercise is the cost. If you are an online only brand, the cost is far less. Example if Atlassian decides to change their logo tomorrow. You have to change your logo only in your online assets and you will be done.
 
 For Uber, Airtel, Hero etc, it means replacing the logo on each and every billboard out there. But I guess their VCs are okay with it. [Their recently hired CMO](https://www.adweek.com/brand-marketing/uber-hires-rebecca-messina-as-its-first-chief-marketing-officer/)? Only time will tell.
-
-P.S You can follow me on Twitter and stay up to date with my latest posts/tweets here: [@manas_saloi](https://twitter.com/manas_saloi)

@@ -196,5 +196,3 @@ fav: [https://www.kevinrose.com/single-post/billmaris](https://www.kevinrose.com
 ## (Books)
 
 ## [Exhaustive list on GoodReads](https://www.goodreads.com/user/show/9698257-manas-saloi)
-
-P.S You can follow me on Twitter and stay up to date with my latest posts/tweets here: [@manas_saloi](https://twitter.com/manas_saloi)

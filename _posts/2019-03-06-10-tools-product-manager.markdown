@@ -57,6 +57,4 @@ You can try [Addons Detector](https://play.google.com/store/apps/details?id=com.
 
 [7 Hacks to get 5-Star reviews on Play Store](https://www.linkedin.com/pulse/your-definitive-guide-5-star-app-ratings-manas-j-saloi)
 
-**P.S I tweet a lot of interesting articles/studies. Follow me here:[@manas_saloi](https://twitter.com/manas_saloi)**
-
 Cross posted from: [https://www.linkedin.com/pulse/10-tools-every-mobile-product-manager-manas-j-saloi](https://www.linkedin.com/pulse/10-tools-every-mobile-product-manager-manas-j-saloi)

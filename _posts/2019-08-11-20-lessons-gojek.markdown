@@ -150,5 +150,3 @@ Adding a few more  tips:
 - Don't go into a meeting without the decision-maker being clear
 
 ## Something else I wrote recently and you might find useful: [How to learn](https://www.linkedin.com/pulse/how-learn-manas-j-saloi/?published=t)
-
-P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)

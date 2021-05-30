@@ -96,5 +96,3 @@ I read them long back. Have to re read and take notes.
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 
 Masterclass I completed on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

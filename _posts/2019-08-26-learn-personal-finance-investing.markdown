@@ -24,5 +24,3 @@ Books I have read in personal finance and investing. Sorted from most helpful an
 17. [How I Invest My Money - Joshua Brown, Brian Portnoy](https://manassaloi.com/booksummaries/2021/01/03/invest-my-money-brown-portnoy.html)
 18. [How to Be a Capitalist Without Any Capital - Nathan Latka](https://manassaloi.com/booksummaries/2020/12/30/capitalist-latka.html)
 19. [What I Learned Losing a Million Dollars - Jim Paul](https://manassaloi.com/booksummaries/2021/01/13/losing-million-jim.html)
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

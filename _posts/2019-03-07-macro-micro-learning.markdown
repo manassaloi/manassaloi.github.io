@@ -39,5 +39,3 @@ This is a follow up to my earlier post on the [best books you can read as a Prod
 *Julie Zhou has written a post on how to [build products using the Micro and Macro approaches](https://medium.com/the-year-of-the-looking-glass/the-two-ways-of-building-ddc1587cb3f6#.cslamwj7p).
 
 You should definitely follow her here: [https://medium.com/@joulee](https://medium.com/@joulee).
-
-P.S I also tweet the best posts I read on the internet. **Follow me:** [manas_saloi](https://twitter.com/manas_saloi).

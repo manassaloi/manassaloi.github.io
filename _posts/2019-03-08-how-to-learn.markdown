@@ -98,5 +98,3 @@ Finally the best way to learn is to share more. I try publishing my weekend read
 Hope this was useful. Happy reading.
 
 And learning.
-
-P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)

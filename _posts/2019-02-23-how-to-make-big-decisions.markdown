@@ -42,6 +42,3 @@ As we can see Disrupt Inc is the clear winner.
 But if you are still confused then it means deep down you actually wanted Top Dog MNC to win. This exercise is both mathematical and psychological. It is like deciding something by a coin toss. While it is in the air, you already know which side you are rooting for. So go with that!
 
 Over the next few weeks I will be introducing some more mental frameworks I use in my life.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

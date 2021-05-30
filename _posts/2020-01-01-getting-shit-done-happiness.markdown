@@ -85,6 +85,3 @@ One day I will realise Twitter is a giant waste of my time, and I will just pick
 
 
 **So 4 high level strategies/thoughts for this year: Evaluate Opportunity cost, Think 10/10/10, Say No, Don't fall for Sunk Cost fallacy.**
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)

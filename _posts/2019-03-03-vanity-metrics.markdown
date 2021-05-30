@@ -58,5 +58,3 @@ Snapdeal’s Chief Product Officer Anand Chandrasekaran said the same thing[duri
 *The "On Demand" economy (elsewhere, I've called it the crowd-scaled economy and it sure isn't accurate to call it the…*allensblog.typepad.com](http://allensblog.typepad.com/allensblog/2015/08/leakage-in-the-ondemand-economy.html)
 
 Cross posted from : [https://www.linkedin.com/pulse/dont-chase-vanity-metrices-manas-j-saloi](https://www.linkedin.com/pulse/dont-chase-vanity-metrices-manas-j-saloi)
-
-**P.S I tweet interesting stuff here: [@manas_saloi](https://twitter.com/manas_saloi)**

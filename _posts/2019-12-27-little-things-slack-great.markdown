@@ -22,6 +22,3 @@ They realised early on that in a workplace you might tag a person for different 
 + Even custom emojis which might seem like a useless thing can add character to your workplace and is another example of Slack taking Design for Emotion seriously. We have custom emojis for everything!
 
 + It is the little things which make Slack stand out in a crowded space. We should learn from that
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
