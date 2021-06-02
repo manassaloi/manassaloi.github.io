@@ -46,6 +46,10 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Managing other PMs](https://manassaloi.com/2021/04/16/managing-PMs.html)
 - [Stay in a company that is winning](https://manassaloi.com/2021/05/05/employee-retention.html)
 - [One level up](https://manassaloi.com/2021/04/18/one-level-up.html)
+- [Join for the present](https://manassaloi.com/2021/05/20/join-present.html)
+- [Timezone empathy](https://manassaloi.com/2021/05/19/timezone-empathy.html)
+- [Discussing politics at work](https://manassaloi.com/2021/05/02/basecamp-exits.html)
+- [First impressions matter](https://manassaloi.com/2021/05/23/first-impressions-matter.html)
 
 ### Favourite books on Career
 
