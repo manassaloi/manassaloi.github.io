@@ -7,7 +7,7 @@ title:  "Join for the present"
 
 Company offers X title with Y pay and Z stocks (Z might be 0 initially) to a promising candidate.
 
-Candidate is not happy with X, Y or Z. Feels they can find better options. Company *verbally* commits to improve on them based on performance after XYZ months. XYZ is not clear and never agreed upon. Performance criteria is also not defined.
+Candidate is not happy with X, Y or Z. Feels they can find better options. Company *verbally* commits to improve on them based on performance after XYZ months. XYZ is not clear and never agreed upon. Performance criteria is also not defined.
 
 The promised pay hike or promotion almost never happens.
 
