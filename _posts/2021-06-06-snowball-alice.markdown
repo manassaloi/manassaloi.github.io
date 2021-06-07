@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The Snowball - Alice Schroeder"
+tags: booksummaries
+categories: booksummaries
+
+---
+
+**Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
+
+Buffett was always wary of falling into what Munger called the Shoe Button Complex, pontificating on any and all subjects merely because he was an expert on business. But by the mid-1990s, both he and Munger were starting to receive—and answer—more and more questions about the business of life. He often treated the athletes and college students to whom he periodically spoke to the fable of the Genie. “When I was sixteen, I had just two things on my mind—girls and cars,” Buffett would say, taking a little poetic license here by leaving out the part about the money. “I wasn’t very good with girls. So I thought about cars. I thought about girls, too, but I had more luck with cars. “Let’s say that when I turned sixteen, a genie had appeared to me. And that genie said, ‘Warren, I’m going to give you the car of your choice. It’ll be here tomorrow morning with a big bow tied on it. Brand-new. And it’s all yours.’ “Having heard all the genie stories, I would say, ‘What’s the catch?’ And the genie would answer, ‘There’s only one catch. This is the last car you’re ever going to get in your life. So it’s got to last a lifetime.’ “If that had happened, I would have picked out that car. But, can you imagine, knowing it had to last a lifetime, what I would do with it? “I would read the manual about five times. I would always keep it garaged. If there was the least little dent or scratch, I’d have it fixed right away because I wouldn’t want it rusting. I would baby that car, because it would have to last a lifetime. “That’s exactly the position you are in concerning your mind and body. You only get one mind and one body. And it’s got to last a lifetime. Now, it’s very easy to let them ride for many years. But if you don’t take care of that mind and that body, they’ll be a wreck forty years later, just like the car would be. “It’s what you do right now, today, that determines how your mind and body will operate ten, twenty, and thirty years from now.”
