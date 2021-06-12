@@ -8,7 +8,7 @@ categories: booksummaries
 
 **Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
-## Summary of all Chapters
+## Takeaways from each chapter
 
 #1#
 
@@ -24,7 +24,7 @@ categories: booksummaries
 
 1. Define your intent. Align your aspirational intent (your most important big-picture goals) with your transactional intent (your goal for any one interaction).
 2. Deploy perspective getting to understand various stakeholders.
-3. Build routines to enlist stakeholders behind your intent
+3. Build routines to enlist stakeholders behind your intent.
 
 #3#
 
@@ -38,7 +38,7 @@ categories: booksummaries
 1. Train your adaptation muscles: Pick up a new skill or hobby; immerse yourself in an experience or place that you find uncomfortable; take on a job or volunteer assignment in a completely new area.
 2. Let go of the past: Conduct annual “spring cleaning.” Ask yourself and your team which habits, practices, and assumptions hold you back today or in the future. Pick the one that feels easiest or most valuable to let go. Let it go.
 3. Build your antenna for the future:
-   + Assemble an “Inspiration Cabinet”: a network of people in different fields who expose you to new unexpected ideas and information and help you see things from new angles
+   + Assemble an “Inspiration Cabinet”: a network of people in different fields who expose you to new unexpected ideas and information and help you see things from new angles.
    + Schedule “Foresight” time at least twice a month: actually block time on your calendar to consider the big picture view and future scenarios. Pick a location, time, and conditions that put your mind in the best state for insight.
    + Conduct full immersion into customer experience: regularly spend time walking in the shoes of your customers
    + Get curious and ask questions.
@@ -53,10 +53,10 @@ categories: booksummaries
    + Big Leap
    + Big Mess
    + Go Small to Go Big
-3. Own your blowups and turn them into learning opportunities. Stay connected to your supporters as you undertake the Career Catapults
+3. Own your blowups and turn them into learning opportunities. Stay connected to your supporters as you undertake the Career Catapults.
 4. Conduct an annual CEO-readiness assessment looking at:
    + your mastery of Four CEO Genome Behaviors
-   + your portfolio of experiences against typical CEO requirements (see this page)
+   + your portfolio of experiences against typical CEO requirements
    + catapults that can help you accelerate your path
 
 #6#
@@ -103,11 +103,11 @@ categories: booksummaries
 3. Engage board members actively to support the business and align with them on clear roles and rules of engagement.
 4. Avoid surprises!
 
-## Detailed Notes
+## Detailed Notes from the book
 
-+ You get fired on results but hired on perception
++ You get fired on results but hired on perception.
 
-+ Successful CEOs stood out for decisiveness itself—the ability to make decisions with speed and conviction. Decisive CEOs in our study are twelve times more likely to be high performers. Steve had pushed forward decisively—not because he knew he was right. He did it because he understood that a potentially bad decision was better than no decision
++ Successful CEOs stood out for decisiveness itself—the ability to make decisions with speed and conviction. Decisive CEOs in our study are twelve times more likely to be high performers. Steve had pushed forward decisively—not because he knew he was right. He did it because he understood that a potentially bad decision was better than no decision.
 
 + Become Decisive. As you strengthen those Decisive muscles, focus on three things: make decisions faster, make fewer decisions, and put in place practices to get better at decision making every time.
 
@@ -115,13 +115,13 @@ categories: booksummaries
 
 + He ultimately simplified the various viewpoints by framing the decision in the very simple terms that legendary GE CEO Jack Welch had made famous: Can we become number one or number two in that sector?
 
-+ Effective decision makers actively involve others in their decision process. They do that for two reasons. First, to get multiple inputs to improve the quality of the decision. And second, to pave the path to smooth execution by building ownership and buy-in for the decision with relevant stakeholders. So when the time comes to execute, those who have to carry out the decision become champions and willing volunteers, not chain-gang prisoners
++ Effective decision makers actively involve others in their decision process. They do that for two reasons. First, to get multiple inputs to improve the quality of the decision. And second, to pave the path to smooth execution by building ownership and buy-in for the decision with relevant stakeholders. So when the time comes to execute, those who have to carry out the decision become champions and willing volunteers, not chain-gang prisoners.
 
 + Everyone has a voice but not a vote. Top CEOs recognize that there is an art to gathering input as part of the decision-making process. Yet they do not wait for consensus.
 
 + “Being consensus-driven can be too slow and often pushes toward least-common-denominator solutions,” Christophe told us. “But that doesn’t mean you can’t be collaborative. Allow people to speak out and express a different point of view, then make a decision and communicate.”
 
-+ A powerful additional benefit of simple decision frameworks is that once they are embraced by the organization, CEOs can step back from the vast majority of the decisions that now can be made by their employees
++ A powerful additional benefit of simple decision frameworks is that once they are embraced by the organization, CEOs can step back from the vast majority of the decisions that now can be made by their employees.
 
 + Do not step in when the decision rights reside with others in the organization who have the information and experience to make the decision.
 
@@ -159,8 +159,7 @@ Avoidance of the word failure isn’t spin for these CEOs. It reflects their tru
 
 + Misalignment between aspirational and transactional intent is always costly. The cost may not be immediately obvious, but over time it is corrosive to a leader’s effectiveness and ultimately to his or her credibility.
 
-+ To translate intent into actions effectively, ask yourself the following questions before each interaction: What is my one most important goal? [Your aspirational intent.] How does this interaction fit within that goal? What is the outcome in this interaction that would best contribute to that one most important goal? What do I want this person or this team to t
-Think, Feel, and Do? [Your transactional intent.] What will it take to deliver that outcome?
++ To translate intent into actions effectively, ask yourself the following questions before each interaction: What is my one most important goal? [Your aspirational intent.] How does this interaction fit within that goal? What is the outcome in this interaction that would best contribute to that one most important goal? What do I want this person or this team to Think, Feel, and Do? [Your transactional intent.] What will it take to deliver that outcome?
 
 + Perspective getters recognize the need to go straight to the source to find out what people think and feel, whether board members, customers, or employees.
 
@@ -231,19 +230,19 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
 
 + **Career Catapult #1: The Big Leap**
 	When it comes to proving CEO mettle, there is no more powerful catapult than what we call the “big leap.” What do we mean by that? Accepting the challenge of a role that is a big stretch from what you have done previously—either because the role is much larger than anything you’ve done before or because it takes you into unfamiliar territory
-  + It doesn’t take a promotion or luck to practice your “stretch” potential. Here are ways you can make your own luck:
-  + Seek out cross-functional projects at your company to learn more about departments such as sales, marketing, IT, accounting, etc.
-  + Get involved in the integration of a merger.
-  + Volunteer to lead or participate in a top-priority business initiative.
-  + Ask how you could best contribute to the business.
-  + Ask your boss for additional responsibilities, especially those that will add to your skill set.
-  + Proactively look for and solve problems before you are asked.
-  + Make a habit of saying yes to greater opportunity, even if you don’t feel ready.
-  + Seek out relationships that are broader or more senior in your customer organizations than what is customary for someone at your level.
-  + Look at your personal life as a way to practice big leaps and build new skills: Take on civic leadership roles, from city government to the school board; volunteer in a leadership role or even form a new nonprofit; look for public speaking opportunities if that’s a big development area for you.
+    + It doesn’t take a promotion or luck to practice your “stretch” potential. Here are ways you can make your own luck:
+    + Seek out cross-functional projects at your company to learn more about departments such as sales, marketing, IT, accounting, etc.
+    + Get involved in the integration of a merger.
+    + Volunteer to lead or participate in a top-priority business initiative.
+    + Ask how you could best contribute to the business.
+    + Ask your boss for additional responsibilities, especially those that will add to your skill set.
+    + Proactively look for and solve problems before you are asked.
+    + Make a habit of saying yes to greater opportunity, even if you don’t feel ready.
+    + Seek out relationships that are broader or more senior in your customer organizations than what is customary for someone at your level.
+    + Look at your personal life as a way to practice big leaps and build new skills: Take on civic leadership roles, from city government to the school board; volunteer in a leadership role or even form a new nonprofit; look for public speaking opportunities if that’s a big development area for you.
 
 +  **Career Catapult #2: The Big Mess**
-   + Often the best opportunity to accelerate your career comes in a seemingly unattractive package: what we call the “big mess.” About 30 percent of the Sprinters we studied had led the way through a big mess.7 It could be an underperforming business unit, a failed IT implementation, or a recalled product. It’s a big problem, and the person who solves it will prove her ability to Reliably Deliver where someone else failed. To clean up a big mess, an executive must have the ability to figure out what’s broken, decide how to fix it, and then flex her Engage for Impact muscles to rally others to deliver results. Often, there’s significant time pressure to fix the problem—the company, or the part of the company she is responsible for, is in crisis. Decisions must be made quickly and under pressure. Learning to lead through the uncertainty of such chaos requires the courage to take risks, persevere in the face of adversity, and set a path without a clear playbook to follow.
+   + Often the best opportunity to accelerate your career comes in a seemingly unattractive package: what we call the “big mess.” About 30 percent of the Sprinters we studied had led the way through a big mess. It could be an underperforming business unit, a failed IT implementation, or a recalled product. It’s a big problem, and the person who solves it will prove her ability to Reliably Deliver where someone else failed. To clean up a big mess, an executive must have the ability to figure out what’s broken, decide how to fix it, and then flex her Engage for Impact muscles to rally others to deliver results. Often, there’s significant time pressure to fix the problem—the company, or the part of the company she is responsible for, is in crisis. Decisions must be made quickly and under pressure. Learning to lead through the uncertainty of such chaos requires the courage to take risks, persevere in the face of adversity, and set a path without a clear playbook to follow.
    + One tactic for those who feel they’ve been overlooked for the most plum assignments: Take the job no one wants. This is the job that no one considers important—until you see and realize the potential to make it amazing
 
 + **Career Catapult #3: Go Small to Go Big**
@@ -273,8 +272,6 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
 
 
 + Getting to the top seat is the output of two mutually reinforcing factors: getting results in the right roles and getting noticed for those results.
-
-+ Visibility with the Right People requires you to
 
 **1. Pick your boss.**
    + No one has more control over your visibility and success in an organization than your boss. Best leaders are able to avoid the two most common pitfalls of the employee-boss relationship. One, they hold their own—even engage in conflict—without their bosses feeling attacked. And two, they distinguish themselves in the organization without leaving their bosses feeling upstaged.
@@ -343,7 +340,7 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
 + **Your inaugural address should include:**
 
    + Your assessment of today: What is your take on the current health of the organization? As you reflect on what you have learned about the business, it is critical to show genuine respect for the accomplishments and wins that came before you. It is also important to frame gaps and opportunities. Vivid personal details and examples will demonstrate your connection to the people and the business.
-   + Your vision for tomorrow: Average CEOs have a task list. Great ones paint a picture of a point of arrival. JFK’s daring challenge to put the man on the moon and bring him back down to earth safely before this decade is out is aspirational and concrete at the same time.4 They make the destination crystal clear, specific, and compelling. That’s the level you’re shooting for when it comes to conveying your vision: a tantalizing glimpse at a future that is both aspirational and supremely concrete.
+   + Your vision for tomorrow: Average CEOs have a task list. Great ones paint a picture of a point of arrival. JFK’s daring challenge to put the man on the moon and bring him back down to earth safely before this decade is out is aspirational and concrete at the same time. They make the destination crystal clear, specific, and compelling. That’s the level you’re shooting for when it comes to conveying your vision: a tantalizing glimpse at a future that is both aspirational and supremely concrete.
    + Your values for the organization: What values do you see as essential to achieving that vision? Mary Berner, while at Reader’s Digest, for example, committed herself (and the organization) to six principles, with operational efficiency at the top of the list.
    + Your broader view: What do you see happening in the world that will affect the industry, the company, and your own decision making?
    + Your call to action: Remember Bill Amelio, who was charged with turning around the turbulent helicopter company? He credits an early call-to-action speech to his senior team with creating the needed momentum. After laying out the severity of the company’s financial situation, he said, “We are getting killed—in the market, by creditors, and by the board. We are in a battle together. I need everyone’s best ideas and nobody shooting each other in the ass. We’re gonna go get this done. You’re either in or you’re out. Put your hands on the table. If you don’t want to be in, tell me, and you’ll be out tomorrow. Now let’s come up with the best ideas we can.”
@@ -358,13 +355,13 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
 
 + Best CEOs start talent discussions from a zero base. Rather than assuming that you have to live with what you have, imagine you had to redraft your entire team for the sole purpose of winning against company vision and goals.
 
-+ “Ninety percent of CEO leadership is behavior modification.”
++ Ninety percent of CEO leadership is behavior modification.
 
 + Once a board gets concerned about a CEO, if that concern is not resolved, on average it takes boards just under two years to move out a CEO
 
 + The CEO may not have the formal authority to lead the board, but he has the responsibility to put the company on a path to success, even if that means taking risks with the board.
 
-+ “If you want to win people over, first understand who they are and what they care about.”
++ If you want to win people over, first understand who they are and what they care about.
 
 + Succeeding with your board (or with anyone else, for that matter) starts with understanding how their performance is measured and motivated. With that grounding, you also need to go beyond the numbers. Get to know your board members one-on-one and understand their context and their pressures, dreams, and fears.
 
@@ -378,7 +375,7 @@ Think, Feel, and Do? [Your transactional intent.] What will it take to deliver t
    + Where and how would you like to engage in the future? This is an opportunity to proactively engage board members on issues where they feel they can add value. It will ease their doubts about how to participate and be useful and also give you a clearer picture of how much of their time and attention you’re likely to get.
    + What does success look like, for the company and for me as CEO, in one year? In three years? This is the start of many conversations you’ll have around expectations and strategy.
 
-+ “Communicate early and communicate often,”
++ Communicate early and communicate often.
 
 **How to handle setbacks:**
 
