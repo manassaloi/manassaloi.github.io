@@ -41,3 +41,4 @@ Investment theses and ideas:
 - A collection of pitch decks by VC funds that they used to raise money from their LPs - [VC pitchdecks](https://www.alexanderjarvis.com/venture-capital-pitch-decks-what-vcs-raised-with/)
 - Connected hardware, Fin tech and non traditional founders - [500 startups investment thesis](https://www.slideshare.net/dmc500hats/investment-thesis-fundamentals-april-2016)
 - Take business risk but not product risk - [Scale Venture Partners's thesis](https://www.youtube.com/watch?v=DJzZtwDvczM)
+- VCPT - Big vision, ability to raise capital, hiring the right people, right timing - [Marc Lore](https://www.youtube.com/watch?v=3NfcPxFct-s)
