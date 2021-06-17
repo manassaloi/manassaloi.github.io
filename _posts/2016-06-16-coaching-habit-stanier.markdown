@@ -7,10 +7,10 @@ categories: booksummaries
 ---
 
 + 'What is on your mind?'
-+ Cut the intro and get into the question
+  + Cut the intro and get into the question
 + ‘And what else?’
 + 'What is the real challenge for you?'
-+ Frame questions with ‘what’ instead of ‘why'
+  + Frame questions with ‘what’ instead of ‘why'
 + What do you want?’
 + Focus on increasing TERA quotient
   + Tribe
