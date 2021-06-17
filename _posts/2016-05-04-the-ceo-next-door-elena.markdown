@@ -56,6 +56,10 @@ categories: booksummaries
 3. Own your blowups and turn them into learning opportunities. Stay connected to your supporters as you undertake the Career Catapults.
 4. Conduct an annual CEO-readiness assessment looking at:
    + your mastery of Four CEO Genome Behaviors
+     + Decide with Conviction and Speed
+     + Practice Relentless Reliability
+     + Are Relationship Masters
+     + Are Proactive in Adapting to Changing Circumstances
    + your portfolio of experiences against typical CEO requirements
    + catapults that can help you accelerate your path
 
