@@ -13,7 +13,7 @@ Make sure you have time in your schedule for this book. It is also good to take 
 
 1. **Don’t follow your passion** — If there are three words that is the most used in the media it is ‘follow your passion’, we have all at some time thought about quitting your job and becoming a Youtuber, a blogger or starting a restaurant. What this book says is that following one’s passion blindly is stupid. Imagine quitting your job to become a travel blogger. First ask yourself what is the career capital you have accumulated on this field? What is your body of work in this field? Have you ever been paid to write travel blogs? Leaving everything to follow a passion, without any insight is something irrational.
 
-2. **Focus on creating career capital** — Cal defines career capital as something equal to experience and expertise that you gain from working. For example for a Product manager like me it can be the skills he has acquired: design, tech, analytics as well as the products built in the past or blogs written on the subject. Hence instead of finding the right work: focus on working right, and eventually you will be able to build a love for what you do.
+2. **Focus on creating career capital** — Cal defines career capital as something equal to experience and expertise that you gain from working. For example for a Product manager it can be the skills he has acquired: design, tech, analytics as well as the products built in the past or blogs written on the subject. Hence instead of finding the right work: focus on working right, and eventually you will be able to build a love for what you do.
 
 3. **The Craftsman Mindset** — Have you noticed how the best players or the best artists in the world rose to fame? It wasn’t something overnight it was the result of relentless practice in perfecting one skill, hours of sacrifice and devotion to be the best that they are today. This is the craftsman mindset, the art of deliberate, focused goal oriented work. To be really good at something; so good that people can’t ignore you. It requires a lot of effort. A lot of sweat and tears but it will be worth it in the long run
 
@@ -45,5 +45,3 @@ c) Focus on doing deep work and deliberate practice to become better
 d) Keep making small bets and find adjacent spaces/sectors. Don’t be stagnant in your job just to play it safe
 
 e) Keep asking what you can offer to the world. What is your mission. But before all that focus on gaining enough career capital. Be a purple cow.
-
-So Good They Can’t Ignore you is best read after DeepWork (book by the same author) and reading both one after another would give you a better perspective of career capital and how it works. What more I like about these books are the real life examples from various fields that Cal has given that make it relevant for everyone working professional.
