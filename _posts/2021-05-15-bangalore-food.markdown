@@ -8,22 +8,20 @@ I had posted the following on Twitter: If you had to order just one dish from an
 Got tons of replies. Compiling this list so that you all never run out of ideas! I know a lot of people requested me to not delete the thread, but sadly that is not something I can do. But you can bookmark this blogpost instead :)
 
 - Brick Oven - Pizza
-- Bombay Brasserie - Indian
 - Nasi n Mee - Asian
 - Boneless chicken biryani from Meghana Koramangala
 - The Fatty Bao - Char Siu Pork Baos & Lemon Cheesecake
 - Taiki - California & Philadelphia rolls (sushi)
 - Pasta Street - Chicken Al Pomodoro
 - The Potbelly Cafe - Fish / Chicken Biryani
-- Nagarjuna - Chicken biryani
 - Leon Grill - chicken fillet burger
-- Tom's - Tom's special chicken curry + Appam
+- Tom's - Tom's special chicken curry + Appam, Chicken ghee roast
 - Sodabottleopenerwala - Salli boti and pav
-- Bombay brassiere - Bread pudding
+- Bombay Brassiere - Bread pudding, Prawn Mango Curry
 - Paris Panini - Hugo + onion rings
 - Bharatiya Jalpan - Dahi papdi chaat
 - From nearest darshini - Masala dosa
-- Permit Room - Hyderabadi chicken curry + Dosa
+- Permit Room - Hyderabadi chicken curry + Dosa, Beef fry on coin parottas, Paati's magic rasam, Okra podi chips and Haleem Samosa
 - Sly granny - Arabiata pasta
 - Third wave - Basque cheesecake
 - Tandoori Taal - Chicken tikka masala + Naan/biryani rice
@@ -33,10 +31,7 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Zaitoon - Effa Dajaj or anything middle eastern
 - Smoor - Desserts
 - Sethi's Homemade kitchen Indiranagar - Homemade North Indian food
-- Third wave coffee roasters - Masala egg bun
 - Little Italy - 11” Sicilia pizza
-- Paris Panini French street food - Sophie
-- Smoor - Burnt chilli fried rice (Prawns)
 - Whitefeild Socials - Achari Basa
 - The whole in the wall cafe - Masala Bombay toast, French toast
 - Vasudev Adigas - Idly vade sambhar dippaa
@@ -44,10 +39,8 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Chinita - Soyrizo Vegan Burrito with mushrooms.
 - HSR High Street- Podi Dosa and Idly
 - Brahmins- Idli
-- Meghana’s and nagarjuna- Biriyani
 - Sea rock - Literally anything
 - Hyderabad Biryaani House, Victoria layout - Chicken Biryani
-- Hotel Tom’s - Chicken ghee roast and appams/parottas
 - Zaitoon - Effa Dajaj or anything middle eastern
 - ITC Windsor - North Indian! (THE daal bhukara)
 - Green Theory - Vegan
@@ -55,11 +48,10 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Street Storyss - Rajma Khichdi
 - Goila Butter Chicken - The namesake
 - Sanchez for the Tres Leches, Chianti for the tiramisu!
-- The Permit Room - Beef fry on coin parottas, Paati's magic rasam.
 - Arogya aahara - Masala dosa, vada, coffee
 - Kunafa World - Classic cream Kunafa
 - Chianti - Spinach ravioli in sage butter sauce, prawns in garlic butter, tiramisu
-- Nagarjuna - Biryani and chicken 65.
+- Nagarjuna - Biryani, Chicken 65 and Pepper mutton/chicken.
 - Tarbouche - Chicken whole meat platter.
 - Sangam Sweets - Kachori, other namkeens (this one's a secret and I'm making a big leap sharing it with the world lol).
 - Fresh Pressery - Avocado chicken sandwich.
@@ -70,7 +62,6 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - The Hole in the Wall cafe - lemon cream waffles.
 - Arogya Ahaara - Dosa, Idli & Vada Face savouring food
 - Portland Steak House/The Only Place - Chateaubriand Supreme
-- The Permit Room - Okra podu chips
 - The Pump House - Tawa fish fry
 - India Coffee House - Mutton cutlet
 - Natraj - Chhole bhature
@@ -102,7 +93,6 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - New Shanthi Sagar (Domlur): Rawa onion dosa and musambi juice
 - Fatty bao - Fatty pho
 - Suryawanshi - Fish thali, keema pao, misal pao
-- Nagarjuna - Pepper mutton/chicken
 - Bhojohori manna - Kosha magsho, luchi, any fish and rice thali, pabrai nolengur er icecream
 - Kota kachori - Aloo pyaaz kachori, chaat
 - Truffles - All american cheese burger XL
@@ -124,12 +114,10 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Itsah - Shwarma
 - Mumbai XpressFor - Bindaas Bombay Burger
 - HSR High Street/Anjappar/Hotel Junior Kuppanna/Potful(Claypot Biriyani was novel)/Shanmukha - Biriyani
-- For very spicy Biriyani - Nizam's Kitchen
-- For Andhra Non Veg meals - Andhra Gunpowder
-- Permit Room - Haleem Samosa
+- Nizam's Kitchen - Spicy Biriyani
+- Andhra Gunpowder - Andhra Non Veg meals  
 - Fenny’s - Onion Glazed Chicken / Caramel Pudding
 - Brik Oven - Seafood Pizza
-- Bombay Brasserie - Prawn Mango Curry
 - God’s own café (shut) - Prawn Ghee Roast
 - Asia Kitchen - Chinese
 - Cakewala- Dahi Puff
