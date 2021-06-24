@@ -29,11 +29,11 @@ categories: booksummaries
 
 + I had to accept my dependency on others for the relevant information and be Here-and-now Humble, i.e., ask the faculty for help instead of telling them what to do.
 
-+ I had to figure out what kind of question would really provide the answer, and, more importantly, how to ask that question—in this case through a memo that also let people know that I was not interested in individual information
++ I had to figure out what kind of question would really provide the answer, and, more importantly, how to ask that question—in this case through a memo that also let people know that I was not interested in individual information.
 
 + Taking people off the promotion ladder without telling them is showing less respect and being more authoritarian than making oneself vulnerable by engaging in conversation.
 
-+ That I could easily fall into the trap of telling, i.e., making the decision for Joe, and fail to ask where asking was appropriate
++ I could easily fall into the trap of telling and fail to ask where asking was appropriate.
 
 + When a question is asked in a group setting, it is important to impose a rule that everyone gets to answer the question before back-and-forth discussion is allowed.
 
@@ -41,7 +41,7 @@ categories: booksummaries
 
 + It is indeed crucial to start the meeting with everyone speaking from the heart before any interaction is allowed.
 
-+ The chair should control the process, not the content
++ The chair should control the process, not the content.
 
 + Don’t jump in telling answers until you know what the other person really needs to know.
 
@@ -54,8 +54,6 @@ categories: booksummaries
 + Accessing your ignorance, or allowing curiosity to lead you, is often the best guide to what to ask about.
 
 + Once again, asking for an example (what does the VP of admin do?) proved to be crucial to problem solving.
-
-+ In contrasting the doctors, it was striking to me how quickly Humble Inquiry created a comfortable relationship and how quickly the absence of it created anxiety and worry.
 
 + Humble Inquiry was conveyed by the whole attitude, not just the specific questions that the doctor asked.
 
