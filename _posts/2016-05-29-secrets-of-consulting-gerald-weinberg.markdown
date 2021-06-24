@@ -14,13 +14,9 @@ categories: booksummaries
 
 + [Orange Juice Test](https://www.intercom.com/blog/the-orange-juice-test/)
 
-**MARVIN'S MEDICAL SECRETS**
++ **Marvin's medical secrets:** Ninety percent of all illness cures itself— with absolutely no intervention from the doctor. Deal gently with systems that should be able to cure themselves.
 
-+ Ninety percent of all illness cures itself— with absolutely no intervention from the doctor.
-
-+ Deal gently with systems that should be able to cure themselves.
-
-**The First Law of Engineering:** If it ain't broke, don't fix it.
++ **The First Law of Engineering:** If it ain't broke, don't fix it.
 
 + Repeatedly curing a system that can cure itself  will eventually create a system that can't.
 
@@ -34,18 +30,17 @@ categories: booksummaries
 
 + Don't give up the treatment too soon. Don't stick with the treatment too long.
 
-**The Bolden Rule:** If you can't fix it, feature it.
++ **The Bolden Rule:** If you can't fix it, feature it.
 
-**Here are some random examples taken from all walks of life which follows Bolden Rule:**
-
-+ There are certain parts of a slaughtered animal that meat packers have never been able to induce people to eat, so they put them in sausages and hot dogs. Rather than hide this fact, one company advertises, "Our hot dogs are made with special cuts of meat."
-+ Motel designers have never quite figured out how to design bathrooms. Bathrooms with windows would require using precious space in outside walls, so they tried installing exhaust fans. But exhaust-fan designers don't seem able to make a cheap fan that's effective at taking the moisture out of a tiny room with a shower. So, motels feature "luxury heat lamps in all bathrooms."
-+ In the early 19th century, well-drillers were looking for water or salt. Unfortunately, in too many cases, their wells were ruined when they struck petroleum instead. Eventually, G.H. Bissell decided to see what use could be made of this gummy stuff. By distilling it, he was able to produce such useful products as illuminating gas, paraffin wax, lubricants, and lamp oil, so he renamed these failures "oil wells" and proceeded to make a fortune.
++ **Here are some random examples taken from all walks of life which follows Bolden Rule:**
+  + There are certain parts of a slaughtered animal that meat packers have never been able to induce people to eat, so they put them in sausages and hot dogs. Rather than hide this fact, one company advertises, "Our hot dogs are made with special cuts of meat."
+  + Motel designers have never quite figured out how to design bathrooms. Bathrooms with windows would require using precious space in outside walls, so they tried installing exhaust fans. But exhaust-fan designers don't seem able to make a cheap fan that's effective at taking the moisture out of a tiny room with a shower. So, motels feature "luxury heat lamps in all bathrooms."
+  + In the early 19th century, well-drillers were looking for water or salt. Unfortunately, in too many cases, their wells were ruined when they struck petroleum instead. Eventually, G.H. Bissell decided to see what use could be made of this gummy stuff. By distilling it, he was able to produce such useful products as illuminating gas, paraffin wax, lubricants, and lamp oil, so he renamed these failures "oil wells" and proceeded to make a fortune.
 
 + Study for understanding, not for criticism.
 
 + Keep it simple and not too detailed; you're a consultant, not a district attorney.
 
-**The Five-Minute Rule:** Clients always know how to solve their problems, and always tell the solution in the first five minutes.
++ **The Five-Minute Rule:** Clients always know how to solve their problems, and always tell the solution in the first five minutes.
 
 + The Second Law of Pricing states,The more they pay you, the more they love you.
