@@ -8,11 +8,11 @@ categories: booksummaries
 
 **This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
 
-1. Keenly observe things around you. Use all your senses and not just smell
+1. Keenly observe things around you. Use all your senses and not just smell.
 
-1. Always focus on the context when it comes to non verbal cues
+1. Always focus on the context when it comes to non verbal cues.
 
-1. There are two types of cues: *universal non verbal cues* and *idiosyncratic ones which are unique to an individual*
+1. There are two types of cues: *universal non verbal cues* and *idiosyncratic ones which are unique to an individual.*
 
 1. Observe and set baseline behavior.
 

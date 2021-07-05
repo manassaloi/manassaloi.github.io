@@ -47,7 +47,7 @@ One of my current goals is to prepare a list of 1 star reviews every week and ad
 
 15) **Spend time training new employees especially interns.** At least a few hours each week should be spent on knowledge transfer. Read how [Planet Labs turned Its Interns into Company Leaders with This Program](http://firstround.com/review/planet-labs-turned-its-interns-into-company-leaders-with-this-program/). One thing I always encouraged my developers to do was read more. It is tremendously important to keep yourself updated with industry standards.
 
-16) **Have courage to make big decisions and stand by them.** If they go wrong take the blame. No one will probably give you any credit when they succeed. But that is alright. This is what separates good leaders from bad — The ability to make decisions and stick by them. Read: [Speed as a Habit](http://firstround.com/review/speed-as-a-habit/)
+16) **Have courage to make big decisions and stand by them.** If they go wrong take the blame. No one will probably give you any credit when they succeed. But that is alright. This is what separates good leaders from bad — The ability to make decisions and stick by them. Read: [Speed as a Habit.](http://firstround.com/review/speed-as-a-habit/)
 
 17) **On board new employees well.** The first day is extremely crucial. Help them settle in. Fix a mentor. Similarly spend time reading exit interviews. It will help you learn how to increase employee retention.
 
