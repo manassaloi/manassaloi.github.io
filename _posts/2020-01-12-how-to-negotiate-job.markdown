@@ -33,7 +33,7 @@ All can be easily found out if you reach out to your alumni network, have friend
 
 Having multiple offers help. In the past my job search used to be pretty simple: Reach out to CEO/Upper management for the company I want to join and tell them why they should hire me. [It worked to an extent.](https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/) 
 
-But I realised that with time my salary was less than the best in the industry. The thing which I was not doing was negotiating hard, having leverage through other good offers and optimising on team fit and role and ignoring the financial aspects .
+But I realised that with time my salary was less than the best in the industry. The thing which I was not doing was negotiating hard, having leverage through other good offers and optimising on team fit and role and ignoring the financial aspects.
 
 **So I changed my approach.** 
 
