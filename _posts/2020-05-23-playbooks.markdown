@@ -29,5 +29,6 @@ title:  "Company Principles, Values and Playbooks"
 - [Zappos 10 core values](https://www.zapposinsights.com/about/core-values)
 - [Coinbase's culture doc](https://blog.coinbase.com/culture-at-coinbase-fe510fe9c098)
 - [How HashiCorp Works](https://works.hashicorp.com/#about)
+- [How Railway works](https://blog.railway.app/p/how-we-work)
 
 Items marked as * are from 3rd party sources.
