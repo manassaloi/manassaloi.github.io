@@ -9,7 +9,7 @@ Gokul Rajaram is an incredibly smart operator + VC and I have learned tons from 
 
 Related: I have seen so many friends who work for US companies (mostly FANGMULA) crib about having to take calls outside of work hours. We know we are the satellite office. So we have to accommodate the mothership time zone. But to think anyone does it willingly is naive.
 
-I work for a SE Asian company. 9.30AM in Indo is 8AM here. 1.5 hours early is still reasonable. But we don't set meetings that early. Same goes the other way round, say 7PM in India. Hence we remind people to be considerate of those living in other countries.
+I work for a SE Asian company. 9.30 AM in Jakarta is 8 AM here. 1.5 hours early is still reasonable. But we don't set meetings that early. Same goes the other way round, say 7 PM in India that maps to 9.30 PM in Singapore. Hence we remind people to be considerate of those living in other countries.
 
 ('I love Slack's it is 11PM there, do you still want to send this?' nudge)
 
