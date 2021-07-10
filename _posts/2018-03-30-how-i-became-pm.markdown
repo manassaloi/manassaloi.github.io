@@ -34,11 +34,11 @@ IOCL and Avaya were easy. I just had to fill a form and let my college (BITS) an
 
 **Learnings:**
 
-* There was no way I could see myself doing a government job. The 3 months at IOCL was enough for me to realise that
+* There was no way I could see myself doing a government job. The 3 months at IOCL was enough for me to realise that.
 
-* I got interested in management while at IOCL. I took a project related Total Productive Maintenance (TPM)at IOCL and I started a habit of reading as much as I could about best management practices
+* I got interested in management while at IOCL. I took a project related Total Productive Maintenance (TPM)at IOCL and I started a habit of reading as much as I could about best management practices.
 
-* At Avaya, I learnt how big companies run. I was part of sprints, planning meetings for the first time. I also understood how products get built: customer research, prototyping, alpha releases etc
+* At Avaya, I learnt how big companies run. I was part of sprints, planning meetings for the first time. I also understood how products get built: customer research, prototyping, alpha releases etc.
 
 **RedBus**
 
@@ -56,13 +56,13 @@ Shankar Prasad, the COO, told me that RedBus was exploring expansion in the Nort
 
 **Learnings:**
 
-* I realised how much I loved working for a fast paced startup which was in hyper scaling mode. There was no bureaucracy. You did not have to please your manager and could just go out and do your own stuff
+* I realised how much I loved working for a fast paced startup which was in hyper scaling mode. There was no bureaucracy. You did not have to please your manager and could just go out and do your own stuff.
 
-* I never felt like a lowly paid intern. I was hustling in the North East, trying to figure out a way to grow RedBus there. I studied the travel industry in and out. I also wrote a blog post here: [**How is Redbus.in innovative if it’s just a normal bus ticket booking site?](https://www.quora.com/How-is-Redbus-in-innovative-if-it%E2%80%99s-just-a-normal-bus-ticket-booking-site/answer/Manas-J-Saloi)**
+* I never felt like a lowly paid intern. I was hustling in the North East, trying to figure out a way to grow RedBus there. I studied the travel industry in and out.
 
-* In the 3 months I was with Redbus I helped double their partners in the North East. Even then I was looking at unique ways I could be valuable for a corporation. Being from the North East helped. I realized that if everything fails in my life, I could still become a city manager for some startup in Guwahati. I got solid recommendations and learnt a lot, something I could never had done at a big corporation
+* In the 3 months I was with Redbus I helped double their partners in the North East. Even then I was looking at unique ways I could be valuable for a corporation. Being from the North East helped. I realized that if everything fails in my life, I could still become a city manager for some startup in Guwahati. I got solid recommendations and learnt a lot, something I could never had done at a big corporation.
 
-* I Learnt a lot about how culture is important for a startup. At RedBus, Phani (the CEO) used to send Happy Birthday mails to employees. My manager Subhobrata did his best to let me have the freedom to do what I wanted. Even if I was just there just for 3 months, I felt like I was part of the company. People were quick to praise your work and make you feel important
+* I Learnt a lot about how culture is important for a startup. At RedBus, Phani (the CEO) used to send Happy Birthday mails to employees. My manager Subhobrata did his best to let me have the freedom to do what I wanted. Even if I was just there just for 3 months, I felt like I was part of the company. People were quick to praise your work and make you feel important.
 
 **NGOSphere**
 
@@ -94,7 +94,7 @@ So I did what any sane guy at my situation would do: Read Cormen (textbook on Da
 
 I still kept getting rejected (messing up in the final rounds of a few companies) and was one of the last guys in my Computer Science batch to get placed. It was a humbling experience. My father would call me every night asking when Microsoft/Google is coming and I had to remind him again and again that with my CGPA I was not even eligible to sit for their interviews.
 
-I finally got placed in a startup called Kony Labs. I joined their team which used Kony Studio (their proprietary platform) to build apps for various companies.The advantage of Kony Studio is that it can generate builds for multiple platforms from a single JS codebase. I wrote about my interview experiences here: [Want To Work For An Indian Startup? Here’s What You Need to Do](https://www.linkedin.com/pulse/top-20-tips-crack-campus-placement-interview-manas-j-saloi/)
+I finally got placed in a startup called Kony Labs. I joined their team which used Kony Studio (their proprietary platform) to build apps for various companies.The advantage of Kony Studio is that it can generate builds for multiple platforms from a single JS codebase. I wrote about my interview experiences here: [Want To Work For An Indian Startup? Here’s What You Need to Do.](https://www.linkedin.com/pulse/top-20-tips-crack-campus-placement-interview-manas-j-saloi/)
 
 I worked at KonyLabs for just 2 months before joining Kore, which spun out from the company. It had the same management team and their goal was to build the next generation workplace collaboration platform. It was the best decision I made. Instead of being one of the 100s of developers I was not part of a small startup where I could learn faster. I would go on to work on the Android app before moving to the Server team.
 
@@ -102,11 +102,11 @@ I worked at KonyLabs for just 2 months before joining Kore, which spun out from 
 
 * Most things in life boils down to luck. I could have remained at Kony and kept working on their proprietary platform. It would not have helped me a lot career wise. But due to some random selection I ended up being one of the few freshers moved to Kore.ai
 
-* Working at Kore was fun mostly, but with periods of extreme frustration. [I felt we were moving too slow and needed to ship much faster if we wanted to have any chance against Slack](https://hackernoon.com/speed-as-a-competitive-advantage-ddc0e1050211). Speed is indeed something which can make or break early startups. [We also kept changing our product roadmap and working on the next cool feature](https://hackernoon.com/how-you-write-product-specs-is-how-you-build-products-8072e52dabed). There was no north star to speak of
+* Working at Kore was fun mostly, but with periods of extreme frustration. [I felt we were moving too slow and needed to ship much faster if we wanted to have any chance against Slack](https://hackernoon.com/speed-as-a-competitive-advantage-ddc0e1050211). Speed is indeed something which can make or break early startups. There was no north star to speak of.
 
 * Worked under an amazing Tech lead. I understood why they say [the effective Tech Lead is a 100x enginee](https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63)r. I learnt a lot during my time at Kore. I had no clue about APIs before I joined Kore. I did not know the difference between SOAP and REST properly. One and a half year of writing code helped me learn how to actually roll up my sleeves and build products myself. It also helped me become more emphatic later as a PM, having been a dev myself.
 
-* I realised I could never become a good enough dev to work at Google or Amazon. Instead of reading tech blogs I spent far more time reading product development blogs. If I could not finish my work, I would just go home and have a sound sleep, without being up all night figuring out the fix
+* I realised I could never become a good enough dev to work at Google or Amazon. Instead of reading tech blogs I spent far more time reading product development blogs. If I could not finish my work, I would just go home and have a sound sleep, without being up all night figuring out the fix.
 
 **CouponDunia**
 
@@ -120,9 +120,9 @@ I told my manager that I was quitting and put in my papers. I had a 2 months not
 
 Instead of writing on how I prepared for Product Management interviews in particular I am linking some really good resources here:
 
-[Interviewing for Big Logos with GoogleX former Product Manager](https://www.youtube.com/watch?v=M3TDGeB20nk)
+[Interviewing for Big Logos with GoogleX former Product Manager.](https://www.youtube.com/watch?v=M3TDGeB20nk)
 
-[How to Prepare for a Product Manager Interview by former Facebook PM](https://www.youtube.com/watch?v=7zoBsliIapk)
+[How to Prepare for a Product Manager Interview by former Facebook PM.](https://www.youtube.com/watch?v=7zoBsliIapk)
 
 You can also go through all the Product School videos. Also read [Crack the PM Interview ](https://www.amazon.in/Cracking-PM-Interview-Product-Technology-ebook/dp/B00ISYMUR6)book.
 
@@ -146,7 +146,7 @@ I wrote a long product critique of the app as well as the website. I even found 
 
 * I have already written about my work at CouponDunia. If you are interested you can read this: [How We Scaled CashBoss To 500K downloads in 5 months](https://www.linkedin.com/pulse/how-we-scaled-cashboss-500k-downloads-5-months-manas-j-saloi/) and [Farewell CouponDunia…](https://www.linkedin.com/pulse/farewell-coupondunia-manas-j-saloi/)
 
-* About transitioning to a Product role: [19 lessons I learned during my first year as a Product Manager](https://www.linkedin.com/pulse/19-lessons-i-learned-during-my-first-year-product-manager-saloi/)
+* About transitioning to a Product role: [19 lessons I learned during my first year as a Product Manager.](https://www.linkedin.com/pulse/19-lessons-i-learned-during-my-first-year-product-manager-saloi/)
 
 **Craftsvilla**
 
@@ -156,25 +156,25 @@ I was loving my life at CouponDunia. I had a boss who liked me, who gave me the 
 
 It was during that time Craftsvilla reached out to me. It was supposed to be a random coffee meet with the VP of Product but things turned out for the good and I got a job offer. The following points made the role really exciting:
 
-* Craftsvilla was one of the fast growing rocketships you read on various startup blogs. Funded by top investors it had raised a massive round at a valuation of around 200 mil and there were talks about a listing on NASDAQ
+* Craftsvilla was one of the fast growing rocketships you read on various startup blogs. Funded by top investors it had raised a massive round at a valuation of around 200 mil and there were talks about a listing on NASDAQ.
 
-* One of my long term goals then was to move into VC after getting enough startup experience. I thought this would be a good opportunity to work and network with people in the industry. Almost all the VPs at Craftsvilla were ex VCs
+* One of my long term goals then was to move into VC after getting enough startup experience. I thought this would be a good opportunity to work and network with people in the industry. Almost all the VPs at Craftsvilla were ex VCs.
 
-* Lastly my role: I was being offered the chance to head mobile apps which seemed too good of a role to refuse
+* Lastly my role: I was being offered the chance to head mobile apps which seemed too good of a role to refuse.
 
 I talked about ways to demonstrate value earlier. Even before I officially joined Craftsvilla, I started working on growth. Thinking about how to make Craftsvilla the next unicorn was all I could think of.
 
-![Always be ready to contribute and demonstrate value as early as possible](/assets/img/craftsvillamail.png)*Always be ready to contribute and demonstrate value as early as possible*
+![Always be ready to contribute and demonstrate value as early as possible.](/assets/img/craftsvillamail.png)*Always be ready to contribute and demonstrate value as early as possible*
 
 **Learnings:**
 
-* Learnt how to make decisions with data. Every feature you pitch at Craftsvilla had to be backed with metrics and every release supposed to improve on Conversion
+* Learnt how to make decisions with data. Every feature you pitch at Craftsvilla had to be backed with metrics and every release supposed to improve on Conversion.
 
-* Got domain knowledge of the e-commerce industry; from logistics to category management to merchandising
+* Got domain knowledge of the e-commerce industry; from logistics to category management to merchandising.
 
-* Understood how highly funded VC funded startups work from the inside
+* Understood how highly funded VC funded startups work from the inside.
 
-* By the end of 9 months I had a sad realisation: Most of the people I enjoyed working with had left due to various issues. The Indian startup ecosystem was in turmoil. Every day you could see startups shutting down. Raising new rounds was becoming harder by the day. And Indian e-commerce sector is still in its infancy. Customer retention is hard. Every one is just burning money to retain people who wont think twice before shopping at your competitor for a 10% extra discount. [Even the market leader Flipkart is still bleeding losses](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/flipkart-revenues-rise-29-losses-swell-68-in-fy17/articleshow/62761811.cms)
+* By the end of 9 months I had a sad realisation: Most of the people I enjoyed working with had left due to various issues. The Indian startup ecosystem was in turmoil. Every day you could see startups shutting down. Raising new rounds was becoming harder by the day. And Indian e-commerce sector is still in its infancy. Customer retention is hard. Every one is just burning money to retain people who wont think twice before shopping at your competitor for a 10% extra discount. [Even the market leader Flipkart is still bleeding losses.](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/flipkart-revenues-rise-29-losses-swell-68-in-fy17/articleshow/62761811.cms)
 
 **Directi**
 
