@@ -3,7 +3,7 @@ layout: post
 title:  "[Project Apollo] How to run a product team"
 ---
 
-I wish I had hold of something like this when I started my Product Management career. There are lot of books on the macro aspects like Strategy. And there are books on the micro like how to run an agile process. But none of them have been able to tie the macro with the micro. Or given easily customisable templates which people can use at their own companies. This Project is my humble attempt to fix that
+I wish I had hold of something like this when I started my Product Management career. There are lot of books on the macro aspects like Strategy. And there are books on the micro like how to run an agile process. But none of them have been able to tie the macro with the micro. Or given easily customisable templates which people can use at their own companies. This Project is my humble attempt to fix that.
 
 
 This post as well as the templates will be written keeping the following aspects in mind
@@ -117,7 +117,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Design review](https://manassaloi.com/2020/05/02/design-reviews.html)
 
 - **Data** (Mid term) (Short term) (What) (How)
-  - North star
+  - [North star](https://future.a16z.com/north-star-metrics/)
   - Dashboards
   - Experimentation
   - Daily email with data
