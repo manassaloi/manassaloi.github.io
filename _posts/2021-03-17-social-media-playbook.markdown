@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social media playbook"
+title:  "Social media growth playbook"
 ---
 
 A lot of people are selling courses on how to grow an online audience. Why spend money when I can give you the playbook for free.
@@ -26,7 +26,7 @@ A lot of people are selling courses on how to grow an online audience. Why spend
   - 5 lessons from Virat Kohli that you can use as a startup CEO.
   - 10 lessons from the Indo-China conflict that will help you in negotiating a term sheet with your VC.
 
-8. A lot of popular accounts' growth is a function of truly supporting one side of the narrative. Follow the simple playbook mentioned here for max success: [Life Math Money playbook](https://manassaloi.com/2020/01/30/life-math-money.html)
+8. A lot of popular accounts' growth is a function of truly supporting one side of the narrative. Follow the simple playbook mentioned here for max success: [Life Math Money playbook.](https://manassaloi.com/2020/01/30/life-math-money.html)
 
 9. Become the mega supporter of a popular account. Always reply to their tweets. See ParikPatelCFA and Chamath. You know a lot of people love and hate Chamath equally. So his posts will always get massive distribution. Use a popular account for your own growth.
 
@@ -35,6 +35,14 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 11. Acquire an imaginary 2 year old to have deep conversations with that you can share on LinkedIn later.
 
 12. Pick a fight with popular accounts, aka the Taylor Lorenz playbook. Do a lot of quote tweets for maximum impact.
+
+13. Whatever opinion you have, dial it up by 100 before posting on social media. If you think people should work hard in the beginning of their career, instead of posting a nuanced take, post "work life balance is for losers." This will help you get engagement and QTs from both sides of the work life balance debate.
+
+14. Form a hype squad. Most Instagram influences grew up forming close knit groups who would promote each other's content. The same playbook works for Twitter.
+
+15. Cross post from one platform to another. Tiktok captures all the latent video trends first. Post Tiktok videos on Twitter. Reddit has all the juicy memes. Cross post them on Twitter and Facebook.
+
+16. Take old content. [Repost a minor variation of them](https://twitter.com/ShaanVP/status/1412463012464631809).
 
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
