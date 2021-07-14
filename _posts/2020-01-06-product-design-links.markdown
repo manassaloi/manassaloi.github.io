@@ -3,7 +3,7 @@ layout: post
 title:  "My favourite posts on designing a new feature"
 ---
 
- These were written by people who actually designed them. You should read these to understand how some of the most popular features got conceived
+ These were written by people who actually designed them. You should read these to understand how some of the most popular features got conceived.
 
 - [Threads in Slack, a long design journey](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4)
 
