@@ -4,15 +4,15 @@ title:  "[Product Spec] Emoji Reactions on Twitter Messages"
 
 ---
 
-I keep getting Twitter DMs like these regularly
-
 ![Product Spec request](/assets/img/request_product_spec.png)
 
-So I decided to spend my afternoon today writing a Product spec for Emoji reactions to Twitter messages (which launched a couple of days back)
+I keep getting Twitter DMs like these regularly.
 
-## You can find the link here: [Emoji Reactions on Twitter Messages](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)
+So I decided to spend my afternoon today writing a Product spec for Emoji reactions to Twitter messages (which launched a couple of days back).
 
-Feel free to use this template
+You can find the link here: [Emoji Reactions on Twitter Messages.](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit)
+
+Feel free to use this template.
 
 **Note:**
 
