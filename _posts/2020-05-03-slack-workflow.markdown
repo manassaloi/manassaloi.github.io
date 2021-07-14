@@ -20,10 +20,10 @@ title:  "Slack workflow"
   - Release channel: for each new build going out on appstore/playstore
   - Stream channel (external): where things related to the stream are discussed
   - Stream channel (core): only core members added. private channel
-- For the stream channel, pin the charter and the OKRs
-- For each project create a new channel
-- Pin all other important documents on the project channel
-- Jira integration with Stream channel (external). All Jira updates posted there. Can be noisy, but the flow which works as of now
-- Standup updates for people who missed posted in Stream channel (core)
-- If you are taking leave etc, you post on Stream channel (external) where there are more people
-- More project workflow info posted here: [Project management rules](https://manassaloi.com/2020/04/26/rules-project-management.html)
+- For the stream channel, pin the charter and the OKRs.
+- For each project create a new channel.
+- Pin all other important documents on the project channel.
+- Jira integration with Stream channel (external). All Jira updates posted there. Can be noisy, but the flow which works as of now.
+- Standup updates for people who missed posted in Stream channel (core).
+- If you are taking leave etc, you post on Stream channel (external) where there are more people.
+- More project workflow info posted here: [Project management rules.](https://manassaloi.com/2020/04/26/rules-project-management.html)

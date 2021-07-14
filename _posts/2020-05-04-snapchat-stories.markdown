@@ -3,7 +3,7 @@ layout: post
 title:  "Snapchat stories"
 ---
 
-Origin story of Snapchat stories: something Evan Spiegel conceived as an alternative to the standard newsfeed on other social networks
+Origin story of Snapchat stories: something Evan Spiegel conceived as an alternative to the standard newsfeed on other social networks.
 
 ![Snapchat stories](/assets/img/snapchat_stories.png)
 
