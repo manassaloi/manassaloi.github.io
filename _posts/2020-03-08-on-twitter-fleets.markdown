@@ -8,7 +8,7 @@ title: "Why Twitter fleets might not work"
 
 - Instagram is mostly a visual medium with very few text posts. Stories on Instagram is about sharing mundane things about your day through photos. Twitter is the opposite, with text dominating over photos, at least based on my own Timeline.
 
-- Stories took off on Insta because people were worried about spamming their friends' feed with mundane stuff. That is how the feature is marketed. But power users of Twitter already do that. We mostly don't care about overwhelming our followers' timeline.
+- Stories took off on Insta because people were worried about spamming their friends' feed with too many posts. That is how the feature is marketed. But power users of Twitter already do that. We mostly don't care about overwhelming our followers' timeline.
 
 - Instagram feed = Highlight reel of users' life. Instagram Stories = Random shit. For Twitter our timeline is already an intersection of both. I worry that for Twitter power users/creators like me, we won't know what to fleet and what to tweet.The use case is not pretty clear.
 
