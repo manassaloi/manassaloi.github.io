@@ -81,7 +81,6 @@ title:  "Ultimate house hunting checklist"
 - How far is the nearest supermarket?
 - Are you getting mobile network in all the rooms? Are there dead zones? Atleast do one call from the house to check signal strength.
 - Are these mosquito meshes?
-- Are the exhaust fans working?
 - Check if there are any holes to get the fiber optic cable inside the house for your router.
 - Is there sufficient natural light coming in?
 - Check maid and cook availability in the society.
@@ -105,6 +104,7 @@ title:  "Ultimate house hunting checklist"
 - Absence of religious places too close - you can't even complain about the noise pollution.
 - Is there a modular kitchen with chimney and shelves?
 - Is there sufficient ventilation?
+- Is there exhaust fans in the bathrooms? Do they work fine?
 - Check for parking space.
 - Move in/move out charges (for tenants).
 
