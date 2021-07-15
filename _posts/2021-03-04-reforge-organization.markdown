@@ -21,7 +21,7 @@ Best way to give feedback to reportees:
 4. Observation and not opinion, and finally
 5. Actionable.
 
-How to work as a PM manager: You should be able to walk into a room with 30% context, identify what's wrong, course correct and add value instead of taking ownership of every single thing thhat your team is doing. Don't own features on behalf of your team. Let them learn.
+How to work as a PM manager: You should be able to walk into a room with 30% context, identify what's wrong, course correct and add value instead of taking ownership of every single thing that your team is doing. Don't own features on behalf of your team. Let them learn.
 
 How manage your time:
 1. Evaluate calendar for relevance and importance.
