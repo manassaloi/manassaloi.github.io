@@ -14,7 +14,7 @@ title: "Why Twitter fleets might not work"
 
 - People on Twitter think of their timeline as ephemeral. They tweet, like, and retweet a lot. And timeline is chronological for most. Ephemerality through fleets might not be a strong buy.
 
-- Will fleets get users to post more? I am not sure. If it is about engagement of new users, then explaining value proposition of the Twitter product is much more important than shoving another feature down their throats.
+- Will fleets get users to post more? I am not sure. If it is about engaging new users, then explaining value proposition of the Twitter product is much more important than shoving another feature down their throats.
 
 - Fleets mostly feels like something they are doing as pressure from Activist investors is rising for their failure to innovate on their product.
 
