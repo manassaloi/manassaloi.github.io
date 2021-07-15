@@ -12,8 +12,7 @@ title: "Why Twitter fleets might not work"
 
 - Instagram feed = Highlight reel of users' life. Instagram Stories = Random shit. For Twitter our timeline is already an intersection of both. I worry that for Twitter power users/creators like me, we won't know what to fleet and what to tweet. The use case is not pretty clear.
 
-- People on Twitter think of their timeline as ephemeral. They tweet, like, retweet a lot. And timeline is chronological for most.
-Ephemerality through fleets might not be a strong buy.
+- People on Twitter think of their timeline as ephemeral. They tweet, like, and retweet a lot. And timeline is chronological for most. Ephemerality through fleets might not be a strong buy.
 
 - Will fleets get users to post more? I am not sure. If it is about engagement of new users, then explaining value proposition of the Twitter product is much more important than shoving another feature down their throats.
 
