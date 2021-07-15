@@ -10,7 +10,7 @@ title: "Why Twitter fleets might not work"
 
 - Stories took off on Insta because people were worried about spamming their friends' feed with too many posts. That is how the feature is marketed. But power users of Twitter already do that. We mostly don't care about overwhelming our followers' timeline.
 
-- Instagram feed = Highlight reel of users' life. Instagram Stories = Random shit. For Twitter our timeline is already an intersection of both. I worry that for Twitter power users/creators like me, we won't know what to fleet and what to tweet.The use case is not pretty clear.
+- Instagram feed = Highlight reel of users' life. Instagram Stories = Random shit. For Twitter our timeline is already an intersection of both. I worry that for Twitter power users/creators like me, we won't know what to fleet and what to tweet. The use case is not pretty clear.
 
 - People on Twitter think of their timeline as ephemeral. They tweet, like, retweet a lot. And timeline is chronological for most.
 Ephemerality through fleets might not be a strong buy.
