@@ -17,7 +17,7 @@ Ephemerality through fleets might not be a strong buy.
 
 - Will fleets get users to post more? I am not sure. If it is about engagement of new users, then explaining value proposition of the Twitter product is much more important than shoving another feature down their throats.
 
-- Fleets mostly feels like something they are doing as pressure from Activist investors are raising for their failure to innovate on their product.
+- Fleets mostly feels like something they are doing as pressure from Activist investors is rising for their failure to innovate on their product.
 
 **Counter argument from other folks who replied on my tweet thread:**
 
