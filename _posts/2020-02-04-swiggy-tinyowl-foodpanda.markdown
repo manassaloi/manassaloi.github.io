@@ -83,7 +83,7 @@ Swiggy spent a lot of money and time in building their delivery fleet. And also 
 
 It managed to delight you with 20 min ETAs, and delivery boys who did not have to call you 5 times to understand your location, because they understood far early that owning the delivery experience is key.
 
-Zomato always started delivering food themselves when they couldn't compete with Swiggy's delivery experience.
+Zomato at first did not deliver the food themselves and instead relied on the restaurants to fullfil the delivery. The JTBD in food delivery is delivery of fresh food on time and not just the food order placement. By not owning the end to end experience, Zomato was losing to Swiggy. Hence they also started delivering food themselves when they couldn't compete with Swiggy's delivery experience. 
 
 
 The difference between Swiggy and Tinyowl or FoodPanda was that if all 3 stopped discounts, and you would had to go with one, it would always be Swiggy. Maybe at a lower frequency, but your preference would always be Swiggy.
@@ -94,7 +94,7 @@ Jeff Bezos keeps talking about the things which remain constant for decades. In 
 2. Cheapest price
 3. Fastest delivery
 
-Swiggy won in all 3 in their fight with Tinyowl and foodpanda.
+Swiggy won in all 3 in their fight with Tinyowl and Foodpanda.
 
 Swiggy did have an amazing product. And maybe superior tech. But without the other things mentioned in the post, they would not have been able to win the market share that they did way back in the days.
 
