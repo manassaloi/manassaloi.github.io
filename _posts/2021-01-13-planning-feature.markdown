@@ -30,6 +30,6 @@ How to plan a project (Steps):
 
 Most beginner PMs jump to the HOW directly without spending effort on the WHY and freezing the WHAT. When their CEO has second thoughts about the ROI of the project and gets it killed, these PMs crib about organizational politics.
 
-Your job as a PM is to Focus on all 3. Don't pick up a new project just because your CEO asked you to. First be convinved yourself. If you are just running after developers doing what your CEO is asking you to do, you are just a glorified project manager. Sorry.
+Your job as a PM is to Focus on all 3. Don't pick up a new project just because your CEO asked you to. First be convinced yourself. If you are just running after developers doing what your CEO is asking you to do, you are just a glorified project manager. Sorry.
 
 Please do your homework.
