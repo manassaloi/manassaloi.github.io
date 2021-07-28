@@ -12,8 +12,8 @@ I am involved in 3 types of research as a Transport PM in Gojek.
 Let's go through all 3 below.
 
 To understand foundational research, let's take a few examples:
- - Understand how users in Bali perceive Gojek in terms of safety
- - Understand the difference between how power users use Gojek vs new users
+ - Understand how users in Bali perceive Gojek in terms of safety.
+ - Understand the difference between how power users use Gojek vs new users.
  - Understand how users actually use transport irrespective of Gojek. How do they plan their commute and where Gojek lies in the whole commute planning?
 
 These are Research team led projects which give insights into how users are behaving, how the market is evolving, and different ways users use your product. The PM can definitely work with Research on project ideas but generally, a good Research team comes up with their own ideas and helps bring original insights to the PM. These insights can shape your roadmap as well as drive your strategy. Don't couple these projects with feature delivery. Let the research team take time. Rushing to find quick insights will defeat the purpose.
