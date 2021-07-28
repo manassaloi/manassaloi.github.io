@@ -16,7 +16,7 @@ Investment theses and ideas:
 - Invest in the arms dealer - [David Perell](https://perell.com/essay/coolest-things-2018/)
 - Invest in a big market. Then invest in adjacent markets - [Don Valentine](https://www.youtube.com/watch?v=nKN-abRJMEw)
 - Is the market big? Can you win and defend a large share of the market? Can your team do the job? - [Randy Komisar](http://learnbusinessfaster.com/2018/03/29/the-monk-and-the-riddle-randy-komisar/)
-- Product solves a functional need. It also solves an emotional need which gets users to share with others. Big market or market which can become big - [Todd Jackson](https://thetwentyminutevc.com/firstroundcapital/)
+- Product solves a functional need. It also solves an emotional need which gets users to share with others. Big market or market which can become big - [Todd Jackson 1](https://thetwentyminutevc.com/firstroundcapital/), [Todd Jackson 2](https://mobile.twitter.com/tjack/status/1400818341179125764)
 - N of 1 - [Tribe Capital](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/)
 - 5 Questions decision tree - [Rob Go](https://nextviewventures.com/blog/flowchart-vc-decision-making/)
 - Does the audience skew "young"? Is there a gap between engagement and monetization? Are there artificial barriers holding back scale? - [Brett Bivens](https://venturedesktop.substack.com/p/how-to-identify-underrated-markets)
@@ -42,3 +42,4 @@ Investment theses and ideas:
 - Connected hardware, Fin tech and non traditional founders - [500 startups investment thesis](https://www.slideshare.net/dmc500hats/investment-thesis-fundamentals-april-2016)
 - Take business risk but not product risk - [Scale Venture Partners's thesis](https://www.youtube.com/watch?v=DJzZtwDvczM)
 - VCPT - Big vision, ability to raise capital, hiring the right people, right timing - [Marc Lore](https://www.youtube.com/watch?v=3NfcPxFct-s)
+- Bet on the Founder, Vision and "Secrets", in that order - [Michael Karnjanaprakorn](https://mobile.twitter.com/mikekarnj/status/1375830619826098179)
