@@ -21,6 +21,10 @@ title:  "Slack workflow"
   - Stream channel (external): where things related to the stream are discussed
   - Stream channel (core): only core members added. private channel
 - For the stream channel, pin the charter and the OKRs.
+- Every week post an update on the stream channel with the following:
+  - What you worked on the last week: project names, progress, and next steps.
+  - What is coming up next: You can pre announce projects to be picked up.
+  - Blockers/ help if (needed).
 - For each project create a new channel.
 - Pin all other important documents on the project channel.
 - Jira integration with Stream channel (external). All Jira updates posted there. Can be noisy, but the flow which works as of now.
