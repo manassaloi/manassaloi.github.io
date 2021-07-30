@@ -17,7 +17,7 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Leon Grill - Chicken fillet burger
 - Tom's - Tom's special chicken curry + Appam, Chicken ghee roast
 - Sodabottleopenerwala - Salli boti and pav
-- Bombay Brassiere - Bread pudding, Prawn Mango Curry
+- Bombay Brasserie - Bread pudding, Prawn Mango Curry
 - Paris Panini - Hugo + onion rings
 - Bharatiya Jalpan - Dahi papdi chaat
 - Darshini - Masala dosa
