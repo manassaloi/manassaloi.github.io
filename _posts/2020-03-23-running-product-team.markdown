@@ -47,6 +47,7 @@ I plan to create templates and best practices for the following over the next 3 
   - Product principles
   - Customer lens
   - [Quarterly Team Update](https://docs.google.com/document/d/1OA3PORhM8dYu9yuM1bwNkJYWvtEjizoDhioo8Hq59ic/edit?usp=sharing)
+  - [Evolution of OKRs planning exercise](https://manassaloi.com/2021/07/04/okrs-planning-evolution.html)
 
 
 - **Team planning** (Medium term) (What) (How)
@@ -107,6 +108,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Product update mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Product release mail](https://manassaloi.com/2020/03/28/sending-product-update-mail.html)
   - [Project Retrospective](https://manassaloi.com/2020/03/29/retrospectives.html)
+  - [Running a project better](https://manassaloi.com/2021/05/04/running-project-better.html)
 
 - **Working with other teams/external Stakeholder** (Mid term) (What) (How) (When)
   - [MOMs](https://manassaloi.com/2020/03/22/mom-update.html)

@@ -9,18 +9,18 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 
 - Brick Oven - Pizza
 - Nasi n Mee - Asian
-- Boneless chicken biryani from Meghana Koramangala
+-  Meghana Koramangala - Boneless chicken biryani
 - The Fatty Bao - Char Siu Pork Baos & Lemon Cheesecake
 - Taiki - California & Philadelphia rolls (sushi)
 - Pasta Street - Chicken Al Pomodoro
 - The Potbelly Cafe - Fish / Chicken Biryani
-- Leon Grill - chicken fillet burger
+- Leon Grill - Chicken fillet burger
 - Tom's - Tom's special chicken curry + Appam, Chicken ghee roast
 - Sodabottleopenerwala - Salli boti and pav
 - Bombay Brassiere - Bread pudding, Prawn Mango Curry
 - Paris Panini - Hugo + onion rings
 - Bharatiya Jalpan - Dahi papdi chaat
-- From nearest darshini - Masala dosa
+- Darshini - Masala dosa
 - Permit Room - Hyderabadi chicken curry + Dosa, Beef fry on coin parottas, Paati's magic rasam, Okra podi chips and Haleem Samosa
 - Sly granny - Arabiata pasta
 - Third wave - Basque cheesecake
@@ -36,7 +36,7 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - The whole in the wall cafe - Masala Bombay toast, French toast
 - Vasudev Adigas - Idly vade sambhar dippaa
 - Mysuru Coffee Thindi - Enne benne tuppa beda masala dose
-- Chinita - Soyrizo Vegan Burrito with mushrooms.
+- Chinita - Soyrizo Vegan Burrito with mushrooms
 - HSR High Street- Podi Dosa and Idly
 - Brahmins- Idli
 - Sea rock - Literally anything
@@ -46,21 +46,21 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Green Theory - Vegan
 - Burma Burma - Samosa soup and Mango Salad
 - Street Storyss - Rajma Khichdi
-- Goila Butter Chicken - The namesake
-- Sanchez for the Tres Leches, Chianti for the tiramisu!
+- Goila Butter Chicken - The namesake dish
+- Sanchez for the Tres Leches, Chianti - Tiramisu
 - Arogya aahara - Masala dosa, vada, coffee
 - Kunafa World - Classic cream Kunafa
 - Chianti - Spinach ravioli in sage butter sauce, prawns in garlic butter, tiramisu
 - Nagarjuna - Biryani, Chicken 65 and Pepper mutton/chicken.
-- Tarbouche - Chicken whole meat platter.
-- Sangam Sweets - Kachori, other namkeens (this one's a secret and I'm making a big leap sharing it with the world lol).
-- Fresh Pressery - Avocado chicken sandwich.
+- Tarbouche - Chicken whole meat platter
+- Sangam Sweets - Kachori
+- Fresh Pressery - Avocado chicken sandwich
 - Leon Grill - Burger combo 4 (hidden gem)
 - Candice's Gourmet Sandwiches - any of the Banh Mi variants
 - Hae Kum Gang - Gimbap
-- Chinita - Fish grilled tacos, horchata and flan (a dream meal). Or the prawn chinita salad.
-- The Hole in the Wall cafe - lemon cream waffles.
-- Arogya Ahaara - Dosa, Idli & Vada Face savouring food
+- Chinita - Fish grilled tacos, horchata and flan. Or the prawn chinita salad
+- The Hole in the Wall cafe - lemon cream waffles
+- Arogya Ahaara - Dosa, Idli & Vada
 - Portland Steak House/The Only Place - Chateaubriand Supreme
 - The Pump House - Tawa fish fry
 - India Coffee House - Mutton cutlet
@@ -109,7 +109,7 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - The Circle Dream - Pizza
 - Chinita - Tacos
 - Burger Signeur - Burgers
-- Maa Di Hatti - Roti and paneer curries. 
+- Maa Di Hatti - Roti and paneer curries
 - Anand Sweets - Purani Dilli
 - Itsah - Shwarma
 - Mumbai XpressFor - Bindaas Bombay Burger
@@ -132,20 +132,20 @@ Got tons of replies. Compiling this list so that you all never run out of ideas!
 - Khawa Karpo - Thupka
 - La-Pinoz - Pizza
 - Shree Khana Khazana - Ghar ka khana
-- MTR indranagar - wheat dosa Grinning face with smiling eyes
+- MTR indranagar - Wheat dosa
 - LaPinoz - Cheezy7 Pizza
 - HaveMore, new BEL Road - Dahi Bhalla
 - Box8 - Moongdal halwa
 - Havmor - Mango/Seetaphal Ice-cream
 - NIC - Anjeer/Almod Jaggery Kulfi
 - Truffles - Peri Peri Chicken Burger
-- Nuty's - Fish keema with Roti (if they ever start serving it again)
+- Nuty's - Fish keema with Roti
 - Empire - Shawarma
 - Smoor - Gooey Cake
 - Santé - Dark chocolate milkshake
 - Lazy Suzy - Hazelnut hot chocolate
 - Chinita - Burrito Bowl
-- Oh Calcutta - engali
+- Oh Calcutta - Bengali
 - CTR - Benne Masala Dosa
 - Burma Burma - Samosa soup and Mango Salad
 - Street Storyss - Rajma Khichdi
