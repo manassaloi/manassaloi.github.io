@@ -45,11 +45,13 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Leader as a coach](https://hbr.org/2019/11/the-leader-as-coach)
 - [Intentional](https://twitter.com/Superhuman/status/1338603097711497219)
 - [Internal then external](https://manassaloi.com/2021/02/02/internal-external.html)
+- [Create scope](https://productlife.to/p/-great-pms-create-scope)
 
 
 ## Product development, Research & Design
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
 - [One level up](https://manassaloi.com/2021/04/18/one-level-up.html)
+- [Single decisive reasoning](https://coda.io/@rahulvohra/single-decisive-reasoning-sdr-at-superhuman)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Work backwards](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
 - [Data informed, not driven](https://manassaloi.com/2020/03/02/data-driven.html)
@@ -122,7 +124,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553)
 - [Design sequences not stills](https://www.intercom.com/blog/designing-sequences-not-stills/)
 - [3 Stages of Failure](https://jamesclear.com/3-stages-of-failure)
-- [Why now?](https://avichal.com/2017/11/27/why-now/)
+- [Why now?](https://www.lennysnewsletter.com/p/why-now-527)
 - [Thinking Small, at first](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html?m=1)
 - [Simple, correct, fast](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
 - [Win by Cheating](https://avichal.com/2012/04/08/startups-win-by-cheating/)
@@ -209,6 +211,10 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Part clouds and part dirt](https://mobile.twitter.com/gokulr/status/1358240423823609858)
 - [Extreme Focus](http://paulgraham.com/paypal.html)
 - [Product leader anti-patterns](https://mobile.twitter.com/shreyas/status/1385408214036926466)
+- [Connecting the Dots: From Vision to Execution](https://debliu.substack.com/p/connecting-the-dots-from-vision-to)
+- [Synergy between strategy and org structure](https://mobile.twitter.com/gokulr/status/1417272837706981405)
+- [Horizons and storytelling](https://efeng.medium.com/a-lesson-in-storytelling-from-my-time-at-facebook-b7eb013aede4)
+- [VPs tilt the Curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
@@ -223,6 +229,7 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 ## Data
 - [Data should be accurate, automation, and accessible](https://mixpanel.com/innovators/the-3-as-of-becoming-a-data-driven-organization/)
 - [Correlation doesn't imply causation](https://amplitude.com/blog/2017/01/19/causation-correlation)
+- [Metrics roulette](https://manassaloi.com/2021/06/28/metrics-roulette.html)
 
 ## Communication
 - [Use pyramid principle for communication](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
@@ -245,6 +252,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Do, Try, Consider](https://jackiebo.medium.com/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)
 - [Leaders build consensus](https://hyperbo.la/w/nemawashi/)
 - [The 10/50/99% Approach to Feedback](https://i-am-brennan.medium.com/the-10-50-99-approach-to-feedback-e32157865c50)
+- [Communication decisions as a CEO](https://mobile.twitter.com/gokulr/status/1421944258827673601)
+- [Executive Presentations: A Guide to Achieving the Outcomes You Want](https://debliu.substack.com/p/executive-presentations-a-guide-to)
 
 ## Interview
 - [Least known favourite product](https://manassaloi.com/2020/12/18/fav-product.html)
