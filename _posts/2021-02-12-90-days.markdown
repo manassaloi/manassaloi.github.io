@@ -33,7 +33,7 @@ Things that you should do in your first 90 days at a new company:
   - [4 weeks plan](https://docs.google.com/spreadsheets/d/1nmiiI36JARS_xufVTbUOXQGtVYCHyNxg5zKhKmVCwlQ/edit?usp=sharing) (standard for any new joiner)  
   - [short term](https://manassaloi.com/2020/03/23/running-product-team.html)
   - [medium term](https://manassaloi.com/2020/03/23/running-product-team.html)
-  - [long term](https://manassaloi.com/2020/03/23/running-product-team.html) 
+  - [long term](https://manassaloi.com/2020/03/23/running-product-team.html) 
   - [Learn how we execute](https://manassaloi.com/2020/04/26/rules-project-management.html)  
   - Get context on the onboarding project  
   - Understand the tech stack 
