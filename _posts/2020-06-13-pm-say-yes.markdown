@@ -8,6 +8,6 @@ Something I recommend to all new PMs: Say Yes to as many projects as you can at 
 
 I have always followed this advice ever since I became a PM 6 years back. Even before I could understand what a PM does, I was tasked with launching a new Business unit for CouponDunia. I learned 10X of what a new PM learns in the 3 months we took to launch Cashboss. And I have followed this advice throughout my career.
 
-2 years back I was told to plan and launch the entire safety roadmap of Gojek inside 2 months of joining. I had no idea about how Transport worked, forget the streams I was asked to lead: Payments, Convenience, and Safety. I said Yes not just to creating a Safety stream, but also incubated dedicated Convenience and Payments teams inside Transport. After 6 months when these teams were more stable, my boss told me to work on our ride booking process. We launched a completely revamped booking flow over the next few months. All this growth happened because I kept saying Yes to whatever interesting opportunities came my way.
+2 years back I was told to plan and launch the entire safety roadmap of Gojek inside 2 months of joining. I had no idea about how Transport worked. I had just joined. Then I picked up work on Payments and Convenience in parallel. After 6 months, I was asked to revamp the booking flows for our ride hailing products. I ended up working on all major flows/systems in our Transport product. All because I kept saying Yes to whatever came my way.
 
-So say YES more. That is the only way to learn more in a small timeframe.
+So say YES more. That is the only way to learn more in a short timeframe.
