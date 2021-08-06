@@ -10,7 +10,7 @@ I left because I could not see a future for me. 6 months later the entire design
 
 What I am getting at is that valuation is a leading metric pumped by investor enthusiasm. And there are boom and bust cycles that are a function of interest rates.
 
-I love that this enthusiasm will lead to more people starting up. People taking risks. Getting liquidity. Our Indian startup ecosystem is also much more matured now. So many amazing startups, founders, and early employees building world-class products.
+I love that this enthusiasm will lead to more people starting up. People taking risks. Getting liquidity. Our Indian startup ecosystem is also much more mature now. So many amazing startups, founders, and early employees building world-class products.
 
 But it is too early to celebrate Unicorn face valuations.
 
