@@ -84,7 +84,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Quarterly Retrospectives](https://manassaloi.com/2020/03/29/retrospectives.html)
   - [Making big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
   - [List of all meetings](https://manassaloi.com/2020/05/28/all-my-meetings.html)
-  - [PM Weekly Learning Session](https://docs.google.com/document/d/1Bl23tJbm-5CQI24SkgcF8S43T-nj9JhtY34-1cFjpl8/edit?usp=sharing)
+  - [PM Weekly Learning Session](https://manassaloi.com/2021/08/07/growth-mindset-sessions.html)
   - [New PM Onboarding](https://docs.google.com/spreadsheets/d/1nmiiI36JARS_xufVTbUOXQGtVYCHyNxg5zKhKmVCwlQ/edit?usp=sharing)
   - [Folder Structure](https://docs.google.com/document/d/1OJmggtFK7Iqmou5NNCusZyChSRMBzRCU3F3RCfk9sVM/edit?usp=sharing)
   - [Update on features](https://manassaloi.com/2021/03/09/slack-update.html)
@@ -118,6 +118,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Request for BI](https://docs.google.com/document/d/163Pl7T0bbaA8cQN2xGOVuRT0RIamGS9NJB6p4oQU-ks/edit?usp=sharing)
   - [Weekly leads meeting](https://docs.google.com/document/d/1fNP99sdptJRa8hPdbysoSyg3-hcZkJJThuISbLz3Y98/edit?usp=sharing)
   - [Design review](https://manassaloi.com/2020/05/02/design-reviews.html)
+  - [Friday design review](https://manassaloi.com/2021/08/06/friday-design-review.html)
 
 - **Data** (Mid term) (Short term) (What) (How)
   - [North star](https://future.a16z.com/north-star-metrics/)
