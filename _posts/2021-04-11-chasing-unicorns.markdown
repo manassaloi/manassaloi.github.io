@@ -12,7 +12,7 @@ What I am getting at is that valuation is a leading metric pumped by investor en
 
 I love that this enthusiasm will lead to more people starting up. People taking risks. Getting liquidity. Our Indian startup ecosystem is also much more mature now. So many amazing startups, founders, and early employees building world-class products.
 
-But it is too early to celebrate Unicorn face valuations.
+But it is too early to celebrate companies just based on the valuation game.
 
 Stock market and even private market valuations do not reflect the economic reality of India. With stagnating growth, record-high covid cases, there is a long way to go for startups to justify their valuation. For now, I am happy that people will get some liquidity. More options for employees too. Salaries are at an all-time high. And I can definitely understand the optimism.
 
