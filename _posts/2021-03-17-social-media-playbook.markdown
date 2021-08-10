@@ -44,6 +44,10 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 16. Take old content. [Repost a minor variation of them](https://twitter.com/ShaanVP/status/1412463012464631809).
 
+17. Hack growth through Twitter topics: Use popular keywords like startup, investing, VC that drive traffic.
+
+18. [Praise India publicly](https://twitter.com/kunalb11/status/1423485436572233728?s=20).
+
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
