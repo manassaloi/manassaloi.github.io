@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Friday Design Review"
+title:  "Friday design review"
 ---
 
 We have design reviews for Transport on Friday mornings. Each week, designers bring their designs for upcoming features to this review. We generally have around 30-40 folks join, including the Design and Product leaders. If you want to run something similar at your company, here are a few pointers:
