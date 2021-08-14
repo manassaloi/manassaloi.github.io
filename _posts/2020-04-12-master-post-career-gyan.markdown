@@ -50,6 +50,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Timezone empathy](https://manassaloi.com/2021/05/19/timezone-empathy.html)
 - [Discussing politics at work](https://manassaloi.com/2021/05/02/basecamp-exits.html)
 - [First impressions matter](https://manassaloi.com/2021/05/23/first-impressions-matter.html)
+- [Proof of work](https://manassaloi.com/2021/07/05/proof-work.html)
+- [MBA or not](https://manassaloi.com/2021/01/09/MBA-not.html)
 
 ### Favourite books on Career
 
