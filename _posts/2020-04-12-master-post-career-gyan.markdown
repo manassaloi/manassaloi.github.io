@@ -8,6 +8,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 
 ### My own Gyaan
 
+- [Should you go to College?](https://www.linkedin.com/pulse/should-you-go-college-manas-j-saloi/)
 - [How to think about a job switch](https://manassaloi.com/2020/01/22/random-career-gyan-1.html)
 - [How to negotiate during a job hunt](https://manassaloi.com/2020/01/12/how-to-negotiate-job.html)
 - [High Leverage Activities](https://manassaloi.com/2020/01/09/high-leverage-activity.html)
