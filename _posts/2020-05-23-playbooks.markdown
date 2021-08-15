@@ -30,5 +30,9 @@ title:  "Company Principles, Values and Playbooks"
 - [Coinbase's culture doc](https://blog.coinbase.com/culture-at-coinbase-fe510fe9c098)
 - [How HashiCorp Works](https://works.hashicorp.com/#about)
 - [How Railway works](https://blog.railway.app/p/how-we-work)
+- [Teamflow's Culture](https://www.notion.so/teamflowhq/Teamflow-s-Culture-8f24be7f619a4e4aa7e93ba02d58cf4c)
+- [Ideo's little book](https://lboi.ideo.com/)
+- [a16z's values](https://a16z.com/values/)
+- [Stripe's cultural values](https://stripe.com/en-in/jobs/culture#culture)
 
 Items marked as * are from 3rd party sources.
