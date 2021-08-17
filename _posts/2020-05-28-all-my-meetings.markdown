@@ -29,7 +29,8 @@ Biweekly
 Monthly
 - Monthly Product Review meeting
 - PDG Townhall
-- Monthly sync up with Res
+- Monthly sync up with Research team
+- Monthly syncup with Marketing team
 - Company Townhall
 - IDP follow up with reports
 
@@ -81,14 +82,15 @@ Half Yearly
 - Half yearly OKR Review
 
 Terminology
-- PDG = Product Dev Group = In the context of this post it means the Transport PDG  
-- Stream = A smaller group inside the PDG which looks after a specific area; Currently it is Growth and Key Initiatives for me where I lead 3 PMs
-- Sub stream = Smaller pods inside a bigger stream with its own PM and TL which looks after a specific area inside the stream
-- Links to format/ doc templates for most of these meeting here: [Project Apollo](https://manassaloi.com/2020/03/23/running-product-team.html)
-- You can find meaning of some of the words you might not be familiar with here: [Project Apollo](https://manassaloi.com/2020/03/23/running-product-team.html)
+- PDG = Product Dev Group = In the context of this post it means the Transport PDG.
+- Stream = A smaller group inside the PDG which looks after a specific area; Currently it is Growth and Key Initiatives for me where I lead 3 PMs.
+- Sub stream = Smaller pods inside a bigger stream with its own PM and TL which looks after a specific area inside the stream.
+- Links to format/ doc templates for most of these meeting here: [Project Apollo.](https://manassaloi.com/2020/03/23/running-product-team.html)
+- You can find meaning of some of the words you might not be familiar with here: [Project Apollo.](https://manassaloi.com/2020/03/23/running-product-team.html)
 
 Note:
-- 1-1 with my own manager and my reports are sacred; rest 1-1s depends on whether there is an agenda for the week
-- My long term goal is to spend around 1 day worth of time/week/ direct report
-- These meetings are only the regular process meetings I attend. There are far more meetings which I organise/attend, but those are to tackle specific problems, and don't occupy a regular slot in my calendar
-- IC PMs lead one of more sub streams in a PDG org but does not have direct PM reports
+- 1-1 with my own manager and my reports are sacred; rest 1-1s depends on whether there is an agenda for the week.
+- My long term goal is to spend around 1 day worth of time/week/ direct report.
+- These meetings are only the regular process meetings I attend. There are far more meetings which I organise/attend, but those are to tackle specific problems, and don't occupy a regular slot in my calendar.
+- IC PMs lead one of more sub streams in a PDG org but does not have direct PM reports.
+- Sometimes for special projects we do have status sync meetings. But I make sure I attend only if I can add value.
