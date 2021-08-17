@@ -25,6 +25,7 @@ Biweekly
 - 1-1 with my manager
 - Sync up with Business
 - Temporary sync up with a few tactical teams (which lasts till relevant projects are completed)
+- PDG Design review
 
 Monthly
 - Monthly Product Review meeting
