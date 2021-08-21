@@ -43,3 +43,6 @@ Investment theses and ideas:
 - Take business risk but not product risk - [Scale Venture Partners's thesis](https://www.youtube.com/watch?v=DJzZtwDvczM)
 - VCPT - Big vision, ability to raise capital, hiring the right people, right timing - [Marc Lore](https://www.youtube.com/watch?v=3NfcPxFct-s)
 - Bet on the Founder, Vision and "Secrets", in that order - [Michael Karnjanaprakorn](https://mobile.twitter.com/mikekarnj/status/1375830619826098179)
+- Do you have capability to build a large outcome? Can you hire a team who can also build this outcome? Is market large enough? If not, can you expand the market? - [Karthik Reddy, Blume Ventures](https://nextbigwhat.com/funding-blumes-karthik/)
+- Market, Opportunity value, and Probability of Success - [Will Bricker, Hustle Fund](https://mobile.twitter.com/will_bricker/status/1425475072156962819)
+- You’re solving an important problem, that you’ve got the path to an important solution, that there is a big market opportunity, and that your team is positioned to execute - [Samir Vasavada, Vise CEO](https://techcrunch.com/2021/05/26/vise-ceo-samir-vasavada-and-sequoias-shaun-maguire-break-down-the-art-of-the-pitch/?tpcc=ECTW2020&guccounter=1)
