@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 46 Frameworks for your professional life"
+title:  "[Frameworks] 60 Frameworks for your professional life"
 
 ---
 
@@ -98,4 +98,33 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 46. [Learn or earn](https://mobile.twitter.com/garrytan/status/1377661970178973696); Both is best. But if it's neither, quit.
 
-**Note:** I will keep expanding this list
+47. [Cut the Cord That Holds You Back](https://debliu.substack.com/p/quitting-cutting-the-cord-that-holds); Letting yourself let go so you can soar.
+
+48. [High-Speed Career Sampling](https://www.nateliason.com/blog/career-sampling); Try out a bunch of different kinds of work till you find one that keeps pulling you along.
+
+49. [PM Your Career Like You PM Your Product](https://debliu.substack.com/p/pm-your-career-like-you-pm-your-product); Do for your career what you already do for your product.
+
+50. [Build a Personal Monopoly](https://perell.com/note/build-a-personal-monopoly/); You want to be the only person who does what you do.
+
+51. [Vet your next company like a VC](https://mobile.twitter.com/mikekarnj/status/1353748657594576901); Advice for when people ask about joining a startup.
+
+52. [5 things to look if you want to have a great career](https://mobile.twitter.com/BeingPractical/status/1410302029742764043); Sector is hot, Startup is defining that sector, Founders & leadership is A+, Your manager & team members are awesome, You are doing things that matter.
+
+53. [8 ideas around job search](https://mobile.twitter.com/shreyas/status/1410989291895869445); Should you leave your well-paid FAMG job? Should you join Stripe, Facebook or Airbnb? how to evaluate this offer?
+
+54. [Complacency is cancer](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable); How to waste your career, one comfortable year at a time.
+
+55. [Be a star or a janitor](https://99d.substack.com/p/be-a-star-or-a-janitor); How to prioritize at work early in your career.
+
+56. [Ask yourself why you are not working at the company you are most excited about](https://mobile.twitter.com/gokulr/status/1402242517949501445); Life is too short to not work on the thing / at the company that compels you the most.
+
+57. [Take the Shot](https://debliu.substack.com/p/take-the-shot-opening-doors-by-learning); Open doors by asking.
+
+58. [Your network is your net worth](https://mobile.twitter.com/chrishlad/status/1382348905950679044); Build a world-class network.
+
+59. [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1); It’s overrated—both financially and emotionally.
+
+60. [Get a CS degree and work at 3 breakout series B/C startups for 3 years each as an engineer/PM](https://mobile.twitter.com/BrennerSpear/status/1333457906696646660); How to retire by 31 while working fun jobs.
+
+
+**Note:** I will keep expanding this list.
