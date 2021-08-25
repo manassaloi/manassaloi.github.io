@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 60 Frameworks for your professional life"
+title:  "[Frameworks] 63 Frameworks for your professional life"
 
 ---
 
@@ -125,6 +125,12 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 59. [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1); It’s overrated—both financially and emotionally.
 
 60. [Get a CS degree and work at 3 breakout series B/C startups for 3 years each as an engineer/PM](https://mobile.twitter.com/BrennerSpear/status/1333457906696646660); How to retire by 31 while working fun jobs.
+
+61. [Hitching your wagon to an influential fast rising star](https://mobile.twitter.com/gokulr/status/1391938691682095106); A lightly discussed but important thing to diligence is how influential your potential manager is and how well they are regarded within the company.
+
+62. [Provide clarity, Generate energy, and Drive success](https://mobile.twitter.com/danielgross/status/1334582085613461505); Satya Nadella's Leadership Trinity.
+
+63. [Caliber of team, Company priority, Manager compatibility, Your likely singular impact, and Alignment with career goals](https://twitter.com/shreyas/status/1379634120834215938); When evaluating internal roles consider these 5 factors.
 
 
 **Note:** I will keep expanding this list.
