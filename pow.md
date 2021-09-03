@@ -4,9 +4,7 @@ title: POW
 permalink: /proofofwwork/
 ---
 
-Proof of work:
-
-###Gojek
+###Gojek###
 
 **July 2020 - Now**
 
@@ -40,3 +38,13 @@ First PM for Safety, Payments and On Trip Experience in Transport. Joined as an 
 - Shipped the following features within 2 months of joining Gojek's Transport team: Share Trip, SOS, Safety handbook. [press](https://en.tempo.co/read/1282777/un-women-praises-gojeks-efforts-to-assure-womens-safety)
 - Created the Call Masking feature that was later adopted by all product groups inside Gojek. [press](https://www.thejakartapost.com/news/2019/04/23/grab-go-jek-add-features-to-protect-female-drivers-passengers.html)
 - Shipped outstanding balance feature which helped us reduce fraud and earn back lost revenue.
+
+###Directi###
+
+**Dec 2016 - Nov 2018**
+
+Flock is a leading enterprise collaboration platform owned by Directi. I was the PM looking at long term retention for our users. [press](https://www.financialexpress.com/industry/flock-messaging-apps-makes-communication-seamless-brings-team-together/633182/)
+- Product owner of the Flock App Store, which has 50+ apps and third party integrations.
+- Led experience of 6 core apps built on Flock’s platform: Mailcast, Notes, Polls, Reactions, Reminders, Favourite.
+- Built 5 third party integrations for Flock App Store: Github, Gitlab, Facebook Pages, Freshdesk, Opsgenie.
+- Created Flock Support, a lightweight Helpdesk inside Flock Messenger, which on-boards users and lets them chat with Customer Support.
