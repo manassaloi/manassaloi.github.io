@@ -3,6 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwwork/
 ---
+(Proof of Work)
 
 ### Gojek ###
 
