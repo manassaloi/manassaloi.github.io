@@ -1,7 +1,7 @@
 ---
 layout: page
 title: POW
-permalink: /proofofwwork/
+permalink: /proofofwork/
 ---
 (Proof of Work)
 
