@@ -8,23 +8,23 @@ The concept of timing is not discussed enough.
 
 If I had joined by company two years prior, even for the same role I did in 2018, and had no further growth. I would have got enough stocks to never have to think about money again.
 
-A friend of mine was headhunted to head engineering at an early startup. He did not join. In the last one year it has grown so much that if he joined now he would not get the same role and stocks he would have got then. Has my friend’s skills become 10x better or worse than one year back? Not but the potential outcome for him at this startup has. At a time when startups are becoming a unicorn inside 2 years, timing matters even more.  
+A friend of mine was headhunted to head engineering at an early startup. He did not join. In the last one year it has grown so much that if he joined now he would not get the same role and stocks he would have got then. Has my friend’s skills become 10x better or worse than one year back? Not but the potential outcome for him at this startup has. At a time when startups are becoming a unicorn inside 2 years, timing matters even more.
 
 He kept overthinking it, did not take the plunge, and now he thinks it is too late. Maybe it is not late even now. Maybe the startup grows 10X from here. Who knows. Or maybe the startup would not eventually turn out to be a success story in the long run and staying back at his current role was the right choice. Who knows?
 
-  Note: I’m not saying that people who take risks earlier should not get rewarded more. What I'm saying is that timing does matter a lot. What people call luck I am calling it timing. There are 2 components to career growth: your own skills and the machinery/ environment. You can be the most gyaani product leader in the startup ecosystem but if there is a pandemic going on, you might be far more successful at a place that does not involve taking people from A to B. See I am self aware to joke at myself.
+Note: I’m not saying that people who take risks earlier should not get rewarded more. What I'm saying is that timing does matter a lot. What people call luck I am calling it timing. There are 2 components to career growth: your own skills and the machinery/ environment. You can be the most gyaani product leader in the startup ecosystem but if there is a pandemic going on, you might be far more successful at a place that does not involve taking people from A to B. See I am self aware to joke at myself.
 
-  Let’s take my 7 years in Product Management. I have worked at
+Let’s take my 7 years in Product Management. I have worked at
 
- - pre PMF - Kore ai 
+- pre PMF - Kore ai 
 - pre PMF - built a new business called Cashboss at CouponDunia 
 - Series C - Craftsvilla
 - Bootstrapped startup backed by a billionaire founder - Flock, Directi
- - Late stage startup (been part of its growth from a unicorn to now Pre IPO) - Gojek  
+- Late stage startup (been part of its growth from a unicorn to now Pre IPO) - GoJek
 
-If I'm being honest, I have probably worked 3x harder in my previous startups. I am probably more or less the same IQ. Have not become a lot smarter or stupider. Then why is Gojek the biggest success I have had in my career?  
+If I'm being honest, I have probably worked 3x harder in my previous startups. I am probably more or less the same IQ. Have not become a lot smarter or stupider. Then why is Gojek the biggest success I have had in my career?
 
-It has probably got to do a lot with Gojek being what it is in Indonesia than me doing something magically different this time vs other startups I have been part of. 
+It has probably got to do a lot with Gojek being what it is in Indonesia than me doing something magically different this time vs other startups I have been part of.
 
 My manager replied to my thoughts on timing and replied "Identifying the next GoJek is hard ...Very few companies scale to $10bn and above and not leave you scarred." And I agree. I am happy for the people who made their millions here. They got their payoff for being part of a rocketship. I did not join early and hence my outcome has been comparatively lesser.
 
