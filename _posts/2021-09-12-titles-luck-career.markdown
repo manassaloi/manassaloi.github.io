@@ -53,7 +53,7 @@ Yes, you have reached a level where these things might not matter. But what abou
 
 When I wrote this as a tread on Twitter I was just dumping random thoughts that I had in my head. Over the last few months, I have started sharing fewer things on social media. In a world where people are virtue signalling 24*7 and celebrating success, talking about actual problems and complaining about middle management is a negative signal. Heck, even calling yourself a middle manager is a negative signal. People form judgments quickly. And they are quicker to give career advice. I have lost count of people who give me unsolicited advice on career because they feel I am unhappy with my job or something.
 
-Also, I joined as an IC in the Transport org of Gojek, became a Product Lead and now manage half of the product team. So I'm definitely not complaining my own growth. Also, my manager has supported me in my growth.
+Also, I joined as an IC in the Transport org of Gojek, became a Product Lead and now manage half of the product team. So I'm definitely not complaining my own growth. Also, my manager has supported me in my growth. This is what he sent me on Whatsapp when we were discussing titles.
 
 ![manas title](/assets/img/manas_title.png)
 
