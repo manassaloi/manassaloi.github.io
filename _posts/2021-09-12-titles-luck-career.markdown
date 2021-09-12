@@ -12,12 +12,12 @@ A friend of mine was headhunted to head engineering at an early startup. He did 
 
 He kept overthinking it, did not take the plunge, and now he thinks it is too late. Maybe it is not late even now. Maybe the startup grows 10X from here. Who knows. Or maybe the startup would not eventually turn out to be a success story in the long run and staying back at his current role was the right choice. Who knows?
 
-Note: I’m not saying that people who take risks earlier should not get rewarded more. What I'm saying is that timing does matter a lot. What people call luck I am calling it timing. There are 2 components to career growth: your own skills and the machinery/ environment. You can be the most gyaani product leader in the startup ecosystem but if there is a pandemic going on, you might be far more successful at a place that does not involve taking people from A to B. See I am self aware to joke at myself.
+Note: I’m not saying that people who take risks earlier should not get rewarded more. What I'm saying is that timing does matter a lot. What people call luck I am calling it timing. There are 2 components to career growth: your own skills and the machinery/ environment. You can be the most gyaani product leader in the startup ecosystem but if there is a pandemic going on, you might be far more successful at a place that does not involve taking people from A to B. See I am self aware to joke at my expense.
 
 Let’s take my 7 years in Product Management. I have worked at
 
-- pre PMF - Kore ai 
-- pre PMF - built a new business called Cashboss at CouponDunia 
+- pre PMF - Kore ai
+- pre PMF - built a new business called Cashboss at CouponDunia
 - Series C - Craftsvilla
 - Bootstrapped startup backed by a billionaire founder - Flock, Directi
 - Late stage startup (been part of its growth from a unicorn to now Pre IPO) - GoJek
