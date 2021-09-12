@@ -18,6 +18,7 @@ Things I have done to take Twitter less seriously
 - Care less about follower than posting what I am actually thinking about.
 - Deleted 'follow me on twitter' footer from all my blogposts a few months back. I even removed the link to my Twitter account from my homepage. I actually did control F on Atom to make sure there is no single link to my Twitter account.
 
+All of these are silly little games I have played to get rid of Twitter. I wish I could just delete my fucking account and move on with my life. I even tried doing that. It takes 30 days to delete permanently. 20 days into the deactivation process, a friend made some solid arguments on why having a Twitter account still has upside. Maybe deep down I wanted to remain. So I reactivated. 6 months later, I am still arguing with people there.
 
 Why I still use twitter
 - Ego. I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
@@ -26,5 +27,3 @@ Why I still use twitter
 - Career growth. I spent yesterday complaining about titles and calling most leaders winner of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I still maintain Twitter is comes far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
 - I can complain about companies if I am unhappy and sadly it is the only platform where customer service folks listen to escalations. Also, don't have Facebook. So where else will I complain if my Amazon order is very late?
 - I have made a few really good friends from Twitter. No matter how much I shit on networking, I would have fewer people in my life without Twitter.
-
-I wish I could just delete my fucking account and move on with my life. I even tried doing that. It takes 30 days to delete permanently. 20 days into the deactivation process, a friend made some solid arguments on why having a Twitter account still has upside. Maybe deep down I wanted to remain. So I reactivated. 6 months later, I am still arguing with people there.
