@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We don't work in the government"
+title:  "We don't have government jobs"
 ---
 
 I had an awkward relationship with someone at work. There were trust issues. things were not moving. There were blame games. One day I just told the person "You know we don't work in a government job right? We don't have to work together if we don't enjoy it. Who knows we might not even be in the same company next year. I know I can be blunt sometimes, but you will never have to second guess me. And till we are together I will have your back."
