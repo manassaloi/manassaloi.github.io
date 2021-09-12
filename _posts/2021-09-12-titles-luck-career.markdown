@@ -63,7 +63,7 @@ To leaders in the startup ecosytem: I would just request you to keep an open min
 
 After I tweeted this out as a thread yesterday, a lot of people DMed me privately and also supported the same viewpoint: Titles do matter.
 
-Check out [Madhur's thread](https://twitter.com/madhurchadha/status/1436595767918034947?s=20), [Vikrama's tweet](https://twitter.com/vikramadhiman/status/1436600854841204739?s=20), [Ivy's thread](https://twitter.com/JellyIvy/status/1436622967195246601)
+Check out [Madhur's thread](https://twitter.com/madhurchadha/status/1436595767918034947?s=20), [Vikrama's tweet](https://twitter.com/vikramadhiman/status/1436600854841204739?s=20), and [Ivy's thread.](https://twitter.com/JellyIvy/status/1436622967195246601)
 
 Here is private DM from another senior person in the ecosystem who was a senior leader in a decacorn.
 
@@ -71,7 +71,7 @@ Here is private DM from another senior person in the ecosystem who was a senior 
 
 The strongest counterargument to this was given by another senior leader who shared data points on various companies and argued that giving title did not also lead to better retention or company growth. He gave example of a company where there were 80 VPs at one point of time. And it only led to chaos.
 
-The laziest argument on this is given by people who reply with "but what about stripe". I always reply (copied this from vikrama): Sir, your startup is not stripe and copying stripe's flat heirarchy won't make it either. Correlation causation and all that.
+The laziest argument on this is given by people who reply with "but what about stripe". I always reply (copied this from Vikrama): "Sir, your startup is not stripe and copying stripe's flat heirarchy won't make it either. Correlation causation and all that.:
 
 Another argument is: Wow. You care about titles then. Does work not matter?
 
