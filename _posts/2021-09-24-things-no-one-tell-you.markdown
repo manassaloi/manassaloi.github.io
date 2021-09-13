@@ -50,8 +50,9 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - There is a company where people thought that they had the best culture. Leaders used to go to every conference possible and shout about how great their culture is.
 - They took pride in not having titles (at least officially). They even hid what levels everyone in the org was at. They thought they actually grew because of these practices instead of inspite of it.
-- Then over 6 months they bled people after people till leadership actually accepted they had an attrition problem. Then they started paying one time bonuses out of cycle to retain people.
-- What they attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
+- Then they bled so many people that leadership actually accepted they had an attrition problem.
+- From trying to convince employees that they were being paid a salary that was best in the industry, they started paying one time bonuses out of cycle to retain people.
+- What if their stellar employee satisfaction and retention in the past that they had attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
 - Look at the hiring woes in the Indian startup ecosystem. If culture actually matter won't select companies with better culture (however you measure it) have an easier time hiring as well as retaining employees? Makes you think doesn't it?
 
 (Edited this post a bit based on feedback from a friend.)
