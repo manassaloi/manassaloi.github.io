@@ -15,7 +15,6 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - In the absence of transparency there is 10X more hidden politics.
 - The only people who don't care about titles are already at the top of their function. Why would they care if their title is Head of X or a VP?
 - The same people who say titles don't matter go to conferences and announce their titles.
-- The same people who rest and vest in organisations talk the most about the importance of work over titles, because they have not actually shipped a high impact project for years.
 
 **Most Product Managers are glorified Project Managers.**
 
@@ -54,3 +53,5 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - Then over 6 months they bled people after people till leadership actually accepted they had an attrition problem. Then they started paying one time bonuses out of cycle to retain people.
 - What they attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
 - Look at the hiring woes in the Indian startup ecosystem. If culture actually matter won't select companies with better culture (however you measure it) have an easier time hiring as well as retaining employees? Makes you think doesn't it?
+
+(Edited this post a bit based on feedback from a friend.)
