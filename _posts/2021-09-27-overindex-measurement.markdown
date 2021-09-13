@@ -29,7 +29,7 @@ Oh, lead time has gone up over time? Let us just not change the status of the pr
 
 What gets measured gets managed - we all know this.
 
-Reminds me of the time when hosting events and interviewing candidates would used to be measured in the same company and people would get points in their performance reviews for doing these activities. When I joined the company there used to be one event after another. We got the best speakers. Everyone got treated with free pizza.
+Reminds me of the time when hosting events and interviewing candidates used to be measured in the same company and people would get points in their performance reviews for doing these activities. When I joined the company there used to be one event after another. We got the best speakers. Everyone got treated with free pizza.
 
 Then one day the leadership decided that we would be no more considering these two dimensions when it came to performance management. Since performance management scores directly impacted compensation and levelling, everyone soon stopped optimising for these activities. In the next few months the number of events went down drastically. Also TAs would have to fight now to get people on the interview panel.
 
