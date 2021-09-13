@@ -48,6 +48,8 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 18. [Praise India publicly](https://twitter.com/kunalb11/status/1423485436572233728?s=20).
 
+19. [Feed on people's confirmation bias.](https://manassaloi.com/2021/09/20/confirmation-bias.html)
+
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
