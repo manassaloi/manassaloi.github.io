@@ -38,7 +38,7 @@ The fact that they can choose what they do with their time is a privilege. They 
 
 I told a mentor of mine who is a senior leader in Gojek that he has earned the privilege of doing what he wants with his time here today by joining early. He is out of the rat race. He is X. X = Name. No title required. That is his identity. While for me it is Manas, Manager, Transport. This Manager title means more people accept my invite now while when I was new to Gojek a lot of leaders did not even bother to decline my meetings with a note. Just declined. Because they could. These same people now bullshit on Twitter and virtue signal on these topics. Because they can. No one will call them out.
 
-If someone in my position is stuck at the same level and comp for years, they will be judged for their lack of growth. Listen to this podcast with Marc Lore on describing how he hires people.
+If someone in my position is stuck at the same level and comp for years, they will be judged for their lack of growth. Listen to [this podcast with Marc Lore on describing how he hires people](https://youtu.be/3NfcPxFct-s?t=867).
 
 I call bullshit to people who say titles don't matter.
 

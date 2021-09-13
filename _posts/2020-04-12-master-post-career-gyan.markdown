@@ -53,6 +53,9 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [First impressions matter](https://manassaloi.com/2021/05/23/first-impressions-matter.html)
 - [Proof of work](https://manassaloi.com/2021/07/05/proof-work.html)
 - [MBA or not](https://manassaloi.com/2021/01/09/MBA-not.html)
+- [IC vs Manager](https://manassaloi.com/2021/09/11/ic-manager.html)
+- [Titles and career lottery](https://manassaloi.com/2021/09/12/titles-luck-career.html)
+- [Why I like PM'ing](https://manassaloi.com/2021/09/16/pm-joy.html)
 
 ### Favourite books on Career
 
