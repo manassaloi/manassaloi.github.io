@@ -3,7 +3,7 @@ layout: post
 title:  "Work-life balance at an early startup"
 ---
 
-I believe that if you work for a startup you have decided to prioritise growth (in terms of scope of work, responsibilities, how quickly you can climb the ladder, and potential rewards if it becomes the next FANG) over work life balance.
+I believe that if you work for an early startup you have decided to prioritise growth (in terms of scope of work, responsibilities, how quickly you can climb the ladder, and potential rewards if it becomes the next FANG) over work life balance.
 
 In recent times we have started expecting mega salaries, EM/GPM titles with 3 years experience, the comfort of a 10-5 job, the luxury of doing bare minimum, without the fear of getting laid off.
 
