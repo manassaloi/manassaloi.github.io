@@ -31,6 +31,6 @@ Now let me try to be honest with why I share things on social media. Heck, why d
 
 7. Writing is the key to understanding: Everytime I write about something I feel like I understand it more. Be it about spec writing, be it about design, be it about strategy, writing brings clarity.
 
-8. Legacy: It is my legacy.
+8. Legacy: This blog is my legacy. Something that exists because I exist. You can again call it my ego.
 
 (This was shared as a thread long time back. I am going through my drafts folder now and turning a lot of my half written threads into blogposts.)
