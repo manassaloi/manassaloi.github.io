@@ -26,7 +26,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - I see so much gyaan on Twitter by people that does not match the reality of what they actually do in their organisation. How do I know this? By now I have enough friends in the ecosystem that I can ask them and get the real view on people.
 - Why do I do this? I have lost count of people who have joined organisations based on Twitter gyaan by their managers and once inside they realised what they preach comes nothing close to what they practice. You can see a related whatsapp screen shot in [this post](https://manassaloi.com/2021/09/13/twitter-virtue-signalling.html).
-- Please do a reference check before joining someone's team. Don't just go by Twitter or Linkedin gyaan. Will leave you months if not years of pain.
+- Please do a reference check before joining someone's team. Don't just go by Twitter or Linkedin gyaan. Will save you months of pain if not years.
 - Another question to ask before you take someone's gyaan on Twitter seriously: What impactful project has they shipped in the last 6 months? If you can't ask them this directly, ask someone in their company.
 
 **People hate being called out even if they are not called out.**
