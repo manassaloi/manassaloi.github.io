@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Worklife balance at an early startup"
+title:  "Work-life balance at an early startup"
 ---
 
 I believe that if you work for a startup you have decided to prioritise growth (in terms of scope of work, responsibilities, how quickly you can climb the ladder, and potential rewards if it becomes the next FANG) over work life balance.
