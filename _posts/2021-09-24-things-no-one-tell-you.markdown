@@ -43,7 +43,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 **The world is not as meritocratic as people on Twitter would want you to believe.**
 
-- Do you know that interviews can be fast tracked if you know the manager in a company? Not all, but many.
+- Do you know that interviews can be fast tracked if you know the manager in a company? Not in all, but many.
 - Do you know that people have hidden list of companies, engineering schools they want to hire from?
 
 **Correlation is not causation when it comes to culture.**
@@ -54,5 +54,3 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - From trying to convince employees that they were being paid a salary that was best in the industry, they started paying one time bonuses out of cycle to retain people.
 - What if their stellar employee satisfaction and retention in the past that they had attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
 - Look at the hiring woes in the Indian startup ecosystem. If culture actually matter won't select companies with better culture (however you measure it) have an easier time hiring as well as retaining employees? Makes you think doesn't it?
-
-(Edited this post a bit based on feedback from a friend.)
