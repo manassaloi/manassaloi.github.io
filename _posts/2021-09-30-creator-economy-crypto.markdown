@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crypto and creator economy"
+title:  "Crypto and the creator economy"
 ---
 
 There are too many things happening in crypto right now. My thoughts on a few trends.
