@@ -26,4 +26,8 @@ The simplest explanation is that in the early days of company building value cre
 
 This might have been true. But companies like Amazon have continued to experiment at scale and create value by launching new products and businesses. Even Google's stock value has doubled over the year. I think so has Facebook's. So my hypothesis in the above paragraph does not hold true. I am sharing this because when I tweeted on evolution of companies a few days back, people started sharing the same hypothesis: "Oh it is all about value protection at scale".
 
-I don't know the reason for why all companies look and act the same at scale. I am just asking the question. I don't know the answer. Ever since I read the [Halo Effect](https://www.goodreads.com/book/show/136181.The_Halo_Effect), I have realised no one knows anything. Don't trust me? Check out the status of companies that were mentioned in [Built to Last](https://www.goodreads.com/book/show/4122.Built_to_Last).
+So if the only way companies can create value is my having flat structures and titles lead to corruption, then why are these trillion dollar companies still growing at 50%? I know this topic is very nuanced and there are hundreds of factors involved. A company does not grow because of flat structure or lack of it.
+
+And hence arguments like 'Oh Stripe does not have titles and hence they are growing fast' is also wrong.
+
+I know there is no conclusion for this post. A key takeaway for you. I honestly don't know the reason for why all companies look and act the same at scale. Ever since I read the [Halo Effect](https://www.goodreads.com/book/show/136181.The_Halo_Effect), I have realised no one knows anything. Don't trust me? Check out the status of companies that were mentioned in [Built to Last](https://www.goodreads.com/book/show/4122.Built_to_Last).
