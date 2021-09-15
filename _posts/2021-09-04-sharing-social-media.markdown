@@ -9,7 +9,7 @@ A friend/mentor told me recently that he had to unfollow me because I keep tweet
 
 This brought me memories from an interview I did with a newspaper a few months back. The Interviewer asked me if always optimising productivity, talking about books, writing lead to people thinking I somehow feel superior to others. And if people feel like I am subconsciously judging them for not being as productive as me.
 
-I think she was just trying to frame the question in a better way than "Manas, you productivity obsessed ass. You are so smug about the books you read, your productivity OKRs. How can people stand you? You annoying twat"
+I think she was just trying to frame the question in a better way than "Manas, you productivity obsessed ass. You are so smug about the books you read, your productivity OKRs. How can people stand you? You annoying twat."
 
 I have to admit that for most part of my life I have rarely cared about what the rest of the world is thinking about what I do. Your have to build a thick skin when you are writing online. I am not saying I am a zen master. I do get pissed when people hate on me. I remember the hate some of my satire writings used to get in college. But think about it: If I start reacting to opinions of other people, then I would just shut down my Twitter account and this blog.
 

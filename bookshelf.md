@@ -46,6 +46,9 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [How to Turn Down a Billion Dollars: The Snapchat Story - Billy Gallagher](https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars)
 + [How to Get Rich - Felix Dennis](https://www.goodreads.com/book/show/1837402.How_to_Get_Rich)
 + [The New New Thing: A Silicon Valley Story - Michael Lewis](https://www.goodreads.com/book/show/17986421-the-new-new-thing)
++ [Attention Factory - Matthew Brennan](https://www.goodreads.com/book/show/55666294-attention-factory)
++ [Amazon Unbound - Brad Stone](https://www.goodreads.com/book/show/56695159-amazon-unbound)
++ [We Are The Nerds - Christine Lagorio-Chafkin](https://www.goodreads.com/book/show/31685600-we-are-the-nerds)
 
 
 ### Company Building Playbook
@@ -140,6 +143,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Art of Making Memories: How to Create and Remember Happy Moments - Meik Wiking](https://www.goodreads.com/book/show/43245559-the-art-of-making-memories)
 + [Die with Zero: Getting All You Can from Your Money and Your Life - Bill Perkins](https://www.goodreads.com/book/show/52950915-die-with-zero)
 + [The 4-Hour Workweek - Timothy Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
++ [A Million Miles in a Thousand Years - Donald Miller](https://www.goodreads.com/book/show/1999475.A_Million_Miles_in_a_Thousand_Years)
 
 
 ### Health, Habits & Productivity
@@ -156,6 +160,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey](https://www.goodreads.com/book/show/25733994-the-productivity-project)
 + [Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
 + [The 4-Hour Body - Timothy Ferriss](https://www.goodreads.com/book/show/7148931-the-4-hour-body)
++ [Storyworthy - Matthew Dicks](https://www.goodreads.com/book/show/37786022-storyworthy)
 
 ### Investing & Personal Finance
 
@@ -195,6 +200,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Bird by Bird: Some Instructions on Writing and Life - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
 + [The Elements of Style - William Strunk Jr](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
++ [The Minto Pyramid Principle - Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
 
 ### UX and Customer development
 
@@ -284,6 +290,12 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
 + [Games Indians Play: Why We Are the Way We Are - V. Raghunathan](https://www.goodreads.com/book/show/955110.Games_Indians_Play)
 
+### Crypto
+
++ [The Infinite Machine - Camila Russo](https://www.goodreads.com/book/show/50175330-the-infinite-machine)
++ [Digital Gold - Nathaniel Popper](https://www.goodreads.com/book/show/23546676-digital-gold)
++ [Kings of Crypto - Jeff John Roberts](https://www.goodreads.com/book/show/56274031-kings-of-crypto)
+
 ### Epic Tales
 
 + [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road - Nick Bilton](https://www.goodreads.com/book/show/31920777-american-kingpin)
@@ -296,6 +308,9 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Big Short: Inside the Doomsday Machine - Michael Lewis](https://www.goodreads.com/book/show/8032112-the-big-short)
 + [MBS: The Rise to Power of Mohammed bin Salman - Ben Hubbard](https://www.goodreads.com/book/show/52505707-mbs)
 + [Barbarians at the Gate: The Fall of RJR Nabisco - Bryan Burrough, John Helyar](https://www.goodreads.com/book/show/781182.Barbarians_at_the_Gate)
++ [The Key Man - Simon Clark, Will Louch](https://www.goodreads.com/book/show/55577662-the-key-man)
++ [The Cult of We - Eliot Brown, Maureen Farrell](https://www.goodreads.com/book/show/54998264-the-cult-of-we)
++ [Blood and Oil - Bradley Hope, Justin Scheck](https://www.goodreads.com/book/show/52038578-blood-and-oil)
 
 ### Fiction
 
@@ -324,3 +339,5 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Stoner - John Williams](https://www.goodreads.com/book/show/166997.Stoner)
 + [The House in the Cerulean Sea - T.J. Klune](https://www.goodreads.com/book/show/45047384-the-house-in-the-cerulean-sea)
 + [Circe - Madeline Miller](https://www.goodreads.com/book/show/35959740-circe)
++ [City of Thieves - David Benioff](https://www.goodreads.com/book/show/1971304.City_of_Thieves)
++ [Passage West - Rishi Reddi](https://www.goodreads.com/book/show/49948446-passage-west)
