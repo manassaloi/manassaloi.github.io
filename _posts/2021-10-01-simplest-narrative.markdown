@@ -13,7 +13,7 @@ Also think about it: If you want to hold a token as a store of value you would w
 
 Note that I am talking about storage of value and not growth of value. No one expects their gold price to swing much. People are holding gold for value protection and not for crazy returns. I expect people holding Bitcoin to do the same.
 
-Now compare it with other projects in the world of crypto. Etherium is skyrocketing in popularity because the use cases on Etherium have gone up in recent times. Everyone is talking about the possibilities with Etherium: NFT, Defi, Metaverse. As long as people care about even one of these use cases and that use case grows, the value of Eth will keep growing up. Take all the new NFT holders for example.
+Now compare it with other projects in the world of crypto. Etherium is skyrocketing in popularity because the use cases on Etherium have gone up in recent times. Everyone is talking about the possibilities with Etherium: NFT, Defi, Metaverse. As long as people care about one of these use cases and that use cases grows, the value of Etherium (both the chain and the token) will grow. 
 
 But say what if 5 years down the line the narrative changes from Etherium is secure and decentralised and hence it is not great to it is not scalable. What if people start thinking that decentralisation does not matter as much as scalability. Then you can argue that Solana with having 1000 validators but far higher scalability (50,000 transactions per second) and cheaper transaction fees is better than Etherium.
 
