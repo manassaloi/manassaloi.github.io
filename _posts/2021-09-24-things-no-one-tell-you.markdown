@@ -15,8 +15,6 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - In the absence of transparency there is 10X more hidden politics.
 - The only people who don't care about titles are already at the top of their function. Why would they care if their title is Head of X or a VP?
 - The same people who say titles don't matter go to conferences and announce their titles.
-- In one company I worked at I was offered a revenue sharing plan for a couple of months (along with the Business head). I was leading an important new business line and the CEO wanted to see if this additional incentive will move us to deliver more.
-
 
 **Most Product Managers are glorified Project Managers.**
 
@@ -35,13 +33,12 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - I wrote that most leaders don't follow what they preach on Twitter a few days back. People started instantly debating with me on this simple statement. Why? I never call out people using actual names. I don't even hint. You would get pissed with these tweets only if you self identify as one of these gyaanis.
 - Then another friend gave me an insight that makes a lot of sense - If you call people by names, you don't leave anything to ambiguity. People don't feel you are talking about them. You also signal to both of their lovers and haters. People who love them will argue. People who hate will like, retweet. But when you write generic statements, then it causes anxiety. People start wondering what if he is writing about me? This stresses out people more. Now instead of the case where the person being called out by name hating you, you are hated by the entire ecosystem. Because lets face it there are actually a lot of grifters and full time gyaanis on Twitter.
-- So going forward I will just keep my mouth shut on Twitter and write here instead.
 
 **People are not actually kind. The same discussions are happening in private groups.**
 
 - As you grow in your career you start realising a lot of things that you never knew. One of it is the existence of these private whatsapp and telegram groups where people shit on other people. I have always been the kind of person who would rather pick up a fight in public with someone than shit on them in private. But that is a career limiting strategy. So what happens instead is that people shit on others in private, but act as best friends on Twitter. I have lost count of how many times I have had 1-1 DM with 2 people on Whatsapp where they were actually shitting on each other. But bring the same 2 people in a group and they would not say a word.
 - If people were actually kind, I would have been the odd one out. But they are not. What is the truth: most people lack the courage to voice their opinions for fear of public disagreement. Hence they survive in hidden Whatsapp groups where they can shit on others in peace.
-- Also just because you poor people don't know the bad leaders/managers in the ecosystem, does not mean others don't too. Sadly these info will lie in these private groups and no one will dare call these people out in public.
+- Just because you don't know the bad leaders/managers in the ecosystem does not mean others don't too. Sadly info about these people will lie in private groups and no one will dare call these people out in public.
 
 **The world is not as meritocratic as people on Twitter would want you to believe.**
 
