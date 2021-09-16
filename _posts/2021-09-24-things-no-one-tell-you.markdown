@@ -11,7 +11,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - Another company calls everyone a PM on paper, but they issue special grants to people above X level. Why?
 - Everyone is same, but there are secret private slack channels where you get entry based on either internal levels or proximity to leadership. Why?
 - If you get marked as a critical hire, you get more % hike than the standard % hikes announced to the rest of the company. Why?
-- When there are flat organisations, instead of a transparent ladder that everyone can see and climb, people create hidden ladders and groups. In another flat organisation I worked at where people cringed at the thought of awarding public titles, there are actual meetings where HR sits with you and goes through your reports - making them as critical hires, people you can let go of, people who can be fast tracked to promo, possible replacement for critical hires. Why?
+- When there are flat organisations, instead of a transparent ladder that everyone can see and climb, people create hidden ladders and groups. In another flat organisation I worked at where people cringed at the thought of awarding public titles, there are actual meetings where HR sits with you and goes through your reports - making them as critical hires, poor performers you should put on performance improvement plan, people who can be fast tracked to promo, possible replacement for critical hires. Why?
 - In the absence of transparency there is 10X more hidden politics.
 - The only people who don't care about titles are already at the top of their function. Why would they care if their title is Head of X or a VP?
 - The same people who say titles don't matter go to conferences and announce their titles.
