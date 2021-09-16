@@ -15,6 +15,8 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - In the absence of transparency there is 10X more hidden politics.
 - The only people who don't care about titles are already at the top of their function. Why would they care if their title is Head of X or a VP?
 - The same people who say titles don't matter go to conferences and announce their titles.
+- In one company I worked at I was offered a revenue sharing plan for a couple of months (along with the Business head). I was leading an important new business line and the CEO wanted to see if this additional incentive will move us to deliver more.
+
 
 **Most Product Managers are glorified Project Managers.**
 
@@ -33,7 +35,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - I wrote that most leaders don't follow what they preach on Twitter a few days back. People started instantly debating with me on this simple statement. Why? I never call out people using actual names. I don't even hint. You would get pissed with these tweets only if you self identify as one of these gyaanis.
 - Then another friend gave me an insight that makes a lot of sense - If you call people by names, you don't leave anything to ambiguity. People don't feel you are talking about them. You also signal to both of their lovers and haters. People who love them will argue. People who hate will like, retweet. But when you write generic statements, then it causes anxiety. People start wondering what if he is writing about me? This stresses out people more. Now instead of the case where the person being called out by name hating you, you are hated by the entire ecosystem. Because lets face it there are actually a lot of grifters and full time gyaanis on Twitter.
-- So going forward I will just try keep my mouth shut on Twitter and write here instead.
+- So going forward I will just keep my mouth shut on Twitter and write here instead.
 
 **People are not actually kind. The same discussions are happening in private groups.**
 
@@ -54,3 +56,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - From trying to convince employees that they were being paid a salary that was best in the industry, they started paying one time bonuses out of cycle to retain people.
 - What if their stellar employee satisfaction and retention in the past that they had attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
 - Look at the hiring woes in the Indian startup ecosystem. If culture actually matter won't select companies with better culture (however you measure it) have an easier time hiring as well as retaining employees? Makes you think doesn't it?
+- Another company I have worked at used to be the 'it company' when it came to campus recruiting. They are considered to be one of the Indian companies with great culture. Based on the data I have, even they have not been able to hire or retain people any better than the market.
+- If you check Blind, all people discuss is salary and titles. Culture comes far lower. I am not saying culture does not matter. It probably does. The question is how much.
+
+I am not naming any companies here because every company I have worked at has claimed to be flat on paper and more or less have done the same things. If you talk to your friends who have enough experience in the startup world, they will also validate most of these points. It is not politically correct to speak about these things, so no one does. My problem is not with any single company but this whole culture of bullshit that has permeated in the ecosystem: people saying one thing in public but doing something else in private. 
