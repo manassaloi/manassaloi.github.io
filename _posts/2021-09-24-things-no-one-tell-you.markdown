@@ -3,7 +3,7 @@ layout: post
 title:  "Things no one will tell you on Twitter"
 ---
 
-Happy to announce that I have decided to become 10X more blunt in my blogposts going forward. Here is a list of things I wish people talked on Twitter instead of virtue signalling all day.
+Happy to announce that I have decided to become 10X more blunt in my blogposts going forward. Here is a list of things I wish people talked on Twitter instead of virtue signalling 24*7.
 
 **Flat organisation is a myth and there are always invisible ladders.**
 
@@ -57,4 +57,4 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - Another company I have worked at used to be the 'it company' when it came to campus recruiting. They are considered to be one of the few Indian companies with great culture. Based on the data I have, even they have not been able to hire or retain people any better than other players in this market.
 - If you are a company claiming to culture or brand moat, you should be able to hire and retain employees much better than the competition, and not just by paying top of market. I think there are only a few companies that can claim to do that. Stripe is one example.
 
-This post is not about any specific company or person. If you talk to your friends who have enough experience in the startup world, they will validate most of these points. It is not politically correct to speak about these things, so no one does.
+This post is not about any specific company or person. If you talk to your friends who have enough experience in the startup world, they will validate most of these points. It is not politically correct to speak about these things. So no one does.
