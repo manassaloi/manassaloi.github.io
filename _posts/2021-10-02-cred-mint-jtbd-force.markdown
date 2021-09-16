@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JTBD forces - Cred Mint"
+title:  "JTBD forces: Cred Mint"
 ---
 
 ![cred mint](/assets/img/credmint.png)

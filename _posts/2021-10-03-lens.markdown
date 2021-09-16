@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Lens: Urban Company"
+---
+
+Lens is a frameowork that can be used to judge the value of any marketplace. It comprises of 4 questions: asked both for the demand and supply side. Here is Lens being used for Urban Company, a top home services provided marketplace in India.
+
+![customer lens](/assets/img/customerlens.png)
+
+![supply lens](/assets/img/supplylens.png)
