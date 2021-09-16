@@ -10,3 +10,4 @@ title:  "Frameworks to think about growth"
 5. [Flywheel](https://theflywheel.substack.com/p/the-flywheel-1-pelotons-food-network)
 6. [Growth loops](https://www.reforge.com/blog/growth-loops)
 7. [Lens](https://manassaloi.com/2021/10/03/lens.html)
+8. [JTBD forces](https://manassaloi.com/2021/10/02/cred-mint-jtbd-force.html)
