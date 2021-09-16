@@ -38,8 +38,8 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 **People are not actually kind. The same discussions are happening in private groups.**
 
 - As you grow in your career you start realising a lot of things that you never knew. One of it is the existence of these private whatsapp and telegram groups where people shit on other people. I have always been the kind of person who would rather pick up a fight in public with someone than shit on them in private. But that is a career limiting strategy. So what happens instead is that people shit on others in private, but act as best friends on Twitter. I have lost count of how many times I have had 1-1 DM with 2 people on Whatsapp where they were actually shitting on each other. But bring the same 2 people in a group and they would not say a word.
-- If people were actually kind, I would have been the odd one out. Ranting and venting on Twitter and Whatsapp. But what is actually true is that most people lack the courage to voice their opinions for fear of public disagreement. Hence they survive in hidden Whatsapp groups where they can shit on others in peace.
-- Also just because you poor people don't know the bad leaders/managers in the ecosystem does not mean others don't too. Sadly these info will lie again in these private groups and no one will dare call these people out in public.
+- If people were actually kind, I would have been the odd one out. But they are not. What is the truth: most people lack the courage to voice their opinions for fear of public disagreement. Hence they survive in hidden Whatsapp groups where they can shit on others in peace.
+- Also just because you poor people don't know the bad leaders/managers in the ecosystem, does not mean others don't too. Sadly these info will lie in these private groups and no one will dare call these people out in public.
 
 **The world is not as meritocratic as people on Twitter would want you to believe.**
 
