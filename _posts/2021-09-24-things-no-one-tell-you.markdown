@@ -20,7 +20,7 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - Whenever I hear a PM in my organisation or someone I mentor crib about doing project management and having to execute what their leaders want, the first question I ask is "when was the last time you actually talked to your customers or spent a day looking at data that helped uncover some key insight?"
 - If you think logically no CEO would want to self sabotage their company by working on things that don't matter. The problem is that they have too much on their plate, and hence can't go deep and focus on breadth instead. If you are the PM it is on you to do the research on behalf of your CEO and helped show why you should be doing X over Y. Most people won't though. Because it is far easier to blame their CEO or HOP.
-- How do I know this? I have also been this situations where I stopped giving a fuck and just became execution machines. BTW I am not saying all CEOs are rationale and everything is your fault as a PM. [But first do your homework before blaming your CEO.](https://manassaloi.com/2021/01/13/planning-feature.html)
+- How do I know this? I have also been in this situation where I stopped giving a fuck and just became an execution machine. BTW I am not saying all CEOs are rationale and everything is your fault as a PM. [But first do your homework before blaming your CEO.](https://manassaloi.com/2021/01/13/planning-feature.html)
 
 **Most people on Twitter are grifters who have not done any real work for years.**
 
@@ -49,12 +49,12 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 
 - There is a company where people thought that they had the best culture. Leaders used to go to every conference possible and shout about how great their culture is.
 - They took pride in not having titles (at least officially). They even hid what levels everyone in the org was at. They thought they actually grew because of these practices instead of inspite of it.
-- Then they bled so many people that leadership actually accepted they had an attrition problem.
+- Then they bled so many people that leadership finally had to accept that they had an attrition problem.
 - From trying to convince employees that they were being paid a salary that was best in the industry, they started paying one time bonuses out of cycle to retain people.
 - What if their stellar employee satisfaction and retention in the past that they had attributed to culture was just them paying top of the market salary and transparency. Once the company scaled and they could not maintain both, people left for greener pastures. This makes me wonder if culture does actually matter?
 - Look at the hiring woes in the Indian startup ecosystem. If culture actually matter won't select companies with better culture (however you measure it) have an easier time hiring as well as retaining employees? Makes you think doesn't it?
 - If you check Blind, all people discuss is salary and titles. Culture comes far lower. I am not saying culture does not matter. It probably does. The question is how much.
 - Another company I have worked at used to be the 'it company' when it came to campus recruiting. They are considered to be one of the few Indian companies with great culture. Based on the data I have, even they have not been able to hire or retain people any better than other players in this market.
-- If you are a company claiming to culture or brand moat, you should be able to hire and retain employees much better than the competition, and not just by paying top of market. I think there are only a few companies that can claim to do that. Stripe is one example.
+- If you are a company claiming to culture or brand moat, you should be able to hire and retain employees much better than the competition, and not just by paying top of the market salaries. I think there are only a few companies that can claim to do that. Stripe is one example.
 
 This post is not about any specific company or person. If you talk to your friends who have enough experience in the startup world, they will validate most of these points. It is not politically correct to speak about these things. So no one does.
