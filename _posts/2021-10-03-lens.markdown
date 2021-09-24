@@ -15,3 +15,5 @@ Here is Lens being used for Urban Company, a top home services provided marketpl
 ![customer lens](/assets/img/customerlens.png)
 
 ![supply lens](/assets/img/supplylens.png)
+
+Master post: [Frameworks to think about growth](https://manassaloi.com/2021/09/25/think-growth.html)
