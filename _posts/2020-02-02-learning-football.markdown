@@ -4,7 +4,7 @@ title: "Learning Football"
 
 ---
 
-I have been watching football since 2002. My dad got cable TV to watch the world cup in the summer but forgot to disconnect after that. I have been playing Fifa since FIFA 2000. One thing I never did though was learn to play football well. Do deep into the tactics as well as develop the stamina and skills to play football on a regular basis.
+I have been watching football since 2002. My dad got us cable TV to watch the world cup in the summer, but forgot to disconnect after that. I have been playing Fifa since FIFA 2000. One thing I never did though was learn to play football well; go deep into the tactics as well as develop the stamina and skills to play football on a regular basis.
 
 2020 is the year I hope to change that.
 

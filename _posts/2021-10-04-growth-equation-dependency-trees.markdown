@@ -13,6 +13,6 @@ This is an exercise to turn the 'how to increase orders' problem statement into 
 
 ![Order growth 4](/assets/img/order_growth_4.png)
 
-h/t Abhishek (who is part of my Growth team here at Gojek). This was an idea I had in my head, he actually helped create most of these.
+h/t [Abhishek](https://www.linkedin.com/in/abhishekrkmv5/) (who is part of my Growth team here at Gojek). This was an idea I had in my head, he helped create most of these.
 
 Master post: [Frameworks to think about growth](https://manassaloi.com/2021/09/25/think-growth.html)

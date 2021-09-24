@@ -47,3 +47,5 @@ Ticket size expansion = Up sell * Pricing experiments * More fees
 - Up sell users to Premium and Large
 - Personalised pricing
 - Experiment with waiting, cancellation, schedule, multi stop and edit fees 
+
+Master post: [Frameworks to think about growth](https://manassaloi.com/2021/09/25/think-growth.html)
