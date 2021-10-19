@@ -56,6 +56,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [IC vs Manager](https://manassaloi.com/2021/09/11/ic-manager.html)
 - [Titles and career lottery](https://manassaloi.com/2021/09/12/titles-luck-career.html)
 - [Why I like PM'ing](https://manassaloi.com/2021/09/16/pm-joy.html)
+- [Honest career advice for PMs](https://manassaloi.com/2021/10/19/honest-career-advice-pms.html)
 
 ### Favourite books on Career
 
