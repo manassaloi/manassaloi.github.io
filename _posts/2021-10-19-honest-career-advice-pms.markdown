@@ -18,6 +18,8 @@ Inspired by:
 - [8 ideas around job search](https://mobile.twitter.com/shreyas/status/1410989291895869445)
 - [10 years becoming an expert in an old industry or 1 year becoming an expert in a new industry](https://twitter.com/sariazout/status/1437436501919518721)
 
-My own gyaan: [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
+My own gyaan: [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html), especially this: [Titles and career lottery](https://manassaloi.com/2021/09/12/titles-luck-career.html)
 
 Counter example: [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1)
+
+**Feedback on this post from a [friend](https://www.linkedin.com/in/chitrak-gangrade/) with whom I have diacussed the topic of machinery vs self a lot:** Only one point I will like to add - Overtime focus on increasing that 20%. The more the output is dependent on you, the more you will grow (and hence better opportunities/money etc). Early stage PM (without dependencies in life) should also focus on what delta they add to the machinery. That will create your x factor over time. Your post made me feel that you are pushing the point ki hack the machinery and don't worry about what you bring to the table, because it's anyway only 20%. That's not what you intend but can be misunderstood that way. Another way to think about this is: If you are a PM who is frustrated with his output and is feeling insecure, look around and see if the machinery is right. Do you have the right funding, momentum, visibility, smart people, market dynamics with you. Don't take it too hard if numbers/output are not moving. You cannot influence the tide.
