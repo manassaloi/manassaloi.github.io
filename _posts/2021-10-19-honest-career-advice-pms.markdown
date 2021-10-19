@@ -7,7 +7,7 @@ title:  "Honest career advice for PMs"
 
 ![Honest career note](/assets/img/honest_career_note.png)
 
-![Honest career note 2](/assets/img/honest_career_note_2.png)
+![Honest career note 2](/assets/img/honst_career_note_2.png)
 
 Inspired by:
 - [Forget Passion, Focus on Surfing](https://productlife.to/p/forget-passion-focus-on-surfing-)
