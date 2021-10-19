@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Honest career advice for PMs"
+title:  "Honest career advice for early PMs"
 ---
 
 ![Honest career framework](/assets/img/honest_career_framework.png)
