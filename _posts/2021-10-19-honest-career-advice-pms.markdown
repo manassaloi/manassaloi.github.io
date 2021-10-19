@@ -16,6 +16,7 @@ Inspired by:
 - [Hitching your wagon to an influential fast rising star](https://mobile.twitter.com/gokulr/status/1391938691682095106)
 - [Get a CS degree and work at 3 breakout series B/C startups for 3 years each as an engineer/PM](https://mobile.twitter.com/BrennerSpear/status/1333457906696646660)
 - [8 ideas around job search](https://mobile.twitter.com/shreyas/status/1410989291895869445)
+- [10 years becoming an expert in an old industry or 1 year becoming an expert in a new industry](https://twitter.com/sariazout/status/1437436501919518721)
 
 My own gyaan: [How to think about your career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
 
