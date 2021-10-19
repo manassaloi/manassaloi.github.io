@@ -29,3 +29,5 @@ Counter example: [You Probably Shouldn’t Work at a Startup](https://every.to/n
 **Feedback on this post from a [friend](https://www.linkedin.com/in/chitrak-gangrade/) with whom I have diacussed the topic of machinery vs self a lot:**
 - Overtime focus on increasing that 20%. The more the output is dependent on you, the more you will grow (and hence better opportunities/money etc). Early stage PM (without dependencies in life) should also focus on what delta they add to the machinery. That will create your x factor over time.
 - Another way to think about this is: If you are a PM who is working hard, but frustrated with his output and is feeling insecure, look around and see if the machinery is right. Do you have the right funding, momentum, visibility, smart people, market dynamics with you. Don't take it too hard if numbers/output are not moving. You might not be able to influence the tide.
+
+P.S I created the diagram and notes inside half an hour based on a discussion that I had with a PM who is considering a job switch. If there are any typos/errors, ignore them. Have feedback? Feel free to send a DM on Twitter.
