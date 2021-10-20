@@ -39,13 +39,11 @@ I know senior hires being pursued for more than a year.
 
 One person absolutely best at it is Kunal Shah. People talk about how  he has managed to convince so many of his ex colleagues to join Cred. And also how he slides into DMs of good folks on Twitter with a pitch for Cred. He is relentless at this.
 
-Kunal is not an exception. Let's talk about my friend Mahesh, who has been killing it in TA. You know about just his memes but he probably has all the leaders in the ecosytem on his phonebook. He nurtures relationships, builds them over time.
+Kunal is not an exception. Let's talk about my friend [Mahesh](https://www.linkedin.com/in/sutharmahesh/), who has been killing it as a TA. You know about just his memes but he probably has all the leaders in the ecosytem on his phonebook. He nurtures relationships, builds them over time.
 
 Any leader who considers a job switch DMs him for his advice on salary benchmark, insights on other companies, and they trust his advice because he is honest. He will tell you the real story.
 
 See how quickly he helped build out the Unacademy org. Not hard to do when you potentially know everyone, having cultivated these relationships over the years.
-
-You can see how he reaches out to people. He then became a good friend and we chat regularly.
 
 His experience in reaching out to people and navigating these relationships is worth its weight in gold.
 

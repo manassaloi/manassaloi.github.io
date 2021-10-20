@@ -9,7 +9,7 @@ When I started Aristos, I started 2 other batches too. So that people who actual
 
 Once they realised that I won't listen to their excuses about why their job sucks, their boss sucks, and how they hate PMing because of X factors, no one bothered to show up after the first session. Probably they wanted a therapist while I wanted them to become better at PMing.Hence despite people DM'ing me every week about PM coaching/mentorship, I won't start another Aristos. Atleast not anytime soon. I will surely do occasional sessions when I am in the mood, but not another course.
 
-(This is obviously my take, so there will always be the  other side story. This post is mostly on why I won't do another Aristos as I get a lot of DMs like this.)
+(This is obviously my take, so there will always be the other side story. This post is mostly on why I won't do another Aristos.)
 
 Continuing my own biased take: I think the PM role is one of the most ambiguous generalist role out there.
 
