@@ -7,8 +7,11 @@ permalink: /proofofwork/
 
 ### Gojek ###
 
-- **July 2020 - Now**
-- Manager, Product Management for Growth and Key Initiatives (GKI), Transport. Managing a team of 3 PMs. Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
+- **October 2021 - Now**
+- GPM, Growth and Key Initiatives (GKI), Transport. Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
+
+- **July 2020 - Septmber 2021**
+- Manager, Growth and Key Initiatives (GKI), Transport. Managing a team of 3 PMs.
   - Led the launch of our Taxi product in Singapore. [press](https://asia.nikkei.com/Business/Technology/Gojek-starts-car-hailing-service-in-Vietnam-in-challenge-to-Grab)
   - Launched our 4W product GoCar in Vietnam. [press](https://mothership.sg/2021/05/gojek-book-taxis-directly-gotaxi/)
   - Run GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
