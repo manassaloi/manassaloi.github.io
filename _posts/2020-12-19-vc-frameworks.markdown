@@ -47,3 +47,4 @@ Investment theses and ideas:
 - Market, Opportunity value, and Probability of Success - [Will Bricker, Hustle Fund](https://mobile.twitter.com/will_bricker/status/1425475072156962819)
 - You’re solving an important problem, that you’ve got the path to an important solution, that there is a big market opportunity, and that your team is positioned to execute - [Samir Vasavada, Vise CEO](https://techcrunch.com/2021/05/26/vise-ceo-samir-vasavada-and-sequoias-shaun-maguire-break-down-the-art-of-the-pitch/?tpcc=ECTW2020&guccounter=1)
 - Invest in big waves - [Mike Maples](https://youtu.be/ZdzDf9HFvFw?t=544)
+- Make what is available to the rich today acessible to everyone - [Jack Abraham](https://youtu.be/YCq6RjGi-qA?t=2441)
