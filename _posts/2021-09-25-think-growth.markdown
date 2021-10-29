@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frameworks to think about growth"
+title:  "[Growth] Frameworks to think about growth"
 ---
 
 1. [Simple business equation](https://manassaloi.com/2021/03/24/ola-growth.html)
