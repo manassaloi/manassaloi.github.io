@@ -11,3 +11,4 @@ title:  "[Growth] Frameworks to think about growth"
 6. [Growth loops](https://www.reforge.com/blog/growth-loops)
 7. [Lens](https://manassaloi.com/2021/10/03/lens.html)
 8. [JTBD forces](https://manassaloi.com/2021/10/02/cred-mint-jtbd-force.html)
+9. [Skill points as strategy](https://manassaloi.com/2021/10/22/skill-points.html)
