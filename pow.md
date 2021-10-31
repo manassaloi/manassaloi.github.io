@@ -8,17 +8,20 @@ permalink: /proofofwork/
 ### Gojek ###
 
 - **October 2021 - Now**
-- GPM, Growth and Key Initiatives (GKI), Transport. Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
+- Group Product Manager, Growth and Key Initiatives (GKI), Transport. Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
+  - Launched our B2B product GoCorp in Singapore.
+  - Shipped Protect+, a new hygiene focused service for both 4W and 2W in Indonesia and Vietnam. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
+  - Shipped a new suscription pass product for Singapore to improve incremental transactions and boost customer loyalty.
 
 - **July 2020 - Septmber 2021**
-- Manager, Growth and Key Initiatives (GKI), Transport. Managing a team of 3 PMs.
+- Manager, Growth and Key Initiatives (GKI), Transport. Managed a team of 3 PMs.
+  - Own Service Excellence: all safety related features in Transport, is in charge of improving service quality of our Transport products, the Tipping experience and Comms with customers (Call Masking, Customer Support).
   - Led the launch of our Taxi product in Singapore. [press](https://asia.nikkei.com/Business/Technology/Gojek-starts-car-hailing-service-in-Vietnam-in-challenge-to-Grab)
   - Launched our 4W product GoCar in Vietnam. [press](https://mothership.sg/2021/05/gojek-book-taxis-directly-gotaxi/)
   - Run GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
   - Shipped a premium schedule a ride feature.
   - Own the loyalty levers for Transport: Subscription, Bundles, GoClub, Vouchers, Missions.
   - Redesigned the voucher experience.
-  - Own Service Excellence: all safety related features in Transport, is in charge of improving service quality of our Transport products, the Tipping experience and Comms with customers (Call Masking, Customer Support).
   - Own the Experiments roadmap for Transport and in charge of improving the capabilities of our experimentation platform.
   - Own the resurrection charter: getting back users lost during Covid.
   - Launched GoClub (Gojek's loyalty product) in Transport.
