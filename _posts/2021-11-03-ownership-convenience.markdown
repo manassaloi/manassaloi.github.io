@@ -9,4 +9,4 @@ title:  "Convenience over ownership fears"
 - Coinbase (other centralised exchanges) vs hardware wallets/metamask
 - Opensea vs decencralised NFT marketplaces
 
-*I find this argument about users caring a lot about having control over their own data and hating centralised ownership flawed. Convenience wins over ownership fears almost always.*
+I find this argument about users caring a lot about having control over their own data and hating centralised ownership flawed. Convenience wins over ownership fears almost always.
