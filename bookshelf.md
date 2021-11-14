@@ -258,7 +258,6 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain)
 + [The Halo Effect: And the Eight Other Business Delusions That Deceive Managers - Philip M. Rosenzweig](https://www.goodreads.com/book/show/136181.The_Halo_Effect)
 + [Wanting: The Power of Mimetic Desire in Everyday Life - Luke Burgis](https://www.goodreads.com/book/show/54860444-wanting)
-+
 
 ### Decision Making
 
