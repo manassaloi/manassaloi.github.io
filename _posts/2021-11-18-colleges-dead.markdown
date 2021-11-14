@@ -3,7 +3,7 @@ layout: post
 title:  "Colleges are dead?"
 ---
 
-How to judge if colleges are dead and no one cares about them anymore: Go to your LinkedIn connections and check how many of them have this: IIM X | IIT Y on their bio. You will have your answer.
+How to judge if colleges are dead and no one cares about them anymore: Go to your LinkedIn connections and check how many of them have this: IIM X, IIT Y on their bio. You will have your answer.
 
 See what people do instead of what you read on Twitter.
 
