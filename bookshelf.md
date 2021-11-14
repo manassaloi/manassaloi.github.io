@@ -49,6 +49,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Attention Factory - Matthew Brennan](https://www.goodreads.com/book/show/55666294-attention-factory)
 + [Amazon Unbound - Brad Stone](https://www.goodreads.com/book/show/56695159-amazon-unbound)
 + [We Are The Nerds - Christine Lagorio-Chafkin](https://www.goodreads.com/book/show/31685600-we-are-the-nerds)
++ [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power - Max Chafkin](https://www.goodreads.com/book/show/57880116-the-contrarian)
 
 
 ### Company Building Playbook
@@ -240,7 +241,7 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 + [Never Split the Difference - Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
-### All things Corporate
+### Meta reads
 
 + [Power: Why Some People Have it and Others Don't - Jeffrey Pfeffer](https://www.goodreads.com/book/show/8562119-power)
 + [Moral Mazes: The World of Corporate Managers - Robert Jackall](https://www.goodreads.com/book/show/279812.Moral_Mazes)
@@ -248,8 +249,16 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
 + [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
 + [The Gervais Principle - Venkatesh G. Rao](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
++ [The Art of Seduction - Robert Greene](https://www.goodreads.com/book/show/20995.The_Art_of_Seduction)
 + [Workplace Poker: Are You Playing the Game, or Just Getting Played? - Dan Rust](https://www.goodreads.com/book/show/25817471-workplace-poker)
 + [Stealing the Corner Office - Brendan Reid](https://www.goodreads.com/book/show/18765910-stealing-the-corner-office)
++ [Be Slightly Evil: A Playbook for Sociopaths - Venkatesh G. Rao](https://www.goodreads.com/book/show/18581676-be-slightly-evil)
++ [The Laws of Human Nature - Robert Greene](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature)
++ [The 33 Strategies of War - Robert Greene](https://www.goodreads.com/book/show/35289.The_33_Strategies_of_War)
++ [The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain)
++ [The Halo Effect: And the Eight Other Business Delusions That Deceive Managers - Philip M. Rosenzweig](https://www.goodreads.com/book/show/136181.The_Halo_Effect)
++ [Wanting: The Power of Mimetic Desire in Everyday Life - Luke Burgis](https://www.goodreads.com/book/show/54860444-wanting)
++
 
 ### Decision Making
 
