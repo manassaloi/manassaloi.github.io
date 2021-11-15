@@ -20,6 +20,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Learn personal finance and investing](https://manassaloi.com/2019/08/26/learn-personal-finance-investing.html)
 - [Learn business strategy](https://manassaloi.com/2019/08/27/learn-business-strategy.html)
 - [Plan your personal OKRs](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
+- [Twitter](https://manassaloi.com/2021/11/20/master-twitter.html)
 - [Frameworks for your professional life](https://manassaloi.com/2020/01/25/career-frameworks.html)
 - [Frameworks for your personal life](https://manassaloi.com/2020/01/26/personal-life-frameworks.html)
 - [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
