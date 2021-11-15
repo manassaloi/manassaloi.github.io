@@ -23,7 +23,7 @@ All of these are silly little games I have played to get rid of Twitter. I wish 
 Why I still use twitter
 - Ego. I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
 - People DM'ing me thanking me for my tweets makes me think they are/ I am important.
-- Dopamine hits. I don't use any other social media.
-- Career growth. I spent yesterday complaining about titles and calling most leaders winner of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I still maintain Twitter is comes far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
+- Dopamine hits. I don't post on any other social media.
+- Career growth. I spent yesterday complaining about titles and calling most leaders winner of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I will continue to say that Twitter should remain far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
 - I can complain about companies if I am unhappy and sadly it is the only platform where customer service folks listen to escalations. Also, don't have Facebook. So where else will I complain if my Amazon order is very late?
 - I have made a few really good friends from Twitter. No matter how much I shit on networking, I would have fewer people in my life without Twitter.
