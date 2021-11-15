@@ -26,6 +26,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [How to write and communicate better](https://manassaloi.com/2020/05/19/master-communication-writing.html)
 - [Ultimate house hunting checklist](https://manassaloi.com/2021/01/03/ultimate-house-hunting.html)
 - [Frameworks to think about growth](https://manassaloi.com/2021/09/25/think-growth.html)
+- [Web3 learning resources](https://manassaloi.com/2021/11/21/crypto-learning-list.html)
 
 ## (People I follow)
 
