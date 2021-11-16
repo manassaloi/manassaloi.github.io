@@ -80,6 +80,7 @@ title:  "Ultimate house hunting checklist"
 - Check kirana Stores accessibility.
 - How far is the nearest supermarket?
 - Are you getting mobile network in all the rooms? Are there dead zones? Atleast do one call from the house to check signal strength.
+- Make sure there are no troublesome neighbours.
 - Are these mosquito meshes?
 - Check if there are any holes to get the fiber optic cable inside the house for your router.
 - Is there sufficient natural light coming in?
