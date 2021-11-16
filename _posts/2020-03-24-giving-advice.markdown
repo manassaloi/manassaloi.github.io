@@ -19,7 +19,7 @@ Fast forward to 2018. I was super confused about whether to join my current comp
 
 I ended up making the decision after more than a month, but I knew the answer in the first day itself. I was just looking for data, as well as other people to validate that decision.
 
-This is the reason why I have stopped asking for advice over time. I realised that we already know what we want deep inside. We just want other people to validate that choice for us. Help us make the decision, which we have already made.
+This is the reason why I have stopped asking for advice over time. I realised that we already know what we want deep inside. We just want other people to validate that choice for us. Help us make the decision that we have already made.
 
 Nowadays if I want help in making a decision, I just ask for facts or data instead which I can input in some framework I have to make the decision. Even then most of the time, I know deep down what I want and maybe am just looking for signals which can make that choice easy.
 
