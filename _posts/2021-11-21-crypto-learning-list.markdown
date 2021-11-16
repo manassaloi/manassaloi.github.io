@@ -5,7 +5,7 @@ title:  "Web3 learning resources"
 
 Newsletters
 - [Not Boring](https://www.notboring.co/)
-- [Mario at The Generalist](readthegeneralist.com)
+- [Mario at The Generalist](https://readthegeneralist.com)
 - [The Pomp Letter](https://pomp.substack.com/)
 - [Preethi Kasireddy](https://www.preethikasireddy.com/categories/blockchain)
 - [The Reading Ape](https://thereadingape.substack.com/)
