@@ -15,7 +15,7 @@ If you remember Kanye's rant a few years back around royalties, you know how int
 
 Remittance is another thing. You know a lot of spread in banking is because of gatekeeping.
 
-Visa and other gatekeepers have already started work on [how they can fit into this new world](https://arxiv.org/ftp/arxiv/papers/2109/2109.12194.pdf). 
+Visa and other gatekeepers have already started work on [how they can fit into this new world](https://arxiv.org/ftp/arxiv/papers/2109/2109.12194.pdf).
 
 Coming back to NFTs, people have been forever buying art to signal status. As we spend more and more time online, NFTs is an extension of that behavior.
 
@@ -50,5 +50,3 @@ Needless to say I am in the former. I missed the rebound in stock market because
 I was looking at P/E rations, covid numbers and what not and this guy made his decision on a simple rule: markets always come up. This guy doubled/tripled his money.
 
 It is not about just money. It is about how to let go of this hyper rational self. And also have more conviction.
-
-This thread has no point. Just random things I am thinking. Will end it here.
