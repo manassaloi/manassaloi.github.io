@@ -3,17 +3,31 @@ layout: post
 title:  "Am I a hypocrite?"
 ---
 
+My blog is called Unfiltered thoughts, though I have edited my blogposts countless times based on feedback from friends. Every time someone goes "Are you sure you are going to put that?", I rethink, and sometimes edit. So maybe this blog is like 60% unfiltered thoughts.
+
+I have tweeted multiple times in the past that I don't have many strong opinions in life. I don't identify as a liberal or as someone from the right. I have my own positions on a lot of issues, few well thought out, a few: what people might call slightly unhinged, and none on others.
+
+I will tweet out one day that Naval's thoughts on happiness changed my life while shitposting about something he tweeted the next day. The first does not make me a simp of Naval, the second does not make me a hater.
+
+I will talk about Adhaar's lack of security and all the leaks one year, the next year I will say it has greatly improved my life.
+
+Does this seem ideologically inconsitent? Yes. If you are looking for ideological consistency, my blog or Twitter is not the right place for you.
+
+I joke about people playing distribution games on Twitter but I also tweet out shitposts that I know will get a few laughs, and in turn, likes. Does that make me a hypocrite? Maybe.
+
 I don't have analytics on my website. You won't find any link to my Twitter from this website. I like to think I don't care about my Twitter, I am beyond distribution games, and I write for the sake of putting my thoughts across.
 
 But while writing my Group Product Manager promotion packet, I did go to similarweb and got the traffic info. Just so that I could write "Manas Saloi is a product thought leader whose website gets 200K visits per month. He has mentored dozens of PMs in the industry and advises startups."
 
 Why did I do that? Because for promotion to a GPM level, you have to show impact beyond Gojek.
 
-Does this make me a hypocrite? Maybe. I think all of us are hypocrites at some level.
+Withing 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorous. In this end this is also a status game. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
 
-I have been honest about not being consistent with my thoughts. I have changed my mind on [a bunch of things](https://manassaloi.com/2020/04/01/strong-opinions-weakly-held.html). I don't think I have a lot of strong opinions. 
+I think all of us are hypocrites at some level.
 
-As [BroductManager tweeted](https://twitter.com/BroductManager/status/1441503972947206146), there is no alpha in ideological consistency. But I atleast try to understand my hypocrisy and my biases. Do deeper on why I am the way I am. Why I believe what I believe. 
+I have been honest about not being consistent with my thoughts. I have changed my mind on [a bunch of things](https://manassaloi.com/2020/04/01/strong-opinions-weakly-held.html).
+
+As [this](https://twitter.com/BroductManager/status/1441503972947206146) tweet states, there is no alpha in ideological consistency. But I atleast try to understand my hypocrisy and my biases. Do deeper on why I am the way I am. Why I believe what I believe. 
 
 I recommend you all to do the same. If you have a strong opinion, then ask why. See if you can argue the opposite side. 
 
