@@ -238,7 +238,6 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (Without Money or Muscle) - Deepak Malhotra](https://www.goodreads.com/book/show/27037559-negotiating-the-impossible)
 + [Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson,  Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 + [Nonviolent Communication: A Language of Life - Marshall B. Rosenberg,  Arun Gandhi](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
-+ [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 + [Never Split the Difference - Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
 ### Meta reads
@@ -246,7 +245,9 @@ A list of books I've found useful. Other books I have read: **[GoodReads.](https
 + [Power: Why Some People Have it and Others Don't - Jeffrey Pfeffer](https://www.goodreads.com/book/show/8562119-power)
 + [Moral Mazes: The World of Corporate Managers - Robert Jackall](https://www.goodreads.com/book/show/279812.Moral_Mazes)
 + [Rising to Power: The Journey of Exceptional Executives - Ron A. Carucci](https://www.goodreads.com/book/show/21535014-rising-to-power)
++ [The 50th Law](https://www.goodreads.com/book/show/6043946-the-50th-law)
 + [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
++ [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 + [Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them - Cynthia Shapiro](https://www.goodreads.com/book/show/62085.Corporate_Confidential)
 + [The Gervais Principle - Venkatesh G. Rao](https://www.goodreads.com/book/show/18581690-the-gervais-principle)
 + [The Art of Seduction - Robert Greene](https://www.goodreads.com/book/show/20995.The_Art_of_Seduction)
