@@ -23,11 +23,11 @@ Why did I do that? Because for promotion to a GPM level, you have to show impac
 
 Withing 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorously thought out. In the end I am also playing status games. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
 
-I think all of us are hypocrites at some level.
+My Proof Of Work page is to signal that I don't merely ship shitposts, I ship high impact projects too.
 
 I have been honest about not being consistent with my thoughts. I have changed my mind on [a bunch of things](https://manassaloi.com/2020/04/01/strong-opinions-weakly-held.html).
 
-As [this](https://twitter.com/BroductManager/status/1441503972947206146) tweet states, there is no alpha in ideological consistency. But I atleast try to understand my hypocrisy and my biases. Do deeper on why I am the way I am. Why I believe what I believe. 
+As [this](https://twitter.com/BroductManager/status/1441503972947206146) tweet states, there is no alpha in ideological consistency. I think all of us are hypocrites at some level. But I atleast try to understand my hypocrisy and my biases. Do deeper on why I am the way I am. Why I believe what I believe. 
 
 I recommend you all to do the same. If you have a strong opinion, then ask why. See if you can argue the opposite side. 
 
