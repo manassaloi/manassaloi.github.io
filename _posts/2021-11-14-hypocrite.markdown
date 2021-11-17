@@ -3,7 +3,7 @@ layout: post
 title:  "Am I a hypocrite?"
 ---
 
-My blog is called Unfiltered thoughts, though I have edited my blogposts countless times based on feedback from friends. Every time someone goes "Are you sure you are going to put that?", I rethink, and sometimes edit. So maybe this blog is like 60% unfiltered thoughts.
+My blog is called Unfiltered Thoughts, though I have edited my blogposts countless times based on feedback from friends. Every time someone goes "Are you sure you are going to put that?", I rethink, and sometimes edit. So maybe this blog is like 60% unfiltered thoughts.
 
 I have tweeted multiple times in the past that I don't have many strong opinions in life. I don't identify as a liberal or as someone from the right. I have my own positions on a lot of issues, few well thought out, a few: what people might call slightly unhinged, and none on others.
 
