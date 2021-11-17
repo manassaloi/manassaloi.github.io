@@ -5,13 +5,11 @@ title:  "Am I a hypocrite?"
 
 My blog is called Unfiltered Thoughts, though I have edited my blogposts countless times based on feedback from friends. Every time someone goes "Are you sure you are going to put that?", I rethink, and sometimes edit. So maybe this blog is like 60% unfiltered thoughts.
 
-I have tweeted multiple times in the past that I don't have many strong opinions in life. I don't identify as a liberal or as someone from the right. I have my own positions on a lot of issues, few well thought out, a few: what people might call slightly unhinged, and none on others.
+I have tweeted multiple times in the past that I don't have many strong opinions in life. I don't identify as a liberal or as someone from the right. I have my own position on a lot of issues, few well thought out, a few: what people might call slightly unhinged, and none on others.
 
-I will tweet out one day that Naval's thoughts on happiness changed my life while shitposting about something he tweeted the next day. The first does not make me a simp of Naval, the second does not make me a hater.
+I will tweet out one day that Naval's thoughts on happiness changed my life while the next day I will shitpost about something he tweeted. The first does not make me a simp of Naval, the second does not make me a hater. Nor am I a Warikoo bot.
 
-I will talk about Adhaar's lack of security and all the leaks one year, the next year I will say it has greatly improved my life.
-
-Does this seem ideologically inconsitent? Yes. If you are looking for ideological consistency, my blog or Twitter is not the right place for you.
+I will talk about Adhaar's lack of security and all the leaks that has happened one year, a few years later I will say that it has greatly improved my life. It does not seem cnotradictory to me.
 
 I joke about people playing distribution games on Twitter but I also tweet out shitposts that I know will get a few laughs, and in turn, likes. Does that make me a hypocrite? Maybe.
 
@@ -21,7 +19,7 @@ But while writing my Group Product Manager promotion packet, I did go to similar
 
 Why did I do that? Because for promotion to a GPM level, you have to show impact beyond Gojek.
 
-Withing 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorous. In this end this is also a status game. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
+Withing 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorously thought out. In the end I am also playing status games. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
 
 I think all of us are hypocrites at some level.
 
