@@ -11,7 +11,9 @@ I will tweet out one day that Naval's thoughts on happiness changed my life whil
 
 I will talk about Adhaar's lack of security and all the leaks that has happened one year, a few years later I will say that it has greatly improved my life. It does not seem cnotradictory to me.
 
-I joke about people playing distribution games on Twitter but I also tweet out shitposts that I know will get a few laughs, and in turn, likes. Does that make me a hypocrite? Maybe.
+I joke about people playing distribution games on Twitter but I also tweet out shitposts that I know will get a few laughs, and in turn, likes. Does that make me a hypocrite? Yes.
+
+Will I block you if you call me that on Twitter? Also Yes.
 
 I don't have analytics on my website. You won't find any link to my Twitter from this website. I like to think I don't care about my Twitter, I am beyond distribution games, and I write for the sake of putting my thoughts across.
 
