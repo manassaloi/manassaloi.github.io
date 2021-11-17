@@ -11,7 +11,8 @@ permalink: /proofofwork/
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
 - Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
   - Launched our B2B product GoCorp in Singapore.
-  - Shipped Protect+, a new hygiene focused service for both 4W and 2W in Indonesia and Vietnam. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
+  - Shipped Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
+  - Launched Protect+ service in Vietnam.
   - Shipped a new suscription pass product for Singapore to improve incremental transactions and boost customer loyalty.
 
 - **July 2020 - Septmber 2021**
