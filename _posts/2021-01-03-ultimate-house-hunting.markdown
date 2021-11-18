@@ -37,7 +37,7 @@ title:  "Ultimate house hunting checklist"
 - Check for electricity fluctuations. In older buildings wirings are faulty. The only way to check is by doing a load test. Turn on all geysers. Our geyser turned out to be faulty when we did this test and our electricity tripped.
 - Check if the bathrooms and office room have power backup.
 - Check if there are holes for rats/cockroaches to enter.
-- Confirm when you should change the inverter oil if the owner has provided one.
+- Confirm when you should change the inverter water if the owner has provided one.
 - Ask about garbage disposal.
 - Check shower fittings
 - Check water pressure for washing machine tap.
