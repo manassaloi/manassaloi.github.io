@@ -18,5 +18,6 @@ OKR template: [here](https://docs.google.com/document/d/1kc68s8PD6ImoFwzAxo3Bi3J
 - [How to balance vision & management](https://medium.com/speroventures/this-is-fine-how-to-balance-vision-management-8087d76731f6)
 - [The pyramid of clarity](https://wavelength.asana.com/pyramid-clarity-strategic-alignment/)
 - [Better Meetings with Concise Global Context](https://www.tango.vc/posts/context)
+- [Pinterest's pyramid OKRs](https://coda.io/@naveen/pyramid-okrs)
 - [10 tips for using OKRs effectively](https://medium.com/swlh/10-tips-for-using-okrs-effectively-1c9e84161a67)
 - [Persistent Models vs. Point-In-Time Goals](https://cutlefish.substack.com/p/tbm-2553-persistent-models-vs-point)
