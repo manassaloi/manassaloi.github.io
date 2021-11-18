@@ -13,6 +13,7 @@ Newsletters
 - [Mark Helfman at Crypto is Easy](https://cryptoiseasy.substack.com/)
 - [The Defiant](https://newsletter.thedefiant.io/)
 - [NFT Insight](https://www.nft-insight.com/)
+- [Paul Veradittakit at VeradiVerdict](https://www.veradiverdict.com/)
 
 Podcasts
 - [The Pomp Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vb2ZmdGhlY2hhaW4)
