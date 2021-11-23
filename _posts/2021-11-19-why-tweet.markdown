@@ -2,8 +2,6 @@
 layout: post
 title:  "Why I tweet"
 ---
-
-
 - Run this site: Whenever I go off Twitter, my website suffers. I find writing threads the easiest way to dump my thoughts on a topic. Then writing bogposts just becomes editing those threads and posting them here. No Twitter = No blogposts.
 - Ego: I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
 - Confirmation bias: People DM'ing me thanking me for my tweets makes me think they are/ I am important.
