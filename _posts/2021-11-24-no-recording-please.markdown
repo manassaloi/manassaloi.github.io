@@ -25,4 +25,4 @@ I would say it is better to find a few good mentors who can guide you in your jo
 
 This post is not a bait for you. Don't send me requests for mentorship. I will probably not reply to your DM.
 
-\* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence. When I want to do them I post about it on Twitter and the seats fill out within 10 mins of me posting. 
+\* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence by giving back to the community. When I want to do them I post about it on Twitter and the seats fill out within 10 mins of me posting. 
