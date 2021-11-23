@@ -4,13 +4,15 @@ title:  "Why I tweet"
 ---
 
 Why I tweet
-- Ego. I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
-- Confirmation bias. People DM'ing me thanking me for my tweets makes me think they are/ I am important.
-- Dopamine hits. I don't post on any other social media.
-- Career growth. I complained about startup titles recently and called most leaders of the ecosystem winners of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I will continue to say that Twitter should remain far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
-- I can complain about companies if I am unhappy and sadly it is the only platform where customer service folks listen to escalations. Also, don't have Facebook. So where else will I complain if my Amazon order is very late?
-- I have made a few really good friends from Twitter. No matter how much I shit on networking, I would have fewer people in my life without Twitter.
-- Whenever I go off Twitter, my website suffers. I find writing threads the easiest way to dump my thoughts on a topic. Then writing bogposts just becomes editing those threads and posting them here.
-- I occasionally do sessions based on some theory I have on life or careeer. Putting a tweet asking for people who would want to join leads to dozens of people DMing inside 10 mins. Without my Twitter, I would have to search for people. That would be painful.
-- A lot of founders who reach out to me for advice discover me from Twitter. If I ever start angel investing, I won't need to build a network. Having my twitter account is enough.
-- A few times senior leaders from my company have reached out to discuss something I posted. This is good as well as scary. Scary because [this](https://mobile.twitter.com/MohanadElshieky/status/1397642013982535686) might come true any day now. Good because these people won't care about another middle manager. There might be a dozen GPMs in my company, if not more.
+- Content generation for my site: Whenever I go off Twitter, my website suffers. I find writing threads the easiest way to dump my thoughts on a topic. Then writing bogposts just becomes editing those threads and posting them here.
+- Ego: I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
+- Confirmation bias: People DM'ing me thanking me for my tweets makes me think they are/ I am important.
+- Dopamine hits: I don't post on any other social media.
+- Career growth: I complained about startup titles recently and called most leaders of the ecosystem winners of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I will continue to say that Twitter should remain far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
+- Complaining platform: I can complain about companies if I am unhappy and sadly it is the only platform where customer service folks listen to escalations. Also, don't have Facebook. So where else will I complain if my Amazon order is very late?
+- Network: I have made a few really good friends from Twitter. No matter how much I shit on networking, I would have fewer people in my life without Twitter.
+- Audience for my private sessions: I occasionally do sessions based on some theory I have on life or careeer. Putting a tweet asking for people who would want to join leads to dozens of people DMing inside 10 mins. Without my Twitter, I would have to search for people. That would be painful.
+- Dealflow: A lot of founders who reach out to me for advice discover me from Twitter. If I ever start angel investing, I won't need to build a network. Having my twitter account is enough.
+- Job opportunities: A few times senior leaders from my company have reached out to discuss something I posted. This is good as well as scary. Scary because [this](https://mobile.twitter.com/MohanadElshieky/status/1397642013982535686) might come true any day now. Good because these people won't care about another middle manager. There might be a dozen GPMs in my company, if not more.
+
+If you ask me why I write on this blog, a lot of the reasons will be similiar.
