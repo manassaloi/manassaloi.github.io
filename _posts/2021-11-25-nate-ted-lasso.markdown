@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nate's arc in Ted lasso"
+title:  "Nate's arc in Ted Lasso"
 ---
 
 1. Starts as a kit man.
