@@ -28,3 +28,5 @@ This post is not a bait for you. Don't send me requests for mentorship. I will p
 Funny thing: I just realised that my most honest private session has not happened yet. It will be conducted when I am out of this game. But even then it won't be close to the discussions I have with my closest friends, and the brutal honesty with which  I can share gyaan with them.
 
 \* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence by giving back to the community. When I want to do one of these sessions, I post about them on Twitter, and the seats fill out within 10 mins of me posting. There is no group for promoting these sessions. So please don't DM me asking you to add to one.
+
+Edit: Removed a screenshot as it is very apparent that it is from an ex Gojek colleague.
