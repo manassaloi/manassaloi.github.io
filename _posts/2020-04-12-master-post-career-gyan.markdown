@@ -57,6 +57,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Titles and career lottery](https://manassaloi.com/2021/09/12/titles-luck-career.html)
 - [Why I like PM'ing](https://manassaloi.com/2021/09/16/pm-joy.html)
 - [Honest career advice for PMs](https://manassaloi.com/2021/10/19/honest-career-advice-pms.html)
+- [Are colleges dead?](https://manassaloi.com/2021/11/18/colleges-dead.html)
+- [How to do a cold outreach right](https://manassaloi.com/2021/11/22/cold-DM.html)
 
 ### Favourite books on Career
 
