@@ -31,4 +31,4 @@ Funny thing: I just realised that my most honest private session has not happene
 
 DM from a friend with whom I have been discussing these things for a long time.
 
-\* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence by giving back to the community. When I want to do them I post about it on Twitter and the seats fill out within 10 mins of me posting. 
+\* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence by giving back to the community. When I want to do one of these sessions, I post about them on Twitter, and the seats fill out within 10 mins of me posting. 
