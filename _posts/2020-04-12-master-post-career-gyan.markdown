@@ -59,6 +59,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Honest career advice for PMs](https://manassaloi.com/2021/10/19/honest-career-advice-pms.html)
 - [Are colleges dead?](https://manassaloi.com/2021/11/18/colleges-dead.html)
 - [How to do a cold outreach right](https://manassaloi.com/2021/11/22/cold-DM.html)
+- [Senior is a vibe](https://manassaloi.com/2021/11/26/senior-vibe.html)
 
 ### Favourite books on Career
 
