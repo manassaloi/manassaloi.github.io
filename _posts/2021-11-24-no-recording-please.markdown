@@ -7,7 +7,7 @@ People often ask me why I don't post the recordings of the private sessions I do
 
 My honest answer is that anything worth teaching, beyond general platitudes, comes from earned experiences. And most of these can't be shared with the general public for obvious reasons. You don't want to break NDAs. You don't want to piss off old or current colleagues. 
 
-If I share all the tricks that I use to ship massive projects inside Gojek, that requires coordination amongst dozens of teams, publicly, then obviously a few people will feel gamed. And the next time I am having a conversation with them they will be thinking if I am using one of these tricks.
+If I share all the tricks publicly that I use to ship massive projects inside Gojek, that requires coordination amongst dozens of teams, then obviously a few people will feel gamed. And the next time I am having a conversation with them they will be thinking if I am using one of these tricks.
 
 I remember posting a silly joke about using the prayer emoji on Slack whenever I need something to be done. Within an hour someone posted that tweet in one of our internal slack channels. It was a joke. We all had a good laugh.
 
