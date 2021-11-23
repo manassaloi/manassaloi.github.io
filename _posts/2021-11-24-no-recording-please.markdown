@@ -27,8 +27,4 @@ This post is not a bait for you. Don't send me requests for mentorship. I will p
 
 Funny thing: I just realised that my most honest private session has not happened yet. It will be conducted when I am out of this game. But even then it won't be close to the discussions I have with my closest friends, and the brutal honesty with which  I can share gyaan with them.
 
-![career gyaan](/assets/img/career_gyaan.png)
-
-DM from a friend with whom I have been discussing these things for a long time.
-
 \* I do these when I am bored. Or when I need to find some meaning in life beyond my hedonistic existence by giving back to the community. When I want to do one of these sessions, I post about them on Twitter, and the seats fill out within 10 mins of me posting. There is no group for promoting these sessions. So please don't DM me asking you to add to one.
