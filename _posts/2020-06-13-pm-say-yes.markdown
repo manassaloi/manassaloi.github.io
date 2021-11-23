@@ -4,10 +4,12 @@ title:  "Dear beginner PM, Say YES"
 
 ---
 
-Something I recommend to all new PMs: Say Yes to as many projects as you can at the beginning of your PM career. It will stretch you thin but help you learn at a much higher rate than your peers. Note: This can be a piece of advice for PMs joining a new company too.
+Something I recommend to all new PMs: Say Yes to as many projects as you can at the beginning of your PM career. It will stretch you thin but help you learn at a much higher rate than your peers.
+
+Note: This can be a piece of advice for PMs joining a new company too.
 
 I have always followed this advice ever since I became a PM 6 years back. Even before I could understand what a PM does, I was tasked with launching a new Business unit for CouponDunia. I learned 10X of what a new PM learns in the 3 months we took to launch Cashboss. And I have followed this advice throughout my career.
 
-2 years back I was told to plan and launch the entire safety roadmap of Gojek's Transport product inside 2 months. I had no idea about how the Transport systems worked. I had just joined. And this was not the only stretched project I worked on. I picked up work on Payments and Convenience in parallel. After 6 months, I was asked to revamp the booking flows for our ride hailing products. I ended up working on all major flows/systems in our Transport product. All because I kept saying Yes to whatever came my way.
+2 years back I was told to plan and launch the entire safety roadmap of Gojek's Transport product inside 2 months. I had no idea about how the Transport systems worked. I had just joined. And this was not the only stretch project I worked on. I picked up work on Payments and Convenience in parallel. After 6 months, I was asked to revamp the booking flows for our ride hailing products. I ended up working on all major flows/systems in our Transport product. All because I kept saying Yes to whatever came my way.
 
 So say YES more. That is the only way to learn more in a short timeframe.
