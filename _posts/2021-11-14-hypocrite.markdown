@@ -9,15 +9,15 @@ I have tweeted multiple times in the past that I don't have many strong opinions
 
 I will tweet out one day that Naval's thoughts on happiness changed my life while the next day I will shitpost about something he tweeted. The first does not make me a simp of Naval, the second does not make me a hater. Nor am I a Warikoo bot.
 
+I have been skeptical about [web3](https://manassaloi.com/2017/01/22/why-i-am-not-crazy-about-blockchain-yet.html) in the past, but if I convince myself that it is the future, I won't think twice before jumping ship. 
+
 I will talk about Adhaar's lack of security and all the leaks that has happened one year, a few years later I will say that it has greatly improved my life. It does not seem cnotradictory to me.
 
 I joke about people playing distribution games on Twitter but I also tweet out shitposts that I know will get a few laughs, and in turn, likes. Does that make me a hypocrite? Yes.
 
 Will I block you if you call me that on Twitter? Also Yes.
 
-I don't have analytics on my website. You won't find any link to my Twitter from this website. I like to think I don't care about my Twitter, I am beyond distribution games, and I write for the sake of putting my thoughts across.
-
-But while writing my Group Product Manager promotion packet, I did go to similarweb and got the traffic info. Just so that I could write "Manas Saloi is a product thought leader whose website gets 200K visits per month. He has mentored dozens of PMs in the industry and advises startups."
+I don't have analytics on my website. You won't find any link to my Twitter from this website. I like to think I don't care about my Twitter, I am beyond distribution games, and I write for the sake of putting my thoughts across. But while writing my Group Product Manager promotion packet, I did go to similarweb and got the traffic info. Just so that I could write "Manas Saloi is a product thought leader whose website gets 200K visits per month. He has mentored dozens of PMs in the industry and advises startups."
 
 Why did I do that? Because for promotion to a GPM level, you have to show impact beyond Gojek.
 
