@@ -48,6 +48,7 @@ permalink: /proofofwork/
   - Shipped outstanding balance feature which helped us reduce fraud and earn back lost revenue.
 
 ![Vik's reco](/assets/img/vik_reco.png)
+
 (Manager's recommendation on Twitter)
 
 ### Directi ###
