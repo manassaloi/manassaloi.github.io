@@ -37,6 +37,10 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Don't copy me](https://manassaloi.com/2021/02/04/dont-copy-me.html)
 - [Are you an NPC?](https://manassaloi.com/2021/11/27/npc.html)
 - [Forming habits](https://manassaloi.com/2021/11/28/forming-habits.html)
+- [What to do with money](https://manassaloi.com/2021/11/30/once-have-money.html)
+- [Why do you want to be productive?](https://manassaloi.com/2021/12/01/productivity-hours.html)
+- [What are you optimising for?](https://manassaloi.com/2021/12/02/optimising.html)
+- [4 things for happiness](https://manassaloi.com/2021/12/03/things-happiness.html)
 
 ### Favourite books
 

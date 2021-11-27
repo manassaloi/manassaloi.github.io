@@ -3,6 +3,7 @@ layout: post
 title:  "[Master post] Crypto"
 ---
 
+Newest to Oldest:
 - [Web3 learning resources](https://manassaloi.com/2021/11/21/crypto-learning-list.html)
 - [Narratives and implementation details](https://manassaloi.com/2021/11/17/narrative-implementation-details.html)
 - [Relentless optimism](https://manassaloi.com/2021/11/15/relentless-optimism.html)
