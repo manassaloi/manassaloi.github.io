@@ -4,7 +4,10 @@ title:  "Forming habits"
 ---
 
 - I use Loop Habit Tracker to form new habits.
-- There are 3 kinds of habits I track - the most important ones (marked in red), behavior at work (marked in green), health related (marked in blue).
+- There are 3 kinds of habits I track:
+  - the most important ones (marked in red)
+  - behavior at work (marked in green)
+  - health related (marked in blue)
 - A few examples:
   - Red: Don't rant on Twitter (rarely successful in this), Listen more, No vertical relationships(read Courage to be Diskliked to understand this more)
   - Green: Be kind, Don't send a Slack DM in anger
@@ -19,7 +22,7 @@ title:  "Forming habits"
 - I am writing this post so that I can send this to people I mentor. I have shared a few of these tips in silos, but this captures most of what I do.
 - When I joined my current company, I promised myself that I will take ownership of my career. I marked around 5 habits that was holding me back in my career and promised to get better on all of them. Big thanks to my manager for identifying them and giving proactive feedback during our 1:1s. He also helped me with [my gap analysis](https://medium.com/@ianmcall/mind-the-gap-analysis-and-get-promoted-e4bb4462ef40).
 - One of the habits I track is called "Act like L+1". L being my current level, L+1 the next. When I was a Product Lead (L4), I was tracking whether I was acting like a Manager (L5) or not. When I was a Manager I tracked whether I acted like a GPM or not. Now I track my day with the lens of a Director at Gojek. In 3 years I have gone from new joinee -> Product Lead -> Manager, Product Management -> GPM, with a promotion almost every year. (This point is not to brag, but to prove that this approach works.)
-- Now you can get there by luck too. Join the right company at the right time, let the machinery do the work, and you can just be pulled up over time. The other options are being super political or working 80 hour weeks. I like [shipping vs being political](https://manassaloi.com/proofofwork/) and I am somewhat [lazy](https://manassaloi.com/2020/03/31/80-20.html). Relying on just luck is sub optimal and I wanted something that can be replicated by people I mentor.
+- Now you can get there [by luck too](https://manassaloi.com/2021/09/12/titles-luck-career.html). Join the right company at the right time, let the machinery do the work, and you can just be pulled up over time. The other options are being super political or working 80 hour weeks. I like [shipping vs being political](https://manassaloi.com/proofofwork/) and I am somewhat [lazy](https://manassaloi.com/2020/03/31/80-20.html). Relying on just luck is sub optimal and I wanted something that can be replicated by people I mentor.
 - I get an alert from my Tick Tack app everyday that reminds me to update my Loop Habits app before I sleep.
 
 Related post on how I learn any new skill: [So you want to learn Poker?](https://manassaloi.com/2020/04/07/learning-poker.html)
