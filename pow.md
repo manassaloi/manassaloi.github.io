@@ -47,6 +47,9 @@ permalink: /proofofwork/
   - Created the Call Masking feature that was later adopted by all product groups inside Gojek. [press](https://www.thejakartapost.com/news/2019/04/23/grab-go-jek-add-features-to-protect-female-drivers-passengers.html)
   - Shipped outstanding balance feature which helped us reduce fraud and earn back lost revenue.
 
+![Vik's reco](/assets/img/vik_reco.png)
+(Hiring Manager's recommendation on Twitter)
+
 ### Directi ###
 
 - **Dec 2016 - Nov 2018**
@@ -55,6 +58,9 @@ permalink: /proofofwork/
   - Led experience of 6 core apps built on Flock’s platform: Mailcast, Notes, Polls, Reactions, Reminders, Favourite.
   - Built 5 third party integrations for Flock App Store: Github, Gitlab, Facebook Pages, Freshdesk, Opsgenie.
   - Created Flock Support, a lightweight Helpdesk inside Flock Messenger, which on-boards users and lets them chat with Customer Support.
+
+![Madhur's reco](/assets/img/madhur_reco.png)
+(Hiring Manager's recommendation on Linkedin)
 
 ### Craftsvilla ###
 
@@ -70,6 +76,9 @@ permalink: /proofofwork/
   - Increased active user base by 200%.
   - Doubled share of mobile app transactions from 25% to 50% of total transactions.
 
+![Ranjit reco](/assets/img/ranjit_reco.png)
+(Hiring Manager's recommendation on Linkedin)
+
 ### CouponDunia ###
 
 - **Dec 2014 - Dec 2015**
@@ -83,6 +92,9 @@ permalink: /proofofwork/
 - Led growth for all of CouponDunia products.
   - Ran multiple experiments to improve funnel conversion across the website.
   - Worked with the SEO, Digital Marketing teams to deliver growth goals.
+
+![Sameer reco](/assets/img/sameer_reco.png)
+(Hiring Manager's recommendation in the form of a mail sent to the company)
 
 ### Kore ###
 
