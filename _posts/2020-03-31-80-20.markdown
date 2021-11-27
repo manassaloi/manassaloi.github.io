@@ -3,11 +3,8 @@ layout: post
 title:  "80/20"
 ---
 
-I wrote a thread yesterday on how I lead a Pareto life. Turning it into a blogpost (with some minor edits)
 
-**/threadstarts**
-
-I hate using my brain too much. I believe in doing the least amount of work to get max output.
+I am lazy. I hate using my brain too much. I believe in doing the least amount of work to get max output.
 
 Here is how I have perfected a life of 80/20.
 
@@ -25,7 +22,6 @@ Here is how I have perfected a life of 80/20.
 
 - Whenever I get more than a dozen questions on the same topic, [I write a blogpost](https://manassaloi.com/2020/01/17/twitter-rules.html) so that I don’t have to reply the same thing again and again.
 
-
 - My goal in H1'2020 is to complete all the templates here: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html), so that I can productise my job and get involved only in high leverage activities.
 
 - You might think coming up with the templates above took a lot of time. Nope. I just saw how PMs in my company run their processes. Which templates they use. How they send mails. Their work practices. Then I mixed the ones I liked with dozens of processes/templates from my previous companies, and suddenly, without putting in a lot of effort, I had my own processes, templates and frameworks. Just copy shit. There is no need to reinvent the wheel.
@@ -35,12 +31,10 @@ Here is how I have perfected a life of 80/20.
 - Content which I post here as well as social media?
   - Blog: I just think of things I would have liked to read when I was starting out in my career, and I just write about those things on my blog. Keep it simple.
   - Twitter jokes: I just go to Linkedin, see people do dumb shit, and share my own take.
-  - Twitter threads: I just make up those on the go. Like I am doing now. I have no idea how this would shape up when I started. And how this would end. If I like the output, I will put it on my blog.
+  - Twitter threads: I just make up those on the go. I have no idea how they would shape up when I start. If I like the output, I will put it on my blog.
 
 - I barely edit my tweets before posting. It is something which is a waste of time.
 
 - Some people think I put a lot of time on Twitter. TBH I don't. I wrote this entire thread in 5 mins, and now I will move on to my next meeting.
 
 - This is the beauty of optimising on [processes over tools](https://manassaloi.com/2020/01/01/getting-shit-done-happiness.html).
-
-**/threadends**
