@@ -10,7 +10,7 @@ I wrote a thread recently on whether moving the Uber Eats hook/entry point to th
 ![UberEats in bottom nav bar](/assets/img/uber_eats.png)
 
 
-**There are 4 kinds of problems which prohibits the usage of a feature/product**
+**There are 4 kinds of problems which prohibits the usage of a feature/product.**
  + **Discovery/Awareness problem:** User does not even know the feature exists. Or it is not top in mind of the user for its category.
    + How to measure:
      + Check ratio of users using the feature/ users who land on the screen.
@@ -31,7 +31,7 @@ I wrote a thread recently on whether moving the Uber Eats hook/entry point to th
    + How to measure:  
      + Customer interviews
 
-**All 4 problems are important to solve**
+**All 4 problems are important to solve.**
 
 **But the hierarchy is:** Solve for discovery > Nudge your users towards using your product more, educate them about the other jobs they can use it for > Make sure your core product does not suck > Build Y.
 
