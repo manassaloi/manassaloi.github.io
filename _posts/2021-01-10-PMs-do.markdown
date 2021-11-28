@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job of a PM"
+title:  "What does a PM do?"
 ---
 
 PMs focus on
