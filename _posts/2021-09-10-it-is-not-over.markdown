@@ -9,7 +9,7 @@ Another one also became a unicorn last week.
 
 One fintech startup where people got laid off, then I saw almost everyone I knew leaving, is now a unicorn.
 
-A product suite I myself worked on (and that lost almost everyone who worked on it over the years) is now valued at 100s of millions.
+A product suite I worked on (and that lost almost everyone who worked on it over the years) is now valued at 100s of millions after multiple pivots and company restructures.
 
 A ride hailing unicorn that lost 1/3rd of their employees did not see any impact in their metrics, though valuation has remained the same.
 
