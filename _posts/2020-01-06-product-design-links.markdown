@@ -5,7 +5,7 @@ title:  "My favourite posts on designing a new feature"
 
  These were written by people who actually designed them. You should read these to understand how some of the most popular features got conceived.
 
-- [Threads in Slack, a long design journey](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4)
+- [Threads in Slack, a long design journey](https://slack.design/articles/threads-in-slack-a-long-design-journey-part-1-of-2/)
 
 - [Facebook reactions (because not everything in life is Likable)](https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f)
 
@@ -34,5 +34,7 @@ title:  "My favourite posts on designing a new feature"
 - [How our customers helped shape the future of Slack](https://slackhq.com/designing-the-future-of-slack-with-customers)
 
 - [Story of how Swiggy POP was built…](https://bytes.swiggy.com/story-of-how-swiggy-pop-was-built-773e34d4ff87)
+
+- [Designing To Encourage The Habit Of Tipping](https://medium.com/gojekengineering/ka-ching-designing-to-encourage-the-habit-of-tipping-2822ad2f99cd)
 
 **Note:** I will keep adding more interesting posts I find to this list
