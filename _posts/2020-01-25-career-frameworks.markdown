@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 63 Frameworks for your professional life"
+title:  "[Frameworks] 83 Frameworks for your career"
 
 ---
 
@@ -131,6 +131,46 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 62. [Provide clarity, Generate energy, and Drive success](https://mobile.twitter.com/danielgross/status/1334582085613461505); Satya Nadella's Leadership Trinity.
 
 63. [Caliber of team, Company priority, Manager compatibility, Your likely singular impact, and Alignment with career goals](https://twitter.com/shreyas/status/1379634120834215938); When evaluating internal roles consider these 5 factors.
+
+64. [How to Have an Early Adopter Mindset](https://youtu.be/QuOe6EPrxTw?t=2750); Shaan Puri talks about what an early adopter mindset is and how to adopt it.
+
+65. [Specialize, Don't live in big cities, Go full-remote](https://amaca.substack.com/p/how-i-got-wealthy-without-working); How Amaca got wealthy without working too hard.
+
+66. [Ask why an idea is good for THEM](https://mobile.twitter.com/wes_kao/status/1459551667540660224); To counteract your default "me"-centric viewpoint, you have to actively practice and consciously choose to see things from the other person's point of view.
+
+67. [Optimize for equity](https://mobile.twitter.com/cjc/status/1463307036788072453); Your cash comp will often be corrected over time as the company grows and brings people ops/comp people in-house.
+
+68. [Startups are a career time machine](https://mobile.twitter.com/jaentwistle/status/1455020001900077059); Why you should an early startup.
+
+69. [Early tech career advice](https://mobile.twitter.com/lucy_guo/status/1430530911897100290); Intern or work 6-12 mo at a big name company, join a Seed-Series B startup, repeat previous or start your own company.
+
+70. [Don't fall for the promotion trap](https://www.productlessons.xyz/article/looking-good-vs-getting-good); Don't lose the courage to try new things.
+
+71. [Career is not a ladder, it's a game](https://mobile.twitter.com/kevinyien/status/1298223507571081216);  Those who treat it like a game will collect the resources, find the people, and build the skills that compound — and have fun doing it.
+
+72. [How to choose which startup to join](https://mobile.twitter.com/cjc/status/1454234168800415755); What company you select matters far more than any other factor (title, scope of role, salary, etc.)
+
+73. [Concentric Circles of Impact](https://caseyaccidental.com/personal-mission); If you bet on increasing your learning potential, your earning potential compounds over time.
+
+74. [Do something they'll always remember](https://mobile.twitter.com/siddharthm83/status/1447220066043318285); Show your expertise during the interview process by creating a S.T.A.R moment.
+
+75. [Unbundle your full time job](https://mobile.twitter.com/ashleymayer/status/1443251054154448899); Unbundle everything you might get (or want) from a full-time job (purpose, camaraderie, structure, learning, status, cash flow, equity, etc) and consider how you might arrange your life to find them elsewhere.
+
+76. [Learn about yourself and address your blind spots](https://debliu.substack.com/p/career-coaching-how-an-outside-perspective); An outside perspective can change your life.
+
+77. [What’s your time horizon?](https://productlessons.substack.com/p/six-lessons-from-six-years-in-tech); If it’s the next 2-3 years, you’re certainly better off working at FAANG. If it’s the next 10+ years, you’ll do well to consider career currency.
+
+78. [The Art of the Handoff](https://debliu.substack.com/p/the-art-of-the-handoff-leaving-things); Leaving well is as important as starting well.
+
+79. [Ask yourself "Why not me?"](https://debliu.substack.com/p/reframing-the-question); A lot of people are filled with doubt about themselves and their aspirations, always asking, "Why me?"; If you are one of those people, I want you to start asking yourself, “Why not me?”
+
+80. [Careers are like exclusive night clubs](https://mobile.twitter.com/george__mack/status/1437071999789150209); There's a backdoor entrance.
+
+81. [X Bezos](https://www.notboring.co/p/crypto-bezos); What would Bezos build in X if he were starting out today?
+
+82. [Old or new](https://twitter.com/sariazout/status/1437436501919518721); You can spend 10 years becoming an expert in an old industry or 1 year becoming an expert in a new industry.
+
+83. [Make your managers life easier](https://www.youtube.com/watch?v=txNXrx6Zr0Q); Managing up (aka managing your manager) will help you get promoted without working longer hours.
 
 
 **Note:** I will keep expanding this list.
