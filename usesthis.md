@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Uses This
+image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
+
+![Uses this](/assets/img/usesthis.png)
 
 ## Hardware
 
