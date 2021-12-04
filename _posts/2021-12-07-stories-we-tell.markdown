@@ -31,4 +31,4 @@ vs
 
 *Flock did not become as big as Slack, maybe I was better of choosing company X instead of Directi.*
 
-Tell the better story to yourself. It will define who you become and not just who you are today.
+Tell the better story to yourself. It will not just define who you are, but also who you become.
