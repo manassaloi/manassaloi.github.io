@@ -9,4 +9,4 @@ Productivity is about effeciency; getting more done with your time. If you are b
 
 I like being productive with my time so that I don't have to spent all my time at work and can utilise my hours post 7PM on spending time with my wife/ reading books/ advising other startups/ / shitposting on Twitter.
 
-I care about [Pareto'ing my life](spending time with my wife) because I want to do more things in a day. We all have the same number of hours. So unless you know why you want to squeese out a few free ones at the end of the day, you won't focus on building systems that will get you more output from the time spent at work.
+I care about [Pareto'ing my life](https://manassaloi.com/2020/03/31/80-20.html) because I want to do more things in a day. We all have the same number of hours. So unless you know why you want to squeese out a few free ones at the end of the day, you won't focus on building systems that will get you more output from the time spent at work.
