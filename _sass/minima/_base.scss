@@ -114,7 +114,7 @@ a {
   &:hover {
     color: $a-color;
     text-decoration: underline;
-    background-color: lighten($a-color, 75%);
+    background-color: $background-color;
   }
 
   .social-media-list &:hover {
