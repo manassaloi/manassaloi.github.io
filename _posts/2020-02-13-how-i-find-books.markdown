@@ -12,9 +12,9 @@ Here are a few:
 
 - [Bookschatter](https://bookschatter.com/books/)
 
-- [Maksim Stepanenko's Bookshelf](maksim.ms)
+- [Maksim Stepanenko's Bookshelf](https://maksim.ms)
 
-- [Susan Fowler's booklist](susanjfowler.com)
+- [Susan Fowler's booklist](https://susanjfowler.com)
 
 - [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf)
 
@@ -24,9 +24,9 @@ Here are a few:
 
 - [James Somers's list](http://jsomers.net/#books)
 
-- [David Parrell's list](perell.com)
+- [David Parrell's list](https://perell.com)
 
-- [Dan Wang's list](danwang.co)
+- [Dan Wang's list](https://danwang.co)
 
 - [Bret Victor's bookshelf](http://worrydream.com/Shelf2015/)
 
