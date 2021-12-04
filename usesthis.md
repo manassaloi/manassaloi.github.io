@@ -12,13 +12,21 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [MacBook Air M1 (13-inch, 2020)](https://www.apple.com/in/mac/compare/): My personal computer.
 
-+ [One Plus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
++ [iPhone 13 Pro](https://www.apple.com/in/iphone-13-pro/): Primary phone.
+
++ [OnePlus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
 
 + [Spigen Rugged Armor Cover Case](https://www.amazon.in/Spigen-Rugged-Armor-Cover-OnePlus/dp/B06XG19W3G/); Spigen has the best covers.
 
 + [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range.
 
++ [AirPods Pro](https://www.apple.com/in/shop/product/MLWK3HN/A/airpods-pro): pairs with my iPhone and Mac.
+
++ [OnePlus Bullets Wireless Z](https://www.oneplus.in/product/oneplus-bullets-wireless-z): Pairs with my OnePlus 5.
+
 + Kindle Paperwhite (Wi-fi model): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: one for reading non fiction (and take notes) and another for fiction (mostly light reading).
+
++ [Cuzor CZ-01A-12 Power Backup for Router](https://www.flipkart.com/cuzor-cz-01a-12-power-backup-router/p/itmae7daa056ee9d); Enjoy uninterrupted power supply to your router.
 
 + [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Helpful for creating quick mocks. My wife uses it to draw.
 
@@ -93,6 +101,16 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium.
 
++ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android); My main meditation app. I pay for it.
+
++ [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android); Another app I use. I pay for this too.
+
++ [TickTick: ToDo List Planner, Reminder & Calendar](https://play.google.com/store/apps/details?id=com.ticktick.task); Track my tasks usint this app.
+
++ [INDmoney](https://play.google.com/store/apps/details?id=in.indwealth); To invest in the US markets.
+
++ [Binance](https://play.google.com/store/apps/details?id=com.binance.dev); Store my cryptos mostly here.
+
 ## Health
 
 ### Home gym
@@ -118,7 +136,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ### Wellness
 
-+ [Humidifier](https://www.amazon.in/Figment-Essential-Humidifier-Colourful-Humidifiers/dp/B08QJ4F4BN/): Useful purchase.
++ [Allin Exporters Ultrasonic Cool Mist Humidifier](https://www.amazon.in/gp/product/B01M69WCZ6/): Useful purchase.
 
 + [Ekam Fragrance Candles](https://ekamonline.com/collections/chunk-finish-jar/products/vanilla-chunk-ring-jar?lshst=collection): Candles have been a pretty good addition to my life.
 
@@ -128,5 +146,12 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Plants](https://www.ugaoo.com/live-plants.html): Plants are a good happiness hack.
 
++ [Reusable Cool Gel Eye Mask](https://www.amazon.in/gp/product/B0971BQQWM/): Something to relax the eyes after a day of staring at screens.
+
++ [Silk Eye Mask](https://www.amazon.in/gp/product/B01LN8Z6CE/); Very high quality.
+
++ [Casinokart Chip Pack](https://www.amazon.in/gp/product/B07BRZJFKY/); My poker set. Yes, this comes under wellness.
+
++ [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/); For the cosy vibe in your veranda.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
