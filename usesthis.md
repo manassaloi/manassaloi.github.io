@@ -16,7 +16,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [OnePlus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
 
-+ [Spigen Rugged Armor Cover Case](https://www.amazon.in/Spigen-Rugged-Armor-Cover-OnePlus/dp/B06XG19W3G/); Spigen has the best covers.
++ [Spigen Rugged Armor Cover Case](https://www.amazon.in/Spigen-Rugged-Armor-Cover-OnePlus/dp/B06XG19W3G/): Spigen has the best covers.
 
 + [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range.
 
@@ -26,7 +26,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + Kindle Paperwhite (Wi-fi model): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: one for reading non fiction (and take notes) and another for fiction (mostly light reading).
 
-+ [Cuzor CZ-01A-12 Power Backup for Router](https://www.flipkart.com/cuzor-cz-01a-12-power-backup-router/p/itmae7daa056ee9d); Enjoy uninterrupted power supply to your router.
++ [Cuzor CZ-01A-12 Power Backup for Router](https://www.flipkart.com/cuzor-cz-01a-12-power-backup-router/p/itmae7daa056ee9d): Enjoy uninterrupted power supply to your router.
 
 + [Apple iPad (Wi-Fi, 32GB)](https://www.amazon.in/Apple-iPad-Tablet-Wi-Fi-Space/dp/B07C4YKR3J): I spent months agonising over whether to buy it or not. It has turned out to be money well spent. Helpful for creating quick mocks. My wife uses it to draw.
 
@@ -36,7 +36,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Gizga Cable Organiser Manager](https://www.amazon.in/gp/product/B01MSEMS0K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1): Organizing and concealing all types of cables.
 
-+ [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2):  Mostly to play Fifa 21.
++ [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2): Mostly to play Fifa 21.
 
 + [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price.
 
@@ -101,15 +101,15 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium.
 
-+ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android); My main meditation app. I pay for it.
++ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android): My main meditation app. I pay for it.
 
-+ [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android); Another app I use. I pay for this too.
++ [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): Another app I use. I pay for this too.
 
-+ [TickTick: ToDo List Planner, Reminder & Calendar](https://play.google.com/store/apps/details?id=com.ticktick.task); Track my tasks usint this app.
++ [TickTick: ToDo List Planner, Reminder & Calendar](https://play.google.com/store/apps/details?id=com.ticktick.task): Track my tasks usint this app.
 
-+ [INDmoney](https://play.google.com/store/apps/details?id=in.indwealth); To invest in the US markets.
++ [INDmoney](https://play.google.com/store/apps/details?id=in.indwealth): To invest in the US markets.
 
-+ [Binance](https://play.google.com/store/apps/details?id=com.binance.dev); Store my cryptos mostly here.
++ [Binance](https://play.google.com/store/apps/details?id=com.binance.dev): Store my cryptos mostly here.
 
 ## Health
 
@@ -148,10 +148,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Reusable Cool Gel Eye Mask](https://www.amazon.in/gp/product/B0971BQQWM/): Something to relax the eyes after a day of staring at screens.
 
-+ [Silk Eye Mask](https://www.amazon.in/gp/product/B01LN8Z6CE/); Very high quality.
++ [Silk Eye Mask](https://www.amazon.in/gp/product/B01LN8Z6CE/): Very high quality.
 
-+ [Casinokart Chip Pack](https://www.amazon.in/gp/product/B07BRZJFKY/); My poker set. Yes, this comes under wellness.
++ [Casinokart Chip Pack](https://www.amazon.in/gp/product/B07BRZJFKY/): My poker set. Yes, this comes under wellness.
 
-+ [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/); For the cosy vibe in your veranda.
++ [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/): For the cosy vibe in your veranda.
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
