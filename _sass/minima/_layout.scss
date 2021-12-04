@@ -75,7 +75,7 @@
 
   .page-link {
     @include relative-font-size(1);
-    color: $text-color;
+    color: $a-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
