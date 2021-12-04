@@ -11,24 +11,24 @@ So I changed the frame with which how I looked at my past.
 
 All of the things mentioned below are true, but the stories are different.
 
-*I worked for the biggest loyalty startup in India that was acquired by Times Internet; I built a new business line for them that scaled to 25% of their revenue within a year of launch.*
+*"I worked for the biggest loyalty startup in India that was acquired by Times Internet; I built a new business line for them that scaled to 25% of their revenue within a year of launch."*
 
 vs
 
-*Aah, No one remember CouponDunia anymore. Who cares what I did.*
+*"Aah, No one remember CouponDunia anymore. Who cares what I did."*
 
 
-*I was the Product Owner of both Android and iOS mobile apps at Craftsvilla, a USD200M e-commerce company funded by global investors such as Sequoia, Lightspeed, and Nexus Venture Partners.*
-
-vs
-
-*Craftsvilla never lived up to its potential.*
-
-
-*I worked for a bootstrapped unicorn that has run and sold multiple successful product lines; combined sum of a few of them sold exceeds 1B; the product suite that I worked on (has since pivoted) and is now worth multiple hundred millions.*
+*"I was the Product Owner of both Android and iOS mobile apps at Craftsvilla, a USD200M e-commerce company funded by global investors such as Sequoia, Lightspeed, and Nexus Venture Partners."*
 
 vs
 
-*Flock did not become as big as Slack, maybe I was better of choosing company X instead of Directi.*
+*"Craftsvilla never lived up to its potential."*
+
+
+*"I worked for a bootstrapped unicorn that has run and sold multiple successful product lines; combined sum of a few of them sold exceeds 1B; the product suite that I worked on (has since pivoted) and is now worth multiple hundred millions."*
+
+vs
+
+*"Flock did not become as big as Slack, maybe I was better of choosing company X instead of Directi."*
 
 Tell the better story to yourself. It will not just define who you are, but also who you become.
