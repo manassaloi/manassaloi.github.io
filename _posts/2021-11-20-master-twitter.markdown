@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Master post] Twitter"
+title:  "[Twitter Master Post] My ramblings about Twitter"
 ---
 
 Posts written about my Twitter usage:

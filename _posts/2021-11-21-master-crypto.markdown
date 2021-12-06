@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Master post] Crypto"
+title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
