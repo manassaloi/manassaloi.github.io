@@ -13,6 +13,6 @@ Yes, Donald Trump is a narcissist, but there is no denying that he has charisma.
 
 Same with Louis CK. He is a creep. But he is funny. If you want to learn how to be a better standup comic would you watch his videos or someone else? You don't have to support him as a standup comedian. You don't have to watch his content. But don't argue now that he is not funny just because he got canceled. He is a despicable human being, but he is funny.
 
-Not original thoughts, here is a [blogpost by Derek Sivers](https://sive.rs/you-not-them) saying the same thing.
+Not an original thought, here is a [blogpost by Derek Sivers](https://sive.rs/you-not-them) saying the same thing.
 
 P.S If you have not read Sivers' new book Hell Yeah or No, you should.
