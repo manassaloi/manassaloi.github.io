@@ -6,8 +6,6 @@ title:  "Dunzo and Swiggy"
 
 I have a lot of free time (and hence have probably discussed Swiggy, Dunzo with enough people already). The most common statement people make is that Dunzo is trying to become Swiggy. Or that Swiggy is going to kill Dunzo soon.
 
-This thread discusses the evolution of both.
-
 I think the best thing Dunzo did to differentiate from other Delivery apps was to become a Concierge app. Instead of trying to compete with Swiggy, Zomato on Food or BigBasket on Groceries they became an on demand app which gave you everything and operated only in a particular area (Bangalore).
 
 Want to get your laundry? Use Dunzo. Want to get Cigarettes late night? Use Dunzo
