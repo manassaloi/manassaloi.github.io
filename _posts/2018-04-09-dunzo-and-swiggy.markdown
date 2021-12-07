@@ -4,14 +4,6 @@ title:  "Dunzo and Swiggy"
 
 ---
 
-Yesterday, I read a post on why Meituan’s IPO would leave Investors hungry, and tweeted out the following
-
-![](https://cdn-images-1.medium.com/max/2448/0*y6u6Ax4OBQj0q6kD)
-
-This followed a tweet storm where I tried to discuss the future of On-demand and [why the best option for Dunzo is to become Swiggy, and for Swiggy to become Meituan.](https://twitter.com/manas_saloi/status/1036498749726412801)
-
-**The entire tweet storm as a post:**
-
 I have a lot of free time (and hence have probably discussed Swiggy, Dunzo with enough people already). The most common statement people make is that Dunzo is trying to become Swiggy. Or that Swiggy is going to kill Dunzo soon.
 
 This thread discusses the evolution of both.
@@ -46,11 +38,9 @@ What happens to Dunzo?
 
 I think unless Dunzo raises a massive round they will probably sell themselves to one of the bigger players. There is no tech play here. Everything is around distribution, launching more categories and improving unit economics to a point where you can IPO in NASDAQ. Or before that some Chinese Behemoth (maybe even Meituan) acquires you. Meituan has already invested in Swiggy’s series F. So this is not far fetched.
 
-/end
-
 **P.S** One thing I missed mentioning is how much I love Dunzo. Probably it has the highest NPS score in its category. People rave about it. :)
 
-**P.P.S** A friend commented on the thread: You’d be very surprised about the Dunzo power user :)
+**P.P.S** A friend commented: You’d be very surprised about the Dunzo power user :)
 
 **My reply:** Maybe power user is the wrong term. The goal of every product is to move the user across the AARRR funnel. And if you are a retention PM, you spend your days trying to figure out how to increase the retained cohort. For me I was maybe loosely classifying users who are retained and use Dunzo once a week as a power user. That means they are using Dunzo atleast 5 times a month which is not a bad number. I am sure there are people who will be using 20 times. But for me I would just try to plot a histogram and see the frequency of usage. I am pretty sure most users who Dunzo classified as retained users don’t use the product 20 times a month. I am betting it is much lower than that.
 
