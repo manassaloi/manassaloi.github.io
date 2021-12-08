@@ -5,7 +5,7 @@ permalink: /proofofwork/
 ---
 (Proof of Work)
 
-### Gojek ###
+### Gojek (~3 years) ###
 
 - **October 2021 - Now**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
@@ -50,7 +50,7 @@ permalink: /proofofwork/
 
 (Manager's recommendation on Twitter)
 
-### Directi ###
+### Directi (~2 years) ###
 
 - **Dec 2016 - Nov 2018**
 - Flock is a leading enterprise collaboration platform owned by Directi. I was the PM looking at long term retention for our users. [press](https://www.financialexpress.com/industry/flock-messaging-apps-makes-communication-seamless-brings-team-together/633182/)
@@ -62,7 +62,7 @@ permalink: /proofofwork/
 ![Madhur's reco](/assets/img/madhur_reco.png)
 (Hiring Manager's recommendation on Linkedin)
 
-### Craftsvilla ###
+### Craftsvilla (~1 year) ###
 
 - **Jan 2016 - Sep 2016**
 - I was the Product Owner of both Android and iOS mobile apps. I rebuilt the Android app from scratch. [press](https://economictimes.indiatimes.com/small-biz/startups/craftsvilla-bets-on-customisation-to-drive-more-traffic-to-its-app/articleshow/51183666.cms)
@@ -79,7 +79,7 @@ permalink: /proofofwork/
 ![Ranjit reco](/assets/img/ranjit_reco.png)
 (Hiring Manager's recommendation on Linkedin)
 
-### CouponDunia ###
+### CouponDunia (~1 year) ###
 
 - **Dec 2014 - Dec 2015**
 - CouponDunia is India’s largest digital coupon marketplace. It was acquired by Times Internet in 2014.
@@ -96,7 +96,7 @@ permalink: /proofofwork/
 ![Sameer reco](/assets/img/sameer_reco.png)
 (Hiring Manager's recommendation in the form of a mail sent to the company)
 
-### Kore ###
+### Kore (~1.5 years) ###
 
 - **Aug 2013 - Nov 2014**
 - Kore pivoted and became Kore.ai, a bot platform in 2016. Before that, Kore was a messaging platform for enterprises. [press](https://www.pcworld.com/article/3035098/these-two-startups-are-out-to-dethrone-slack.html)
