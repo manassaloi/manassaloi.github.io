@@ -13,7 +13,6 @@ permalink: /proofofwork/
   - Shipped GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
   - Launched our B2B product GoCorp in Singapore.
   - Shipped Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
-  - Led the launch of our 4W service GoCar in Vietnam. [press](https://www.techinasia.com/gojek-officially-launches-gocar-vietnam-years-debut)
   - Launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
   - Shipped a new suscription pass product for Singapore to improve incremental transactions and boost customer loyalty.
 
@@ -21,7 +20,7 @@ permalink: /proofofwork/
 - Manager, Growth and Key Initiatives (GKI), Transport. Managed a team of 3 PMs.
   - Own Service Excellence: all safety related features in Transport, is in charge of improving service quality of our Transport products, the Tipping experience and Comms with customers (Call Masking, Customer Support).
   - Led the launch of our Taxi product in Singapore. [press](https://asia.nikkei.com/Business/Technology/Gojek-starts-car-hailing-service-in-Vietnam-in-challenge-to-Grab)
-  - Launched our 4W product GoCar in Vietnam. [press](https://mothership.sg/2021/05/gojek-book-taxis-directly-gotaxi/)
+  - Launched our 4W product GoCar in Vietnam. [press](https://www.techinasia.com/gojek-officially-launches-gocar-vietnam-years-debut)
   - Run GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
   - Shipped a premium schedule a ride feature.
   - Own the loyalty levers for Transport: Subscription, Bundles, GoClub, Vouchers, Missions.
