@@ -28,7 +28,7 @@ What they really want you to do is:
 - [Specs for your projects](https://manassaloi.com/2020/01/23/product-spec-twitter-messages.html) with a clear why, what and how
 - [Learnings post MVP launch](https://manassaloi.com/2020/12/07/research.html) should dictate what does in the subsequent versions
 - [A GTM doc](https://docs.google.com/presentation/d/1M_j0F-IuqgaGfHPfvOh1ssBudpA_Wyp6VoHA46uOr80/mobilepresent?slide=id.ga75a1f0c16_0_1094) if you are launching a completely new product or a business line
-- [Business equation](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing)
+- [Business equation](https://manassaloi.com/2021/09/25/think-growth.html)
 - [Send monthly update](https://docs.google.com/document/d/1VN5dv78EQwJkm3xhZP765tyXdTqEViVcaPVqB10m1OY/edit?usp=sharing) to align and update your stakeholders
 
 You will find dozens of these process documents here: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
