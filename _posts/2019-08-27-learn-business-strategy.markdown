@@ -33,28 +33,7 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes.
 
-### Books I plan to read in the future
-
-- [Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
-- [Thinking Strategically](https://www.amazon.com/Thinking-Strategically-The-Competitive-Edge-in-Business-Politics-and-Everyday-Life/dp/0393310353/)
-- [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
-- [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
-- [Positioning: The Battle for Your Mind](https://www.goodreads.com/book/show/760025.Positioning_The_Battle_for_Your_Mind_How_to_Be_Seen_and_Heard_in_the_Overcrowded_Marketplace)
-- [The Lords of Strategy](https://www.amazon.com/gp/product/1591397820/)
-- [Great by Choice](https://www.amazon.com/gp/product/0062120999/)
-- [Modern Monopolies](https://www.goodreads.com/en/book/show/26114480)
-- [Boyd: The Fighter Pilot Who Changed the Art of War](https://www.goodreads.com/book/show/38840.Boyd)
-- [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/)
-- [Wardley maps](https://medium.com/wardleymaps)
-- [The Strategy Paradox](https://www.amazon.com/Strategy-Paradox-Committing-Success-Failure/dp/0385516223)
-- [Competition Demystified](https://www.amazon.com/dp/1591841801/)
-- [Strategy Beyond the Hockey Stick](https://www.goodreads.com/en/book/show/37916972)  
-- [Certain to Win](https://www.amazon.com/Certain-Win-Strategy-Applied-Business-ebook/dp/B0793SDYSM)
-- [The Luxury Strategy](https://www.goodreads.com/book/show/4717945-the-luxury-strategy)
-- [The End of Competitive Advantage](https://www.goodreads.com/book/show/15824360-the-end-of-competitive-advantage)
-- [Seven Strategy Questions: A Simple Approach for Better Execution](https://www.goodreads.com/book/show/9556216-seven-strategy-questions)
-
-### Additional links
+### Additional reads
 
 - [Good Product Strategy, Bad Product Strategy](https://medium.com/@shreyashere/good-product-strategy-bad-product-strategy-826cdfe74818)
 - [Strategy and Tactics](https://medium.com/@radoshi/strategy-and-tactics-e8ee921665a2)
@@ -99,3 +78,24 @@ I read them long back. Have to re read and take notes.
 - [Connecting the Dots: From Vision to Execution](https://debliu.substack.com/p/connecting-the-dots-from-vision-to)
 
 Masterclass I completed on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
+
+### Books I plan to read in the future
+
+- [Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
+- [Thinking Strategically](https://www.amazon.com/Thinking-Strategically-The-Competitive-Edge-in-Business-Politics-and-Everyday-Life/dp/0393310353/)
+- [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
+- [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
+- [Positioning: The Battle for Your Mind](https://www.goodreads.com/book/show/760025.Positioning_The_Battle_for_Your_Mind_How_to_Be_Seen_and_Heard_in_the_Overcrowded_Marketplace)
+- [The Lords of Strategy](https://www.amazon.com/gp/product/1591397820/)
+- [Great by Choice](https://www.amazon.com/gp/product/0062120999/)
+- [Modern Monopolies](https://www.goodreads.com/en/book/show/26114480)
+- [Boyd: The Fighter Pilot Who Changed the Art of War](https://www.goodreads.com/book/show/38840.Boyd)
+- [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/)
+- [Wardley maps](https://medium.com/wardleymaps)
+- [The Strategy Paradox](https://www.amazon.com/Strategy-Paradox-Committing-Success-Failure/dp/0385516223)
+- [Competition Demystified](https://www.amazon.com/dp/1591841801/)
+- [Strategy Beyond the Hockey Stick](https://www.goodreads.com/en/book/show/37916972)  
+- [Certain to Win](https://www.amazon.com/Certain-Win-Strategy-Applied-Business-ebook/dp/B0793SDYSM)
+- [The Luxury Strategy](https://www.goodreads.com/book/show/4717945-the-luxury-strategy)
+- [The End of Competitive Advantage](https://www.goodreads.com/book/show/15824360-the-end-of-competitive-advantage)
+- [Seven Strategy Questions: A Simple Approach for Better Execution](https://www.goodreads.com/book/show/9556216-seven-strategy-questions)
