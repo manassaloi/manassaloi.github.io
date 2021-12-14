@@ -5,7 +5,7 @@ title:  "How to be strategic"
 
 'Hey Manas, You are not there yet when it comes to strategy. You can get things done, but you need to develop your strategy skills.' This is a feedback I got repeatedly from one of my past managers.
 
-For a long time in my career, I had this reputation of someone who is a terrific execution guy - who gets shit done, but does not long term/strategically. As I wanted to grow into a more senior role, I naturally decided to learn the mysterious strategic skills that was holding me back.
+For a long time in my career, I had this reputation of someone who is a terrific execution guy - who gets shit done, but does not think long term/strategically. As I wanted to grow into a more senior role, I naturally decided to learn the mysterious strategic skills that was holding me back.
 
 I read like a dozen books and hundreds of posts on competitive strategy. Not an exaggeration. I literally read a [dozen books](https://manassaloi.com/2019/08/27/learn-business-strategy.html).
 
