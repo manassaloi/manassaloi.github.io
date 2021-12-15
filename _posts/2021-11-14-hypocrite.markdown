@@ -29,7 +29,7 @@ I joke about people playing distribution games on Twitter but I also tweet out s
 
 I think of it as holding multiple thoughts in my head. Not all of them will be coherent. I might contradict myself on a daily basis. I am fine with it.
 
-Does this make me a hypocrite? Yes, maybe. Will I block you if you call me that on Twitter? Also Yes.
+Does this make me a hypocrite? Yes, maybe. Will I mute/ block you if you argue with me on Twitter? Also Yes.
 
 I will write about VCs' relentless enthusiasm on Twitter and the cheap interest rates leading to frothy valuation, while also telling my entrepreneur friends to use this opportunity to accumulate capital. This is once in a decade market I tell them. Do I want a correction in valuations of Indian startups or do I want the one unicorn/ a week times to continue?
 
