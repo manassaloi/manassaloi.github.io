@@ -10,6 +10,7 @@ layout: page
 - I don't have tags on my website. Master posts related to all topics can be found [here](https://manassaloi.com/links/).
 - Summaries of 100+ non-fiction books I have enjoyed reading can be found [here](https://manassaloi.com/booksummaries/).
 - I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
-- My credentials: [POW.](https://manassaloi.com/proofofwork/)
+- I like using bullet points.
+- My credentials can be found here: [POW.](https://manassaloi.com/proofofwork/)
 
 Thanks for checking out my blog. Have a great day 🤗
