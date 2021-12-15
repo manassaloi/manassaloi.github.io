@@ -50,6 +50,16 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 19. [Feed on people's confirmation bias.](https://manassaloi.com/2021/09/20/confirmation-bias.html)
 
+20. Mental models and biases is an evergreen topic. You can tweet them every month, with minor variations.
+
+21. Ask questions to your followers: Ask something like 'What mental models do you use at work?' The question should be broad so that you can get more replies.
+
+22. Keep tweeting Probably Nothing on all major crypto news.
+
+23. Simp VCs. Retweet old things they had posted, and comment how right they were.
+
+24. Investment advice is evergreen. Use 'If you had invested X in Y on Z date, by Z + W years, you'd be sitting on V'. This tweet always gets the numbers. 
+
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
