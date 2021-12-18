@@ -5,7 +5,7 @@ title:  "Why Elon Musk is fascinating"
 
 I think I can finally understand why Elon Musk is such an enigma and someone we can't stop talking about.
 
-In a world where people have to choose between the powers of free speech, money, and prestige (recognition from peers), Elon is the only one who has all 3.
+In a world where people have to choose between the powers of free speech, money, and prestige (recognition from peers), Elon Musk is the only one who has all 3.
 
 Most CEOs and execs, no matter how rich and successful, can get canceled over a single tweet. Hence they have turned into railway station announcers on social media churning pithy quotes and congratulatory messages. 
 
