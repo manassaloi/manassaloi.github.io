@@ -39,7 +39,7 @@ I think of it as holding multiple thoughts in my head; not all of them coherent.
 
 Does this make me a hypocrite? Yes, maybe.
 
-Withing 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorously thought out. In the end I am also playing status games. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
+Within 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorously thought out. In the end I am also playing status games. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
 
 My POW(Proof Of Work) page is to signal that I don't merely ship shitposts, I ship high impact projects too.
 
