@@ -3,7 +3,7 @@ layout: post
 title:  "Becoming an LP in a16z"
 ---
 
-VC is 
+Venture Capital is 
 - Sourcing deals
 - Getting allocation
 - Getting allocation at the right price
