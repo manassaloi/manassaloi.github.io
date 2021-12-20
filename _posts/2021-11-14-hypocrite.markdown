@@ -19,7 +19,7 @@ Does it matter?
 
 I don't comsider myself a web3 bull or a bear. I don't like putting labels on myself. Once you put a label on yourself, you fall a victim to path dependence and your identity becomes justifying that label.
 
-I have been skeptical about [web3](https://manassaloi.com/2017/01/22/why-i-am-not-crazy-about-blockchain-yet.html) in the past, but if I convince myself that it is the future, I won't think twice before jumping ship.
+I have been skeptical about [web3](https://manassaloi.com/2017/01/22/why-i-am-not-crazy-about-blockchain-yet.html) in the past, but if I can convince myself that it is the future, I won't think twice before jumping ship.
 
 I will talk about Adhaar's lack of security and all the leaks that has happened one year, a few years later I will say that it has greatly improved my life. It does not seem contradictory to me.
 
