@@ -3,11 +3,9 @@ layout: post
 title:  "Becoming an LP in a16z"
 ---
 
-[One of the most popular theses in VC is giving access to the masses what was earlier accessible only to rich folks](https://twitter.com/sulemanali/status/1470424523946090498?s=20).
+[One of the most popular theses in VC is giving access to the masses what was earlier accessible only to rich folks](https://twitter.com/sulemanali/status/1470424523946090498?s=20). Let's see how web3 might do this for investing in early startups.
 
-Let's see how web3 might do this for investing in early startups.
-
-Venture Capital is 
+Venture Capital involes:
 - Sourcing deals
 - Getting allocation
 - Getting allocation at the right price
@@ -32,7 +30,7 @@ In mega success stories like OpenSea that has not participated in a token sale, 
 You can enter anytime and exit anytime in web3. Just like public markets. That can be a feature or a bug. Bug because you won’t think in terms of a 10 year horizon. So you might give up when you see a company struggle. A web3 company is essentially acting like a public company before PMF.
 
 Let's say crypto follows even a more extreme version of power law. Losers and mediocre winners are same. What returns 3X the fund are winners that give 10000% returns. So will you be able to participate in a follow on sale like a16z can?
-Entry is sorted for you. Just copy a16z. See which token sales they are participating in and ape in.What about exit?
+Entry is sorted for you. [Just copy a16z](https://airtable.com/shruDW8z8mm0FHkkg/tblnXrSzudoRKsSFe). See which token sales they are participating in and ape in.What about exit?
 
 You don’t want to be like Abhimanyu. Just know one thing.
 
