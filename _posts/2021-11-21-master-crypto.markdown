@@ -4,6 +4,7 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Becoming an LP in a16z](https://manassaloi.com/2021/12/16/lp-a16z.html)
 - [Web3 learning resources](https://manassaloi.com/2021/11/21/crypto-learning-list.html)
 - [Narratives and implementation details](https://manassaloi.com/2021/11/17/narrative-implementation-details.html)
 - [Relentless optimism](https://manassaloi.com/2021/11/15/relentless-optimism.html)
