@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Becoming an LP in a16z"
+---
+
+VC is 
+- Sourcing deals
+- Getting allocation
+- Getting allocation at the right price
+- Doubling down on winners (pro rata)
+- Ability to exit at better terms (liquidation preference)
+- Helping portfolio companies (we have seen with the rise of tiger global, companies really just want abundant cheap capital and to be left alone)
+
+A top VC is a master at all of these. You and me can’t probably get access to these like Seq Cap can.
+
+Price of entry different generally. A top VC with a strong brand can always get better price. In web2 there are a lot of mediocre VCs who blindly followed Seq Cap. Deal sourcing would be outsourced to them implicitly. If they can’t get on the same round, they would enter in the next.
+
+VC is barbell. The best VCs capture most of the return of the industry. Sensible to only invest into top quartile VC funds. If you are thinking about portfolio allocation it would make sense to be an LP in Seq Cap. But sadly you can’t become an LP in a Seq Cap fund (most LPs are endowment funds etc. Seq Cap does not need your money.)
+
+Now let’s see how this changes with Web3.
+
+Let's say A16z is Seq Cap of web3 era and they will capture most of the returns from this industry. The beauty of web3 is that ownership is generally through token sales that anyone can participate it. So from day 1 (if a token sale happens) a web3 company lets anyone get the upside that was earlier reserved only for top VCs earlier. All you need to do is outsource the sourcing and pricing to a16z and jump.
+
+Note: Obviously your terms won’t be same as a16z. They will probably buy tokens at a discount. You won’t get pro rata or liquidation preference. First is important for doubling down on winners. Second for losers. Do they have pro rata in web3? I am not sure. I am not Packy. I am writing out of my ass. Also it is not just about choosing the companies, it is also allocation. You won’t know how a16z Is distributing their capital amongst these companies. Right allocation will impact the return. You won’t also have insider info. That was the difference between private and public markets earlier. Now someone can trade based on insider info on web3, but you can’t. So obviously the playing field is not same.
+
+In mega success stories like OpenSea that has not participated in a token sale, you can't get ownership. They are planning to IPO instead. So your actual return might not match a16z's who invested in OpenSea. A single company can change the outcome of a fund. So this strategy might not work if the winners don’t do token sale.
+
+You can enter anytime and exit anytime in web3. Just like public markets. That can be a feature or a bug. Bug because you won’t think in terms of a 10 year horizon. So you might give up when you see a company struggle. A web3 company is essentially acting like a public company before PMF.
+
+Let's say crypto follows even a more extreme version of power law. Losers and mediocre winners are same. What returns 3X the fund are winners that give 10000% returns. So will you be able to participate in a follow on sale like a16z can?
+Entry is sorted for you. Just copy a16z. See which token sales they are participating in and ape in.What about exit?
+
+You don’t want to be like Abhimanyu. Just know one thing.
+
+I think there will be soon web3 products that will let you mimic the strategy of crypto only VC funds. With one click you will be able to get the same tokens a16z is holding today. Something like Smallcase, but for web3. This is the tl;dr of this long rambling post.
