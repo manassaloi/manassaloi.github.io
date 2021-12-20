@@ -3,7 +3,7 @@ layout: post
 title:  "Becoming an LP in a16z"
 ---
 
-[One of the most popular theses in VC is giving access to the masses what was earlier accessible only to rich folks](https://twitter.com/sulemanali/status/1470424523946090498?s=20). Let's see how web3 might do this for investing in early startups.
+One of the most popular theses in VC is [giving access to the masses what was earlier accessible only to rich folks](https://twitter.com/sulemanali/status/1470424523946090498?s=20). Let's see how web3 might do this for investing in early startups.
 
 Venture Capital involes:
 - Sourcing deals
