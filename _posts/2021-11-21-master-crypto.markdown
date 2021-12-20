@@ -4,6 +4,7 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Linkedin for web3](https://manassaloi.com/2021/12/17/linkedin-web3.html)
 - [Becoming an LP in a16z](https://manassaloi.com/2021/12/16/lp-a16z.html)
 - [Web3 learning resources](https://manassaloi.com/2021/11/21/crypto-learning-list.html)
 - [Narratives and implementation details](https://manassaloi.com/2021/11/17/narrative-implementation-details.html)
