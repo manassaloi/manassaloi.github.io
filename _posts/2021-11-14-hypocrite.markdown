@@ -43,6 +43,8 @@ Within 2 hours of meeting a friend yesterday, he managed to convince me that I a
 
 I also have far more honest discussions with my friends than the average person as they know I won't bullshit and share surface level politically correct takes. I am who I am: rough on the edges, aware enough to know when I am bullshitting. I realised the benefit of posting takes like these much later in life, when I suddenly found very smart (and somewhat successful) people reach out to me on Twitter and wanting to have honest discussions about the things I post online.
 
+Again, not the most optimal strategy for career growth. Ideally you would not want to burn any bridges, but following my Twitter strategy of optimising on bluntless can definitely help you make new friends who share a similiar worldview.
+
 My POW(Proof Of Work) page is to signal that I don't merely ship shitposts, I ship high impact projects too.
 
 I have been honest about not being consistent with my thoughts. I have changed my mind on [a bunch of things](https://manassaloi.com/2020/04/01/strong-opinions-weakly-held.html).
