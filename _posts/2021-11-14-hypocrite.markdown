@@ -41,11 +41,13 @@ Does this make me a hypocrite? Yes, maybe.
 
 Within 2 hours of meeting a friend yesterday, he managed to convince me that I am also signalling like the rest of them, my signal being that I can tweet out of free will, avoid group think, and my takes are more rigorously thought out. In the end I am also playing status games. Maybe the fact that I am writing a blogpost called 'Am I a hypocrite?' is also signalling. And I agree.
 
+I also have far more honest discussions with my friends than the average person as they know I won't bullshit and share surface level politically correct takes. I am who I am: rough on the edges, aware enough to know when I am bullshitting. I realised the benefit of posting takes like these much later in life, when I suddenly found very smart (and somewhat successful) people reach out to me on Twitter and wanting to have honest discussions about the things I post online.
+
 My POW(Proof Of Work) page is to signal that I don't merely ship shitposts, I ship high impact projects too.
 
 I have been honest about not being consistent with my thoughts. I have changed my mind on [a bunch of things](https://manassaloi.com/2020/04/01/strong-opinions-weakly-held.html).
 
-As [this](https://twitter.com/BroductManager/status/1441503972947206146) tweet states, there is no alpha in ideological consistency. All of us are hypocrites at some level. But I at least try to understand my hypocrisy and my biases. Do deeper on why I am the way I am. Why I believe what I believe. 
+As [this](https://twitter.com/BroductManager/status/1441503972947206146) tweet states, there is no alpha in ideological consistency. All of us are hypocrites at some level. But I at least try to understand my hypocrisy and my biases. Go deeper on why I am the way I am. Why I believe what I believe. 
 
 I recommend you all to do the same. If you have a strong opinion, then ask why. See if you can argue the opposite side. 
 
