@@ -343,5 +343,6 @@ Date: Tuesday 24th March
 
 + [PM Interview Questions](https://manassaloi.com/2020/02/01/pm-interview-questions.html)
 + [PM Interview Questions 2](https://manassaloi.com/2020/06/18/pm-interview-questions-2.html)
++ [Aristos tldr: Interview Prep Guide](https://docs.google.com/document/d/1TOzV7CyyiSD9kO55RCjOOKVmVCMf8AfplHfY0Jl6Ejw/edit?usp=sharing)
 
 **/end**

@@ -6,8 +6,6 @@ title:  "How to negotiate during a job hunt"
 
 I had written the original [thread](https://twitter.com/manas_saloi) a few months back. I generally save some of my longer threads to turn them into blogposts later. Somehow forgot to do it for this thread and later people started asking me for the thread later on DM (because my tweets delete in X weeks). Thankfully [Gowtham, a friend](https://twitter.com/trailsofinju) had taken screenshots of the thread and saved them for later use. This post is constructed turning by those screenshots into text thanks to this [Online OCR site](https://www.onlineocr.net/) because I am too lazy to write the whole thing again :)
 
-**</threadstarts>**
-
 A lot of people (especially juniors from college) ask me for advice around job switches and the thing most discussed is compensation and how to get a better hike.
 
 Here is a short thread around pay hike negotiation.
@@ -76,8 +74,10 @@ I have had friends who got options at early stage startups but never got a docum
 
 Know that exploding offers are given just to put pressure on you. Companies spend months trying to hire the right candidate. They won't change their mind if you take an extra week to decide. I took more than a month to decide which offer to take (I had 3 options). Though out the process I was in touch with the TA, Hiring Manager and even other members of the Interview Panel. If you are good they will wait. Unless you are being super un reasonable and they know you are just fishing for other offers and keeping them as a backup option.
 
+The longer a hiring manager has the role open, the more desperate they will be to hire. Use this to your advantage.
+
 If you don't get the desired base pay, know that there is always a scope to get a higher joining bonus added or load more stock options to your package. Most TAs as well as Hiring Managers focus on keeping the base pay as low as possible. This is because they don't want a huge salary gap between two people working in the same role. To compensate they would always be willing to negotiate on the other components of the job package: Joining bonus, Retention bonus, ESOPs, RSUs and maybe even the job title.
 
 The best way to get companies to up their offer and compete for your signature is by signalling value. The easiest way to signal value is by getting offers from places, that the company considers superior to them or direct competitors.
 
-**</threadends>**
+Check out this thread on [negotiating better by my friend Gokul](https://twitter.com/gokulns/status/1471541184233459723).
