@@ -7,52 +7,36 @@ title:  "How to plan for H1 '22 as a PM"
 
 - If your team does not have a charter and gets pulled into ad hoc projects, now is the time to [create one](https://docs.google.com/document/d/1Ssdq_GLyPFsxITzRfRR6aV3JErB3_VFsBhUmOj_4H0M/edit?usp=sharing). A charter explains why your team exists. The charter should also helps map what you do to what is important for the company.
 
-- Define who your stakeholders are and their needs. A lot of time a team is not aware of the same, especially platform teams.
+- Define who your stakeholders are and their needs. A lot of time a team is not aware of the same, especially platform teams. Refer to the charter document shared above for the same.
 
-Refer to the charter document shared above for the same.
-
-- Clean up your [backlog](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit?usp=sharing) before you plan your OKRs. Identify [key themes](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit?usp=sharing). People should know what the focus areas are. No one remembers each project you will do in a semester, but it is easier to align stakeholders if you can clearly highlight your themes. The key themes for the 4 streams that GKI ran in 2021 (H1 and H2 combined) are shared below.
-  - Core Growth: Resurrection of users lost during covid, build the experimentation platform + run more experiments, give the best loyalty experience to our customers, personalized experience.
-  - Service Excellence: Launching new services (launched close to 7 new services), reducing customer tickets, giving the best safety experience during covid.
-  - GoCorp: Scaling our B2B product in Indo, launching in Singapore.
-  - Product Engg Platform: Faster time to launch new services.
-
-Be clear about the themes from the beginning of the semester as they will directly map to the OKRs you set.
-
-It also helps you explain easily what your focus areas are for the semester. Execs won't remember each project. They will remember the themes and why they are important.
+- Clean up your [backlog](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit?usp=sharing) before you plan your OKRs. Identify [key themes](https://docs.google.com/spreadsheets/d/1FbGVvFG4bPkazM-7AJb4Ukjv7X4Ho8oZStT1lJX23sI/edit?usp=sharing). People should know what the focus areas are. No one remembers each project you will do in a semester, but it is easier to align stakeholders if you can clearly highlight your themes.
+  - The key themes for the 4 streams that GKI ran in 2021 (H1 and H2 combined) are shared below.
+    - Core Growth: Resurrection of users lost during covid, build the experimentation platform + run more experiments, give the best loyalty experience to our customers, personalized experience.
+    - Service Excellence: Launching new services (launched close to 7 new services), reducing customer tickets, giving the best safety experience during covid.
+    - GoCorp: Scaling our B2B product in Indo, launching in Singapore.
+    - Product Engg Platform: Faster time to launch new services.
+  - Be clear about the themes from the beginning of the semester as they will directly map to the OKRs you set.
+  - It also helps you explain easily what your focus areas are for the semester. Execs won't remember each project. They will remember the themes and why they are important.
 
 - Use the themes to plan your OKRs.
-
-How I do OKRs is here: [OKRs planning](https://manassaloi.com/2021/07/04/okrs-planning-evolution.html)
-
-You can copy [this doc](https://docs.google.com/document/d/1DszNh1PTsSfYaO7o7tiIftSqaLjorrB5RQqptGlwcZ8/edit?usp=sharing) to plan your theme based OKRs.
-
-Just copy this process. It works. We have been doing some version of it for 3 years.
+  - How I do OKRs is here: [OKRs planning](https://manassaloi.com/2021/07/04/okrs-planning-evolution.html)
+  - You can copy [this doc](https://docs.google.com/document/d/1DszNh1PTsSfYaO7o7tiIftSqaLjorrB5RQqptGlwcZ8/edit?usp=sharing) to plan your theme based OKRs.
+  - Just copy this process. It works. We have been doing some version of it for 3 years.
 
 - Do [cross team prioritization and alignment](https://docs.google.com/spreadsheets/d/1WFl2ti233N3qelwGcKM04rIAinW2sFzJjrqjmribrRI/edit?usp=sharing) before the semester begins. If you are going to be dependent on other teams, highlight the dependency before the semester begins. Don't wait for your project to start and then get stuck.
+  - This is one of the highest leverage activities you can do as a Product Lead.
+  - Once you have planned your OKRs, create a separate 6 months roadmap of the initiatives. Instead of the entire OKR process, you can use this roadmap to align stakeholders on timelines.
 
-This is one of the highest leverage activities you can do as a Product Lead.
-
-Once you have planned your OKRs, create a separate 6 months roadmap of the initiatives. Instead of the entire OKR process, you can use this roadmap to align stakeholders on timelines.
-
-- Socialize this roadmap. Share this with as many stakeholders as relevant.
-
-We share this roadmap with our entire org. You can also create a short deck for execs if relevant with projects picked and their estimated impact.
+- Socialize this roadmap. Share this with as many stakeholders as relevant. We share this roadmap with our entire org. You can also create a short deck for execs if relevant with projects picked and their estimated impact.
 
 - A lot of PMs put their focus on the prioritized items. Equally important is alignment on the items NOT PICKED. You don't want the semester to start and your VP of Product/CEO to come and ask you to pick project X instead of the ones prioritized and shared in the roadmap.
+  - I like everyone (at least the relevant stakeholders) to sign off on my roadmap before the semester begins.
+  - You should also entertain requests from other teams. You don't want your Marketing team to escalate to your CEO saying that some item they wanted was not picked.
 
-I like everyone (at least the relevant stakeholders) to sign off on my roadmap before the semester begins.
-
-You should also entertain requests from other teams. You don't want your Marketing team to escalate to your CEO saying that some item they wanted was not picked.
-
-- If I can't pick up something I clearly mention so.
-
-DON'T LEAVE ROOM FOR AMBIGUITY.
-
-I like everyone from engineering, design, research, BI, strategy, marketing, and any other relevant org I work with closely to comment on the roadmap so that they can also plan their work.
+- If I can't pick up something I clearly mention so. DON'T LEAVE ROOM FOR AMBIGUITY. I like everyone from engineering, design, research, BI, strategy, marketing, and any other relevant org I work with closely to comment on the roadmap so that they can also plan their work.
 
 - Creating a temporary planning channel on Slack helps. I forgot, make sure you pick up items picked in green, TBH in yellow, and not picked in red. This is something we have started doing recently.
 
 h/t my manager for many of these practices.
 
-More templates here: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
+More templates here: [How to run a product team.](https://manassaloi.com/2020/03/23/running-product-team.html)
