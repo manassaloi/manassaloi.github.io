@@ -12,5 +12,3 @@ I realised that Mark Zuckerberg is the ultimate war time CEO who
 - announces lockdowns when under threat
 - wants to crush enemies, takes no prisoners
 - evokes his inner Roman orator, and shouts 'Carthago delenda est'
-
-For you it might be coronavirus, and not Google, which is an existential threat. Reading this blogpost will give you valuable insights on how to fight it.
