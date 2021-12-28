@@ -4,6 +4,8 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Airdrops and incent apps](https://manassaloi.com/2021/12/25/airdrops-incent-apps.html)
+- [The next crypto unicorn](https://manassaloi.com/2021/12/24/next-crypto-unicorn.html)
 - [Linkedin for web3](https://manassaloi.com/2021/12/17/linkedin-web3.html)
 - [Becoming an LP in a16z](https://manassaloi.com/2021/12/16/lp-a16z.html)
 - [Web3 learning resources](https://manassaloi.com/2021/11/21/crypto-learning-list.html)

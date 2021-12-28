@@ -26,3 +26,5 @@ I still feel that some variation of airdrops will be the main lever for customer
 But I am not willing to pretend that we have found some magical pixie dust that solves acquisition. And incentivising user is some new invention by web3 and something ancient web2 companies never thought of. If you pay me, I will also shout from my rooftop about your product. That is not loyalty. Nor does it tell you the true value of your product.
 
 Aaron Levie argues the same [here](https://twitter.com/levie/status/1475029925539180545?s=20), [here](https://twitter.com/coryklippsten/status/1474412906481553411?s=20), and [here.](https://twitter.com/levie/status/1474157888801153024?s=20)
+
+Related read: [Tokens as CAC - Are Crypto Companies More or Less Efficient in Acquiring Customers?](https://tomtunguz.com/tokens-as-cac/)
