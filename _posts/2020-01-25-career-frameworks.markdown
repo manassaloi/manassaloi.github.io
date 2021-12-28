@@ -86,7 +86,7 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 40. [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/); The problem with fast, accurate data.
 
-41. [Your product is your garden](https://herman.bearblog.dev/my-product-is-my-garden/); Teat it like one.
+41. [Your product is your garden](https://herman.bearblog.dev/my-product-is-my-garden/); Treat it like one.
 
 42. [Forget Passion, Focus on Surfing](https://willlawrence.substack.com/p/forget-passion-focus-on-surfing-); Chase Big Waves.
 
