@@ -17,6 +17,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [iPhone 13 Pro](https://www.apple.com/in/iphone-13-pro/): Primary phone.
 
++ [ESR Armorite Screen Protector Guard](https://www.amazon.in/gp/product/B099K69PR6/): Screen protector for my iPhone.
+
++ [ESR Cloud Soft Case](https://www.amazon.in/gp/product/B099K717TV/): iPhone 13 Pro Case with MagSafe.
+
 + [OnePlus 5](https://www.oneplus.in/5): The best bang for the buck phone out there.
 
 + [Spigen Rugged Armor Cover Case](https://www.amazon.in/Spigen-Rugged-Armor-Cover-OnePlus/dp/B06XG19W3G/): Spigen has the best covers.
@@ -24,6 +28,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Sony WH-1000XM3](https://www.amazon.in/Sony-WH-1000XM3-Wireless-Cancellation-Headphones/dp/B07HZ8JWCL): Best noise cancelling headphones out there in 20-30K INR price range.
 
 + [AirPods Pro](https://www.apple.com/in/shop/product/MLWK3HN/A/airpods-pro): pairs with my iPhone and Mac.
+
++ [Sounce Case for AirPods ](https://www.amazon.in/gp/product/B08K8PW1KX/): Protective case.
+
++ [Keyboard Cover for MacBook Air](https://www.amazon.in/gp/product/B08S1MFF1Y/): Protective skin keyboard cover.
 
 + [OnePlus Bullets Wireless Z](https://www.oneplus.in/product/oneplus-bullets-wireless-z): Pairs with my OnePlus 5.
 
