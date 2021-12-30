@@ -126,7 +126,7 @@ Let's see how it went.
 - Bought first US stocks. I am increasing my US exposure massively. Most of my holdings (passive or active is US equities, either through ETFs or direct stock purchase through Indmoney.)
 
 **October**
-- Got promoted to Group Product Manager. I am definitely proud of this the most.
+- Got promoted to Group Product Manager.
 - Visited my wife's family in Coimbatore.
 - Started football training with a proper coach. Could not do more than 2 sessions with him as I broke my elbow playing football with the bois.
 - Got into graphic novels. Spent the entire month reading just that.
