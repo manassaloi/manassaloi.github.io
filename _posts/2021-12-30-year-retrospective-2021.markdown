@@ -161,7 +161,8 @@ Let's see how it went.
 - Seeing so many friends move abroad, Europe and US, did make me think a lot on whether I am making the right decision to stay back here. A lot of mental energy went into figuring out what I really want out of my life and whether I can get them while living in India. I don't want to make decisions based on FOMO. I want to do what makes my life better in the long run.
 - I love learning new things. I get excited whenever I do a new course and learn some new skill. I am planning to do a lot more courses in 2022.
 - I spent way more time shitposting on Twitter than I intended. Failure to cut down my Twitter has been one of the biggest failures of 2021.
-- I loved tracking my monthly highlights. With covid not going anywhere, time willl continue to fly and every day will feel the same. This is one way of me remembering what happened during the year. The highlights I put also implicitly shows what I care about the most.
+- I loved tracking my monthly highlights. It is one way of me remembering what happened during the year. The highlights I put also implicitly shows what I care about the most.
+- With covid not going anywhere, time will continue to fly by and every day will feel the same. This is even more so if you are in your late 20s/early 30s. So I recommend doing a similiar exercise. Ask yourself what did you do this March? Do you remember?
 - This reflection is mostly for me and hence I won't share this on Twitter. Hope this inspires you to write your own.
 
 Want to do your own year end reflections? Try one of the templates mentioned [here](https://manassaloi.com/2020/12/22/questions.html).
