@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflection on 2021: a year without any goal"
+title:  "Reflection on 2021"
 ---
 
 I did not set any goals for 2021. I am a person who is obsessed with systems and [lives his life through daily habits](https://manassaloi.com/2021/11/28/forming-habits.html) and [yearly OKRs](https://manassaloi.com/2020/12/31/okrs-2020-update.html).
@@ -149,6 +149,7 @@ Let's see how it went.
 - Gifted a big chunk of money to my brother to help him buy stocks.
 
 **Random Reflections:**
+- I kept doing the same things that I have always done. Just because I did not set a Goodreads goal did not mean I read less. Just because I dont have analytics on my blog to push myself, I did not write fewer posts.
 - Should have SIPed instead of investing during dips. I kept trying to time the market. And lost out on a lot of the upside. I have set up SIP from Jan'22.
 - I am planning to create my [own money rules](https://www.iwillteachyoutoberich.com/blog/money-rules/) so that I know what I am spending my money on.
 - I could have travelled more. A lot of my frinds utilised the WFH benefit by spending months in Goa/ Himachal.
