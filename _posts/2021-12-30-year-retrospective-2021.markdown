@@ -3,7 +3,7 @@ layout: post
 title:  "Reflection on 2021"
 ---
 
-I did not set any goals for 2021. I am a person who is obsessed with systems and [lives his life through daily habits](https://manassaloi.com/2021/11/28/forming-habits.html) and [yearly OKRs](https://manassaloi.com/2020/12/31/okrs-2020-update.html).
+I did not set any goals for 2021. I am a person who is obsessed with systems and [lives his life through daily habits](https://manassaloi.com/2021/11/28/forming-habits.html) and [yearly OKRs](https://manassaloi.com/2020/12/31/okrs-2020-update.html). So this was new for me.
 
 I wanted to see if I change how I live my day if I don't set any goals.
   - Would I read less?
@@ -136,6 +136,7 @@ Let's see how it went.
 - We learned how to make good curd. The idea is to use full fat milk instead. I was so happy that I ate curd rice for weeks.
 - Gifted sunglasses to my wife. She never had ones that fit, so we were super happy when she found something that did.
 - Invested a small check in my friend's startup. A lot of inbound came this year, but I am not willing to double down on it till I think I have an edge. Spending most of my networth just to update my bio as angel investor is negative ROI.
+- Helped a bunch of startups (mostly started by friends.)
 - Gifted Galaxy S20 FE to my dad.
 - Got a big stock grant. Now most of my network is tied to illiquid private market stocks.
 
@@ -159,6 +160,7 @@ Let's see how it went.
 - Wrote 10+ posts on web3.
 - For the longest time I was worried about money. Growing middle class does it to you. You feel that there is no safety net. You are one recession away from becoming jobless and eventually homeless. I have not had a really close relationship with my family, hence I could never rely on them in case things did not work out for me. Ever since I was a kid, I have been obssessed about reaching a stage in life where I don't have to worry about money anymore. I had a number in my head. I hit that last year. Since then I have been pretty relaxed about gifting things to family, picking the tab when I go out with my friends, even splurging myself if I feel like. Most of my money habits are still linked to that old mental state of fear and loss aversion.
 - I started tracking my daily habits far more aggressively this year. I am not getting any younger. Health has the biggest correlation to happiness, and I need to take it seriously.
+- I want to travel more in 2022 if possible.
 - Seeing so many friends move abroad, Europe and US, did make me think a lot on whether I am making the right decision to stay back here. A lot of mental energy went into figuring out what I really want out of my life and whether I can get them while living in India. I don't want to make decisions based on FOMO. I want to do what makes my life better in the long run.
 - I love learning new things. I get excited whenever I do a new course and learn some new skill. I am planning to do a lot more courses in 2022.
 - I spent way more time shitposting on Twitter than I intended. Failure to cut down my Twitter has been one of the biggest failures of 2021.
