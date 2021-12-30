@@ -57,8 +57,6 @@ Let's see how it went.
 - [The Song of Achilles](https://www.goodreads.com/book/show/11250317-the-song-of-achilles)
 - [24 Hours in Ancient Rome](https://www.goodreads.com/book/show/36204941-24-hours-in-ancient-rome)
 
-Want to do your own year end reflections? Try one of the templates mentioned [here](https://manassaloi.com/2020/12/22/questions.html).
-
 **January**
 - Created v1 of my [wife's website](https://shwetamohandas.com/).
 - Got life insurance.
@@ -161,5 +159,9 @@ Want to do your own year end reflections? Try one of the templates mentioned [he
 - For the longest time I was worried about money. Growing middle class does it to you. You feel that there is no safety net. You are one recession away from becoming jobless and eventually homeless. I have not had a really close relationship with my family, hence I could never rely on them in case things did not work out for me. Ever since I was a kid, I have been obssessed about reaching a stage in life where I don't have to worry about money anymore. I had a number in my head. I hit that last year. Since then I have been pretty relaxed about gifting things to family, picking the tab when I go out with my friends, even splurging myself if I feel like. Most of my money habits are still linked to that old mental state of fear and loss aversion.
 - I started tracking my daily habits far more aggressively this year. I am not getting any younger. Health has the biggest correlation to happiness, and I need to take it seriously.
 - Seeing so many friends move abroad, Europe and US, did make me think a lot on whether I am making the right decision to stay back here. A lot of mental energy went into figuring out what I really want out of my life and whether I can get them while living in India. I don't want to make decisions based on FOMO. I want to do what makes my life better in the long run.
-- I love learning new things. I get excited whenever I do a new course and learn some new skill. I am planning to do a lot more courses in 2022. 
+- I love learning new things. I get excited whenever I do a new course and learn some new skill. I am planning to do a lot more courses in 2022.
 - I spent way more time shitposting on Twitter than I intended. Failure to cut down my Twitter has been one of the biggest failures of 2021.
+- I loved tracking my monthly highlights. With covid not going anywhere, time willl continue to fly and every day will feel the same. This is one way of me remembering what happened during the year. The highlights I put also implicitly shows what I care about the most.
+- This reflection is mostly for me and hence I won't share this on Twitter. Hope this inspires you to write your own.
+
+Want to do your own year end reflections? Try one of the templates mentioned [here](https://manassaloi.com/2020/12/22/questions.html).
