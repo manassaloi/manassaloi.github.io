@@ -130,7 +130,7 @@ Let's see how it went.
 - Started football training with a proper coach. Could not do more than 2 sessions with him as I broke my elbow playing football with the bois.
 - Got into graphic novels. Spent the entire month reading just that.
 - Gifted an iPad to my father in law.
-- Visited a temple. I identified as an atheist for most of my life, but lately have started following the traditions of my religion in an attempt to get more spiritual.
+- [Visited a temple](https://manassaloi.com/2020/05/05/religion.html). I identified as an atheist for most of my life, but lately have started following the traditions of my religion in an attempt to get more spiritual.
 
 **November**
 - We learned how to make good curd. The idea is to use full fat milk instead. I was so happy that I ate curd rice for weeks.

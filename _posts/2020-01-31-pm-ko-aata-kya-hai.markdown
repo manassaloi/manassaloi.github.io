@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PM ko aata kya hain"
+title: "What does a PM know anyway"
 
 ---
 Recently wrote a thread on the PM role. Turning it into a blogpost (with some minor edits).
@@ -15,9 +15,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - I have heard this joke/comment so many times in my life from various ICs (devs/designer), that I have learned to not engage and just live with it.
 
-- but I could have mentioned how.
-
-- I was one of the earliest members of Redbus' team in North East and single handedly doubled their partnerships in the 2 months I was interning with them.
+- But I could have mentioned how I was one of the earliest members of Redbus' team in North East and single handedly doubled their partnerships in the 2 months I was interning with them.
 
 ![Subho](/assets/img/subho.png)
 
@@ -98,7 +96,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 - Finally this is the reason I read so much. And why with every passing year I want to be at least 10% better in some skill.
 
 - Because I never wanted
-  -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega".
+  -  to be in a room with someone where they are thinking "sala PM hain to kuch bhi bolega/ PM will speak shit just because he can".
   -  to be the person who became a PM because he could not be good in anything.
 
 **/end**
