@@ -146,7 +146,7 @@ Let's see how it went.
 - Bought an iPhone Pro and Airpods Pro for myself.
 - Got Skillshare yearly subscription.
 - Completed 2 photography courses on Skillshare.
-- Gifted a big chunk of money to my brother to help him buy stocks.
+- Gifted ETFs and MFs to my brother.
 
 **Random Reflections:**
 - I kept doing the same things that I have always done. Just because I did not set a Goodreads goal did not mean I read less. Just because I dont have analytics on my blog to push myself, I did not write fewer posts.
