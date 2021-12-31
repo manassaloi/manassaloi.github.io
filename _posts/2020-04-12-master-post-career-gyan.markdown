@@ -62,6 +62,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Senior is a vibe](https://manassaloi.com/2021/11/26/senior-vibe.html)
 - [Are you an NPC?](https://manassaloi.com/2021/11/27/npc.html)
 - [Do your homework](https://manassaloi.com/2021/11/29/do-homework.html)
+- [The stories we tell](https://manassaloi.com/2021/12/07/stories-we-tell.html)
 
 ### Favourite books on Career
 

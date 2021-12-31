@@ -41,6 +41,8 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Why do you want to be productive?](https://manassaloi.com/2021/12/01/productivity-hours.html)
 - [What are you optimising for?](https://manassaloi.com/2021/12/02/optimising.html)
 - [4 things for happiness](https://manassaloi.com/2021/12/03/things-happiness.html)
+- [Updated daily routine](https://manassaloi.com/2021/12/26/daily-routine-2021.html)
+- [Reflection on 2021](https://manassaloi.com/2021/12/30/year-retrospective-2021.html)
 
 ### Favourite books
 
