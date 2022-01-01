@@ -159,12 +159,11 @@ Let's see how it went.
 - Could have bought more crypto, but getting my HDFC UPI blocked due to P2P transactions scared me and I did not bother post that. Mostly lazyness on my part.
 - Met a lot of interesting people.
 - Got deep into the crypto rabbithole. Wrote 10+ posts on web3.
-- For the longest time I was worried about money. Growing middle class does it to you. You feel that there is no safety net. You are one recession away from becoming jobless and eventually homeless. I have not had a really close relationship with my family and hence I could never rely on them in case things did not work out for me. Ever since I was a kid, I have been obssessed about reaching a stage in life where I don't have to worry about money anymore. I had a number in my head. I hit that last year. Since then I have been pretty relaxed about gifting things to family, picking the tab when I go out with my friends, even splurging on things if I feel like.
-- A lot of my money habits are still linked to that old mental state of fear and loss aversion. Something I will be working on in the future.
+- A lot of my money habits are tied to loss aversion. Something I will be working on in the future.
 - Started tracking my daily habits far more aggressively this year. I am not getting any younger. Health has the biggest correlation to happiness and I need to take it seriously.
 - Plan to travel more in 2022 if possible.
 - I will continue taking personal training for the things I want to get better at.
-- Seeing so many friends move abroad, Europe and US, did make me think a lot about my career and life choices; about whether I am making the right decision to stay back here. I spent a lot of mental energy on figuring out what I really want out of my life; whether I can get it while living in India. I don't want to make decisions based on FOMO.
+- Seeing so many friends move abroad, Europe and US, did make me think a lot about my career and life choices; about whether I am making the right decision to stay back here. I spent a lot of mental energy on figuring out what I really want out of my life, whether I can get it while living in India. I don't want to make decisions based on FOMO.
 - I love learning new things. I get excited whenever I do a new course and learn some new skill. I am planning to do a lot more courses in 2022.
 - I spent way more time shitposting on Twitter than I intended. Failure to cut down my Twitter has been one of the biggest failures of 2021.
 - I loved tracking my monthly highlights this year. It is the best way of me remembering what happened during 2021. The highlights I put also implicitly shows what I care about the most.
