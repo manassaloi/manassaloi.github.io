@@ -114,7 +114,7 @@ Let's see how it went.
 - Joined the nearby gym again, this time with a personal trainer. The trainer was an idiot, so did not continue after the first month.
 - Created Indmoney account to invest in foreign markets.
 - Created Metamask, Opensea and other accounts to understand crypto more.
-- Invested in Cred Mint
+- Invested in Cred Mint.
 - Got a 5/5 rating in my performance review. I had always got 4/5 (Exceeds Expectations). This was the first time I got Outstanding. :Feels good man meme:
 - Bought my first tokens: Bitcoin, Etherium, and Matic. My crypto portfolio allocation is less than my one month's rent. I bought these to understand the ecosystem. So please don't take anything I write on crypto as investment advice.
 
