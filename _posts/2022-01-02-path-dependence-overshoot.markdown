@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Path dependence and overshoot"
+---
+
+Path dependence: Once you put a label on yourself, you fall victim to path dependence and your identity becomes justifying that label. Labels can be put either by self or by others.
+
+Keith Rabois self-identifying himself as a contrarian and all his viewpoints revolving around disproving the popular hypothesis is one example of path dependence. At times it works. He made the failure of SF and the comeuppance of Miami into a meme. It was classic Keith. He will go out of the way to rub people and prove that his contrarian take on everything is right. Sadly it also leads to massive public predictions that go wrong and he has to delete his tweets after being called out. Massive fan of Keith and his Twitter account inspite of his need to be a contrarian.
+
+Same with web3 thought leaders who come everyday on Twitter to argue for their cause. Their takes start as benign ones just writing down the appeal of web3. Then they move to zero sum arguments and turn everything into us vs them. It is okay for them though. Their management fees depend on their view going mainstream. What I never understood is why an average user would spend their hours defending one view over another. Now I do. It is again a function of path dependence. Once you ape in and change your PFP to an NFT, you just can’t say ‘what if.’ You are all in. Also remember that Bayesian thinking does not come naturally to people. They are always thinking binary.  Either web3 is the future of the internet or it is a scam.
+
+But what if the answer lies in the middle?
+
+I was a big fan of one anon account. Then one tweet by him on Balaji caught Balaji’s attention and got retweeted. Post that all he did was simp Balaji. It is hard to say No to the easy engagement that you can get by simping popular accounts. But now his account has lost his edge and I don’t even go to his account anymore. He was another victim to path dependence.
+
+How do you avoid path dependence? By not identifying yourself as X. Keeping your identity small. I have also seen a few people escape path dependence by pivoting. The influencer on Instagram will start doing couple content. Have you realised how all YouTube channels end up just doing couple vlogs after a while? The YouTube fitness influencer will start doing daily vlogs to keep the content treadmill running. The few who refuse will keep churning out daily diet for getting abs videos, for the 10th straight week.
+
+Path dependence is not always bad. If you identify as a relentless optimist and simp web3 projects, you might get hired as an advisor by the same VCs investing in those. I also know people who specialise, read say BNPL expect, and they jump from one fintech company to another implementing BNPL, but with better salaries and status. This is a counterexample to [Nirant Kasliwal’s anti-skills post](https://nirantk.com/writing/antiskill.html). Broadcasting your skills and hitting local maxima in a domain is path dependence at play. I agree with Nirant’s take on anti skills narrowing you and putting you in a box [specialisation]. Opting for more optionality [generalisation] might be the better play here. But I have seen enough people who have made specialisation work.
+
+Overshoot: Path dependence sometimes leads to you overshooting. Think about Manu Joseph starting as a garden variety contrarian (labeled by public), then trying to live up to the label by posting one unhinged take after another trying to out contrarian his last take. Hence we have “gems” like Rahul Dravid is overhyped. See all of Manu’s latest tweets and there are people calling him out on that. I love all his books though. He is one of my favourite writers. His Twitter and opinion pieces? Not so much. I think he is stuck in path dependence — by clinging to his identity as a “contrarian”.
+
+Overshooting does have benefits. I see a lot of people on Twitter (middle to right ideology) who act even more unhinged than they are in real life. I thought it was a risky strategy but now I get the beauty of it. Because of a few of their provocative tweets, most of their ideas seem moderate. One example is Delian from Founder’s Fund, Rabois’ prodigy. He tweets out that he has autism one day. The next day he shits on someone on the left. He wears a trump cap to provoke people. Delian is uncancellable because he keeps expanding his cancellation window [can’t call it the Overton window because not everyone can say the same things as him and get away with it, so I am calling it the cancellation window: the range of Twitter opinions that you can share without getting cancelled] and has enormous power thanks to that. He can share whatever he is thinking without cancellation. Joe Rogan is another example.
+
+So is path dependence good or bad? Should you choose a path and then continue to overshoot so that the job at a16z arrives? It is upto you to decide.
