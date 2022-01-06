@@ -58,7 +58,9 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 23. Simp VCs. Retweet old things they had posted, and comment how right they were.
 
-24. Investment advice is evergreen. Use 'If you had invested X in Y on Z date, by Z + W years, you'd be sitting on V'. This tweet always gets the numbers. 
+24. Investment advice is evergreen. Use 'If you had invested X in Y on Z date, by Z + W years, you'd be sitting on V'. This tweet always gets the numbers.
+
+25. [Piss off the maximum number of people.](https://twitter.com/nikitabier/status/1351653385133408258?s=20)
 
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
