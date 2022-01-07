@@ -45,6 +45,6 @@ While web2 folks use their super normal mental model ask how can a database be s
 Who is right? We will see.
 
 - Will Eth 2.0 solve the issues currently web2 folks see with blockchains?
-- Will there be a world where we see the benefits of current database systems [speed and low/not cost] with the extra benefits that blockchain provides?
+- [Will there be a world where we see the benefits of current database systems (speed and low/not cost) with the extra benefits that blockchain provides?](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition)
 
 One thing I am sure of is that we can view web3 projects using the mental model of super normal. We have to ask whether the benefits are so great that it is okay for it to be not good. And that is the hardest part.
