@@ -4,6 +4,7 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Is web3 supernormal or truly great?](https://manassaloi.com/2022/01/03/supernormal-great-web3.html)
 - [Airdrops and incent apps](https://manassaloi.com/2021/12/25/airdrops-incent-apps.html)
 - [The next crypto unicorn](https://manassaloi.com/2021/12/24/next-crypto-unicorn.html)
 - [Linkedin for web3](https://manassaloi.com/2021/12/17/linkedin-web3.html)
