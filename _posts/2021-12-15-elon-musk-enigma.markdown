@@ -17,7 +17,7 @@ Joe Rogan softened up considerably after his Spotify deal.
 
 Yes, you can get unhinged and say whatever you want. A lot of anonymous accounts do it. But if you do it with your own name you will quickly lose career opportunities and people would't want to be associated with you.
 
-I know of people from the Indian startup ecosystem who stopped tweeting after a few tweets were not received well. All of us are walking on egg shells, scared of making mistakes
+I know of people from the Indian startup ecosystem who stopped tweeting after a few tweets were not received well. All of us are walking on egg shells, scared of making mistakes.
 
 Elon Musk has none of these concerns. In a world turning increasingly woke, he calls senators senile old men, posts the most unhinged of memes, and moves the entire crypto market with a single tweet. SEC can't do anything to him. He does not care what his stakeholders think. You can't [cancel someone like him](https://manassaloi.com/2021/03/16/fargo-memetic.html).
 
