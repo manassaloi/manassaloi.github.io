@@ -12,7 +12,9 @@ title:  "Counter-positioning and self-imposed constraints on Twitter"
 7. Avoids putting labels, even though it is the fastest way to grow followers point.
 8. In a world where everyone is virtue signaling and gently patting themselves in the back, works hard, but also pats his back the hardest.
 9. Dunks on [NPC reply bois](https://manassaloi.com/2021/11/27/npc.html).
-10. Makes his Twitter a Sisyphean adventure that restarts everyday.
-11. Never deployed popular growth tactics inspite of writing two playbooks on them: [link](https://manassaloi.com/2021/03/17/social-media-playbook.html), [link](https://manassaloi.com/2020/01/30/life-math-money.html).
+12. Blocks anyone who QTs to dunk.
+13. Has probably muted half of the people already.
+14. Makes his Twitter a Sisyphean adventure that restarts everyday.
+15. Never deployed popular growth tactics inspite of writing two playbooks on them: [link](https://manassaloi.com/2021/03/17/social-media-playbook.html), [link](https://manassaloi.com/2020/01/30/life-math-money.html).
 
 I wonder who is this person putting [self-imposed constraints](https://manassaloi.com/booksummaries/2017/07/17/understanding-porter-joan.html#:~:text=The%20Third%20Test%3A%20Trade%2Doffs) on himself and playing the [counter-positioning](https://manassaloi.com/booksummaries/2019/08/22/seven-powers-hamilton-helmer.html#:~:text=COUNTER%20POSITIONING%20%E2%80%94the%20third%20of%20the%207%20Powers) meta game on Twitter for years.

@@ -63,6 +63,8 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Are you an NPC?](https://manassaloi.com/2021/11/27/npc.html)
 - [Do your homework](https://manassaloi.com/2021/11/29/do-homework.html)
 - [The stories we tell](https://manassaloi.com/2021/12/07/stories-we-tell.html)
+- [Sell your work](https://manassaloi.com/2022/01/06/selling-your-work.html)
+- [Twice a year career review](https://manassaloi.com/2022/01/05/twice-year-career.html)
 
 ### Favourite books on Career
 
