@@ -3,7 +3,7 @@ layout: post
 title:  "Twice a year career review"
 ---
 
-Keep 2 days in a year where you review if
+Keep 2 days in a year, one in H1 and another in H2, where you review if
 -  your work excites you
 -  you respect and enjoy working with your peers
 -  your manager respects you and is helping you grow
