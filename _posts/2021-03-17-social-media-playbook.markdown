@@ -34,7 +34,7 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 11. Acquire an imaginary 2 year old to have deep conversations with that you can share on LinkedIn later.
 
-12. Pick a fight with popular accounts, aka the Taylor Lorenz playbook. Do a lot of quote tweets for maximum impact.
+12. Pick a fight with popular big accounts, [aka the Taylor Lorenz playbook](https://twitter.com/nikitabier/status/1391049141124427782). Do a lot of quote tweets for maximum impact.
 
 13. Whatever opinion you have, dial it up by 100 before posting on social media. If you think people should work hard in the beginning of their career, instead of posting a nuanced take, post "work life balance is for losers." This will help you get engagement and QTs from both sides of the work life balance debate.
 
