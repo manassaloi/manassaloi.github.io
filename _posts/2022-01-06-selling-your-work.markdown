@@ -15,4 +15,4 @@ In a world where everyone is selling/signalling implicitly anyway, there is no s
 
 I can hear you. 'Oh Manas, but it is not modest.'
 
-Fuck modesty. Work hard. And sell your work.
+Modesty is overrated. Work hard. And sell your work.
