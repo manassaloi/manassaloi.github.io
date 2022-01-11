@@ -21,7 +21,7 @@ One year later, his SPACs have tanked. The performance of his SPACs is the sam
 
 If you see the arc of Cathy Wood, you will see similarities. Man, I am getting good with my puns.
 
-Instead of judging his intentions, what fascinates me is how the curious case of Chamath P is another case of classic mimesis at play.
+Instead of judging his intentions, what fascinates me is how the curious case of Chamath is another case of classic mimesis at play.
 
 Yes, he did pump his investments. That is what all investors do.
 
