@@ -54,6 +54,8 @@ But if you stay back, and build your career here, there has never been a better 
 
 And if your goal is not to be a middle manager at FANG and work at startups, I would say even today building a startup in the US is a better idea. I can name enough CEOs who have made the move to the US based on their VC's advice. Again, something you won't hear about often on Twitter, and someone that might not make you happy as an Indian, but something that can be backed with data.
 
+Debarghya Das has written on this topic [here](https://twitter.com/debarghya_das/status/1479339305415839748), [here](https://twitter.com/debarghya_das/status/1476713563221729282) and [here.](https://twitter.com/debarghya_das/status/1466346043180601351)
+
 Finally, let's go to the last example: trad game enjoyer. You can replace it with any trad person who hates where the world is going. Want specific examples? Read the QTs on Shaan Puri's metaverse thread.
 
 "I hate it. This is not how I want to live my life"
