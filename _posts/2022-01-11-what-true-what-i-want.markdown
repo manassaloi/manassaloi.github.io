@@ -46,7 +46,9 @@ The honest answer from them: If you can survive 3-4 years in Canada, you will ge
 
 An Engineering Manager in India earns 75L-1 Cr INR base + similar amount in stocks (vested over 4 years). While Canadian salaries are, let's just accept it, not great. But look at the comp of people who are at L6+ levels in FANG. Do an estimate of how much you wil earn over the 10 years in both scenarios: staying back vs Canada + US (if you fail to move to the US straightaway).
 
-Not money is not everything. There are a lot of factors like social set up, whether you can celebrate Diwali with family or not. Happiness is a multivariate optimisation problem, while we are just talking strict career optimisation here.
+Now money is not everything. There are a lot of factors like social set up, whether you can celebrate Diwali with family or not. Happiness is a multivariate optimisation problem, while we are just talking strict career optimisation here.
+
+If people are moving to FANG in the US after their VP/SVP stints in Indian startups, there is a reason.
 
 My point: India might not be the best place to have your career. There might be better options, even though that is not the dominant narrative on social media.
 
