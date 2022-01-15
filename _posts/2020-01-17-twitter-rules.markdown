@@ -45,8 +45,9 @@ I like writing rules for myself. My goal is to have rules for everything like [t
 - I don't retweet my own tweets. Though it is tempting.
 - If I feel like I had posted something important earlier that will be interesting for people who followed me recently and did not get the chance to read it the first time, I repost the same tweet/blogpost.
 - I can't stop myself from posting salty takes, but I delete them inside 15 minutes.
+- I feel tremendously guilty after posting salty takes. 
 - I generally comment on trends and not specific people. I will never QT people to dunk unless I am ready for an all out Twitter war. This happens rarely.
-- I am not a part of any Twitter circlejerk. 
+- I am not a part of any Twitter circlejerk.
 - I rarely respond to Twitter replies unless there is something valuable I can add.
 - I have the right to post snarky replies if I am in a bad mood. I can't stand stupid NPC replies.
 - I have the right to remind people that I don't care about their opinion. If they disagree with something I posted, they can post their own tweet/ thread. Just not tag me.
