@@ -11,14 +11,14 @@ Happy to announce that I have decided to become 10X more blunt in my blogposts g
 - Another company calls everyone a PM on paper, but they issue special grants to people above X level.
 - Everyone is same, but there are secret private slack channels where you get entry based on either internal levels or proximity to leadership.
 - If you get marked as a critical hire, you get more % hike than the standard % hikes announced to the rest of the company.
-- When there are flat organisations, instead of a transparent ladder that everyone can see and climb, people create hidden ladders and groups. In another flat organisation I worked at where people cringed at the thought of awarding public titles, there are actual meetings where HR sits with you and goes through your reports - making them as critical hires, poor performers you should put on performance improvement plan, people who can be fast tracked to promo, possible replacement for critical hires. 
+- When there are flat organisations, instead of a transparent ladder that everyone can see and climb, people create hidden ladders and groups. In another flat organisation I worked at where people cringed at the thought of awarding public titles, there are actual meetings where HR sits with you and goes through your reports - making them as critical hires, poor performers you should put on performance improvement plan, people who can be fast tracked to promo, possible replacement for critical hires.
 - In the absence of transparency there is 10X more hidden politics.
 - The only people who don't care about titles are already at the top of their function. Why would they care if their title is Head of X or a VP?
 - The same people who say titles don't matter go to conferences and announce their titles.
 
-**Most Product Managers are glorified Project Managers.**
+**A lot of Product Managers don't do the job of a Product Manager.**
 
-- Whenever I hear a PM in my organisation or someone I mentor crib about doing project management and having to execute what their leaders want, the first question I ask is "when was the last time you actually talked to your customers or spent a day looking at data that helped uncover some key insight?"
+- Whenever I hear a PM in my organisation or someone I mentor crib about having to execute what their leaders want instead of what they feel is right, the first question I ask is "when was the last time you actually talked to your customers or spent a day looking at data that helped uncover some key insight?"
 - If you think logically no CEO would want to self sabotage their company by working on things that don't matter. The problem is that they have too much on their plate, and hence can't go deep and focus on breadth instead. If you are the PM it is on you to do the research on behalf of your CEO and helped show why you should be doing X over Y. Most people won't though. Because it is far easier to blame their CEO or HOP.
 - How do I know this? I have also been in this situation where I stopped giving a fuck and just became an execution machine. BTW I am not saying all CEOs are rationale and everything is your fault as a PM. [But first do your homework before blaming your CEO.](https://manassaloi.com/2021/01/13/planning-feature.html)
 
