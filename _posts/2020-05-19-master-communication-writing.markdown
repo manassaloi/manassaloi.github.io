@@ -20,6 +20,7 @@ This will be the place where I link to all the gyaan on communication I have giv
 - [The 5 min pause](https://manassaloi.com/2020/05/20/five-min-pause.html)
 - [Best practices for cross-team collaboration](https://manassaloi.com/2020/05/24/collaboration-checklist.html)
 - [Slack update](https://manassaloi.com/2021/03/09/slack-update.html)
+- [Getting back your time](https://manassaloi.com/2020/05/22/recovering-time-work.html)
 - [Running a productive meeting](https://manassaloi.com/2021/03/11/running-meeting.html)
 - [Running a project better](https://manassaloi.com/2021/05/04/running-project-better.html)
 - [Saying No to projects](https://manassaloi.com/2021/11/04/say-no-bandwidth.html)
