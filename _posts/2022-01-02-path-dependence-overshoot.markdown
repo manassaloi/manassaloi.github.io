@@ -11,7 +11,7 @@ Same with web3 thought leaders who come everyday on Twitter to argue for their c
 
 But what if the answer lies in the middle?
 
-I was a big fan of one anon account. Then one tweet by him on Balaji caught Balaji’s attention and got retweeted. Post that all he did was simp Balaji. It is hard to say No to the easy engagement that you can get by simping popular accounts. But now his account has lost the alpha that they provided by sharing original insights and I don’t even go to his account anymore. He was another victim to path dependence.
+I was a big fan of one anon account. Then one tweet by him on Balaji caught Balaji’s attention and got retweeted. Post that all he did was simp Balaji. It is hard to say No to the easy engagement that you can get by simping popular accounts. But now his account has lost the alpha that they provided by sharing original insights and I don’t even go to his account anymore. He is another victim to path dependence.
 
 How do you avoid path dependence? By not identifying yourself as X. Keeping your identity small. I have also seen a few people escape path dependence by pivoting. The influencer on Instagram will start doing couple content. Have you realised how all YouTube channels end up just doing couple vlogs after a while? The YouTube fitness influencer will start doing daily vlogs to keep the content treadmill running. The few who refuse will keep churning out daily diet for getting abs videos, for the 10th straight week.
 
