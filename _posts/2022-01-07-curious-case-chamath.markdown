@@ -47,4 +47,4 @@ I am not stupid to compare myself with Chamath. He played a different game and I
 
 Chamath is an important case study on mimesis. And also how we confuse correlation with causation when it comes to succesful people.
 
-P.S I think Chamath is super smart. And he fits the model I have of people who I think will be super successful.  And he is certainly one of the best wordcels out there. I don't think he was a hero a year back. Nor is he the villain that people think he is. He is just a capitalist.
+P.S I think Chamath is super smart. And he fits the model I have of people who I think will be super successful.  And he is certainly one of the best orators out there. I don't think he was a hero a year back. Nor is he the villain that people think he is. He is just a capitalist.
