@@ -3,11 +3,11 @@ layout: post
 title:  "Read the room"
 ---
 
-Last year whenever I dared to post anything that was not in line with the covid times, a few idiots would tell me to "read the room". I got so annoyed that I went private.
+Whenever I dared to post a joke or two on Twitter last year, people told me to "read the room". How can you joke/ share anything that is not in line with the covid times. This policing was everywhere on social media, not just regarding my own freedom to post what I wanted. I got so annoyed that I went private for a few days.
 
-Within a few weeks these people got bored of policing people, moved on, and started posting regular stuff themselves.
+What was not a surprise and I knew that it would happen: These people got bored of policing people after a few week, moved on, and started posting regular stuff themselves.
 
-The cases had not decreased. They just realised there was no alpha in telling people to read the room anymore. Take November 2021. Cases are still high in Kerala. Are people posting about Kerala obsessively? No.
+The cases had not decreased. They just realised that there was no alpha in telling people to read the room anymore. Take now, November 2021. Cases are still high in Kerala. Are people posting about Kerala obsessively? No. No one cares.
 
 There is only a small window when you can virtue signal about something. I remember the good old Facebook days when people would change their DP to signal solidarity with something, let's say Yemen or some terror attack somewhere, guilt trip you for not doing the same, then would post photos of themselves having a fun night out somewhere.
 
