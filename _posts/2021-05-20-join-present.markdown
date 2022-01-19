@@ -3,7 +3,7 @@ layout: post
 title:  "Join for the present"
 ---
 
-**tldr:** join for the present and not the glorious future promised.
+**tldr:** Join for the present and not the glorious future promised.
 
 Company offers X title with Y pay and Z stocks (Z might be 0 initially) to a promising candidate.
 
@@ -15,7 +15,7 @@ The candidate (now an employee) grows disgruntled. Leaves the company. Badmouths
 
 No one is acting on bad faith here.
 
-The candidate believes that they are above the level they are getting hired for, but they have not  yet seen the internal competition. Also promotion/compensation policies change over time as a company grows.
+The candidate believes that they are above the level they are getting hired for, but they have not yet seen the internal competition. Also promotion/compensation policies change over time as a company grows.
 
 The company likes the candidate. So instead of losing them, they decide to show the best case scenario.
 
