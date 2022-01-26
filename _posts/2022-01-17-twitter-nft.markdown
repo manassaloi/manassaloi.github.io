@@ -3,9 +3,7 @@ layout: post
 title:  "Twitter gets NFTs"
 ---
 
-I am seeing a lot of Twitter debates on whether Twitter should have integrated NFT PFPs or not. These are mostly based on whether people believe in web3 or not.
-
-Reading these values driven twitter threads won't help you become better at Product.
+I am seeing a lot of Twitter debates on whether Twitter should have integrated NFT PFPs or not. These are mostly based on whether people believe in web3 or not. Reading these values driven twitter threads won't help you become better at Product.
 
 What is more productive instead? Doing the exercises below.
 
