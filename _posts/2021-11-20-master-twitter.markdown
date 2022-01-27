@@ -4,6 +4,8 @@ title:  "[Twitter Master Post] My ramblings about Twitter"
 ---
 
 Posts written about my Twitter usage:
+- [Counter-positioning and self-imposed constraints on Twitter](https://manassaloi.com/2022/01/04/counterpositioning-constraints-social-media.html)
+- [Twitter debates are hella lame](https://manassaloi.com/2022/01/22/twitter-debates.html)
 - [Why I tweet](https://manassaloi.com/2021/11/19/why-tweet.html)
 - [Twitter workflow - 2021](https://manassaloi.com/2021/11/19/twitter-workflow-2021.html)
 - [Twitter games](https://manassaloi.com/2021/09/14/twitter-games.html)

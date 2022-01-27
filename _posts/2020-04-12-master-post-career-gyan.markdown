@@ -65,6 +65,11 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [The stories we tell](https://manassaloi.com/2021/12/07/stories-we-tell.html)
 - [Sell your work](https://manassaloi.com/2022/01/06/selling-your-work.html)
 - [Twice a year career review](https://manassaloi.com/2022/01/05/twice-year-career.html)
+- [Why join a late stage startup?](https://manassaloi.com/2022/01/23/fast-growth.html)
+- [Learn to do high leverage activities well](https://manassaloi.com/2022/01/26/high-leverage-activity.html)
+- [The price we pay](https://manassaloi.com/2022/01/21/the-price.html)
+- [Engineering vs Product vs Design](https://manassaloi.com/2022/01/18/engineering-product-design.html)
+- [Shoot your shot](https://manassaloi.com/2022/01/15/shoot-your-shot.html)
 
 ### Favourite books on Career
 
