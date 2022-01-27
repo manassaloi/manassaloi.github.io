@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Books that changed your view of the world"
+---
+
+This list is based on Twitter recommendations.
+
+- Lateral Thinking
+- Narconomics
+- Mrityunjay
+- The elements of choice
+- Freedom from the known
+- The Beginning of Infinity
+- The stranger
+- The narrow road to the deep north
+- The wisdom of life
+- Die with zero
+- Where Good Ideas Come From
+- Seeking Wisdom
+- When Breath becomes Air
+- A Whole New Mind
+- The Sleepwalkers
+- Anti-fragile
+- Skin in the game
+- Black Swan
+- Banker to the Poor
+- Thinking in Systems
+- Go set a watchman
+- Range
+- Outliers
+- Elephant in the brain
+- Almanac of Naval
+- Psychology of money
+- Genome
+- Invisible women
+- Courage to be disliked
+- Poor Charlie’s Almanack
+- Ender’s game
+- Relentless
+- The Sovereign Individual
+- Ishmael
+- Against method
+- Definite book of body language
+- The Gita for Children
+- Reality is not what it seems
+- The moral animal
+- Catalyst
+- The Course of Love
+- Factfulness
+- Lifespan
+- Annihilation of Caste
+- Catcher in the rye
+- Human Kind 
+- Autobiography of Yogi
+- Siddhartha
+- Kamayani
+- My year of rest and relaxation
+- Convenience store woman
+- Design for the pluriverse
+- Amusing Ourselves to Death
+- Man against Myth
+- The Gateless Gate
+- Inferior
+- Candide
+- Optimism
+- All About Love
+- Educated
+- Poor Economics
+- The time paradox
+- Boundless Awareness
+- Status Game
+- Ways of seeing
+- Guns, Germs, and Steel
+- Secrets of Consulting
+- Thinking fast and slow 
+- Never split the difference
+- The Scout Mindset
