@@ -17,4 +17,4 @@ His point: Every single person this manager had managed in the past went on to l
 
 We talk about people leaving companies due to bad managers. But people don't talk enough about how having a reputation of building careers helps managers attract great employees.
 
-This is the same reason whyI emphasized on the growth the last person had in that role when I posted about an open position in my company. I, as a manager, might not have the highest budget. The machinery might not always work in my favor. What I want, and can control at some level, is to be this manager who can provide you with a faster learning/ growth compared to the industry average.
+This is the same reason whyI emphasized on the growth the last person had in the role when I posted about an open position in my company. I, as a manager, might not have the highest budget. The machinery might not always work in my favor. What I want, and can control at some level, is to be this manager who can provide you with a faster learning/ growth compared to the industry average.
