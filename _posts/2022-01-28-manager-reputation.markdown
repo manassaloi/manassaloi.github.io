@@ -5,7 +5,7 @@ title:  "Your reputation as a manager matters"
 
 I was talking to a friend recently regarding his next job switch.
 
-[I know a lot of my threads/posts start like this. As a professional gyaandu and connoisseur of mental models, a lot of my time goes in helping friends think through various decisions]
+[I know a lot of my threads/posts start like this. As a professional advice giver and connoisseur of mental models, a lot of my time goes in helping friends think through various decisions]
 
 So yeah, back to the story.
 
