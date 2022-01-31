@@ -97,32 +97,86 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **Brian Balfour. [hhttps://brianbalfour.com/](https://brianbalfour.com/)**
   - fav: [Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
 
+  ## (Newsletters I have subscribed to)
 
-## (Blogs I read regularly)
+  - [CBInsights](https://www.cbinsights.com/newsletter)
 
-- **[Signal v. Noise](https://m.signalvnoise.com/?source=logo-f5a620634f41---668e14b18fb1)**
-  - fav: [The curse of the last word](https://m.signalvnoise.com/the-curse-of-the-last-word-5fb5009da601)
+  - [Reforge](https://www.reforge.com/blog/)
 
-- **[Intercom](https://blog.intercom.com/)**
-  - fav: [When a cupcake becomes a wedding cake](https://www.intercom.com/blog/when-a-cupcake-becomes-a-wedding-cake/)
+  - [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
+
+  - [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)
+
+  - [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)
+
+  - [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
+
+  - [StrictlyVC](https://www.strictlyvc.com/)
+
+  - [Drinking from the Firehose](https://www.firehose.vc/)
+
+  - [The Profile](https://theprofile.substack.com/)
+
+  - [Stealing Signs](stealingsigns@substack.com)
+
+  - [Kenny Chen](https://uxdesignweekly.com/)
+
+  - [Not Boring](notboring@substack.com)
+
+  - [Mario at The Generalist](https://thegeneralist.substack.com/)
+
+  - [Circle of Competence](https://www.circleofcompetence.co/)
+
+  - [The Skip](theskip@substack.com)
+
+  - [The Flywheel](https://theflywheel.substack.com/)
+
+  - [Department of Product](https://www.departmentofproduct.com/newsletter/)
+
+  - [Finshots](https://finshots.in/)
+
+  - [Hey Designer](https://heydesigner.com/)
+
+  - [Minimum Viable Publication](https://mvpublication.com/issues/)
+
+  - [Bookbear Express by Ava](https://ava.substack.com/)
+
+  - [Perspectives by Deb Liu](https://debliu.substack.com/)
+
+  - [Chinese Characteristics](https://lillianli.substack.com/)
+
+  - [Product Life by Will Lawrence](https://willlawrence.substack.com/)
+
+  - [Cobie](https://cobie.substack.com/)
+
+  - [The Reading Ape](https://thereadingape.substack.com/)
+
+  - [The Defiant](https://newsletter.thedefiant.io/)
+
+  - [The Profile](https://theprofile.substack.com/)
+
+  - [Milk Road](https://www.milkroad.com/)
+
+  - [Either/View](https://eitherview.com/)
+
+  - [Dense Discovery](https://www.densediscovery.com/)
+
+  - [Laura Shin / Unchained](https://unchainedpodcast.com/category/newsletters/)
+
+  - [Linda from Product Lessons](https://productlessons.substack.com/)
+
+  - [Ali Abdaal's Sunday Snippets](https://aliabdaal.com/newsletter/)
+
+## (Company blogs I read)
 
 - **[First Round](http://firstround.com/review/)**
   - fav: [Speed as a Habit](http://firstround.com/review/speed-as-a-habit/)
 
-- **[GV Library](https://library.gv.com/)**
-  - fav: [GV Guide to Design Critique](https://library.gv.com/guide-to-design-critique-86ebf499bed5)
-
 - **[HBR](https://hbr.org/)**
   - fav: [Your Strategic Plans Probably Aren’t Strategic, or Even Plans](https://hbr.org/2018/04/your-strategic-plans-probably-arent-strategic-or-even-plans)
 
-- **[Facebook Design](https://medium.com/facebook-design)**
-  - fav: [Evolving the Facebook News Feed to Serve You Better](https://medium.com/facebook-design/evolving-the-facebook-news-feed-to-serve-you-better-f844a5cb903d)
-
 - **[Go-Jek Engineering](https://blog.gojekengineering.com/)**
   - fav: [Introducing GO-JEK’s card personalization engine: Project shuffle](https://blog.gojekengineering.com/introducing-go-jeks-card-personalization-engine-project-shuffle-7c4b9404d5f2)
-
-- **[Netflix Tech Blog](https://medium.com/netflix-techblog/)**
-  - fav: [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)
 
 - **[YC](https://blog.ycombinator.com/)**
  - fav: [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
@@ -136,62 +190,6 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **[Airbnb Design](https://airbnb.design/)**
   - fav: [Building a Visual Language](https://airbnb.design/building-a-visual-language/)
 
-
-## (Newsletters I have subscribed to)
-
-- [CBInsights](https://www.cbinsights.com/newsletter)
-
-- [Reforge](https://www.reforge.com/blog/)
-
-- [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
-
-- [Fortune Data Sheet](http://fortune.com/newsletter/datasheet/)
-
-- [The Ken](https://the-ken.com/)
-
-- [Fortune Term Sheet](http://fortune.com/newsletter/termsheet/?scrape=1)
-
-- [Oversharing](https://oversharing.substack.com/welcome)
-
-- [Circle of Competence](https://www.circleofcompetence.co/)
-
-- [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
-
-- [StrictlyVC](https://www.strictlyvc.com/)
-
-- [Drinking from the Firehose](https://www.firehose.vc/)
-
-- [The Profile](https://theprofile.substack.com/)
-
-- [Stealing Signs](stealingsigns@substack.com)
-
-- [Kenny Chen](https://uxdesignweekly.com/)
-
-- [Not Boring](notboring@substack.com)
-
-- [Mario at The Generalist](https://thegeneralist.substack.com/)
-
-- [Circle of Competence](https://www.circleofcompetence.co/)
-
-- [The Skip](theskip@substack.com)
-
-- [The Flywheel](https://theflywheel.substack.com/)
-
-- [Department of Product](https://www.departmentofproduct.com/newsletter/)
-
-- [Finshots](https://finshots.in/)
-
-- [Hey Designer](https://heydesigner.com/)
-
-- [Minimum Viable Publication](https://mvpublication.com/issues/)
-
-- [Bookbear Express by Ava](https://ava.substack.com/)
-
-- [Perspectives by Deb Liu](https://debliu.substack.com/)
-
-- [Chinese Characteristics](https://lillianli.substack.com/)
-
-- [Product Life by Will Lawrence](https://willlawrence.substack.com/)
 
 ## (Podcasts I listen to)
 

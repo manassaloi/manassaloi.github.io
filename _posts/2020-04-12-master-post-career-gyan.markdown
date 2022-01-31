@@ -70,6 +70,9 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [The price we pay](https://manassaloi.com/2022/01/21/the-price.html)
 - [Engineering vs Product vs Design](https://manassaloi.com/2022/01/18/engineering-product-design.html)
 - [Shoot your shot](https://manassaloi.com/2022/01/15/shoot-your-shot.html)
+- [Your reputation as a manager matters](https://manassaloi.com/2022/01/28/manager-reputation.html)
+- [Resources on negotiating your job offer](https://manassaloi.com/2022/01/30/posts-negotiation.html)
+- [Resources on employee equity](https://manassaloi.com/2022/01/31/employee-equity.html)
 
 ### Favourite books on Career
 
