@@ -167,6 +167,8 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
   - [Ali Abdaal's Sunday Snippets](https://aliabdaal.com/newsletter/)
 
+  - [Osborne Saldanha's Fintech Inside](https://fintechinside.substack.com/)
+
 ## (Company blogs I read)
 
 - **[First Round](http://firstround.com/review/)**
