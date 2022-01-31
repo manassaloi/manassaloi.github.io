@@ -79,5 +79,3 @@ The longer a hiring manager has the role open, the more desperate they will be t
 If you don't get the desired base pay, know that there is always a scope to get a higher joining bonus added or load more stock options to your package. Most TAs as well as Hiring Managers focus on keeping the base pay as low as possible. This is because they don't want a huge salary gap between two people working in the same role. To compensate they would always be willing to negotiate on the other components of the job package: Joining bonus, Retention bonus, ESOPs, RSUs and maybe even the job title.
 
 The best way to get companies to up their offer and compete for your signature is by signalling value. The easiest way to signal value is by getting offers from places, that the company considers superior to them or direct competitors.
-
-Check out this thread on [negotiating better by my friend Gokul](https://twitter.com/gokulns/status/1471541184233459723).
