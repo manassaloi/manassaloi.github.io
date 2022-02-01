@@ -4,6 +4,7 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Cosplaying in web3](https://manassaloi.com/2022/02/01/cosplaying-web3.html)
 - [Twitter gets NFTs](https://manassaloi.com/2022/01/17/twitter-nft.html)
 - [Is web3 supernormal or truly great?](https://manassaloi.com/2022/01/03/supernormal-great-web3.html)
 - [Airdrops and incent apps](https://manassaloi.com/2021/12/25/airdrops-incent-apps.html)
