@@ -9,6 +9,7 @@ title:  "Create simple systems"
   - I have set expectations with my manager on the following things: [my impact](https://manassaloi.com/2020/06/23/performance-evaluation.html)(captured through KRs), Feedback from others (360* + my own brag doc), where I map to my company's career levels, and [my long term learnings/growth](https://manassaloi.com/2020/05/11/career-dev-plan.html) (based on my manager's feedback, I keep this decoupled from my current role).
   - Regular 1-1s so that I don't get last minute surprises.
 - I take just a few hours to [write my performance review](https://manassaloi.com/2021/02/01/performance-reviews.html) because of these systems. I wrote feedback for 14 people in last cycle. I could only do it on time because I have a template for that too.
-- You can just use these systems and never have to worry when performance reviews season comes. This will also save you a shitload of time that you can use to shitpost on Twitter like me.
+- Use these systems and you will never have to worry about performance reviews season.
+- Creating systems can also [save you a lot of time](https://manassaloi.com/2020/03/31/80-20.html) that you can use to shitpost on Twitter like me.
 
 Related read: [Learn to do high leverage activities well](https://manassaloi.com/2022/01/26/high-leverage-activity.html)
