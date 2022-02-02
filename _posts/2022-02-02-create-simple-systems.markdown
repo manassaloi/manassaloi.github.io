@@ -3,7 +3,7 @@ layout: post
 title:  "Create simple systems"
 ---
 
-- All of us should create simple systems that can help save us time over a long period of time. I have followed the same systems to write my performance reviews over the last few years. What do I do?
+I have a lot of simple systems that helps me save time. For example, I have followed the same systems to write my performance reviews over the last few years. What do I do?
   - I have a standard format where I just dump data points on impact. All the updates around impact of my projects are already captured on Slack. All I need to do is save them.
   - I have a brag doc that I maintain as an email thread. I keep sending mails to that thread with screenshots of messages that highlight my impact, at work or personal life. You don't need an elaborate brag doc system. Email will do. Or a simple Google doc.
   - I have set expectations with my manager on the following things: [my impact](https://manassaloi.com/2020/06/23/performance-evaluation.html)(captured through KRs), Feedback from others (360* + my own brag doc), where I map to my company's career levels, and [my long term learnings/growth](https://manassaloi.com/2020/05/11/career-dev-plan.html) (based on my manager's feedback, I keep this decoupled from my current role).
