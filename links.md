@@ -169,6 +169,8 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
   - [Osborne Saldanha's Fintech Inside](https://fintechinside.substack.com/)
 
+  - [Matt Levine's Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
+
 ## (Company blogs I read)
 
 - **[First Round](http://firstround.com/review/)**
