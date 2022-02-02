@@ -68,6 +68,6 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 28. Talk about BITS Pilani.
 
-Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
+Try these for massive success.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
