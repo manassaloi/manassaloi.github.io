@@ -59,7 +59,7 @@ Thanks to good defaults:
 1. Reading (books/articles)
 2. Spending time with my gf
 3. Occasional travel
-4. Learning one new thing or the other,
+4. Learning one new thing or the other
 
 the cost of saying Yes is much more than me sticking to my defaults.
 
