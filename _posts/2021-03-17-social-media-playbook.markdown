@@ -64,6 +64,8 @@ A lot of people are selling courses on how to grow an online audience. Why spend
 
 26. [Do what the algorithm wants](https://perell.com/essay/annual-review-2021/#:~:text=Twitter%E2%80%99s%20algorithm%20is%20increasingly%20promoting%20threads)
 
+27. Compare and contrast between two communities. Why is BITS like this, when IITs are like this. Why is web3 like this, web2 like that.
+
 Try these for massive success. Don't let your lack of life experience prevent you from following your dreams/ building your network.
 
 P.S Not hating on anyone. If I had a course to sell or wanted to build a distribution channel on Twitter or Quora, I would do the same.
