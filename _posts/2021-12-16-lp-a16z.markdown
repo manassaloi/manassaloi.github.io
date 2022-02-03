@@ -5,7 +5,7 @@ title:  "Becoming an LP in an a16z fund"
 
 One of the most popular theses in VC is [giving access to the masses what was earlier accessible only to rich folks](https://twitter.com/sulemanali/status/1470424523946090498?s=20). Let's see how web3 might do this for investing in early startups.
 
-Venture Capital involes:
+Venture Capital involves:
 - Sourcing deals
 - Getting allocation
 - Getting allocation at the right price
