@@ -7,6 +7,7 @@ title:  "Resources on employee equity"
 - [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
 - [Valuing Early Stage Equity: An Optimism-Weighted Approach](https://medium.com/yanda/valuing-early-stage-equity-an-optimism-weighted-approach-ce97510609c3)
 - [Halloway's guide to equity compensation](https://www.holloway.com/g/equity-compensation)
+- [Library of wealth planning resources for startup founders and employees](https://manual.withcompound.com/)
 - [Equity 101 by Carta](https://carta.com/blog/equity-101-stock-option-basics/)
 - [Don't take non-recourse loan to exercise options](https://mobile.twitter.com/thisisgrantlee/status/1468084888171696133)
 - [Employee equity by Sam Altman](https://blog.samaltman.com/employee-equity)
