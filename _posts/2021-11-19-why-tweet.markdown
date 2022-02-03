@@ -2,15 +2,17 @@
 layout: post
 title:  "Why I tweet"
 ---
-- Run this site: Whenever I go off Twitter, my website suffers. I find writing threads the easiest way to dump my thoughts on a topic. Then writing bogposts just becomes editing those threads and posting them here. No Twitter = No blogposts.
-- Ego: I somehow keep thinking that a single thread I write might help someone take a big life or career decision. Yes, I am that vain.
-- Confirmation bias: People DM'ing me thanking me for my tweets makes me think they are/ I am important.
-- Dopamine hits: I don't post on any other social media.
-- Career growth: I complained about startup titles recently and called most leaders of the ecosystem winners of the startup lottery. By night I had a CEO reach out to me with a job offer. Though I will continue to say that Twitter should remain far down the priorities one should have if they want to have a successful tech career, but it does help at some level.
-- Complaining platform: I can complain about companies if I am unhappy and sadly it is the only platform where customer service folks listen to escalations. Also, don't have Facebook. So where else will I complain if my Amazon order is very late?
-- Network: I have made a few really good friends from Twitter. No matter how much I shit on networking, I would have fewer people in my life without Twitter.
-- Audience for my private sessions: I occasionally do sessions based on some theory I have on life or careeer. Putting a tweet asking for people who would want to join leads to dozens of people DMing inside 10 mins. Without my Twitter, I would have to search for people. That would be painful.
-- Dealflow: A lot of founders who reach out to me for advice discover me from Twitter. If I ever start angel investing, I won't need to build a network. Having my twitter account is enough.
-- Job opportunities: A few times senior leaders from my company have reached out to discuss something I posted. This is good as well as scary. Scary because [this](https://mobile.twitter.com/MohanadElshieky/status/1397642013982535686) might come true any day now. Good because these people won't care about another middle manager. There might be a dozen GPMs in my company, if not more.
+- Run my website: Whenever I go off Twitter, my website suffers. I find writing threads the easiest way to dump my thoughts on a topic. Then writing bogposts just becomes editing those threads and posting them here. No Twitter = No blogposts. I want to continue writing. It is therapautic. And helps me crystalise my thoughts. I am too lazy to sit and write. Twitter is where the first draft of my posts happen.
+- Ego: I somehow keep thinking that a single tweet I write might help someone take a big life or career decision. Yes, I am that vain.
+- Confirmation bias: People DM'ing me thanking me for my tweets makes me think I matter. My tweets matter.
+- Dopamine: I don't post on any other social media. Sharing shitposts and seeing people like them gives me that sweet sweet dopamine rush.
+- Career growth: I complained about startup titles recently and called most leaders of the startup ecosystem winners of the startup lottery. By night I had a CEO reach out to me with a job offer. I will still say that Twitter should remain far down the priorities one should have if they want to have a successful tech career, but it does help at some level. I would be a hypocrite if I said otherwise.
+- Complaining platform: I can complain about products/companies if I am unhappy. Customer service reacts immediately here. Also, I don't have Facebook. So where else will I complain?
+- Friendships: I have made a few really good friends from Twitter. I hate networking, nor do I go out much. I would have far fewer people in my life without Twitter.
+- Audience for my private sessions: I occasionally do sessions based on some theory I have on life or careeer. To get people I generally post a tweet. I get dozens of people DMing and signing up inside 10 mins. Without my Twitter, I would have to search for interested people. That would be painful. I love giving gyaan, but not that much that I will go out of my way to seek out people.
+- Dealflow: A lot of founders who reach out to me for advice discover me from Twitter. If I ever take angel investing seriously, I won't need to build a network. My twitter will be enough.
+- Access and status: Senior leaders from my company reach out from time to time to discuss something I posted. It feels good. There is no chance of us working together on a day to day basis, but thanks to my twitter account, we get a reason to catchup.
+- Twitter is good that way. There are a lot of positves, but the downside is me losing my job because of some shitpost that I posted in 5 mins without thinking too much. [This](https://mobile.twitter.com/MohanadElshieky/status/1397642013982535686) might come true any day.
+- Cheap therapy: This is probably the biggest reason. Dumping whatever thoughts I have on Twitter is therapautic. I delete so many tweet threads inside like 10 minutes. Once I tweet out something, I stop thinking about it, and move on to other things. I have been writing online for more than 10 years. At this point I probably write as much for myself as others.
 
 If you ask me why I write on this blog, a lot of the reasons I state will be similiar to these.
