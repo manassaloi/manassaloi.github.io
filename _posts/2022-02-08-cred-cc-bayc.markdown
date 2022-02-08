@@ -10,13 +10,13 @@ Cred should launch a limited edition credit card.
 - CC holders get access to exclusive Discord with other members.
 - Maybe offline events too.
 
-A mix of HDFC Infinia + Friends with Benefits + BAYC + VC fund's founders offsite.
+A mix of HDFC Infinia + Friends with Benefits + BAYC + VC fund's founders offsite. Amex Centurion for today's age.
+
+This is not a new idea. A lot of people have speculated that launching a Credit Card is the end game for Cred.
 
 Status + FOMO = Ultimate marketing tool.
 
-This is not a new idea. A lot of people have speculated that launching a CC is the end game for Cred.
-
-Status + FOMO has always been my playbook.
+It has been my playbook too regarding all projects I have shipped.
 - Aristos.
 - All my private sessions.
 - Dhaniya ventures.
