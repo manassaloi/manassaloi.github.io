@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cred should launch an invite only Credit Card"
+title:  "Cred should launch a Credit Card"
 ---
 
 Cred should launch a limited edition credit card.
@@ -21,4 +21,4 @@ Status + FOMO has always been my playbook.
 - All my private sessions.
 - Dhaniya ventures.
 
-Roll out high quality products with high signal, low noise. Exclusivity. Get people talking. Drive FOMO. People who get in should feel like they are part of something special. 
+Roll out high quality products with high signal, low noise. Exclusivity. Get people talking. Drive FOMO. People who get in should feel like they are part of something special.
