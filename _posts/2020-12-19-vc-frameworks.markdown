@@ -26,7 +26,7 @@ Investment theses and ideas:
 - Backcasting: live in the future, find what's missing, and then show people the way forward - [Mike Maples](https://medium.com/@m2jr/how-to-build-a-breakthrough-3071b6415b06)
 - Dominance friction - [Jesse Beyroutey](https://divinations.substack.com/p/dominance-friction)
 - What is anomalous? What "secret" is the company predicated on? What could this be? Could this be one of the most important companies on the planet? What is the accumulating advantage? Can the founder attract the talent requisite to achieve the vision? Why do we have a comparative advantage?  - [Keith Rabois](https://twitter.com/rabois/status/934099022603747329?s=20)
-- Find large highly fragmented industry w low NPS; vertically integrate a solution to simplify value product - [Keith Rabois](https://mobile.twitter.com/rabois/status/870673635375104000)
+- Find large highly fragmented industry with low NPS; vertically integrate a solution to simplify value product - [Keith Rabois](https://mobile.twitter.com/rabois/status/870673635375104000)
 - Vanishing tailwinds - [John Luttig](https://luttig.substack.com/p/when-tailwinds-vanish)
 - Often early-stage investing is as simple as assessing the "followability" of the founding team: will recruits follow them? will larger VCs follow them? will customers follow them? - [Semil Shah](https://twitter.com/semil/status/953063996998828032?s=20)
 - Start with large markets, go searching for teams working in them, and writing checks only when you find talented teams working in large markets who have built excellent products - [Fred Wilson](https://avc.com/2019/03/market-team-product/)
