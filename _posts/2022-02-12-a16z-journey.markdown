@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The rise of a16z"
+---
+
+Thoughts on a16z.
+
+1. The moved fast. Got a few logos onboarded quickly for signalling. They overpaid initially and got a few late startups to say yes. They did not want for success. They bought success.
+2. They followed their founder Ben Horowitz's thesis about fat startups. They created a big services org vs Benchmark's thin model. They had to spend a lot of money on building their fat org. This cut into their management fees, but it became their rallying cry. They said 'Old VCs keep all their management fee. We will help our founders on everything from hiring to specific advice through the experts we have hired. We just want our founders to win.' This is counter positioning.
+3. [Old VC firms' margin became their opportunity](https://www.drorpoleg.com/pulling-a-bezos/).
+4. They knew payoff would come in the long run. In a decade they have built a generational VC fun with 25B+ AUM.
+5. They went direct with their media strategy.
+6. They positioned themselves as the most founder friendly. Partners attending meetings late got fined. These small anecdotes reaffirmed the message. They kept finding ways to differentiate themselves from other firms.
+8. Gained mindshare with memorable messages. "Its time to build" is now a16z's slogan. You can see it below their name in the homepage. Software is eating the world had run its course. Can trust Marc Andreessen to come up with memorable messages.
+9. Their rise and the fat VC model (both services stack and price insensitivity) is probably the best model for a capital abundant world and also a market that has not seen a recession for one and a half decades. Will be interesting to see how their thesis works out if we see a prolonged bear market. To plan for this they have already restructured, quickly followed by [Sequoia Capital](https://www.vccircle.com/sequoia-breaks-with-obsolete-10-year-vc-fund-cycle-model). So even here they have been the pioneer. No more just a traditional VC fund.
+10. Investing at a big premium, once their strategy, is now common in the industry.
+11. Love them or hate them, they played a different game.
+
+Listen to [Acquired's deep dive on a16z](https://www.acquired.fm/episodes/andreessen-horowitz-part-i).
