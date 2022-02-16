@@ -18,7 +18,7 @@ Classic [demand side economies of scale](http://www.stratology.com/blog/24022014
 
 Example. Wechat started with chat whose value increases with each new user in the network. Once they had critical mass of users the focus moved to monetisation of those users. Soon businesses got listed on Wechat and then with their We Chat Pay they started doing C2C payments and later e-commerce. Both users and business (two stakeholders needed for become a platform) was already there. All it was to start facilitating transactions.
 
-But note the main difference between Wechat and something like Paytm. Paytm also had demand side supply of scale because the more users they had using the Paytm wallet the more useful the product was for its users. You need a critical mass of users to drive C2C transactions and businesses + users to drive B2C transactions.
+But note the main difference between Wechat and something like Paytm. Paytm also had demand side supply of scale because the more users they had using the Paytm wallet the more useful the product was for its users. 
 
 You need a critical mass of users to drive C2C transactions and businesses + users to drive B2C transactions.
 
