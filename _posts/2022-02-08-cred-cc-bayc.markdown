@@ -16,7 +16,7 @@ This is not a new idea. A lot of people have speculated that launching a Credit 
 
 Status + FOMO = Ultimate marketing tool.
 
-It has been my playbook too regarding all projects I have shipped.
+It has been my playbook too regarding all personal projects I have shipped:
 - Aristos.
 - All my private sessions.
 - Dhaniya ventures.
