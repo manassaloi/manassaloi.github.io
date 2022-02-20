@@ -29,7 +29,7 @@ title:  "Ultimate house hunting checklist"
 
 ## Once a you like a place and want to confirm it
 
-- Check the tube chocks.
+- Check the tubelight chokes.
 - Check the plug points. Take a charger with you and see if the plug points work.
 - Ask about 24 hours of power backup.
 - Confirm with the owner who will be responsible for the repair. Say, your geyser conks out one week inside you moving in, will it be you or he who pays for the repair/replacement?
@@ -41,7 +41,7 @@ title:  "Ultimate house hunting checklist"
 - Ask about garbage disposal.
 - Check shower fittings
 - Check water pressure for washing machine tap.
-- Check if plushes work properly.
+- Check if the toilet flushes work properly.
 - Ask the owner about the existing Wi-Fi connection. Check wifi coverage across the house. Check possible wifi dead zones. Do a video call from inside the house while walking around to test this.
 - Ideally, the point for the router should have power backup so that you don't lose internet during power cuts.
 - Check locks on almirahs. Get the keys for each one of them. If the keys are not there, get it in writing.
