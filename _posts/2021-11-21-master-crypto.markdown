@@ -4,6 +4,7 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Are web2 companies evil?](https://manassaloi.com/2022/02/16/web2-evil.html)
 - [Where are you in the information totem pole?](https://manassaloi.com/2022/02/04/bird-centipede.html)
 - [Poker and Web3](https://manassaloi.com/2022/02/03/poker-web3.html)
 - [Cosplaying in web3](https://manassaloi.com/2022/02/01/cosplaying-web3.html)
