@@ -28,6 +28,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Web3 learning resources you can use](https://manassaloi.com/2021/11/21/crypto-learning-list.html)
 - [My reflection on 2021](https://manassaloi.com/2021/12/30/year-retrospective-2021.html)
 - [Why I angel investing, even if it seems like a dumb idea](https://manassaloi.com/2022/02/06/angel-investing.html)
+- [My web3 learnings and gyaan](https://manassaloi.com/2021/11/21/master-crypto.html)
 
 ## (People I follow)
 
