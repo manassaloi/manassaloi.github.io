@@ -43,6 +43,7 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [4 things for happiness](https://manassaloi.com/2021/12/03/things-happiness.html)
 - [Updated daily routine](https://manassaloi.com/2021/12/26/daily-routine-2021.html)
 - [Reflection on 2021](https://manassaloi.com/2021/12/30/year-retrospective-2021.html)
+- [What might be true vs what sounds good](https://manassaloi.com/2022/01/11/what-true-what-i-want.html)
 
 ### Favourite books
 

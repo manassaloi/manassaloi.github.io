@@ -73,6 +73,9 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Your reputation as a manager matters](https://manassaloi.com/2022/01/28/manager-reputation.html)
 - [Resources on negotiating your job offer](https://manassaloi.com/2022/01/30/posts-negotiation.html)
 - [Resources on employee equity](https://manassaloi.com/2022/01/31/employee-equity.html)
+- [Rangoli jokes](https://manassaloi.com/2022/02/10/rangoli-joke.html)
+- [On Vik](https://manassaloi.com/2022/02/09/on-vik.html)
+- [Thoughts on angel investing](https://manassaloi.com/2022/02/06/angel-investing.html)
 
 ### Favourite books on Career
 
