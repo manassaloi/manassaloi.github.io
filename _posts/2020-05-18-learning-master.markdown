@@ -44,6 +44,10 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Updated daily routine](https://manassaloi.com/2021/12/26/daily-routine-2021.html)
 - [Reflection on 2021](https://manassaloi.com/2021/12/30/year-retrospective-2021.html)
 - [What might be true vs what sounds good](https://manassaloi.com/2022/01/11/what-true-what-i-want.html)
+- [Wrong about saying No](https://manassaloi.com/2022/02/05/say-yes-maybe.html)
+- [Disagree and learn](https://manassaloi.com/2022/02/13/disagree-learn.html)
+- [Is this true or just sounds right?](https://manassaloi.com/2022/02/14/sounds-true.html)
+- [People will shit on you anyway](https://manassaloi.com/2022/02/15/people-will-shit.html)
 
 ### Favourite books
 

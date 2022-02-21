@@ -4,6 +4,8 @@ title:  "[Crypto Master Post] Crypto resources"
 ---
 
 Newest to Oldest:
+- [Where are you in the information totem pole?](https://manassaloi.com/2022/02/04/bird-centipede.html)
+- [Poker and Web3](https://manassaloi.com/2022/02/03/poker-web3.html)
 - [Cosplaying in web3](https://manassaloi.com/2022/02/01/cosplaying-web3.html)
 - [Twitter gets NFTs](https://manassaloi.com/2022/01/17/twitter-nft.html)
 - [Is web3 supernormal or truly great?](https://manassaloi.com/2022/01/03/supernormal-great-web3.html)
