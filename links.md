@@ -37,23 +37,11 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **Jeol Spolsky. [https://www.joelonsoftware.com/](https://t.co/Alujpig4zK)**
   - fav: [Strategy Letter I: Ben and Jerry’s vs. Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
 
-- **Ben Thompson. [https://stratechery.com](https://stratechery.com/)**
-  - fav: [Google, Uber, and the Evolution of Transportation-as-a-Service](https://stratechery.com/2016/google-uber-and-the-evolution-of-transportation-as-a-service/)
-
-- **Andrew Chen. [https://andrewchen.co/](https://t.co/G6Zx3CcudT)**
-  - fav: [The Power User Curve: The best way to understand your most engaged users](https://andrewchen.co/power-user-curve/)
-
-- **Avichal Garg. [https://avichal.com/](https://t.co/17wMoo6hao)**
-  - fav: [Focus on building 10x teams, not on hiring 10x developers](https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
-
 - **Michael Lopp. [http://randsinrepose.com/](https://t.co/bCNLEaWoSO)**
   - fav: [Shields Down](http://randsinrepose.com/archives/shields-down/)
 
 - **Marc Andreessen. [https://pmarchive.com](https://t.co/BcG4kyAvEh)**
   - fav: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.html)
-
-- **Chamath. [http://chamatharchive.com/](https://t.co/BHPSof8KWZ)**
-  - fav: [Long term greedy](http://chamatharchive.com/long-term-greedy/)
 
 - **Julie Zhuo. [https://medium.com/the-year-of-the-looking-glass/](https://t.co/8ubuAHkKOI)**
   - fav: [5 Hard Questions to Ask Yourself During a Conflict](https://medium.com/the-year-of-the-looking-glass/5-hard-questions-to-ask-yourself-during-a-conflict-f4a91bab347a)
@@ -61,35 +49,20 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - **Benedict Evans. [https://www.ben-evans.com/](https://t.co/ehb0cq1eRs)**
   - fav: [Tesla, software and disruption](https://t.co/lVVwdqKZmh)
 
-- **Steven Sinofsky. [https://medium.learningbyshipping.com/](https://t.co/nzyAqMTgG2)**
-  - fav: [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a)
-
 - **Tomasz Tunguz. [http://tomtunguz.com/](http://tomtunguz.com/)**
   - fav: [Lessons Learned from 20 Years at the Leading Edge of SaaS](http://tomtunguz.com/lessons-learned-from-twenty-years-at-the-leading-edge-of-saas/)
-
-- **Steve Blank. [https://steveblank.com/](https://steveblank.com/)**
-  - fav: [“Speed and Tempo” — Fearless Decision Making for Startups](https://steveblank.com/2009/04/10/good-enough-decision-making/)
 
 - **Derek Sivers. [https://sivers.org/](https://sivers.org/)**
   - fav: [There’s no speed limit](https://sivers.org/kimo)
 
-- **John Saito. [https://medium.com/@jsaito](https://medium.com/@jsaito)**
-  - fav: [Making up metaphors](https://medium.com/@jsaito/making-up-metaphors-4bcc85bc1039)
-
 - **Fred Wilson. [https://avc.com/](https://avc.com/)**
   - fav: [Let Your Winners Run](https://avc.com/2012/02/let-your-winners-run/)
-
-- **Mark Suster. [https://bothsidesofthetable.com/](https://bothsidesofthetable.com/)**
-  - fav: [Want to Know How VC’s Calculate Valuation Differently from Founders?](https://bothsidesofthetable.com/want-to-know-how-vc-s-calculate-valuation-differently-from-founders-8d8cbfc40b78)
 
 - **Seth Godin. [https://www.sethgodin.com/](https://www.sethgodin.com/)**
   - fav: [The wrong bus](https://seths.blog/2018/08/the-wrong-bus/)
 
 - **Bill Gurley. [http://abovethecrowd.com/](http://abovethecrowd.com/)**
   - fav: [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
-
-- **Michael Lopp. [http://randsinrepose.com/about/](http://randsinrepose.com/about/)**
-  - fav: [The Rands Test](http://randsinrepose.com/archives/the-rands-test/)
 
 - **Shreyas Doshi. [https://twitter.com/shreyas](https://twitter.com/shreyas)**
   - fav: [Why Products Don't Succeed: The 7 Biases of Product Teams](https://www.linkedin.com/pulse/why-products-dont-succeed-7-biases-product-teams-shreyas-doshi/)
