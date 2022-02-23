@@ -9,27 +9,30 @@ permalink: /proofofwork/
 
 - **October 2021 - Now**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
-- Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence.
-  - Shipped GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
-  - Launched our B2B product GoCorp in Singapore.
-  - Shipped Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
-  - Launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
-  - Shipped a new suscription pass product for Singapore to improve incremental transactions and boost customer loyalty.
+- Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped so far:
+  - Subscription pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
+  - Electric Vehicles trial. [press](https://www.dealstreetasia.com/stories/gojek-expands-ev-trial-282349/)
+  - GoCar Premium, an on-demand service for luxury vehicles in Singapore. [press](https://www.techinasia.com/gojek-rolls-premium-carhailing-singapore)
+  - GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
+  - Took GoCorp international; launched in Singapore.
+  - Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
+  - Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
+  - Subscription pass product for Singapore.
 
 - **July 2020 - Septmber 2021**
 - Manager, Growth and Key Initiatives (GKI), Transport. Managed a team of 3 PMs.
-  - Own Service Excellence: all safety related features in Transport, is in charge of improving service quality of our Transport products, the Tipping experience and Comms with customers (Call Masking, Customer Support).
+  - Owned Service Excellence: all safety related features in Transport, is in charge of improving service quality of our Transport products, the Tipping experience and Comms with customers (Call Masking, Customer Support).
   - Led the launch of our Taxi product in Singapore. [press](https://asia.nikkei.com/Business/Technology/Gojek-starts-car-hailing-service-in-Vietnam-in-challenge-to-Grab)
   - Launched our 4W product GoCar in Vietnam. [press](https://www.techinasia.com/gojek-officially-launches-gocar-vietnam-years-debut)
-  - Run GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
+  - Ran GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
   - Shipped a premium schedule a ride feature.
-  - Own the loyalty levers for Transport: Subscription, Bundles, GoClub, Vouchers, Missions.
+  - Owned the loyalty levers for Transport: Subscription, Bundles, GoClub, Vouchers, Missions.
   - Redesigned the voucher experience.
-  - Own the Experiments roadmap for Transport and in charge of improving the capabilities of our experimentation platform.
-  - Own the resurrection charter: getting back users lost during Covid.
+  - Owned the Experiments roadmap for Transport and in charge of improving the capabilities of our experimentation platform.
+  - Owned the resurrection charter: getting back users lost during Covid.
   - Launched GoClub (Gojek's loyalty product) in Transport.
   - Launched v1 of Ads on Transport.
-  - Run Gojek's Instant product for Transport (on the spot booking at airports and other popular areas). [press](https://www.marketing-interactive.com/gojek-indonesia-caters-to-travellers-and-gamers-with-gocar-instant-and-gogames)
+  - Ran Gojek's Instant product for Transport (on the spot booking at airports and other popular areas). [press](https://www.marketing-interactive.com/gojek-indonesia-caters-to-travellers-and-gamers-with-gocar-instant-and-gogames)
 
 - **July 2019 - June 2020**
 - Product Lead for Booking Experience and Flexibility. Led 2 PMs.
