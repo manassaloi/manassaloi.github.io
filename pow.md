@@ -9,7 +9,7 @@ permalink: /proofofwork/
 
 - **October 2021 - Now**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
-- Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped so far:
+- Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped in this period:
   - Subscription pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
   - Electric Vehicles trial. [press](https://www.dealstreetasia.com/stories/gojek-expands-ev-trial-282349/)
   - GoCar Premium, an on-demand service for luxury vehicles in Singapore. [press](https://www.techinasia.com/gojek-rolls-premium-carhailing-singapore)
