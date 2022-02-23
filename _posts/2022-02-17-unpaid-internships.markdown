@@ -15,7 +15,7 @@ If I was Manas from 2010, I would do whatever it takes to get in. Remember proxi
 
 Forget college students, if I could learn the art of venture capital from Bill Gurley, I would drop everything and become an unpaid intern under him. His time and teachings will be more valuable than anything I bring to the table. And if I was a smart dev in the valley who wanted to get access to Elad Gil I would 100% help him move his site away from blogger, create a newsletter for him, and get him his SSL certificate. Do this for free. If that would get me access to him.
 
-Why? Proximity is everything.
+Why? Proximity. That's why.
 
 But most people won't grasp this idea because we are too indoctrined with dumb Linkedin style gyaan about what internships mean. I took a pay of 8K/ month from Redbus and worked as their Sales, Marketing, BD person in the north east as a 3rd year intern. I knew that in the long run I would not be a dev, so I tried to learn everything that was complimentary.
 
