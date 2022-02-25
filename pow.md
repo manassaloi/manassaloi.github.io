@@ -16,7 +16,7 @@ permalink: /proofofwork/
   - GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
   - Took GoCorp international; launched in Singapore.
   - Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
-  - Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
+  - Introduced cars at scale in Vietnam: launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
   - Subscription pass product for Singapore.
 
 - **July 2020 - Septmber 2021**
