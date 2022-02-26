@@ -3,7 +3,7 @@ layout: post
 title:  "Read the room"
 ---
 
-Whenever I dared to post a joke or two on Twitter last year, people told me to "read the room". How can you joke/ share anything that is not in line with the covid times. This policing was everywhere on social media, not just regarding my own freedom to post what I wanted. I got so annoyed that I went private for a few days.
+Whenever I dared to post a joke or two on Twitter last year, people told me to "read the room". How can you joke/ share anything that is not in line with the covid times. This policing was everywhere on social media. 
 
 What was not a surprise and I knew that it would happen: These people got bored of policing people after a few week, moved on, and started posting regular stuff themselves.
 
