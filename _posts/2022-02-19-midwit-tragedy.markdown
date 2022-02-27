@@ -40,7 +40,7 @@ But Deepinder and Sriharsha and Kunal does not need to do that. Deepinder is Dee
 
 Have you noticed how none of the successful people spend as much time on Twitter as you and me? They are probably busy. A billion dollar company won’t built itself.
 
-I know you feel you are Deepinder. Or VSS. Or Kunal. Or Sriharsha. You might have even assumed you are smarter than him because Zomato is not profitable. And as the non CEO or a non existing profitable company, you feel your opinion matter.
+I know you feel you are Deepinder. Or VSS. Or Kunal. Or Sriharsha. You might have even assumed you are smarter than him because Zomato is not profitable. And as the non CEO of a non existing profitable company, you feel your opinion matters.
 But let's be honest, it probably does not. Deepinder does not even know you and (and I) exist.
 
 And that is the tragedy of us midwits.
