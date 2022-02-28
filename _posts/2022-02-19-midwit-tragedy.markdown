@@ -28,13 +28,13 @@ As someone who silently lurks on other people’s profiles and tweets on social 
 
 And it ties a lot to the some of the ideas of mimesis. Yes, friends, I am a Rene Girard enthusiast.
 
-In old times, CEOs used to be in celebristan. Our only access to them, that too one way, was through the Times of India or The Telegram or The Hindu. We read their takes, and moved on. There was no compulsion to reply. Because there was no way to reply.  Our midwit takes would not even reach Narayan Murthy or Ratan Tata or Dhirubhai Ambani. Thanks to the internet we are now in the same platforms as these other successful people. And we feel that our opinion on company building [sourced from PG's blogs] is as important as people who have slogged for more than a decade and have built billion dollar companies.
+In old times, CEOs used to be in celebrities. Our only access to them, was one way, was through the Times of India or The Telegraph or The Hindu. We read their takes, and moved on. There was no compulsion to reply or comment. Because there was no way to reply.  Our midwit takes would not even reach Narayan Murthy or Ratan Tata or Dhirubhai Ambani. Thanks to the internet we are now in the same platforms as these other successful people. And we feel that our opinion on company building [sourced from PG's blogs] is as important as people who have slogged for more than a decade and have built billion dollar companies.
 
 I am all for free speech. Yes, you should be able to debate business models. And ask hard questions. Of course share what CM1 and CM2 means. But what I feel is that you have to be self aware to ask that instead of writing commentary on Cred, why have you not built a better Cred?
 
 Trust me, I know this is hard. To accept that you are a midwit. And curbing the urge to add your 2 cents to other people’s tweets, especially when you know your shit take on Kunal’s tweet will earn a quick 25 likes.
 
-Inspite of me joking about me being in middle management, and a midwit, I introduce myself to everyone as being one of the 2 GPMs that run Transport for Gojek. You know what Transport is right? Think Ola, Uber in India and then imagine the same for SE Asia. This naturally means I am smart and you should take me seriously. That is what I hint when I intro myself. Forget hint, I say it a lot. We all want to make ourselves feel smarter than we are. More important. We exist. We must matter. I literally have a Proof of Work page with recommendations from all my managers. I have added all the projects I have ever worked on. So that people care what I have to say. To prove that I am a top operator and not another Twitter Gyaani.  
+Inspite of me joking about me being in middle management, and a midwit, I introduce myself to everyone as being one of the 2 GPMs that run Transport for Gojek. Think Ola, Uber in India and then imagine the same for SE Asia. This naturally means I am smart and you should take me seriously. That is what I hint when I intro myself. Forget hint, I say it a lot. We all want to make ourselves feel smarter than we are, more important. We exist. We must matter. I literally have a Proof of Work page with recommendations from all my managers. I have added all the projects I have ever worked on. So that people care what I have to say. To prove that I am a top operator and not another Twitter Gyaani.  
 
 But Deepinder and Sriharsha and Kunal does not need to do that. Deepinder is Deepinder. He does not need a personal website to prove he matters. Why? Because everyone knows Zomato and orders from his app. They know what he has built. He does not need to debate UE of Zomato with you and me on Twitter.
 
@@ -45,4 +45,4 @@ But let's be honest, it probably does not. Deepinder does not even know you and 
 
 And that is the tragedy of us midwits.
 
-P.S If this post triggers you, then curb your urge to reply and argue. I probably don’t care about your opinion too.
+P.S If this post triggers you, then curb your urge to argue with me on Twitter. I probably don’t care about your opinion too.
