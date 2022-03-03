@@ -13,8 +13,8 @@ Here are 3 of the best books on how they do their work.
 
 3. Learn about the 47 principles mentioned in The [McKinsey Edge: Success Principles from the World's Most Powerful Consulting Firm by Shu Hattori](https://manassaloi.com/booksummaries/2016/04/21/mcKinsey-edge-hattori.html).
 
-Other books I have read on Mckinsey and consulting in general: [The firm](https://www.goodreads.com/book/show/16130157-the-firm) (history of Mckinsey), [The Secrets of Consulting by Gerald M. Weinberg](https://manassaloi.com/booksummaries/2016/05/29/secrets-of-consulting-gerald-weinberg.html) (the orange test mentioned in the book literally changed my life)
+Other books I have read on Mckinsey and consulting in general: [The firm](https://www.goodreads.com/book/show/16130157-the-firm) (history of Mckinsey), [The Secrets of Consulting by Gerald M. Weinberg](https://manassaloi.com/booksummaries/2016/05/29/secrets-of-consulting-gerald-weinberg.html) (the orange test mentioned in the book literally changed my life).
 
-Read about the Orange juice test here: [Orange juice test](https://intercom.com/blog/the-orange-juice-test/)
+Read about the Orange juice test here: [Orange juice test.](https://intercom.com/blog/the-orange-juice-test/)
 
-I am currently reading: [The Pyramid Principle by Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle). Here is a good summary of the book: [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+I am currently reading: [The Pyramid Principle by Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle). Here is a good summary of the book: [The Pyramid Principle.](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
