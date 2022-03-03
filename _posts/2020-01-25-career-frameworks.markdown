@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 83 Frameworks for your career"
+title:  "[Frameworks] 92 Frameworks for your career"
 
 ---
 
@@ -171,6 +171,24 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 82. [Old or new](https://twitter.com/sariazout/status/1437436501919518721); You can spend 10 years becoming an expert in an old industry or 1 year becoming an expert in a new industry.
 
 83. [Make your managers life easier](https://www.youtube.com/watch?v=txNXrx6Zr0Q); Managing up (aka managing your manager) will help you get promoted without working longer hours.
+
+84. [Becoming aware of how power operates](https://twitter.com/patio11/status/1480622857134931971?t=aNO3zXRrDM6ECkl8AsDjuw&s=09); How to cross the culture gap between lower and upper middle class.
+
+85. [Evaluating startups you want to join like a VC](https://mobile.twitter.com/susanfsu/status/1481332788859064322); Know the right questions to ask.
+
+86. [Be good at your work, be good at picking the right companies to join, be good at getting recognized & promoted at a given company](https://mobile.twitter.com/shreyas/status/1480780548519858176); Do atleast 2/3.
+
+87. [Ovethinking is for midwits](https://twitter.com/DanGrover/status/1484236860373147649?s=20); There aren't a ton of consequences for being wrong.
+
+88. [Hire for slope, not Y-Intercept](https://matt-rickard.com/hire-slope-not-intercept/); Forget about the y-intercept; slope is the only thing that matters in the long run.
+
+89. [No Such Thing as a ‘Startup Within a Big Company](https://marker.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc); You will never be able to take the brand risks, the legal risks, or the partnerships risks that a true startup can.
+
+90. [Apply the same degree of rigorous thinking to your own career decisions as you do to your product decisions](https://mobile.twitter.com/shreyas/status/1482400929223622660); Understanding what the user needs (in this case, that’s you) & not getting fooled by what the user says.
+
+91. [How to pick a winning startup](https://productlessons.substack.com/p/how-to-pick-a-winning-startup?s=r); Avoid dumpster fires, find gems.
+
+92. [Be explicit about the bets you are making at every stage of your career](https://mobile.twitter.com/joshelman/status/1492540740806713345); Optimise on cash, team, or autonomy based on what you want to bet on.
 
 
 **Note:** I will keep expanding this list.
