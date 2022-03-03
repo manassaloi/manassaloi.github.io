@@ -6,7 +6,7 @@ title:  "Titles and career lottery"
 
 The concept of timing is not discussed enough.
 
-If I had joined by company two years prior, even for the same role I did in 2018, and had no further growth. I would have got enough stocks to never have to think about money again.
+If I had joined by company two years prior, even for the same role I did in 2018, and had no further growth, I would have got enough stocks to never have to worry about money again.
 
 A friend of mine was headhunted to head engineering at an early startup. He did not join. In the last one year it has grown so much that if he joined now he would not get the same role and stocks he would have got then. Has my friend’s skills become 10x better or worse than one year back? Not but the potential outcome for him at this startup has. At a time when startups are becoming a unicorn inside 2 years, timing matters even more.
 
