@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[RCA]“Help! Our numbers went down yesterday"
+title:  "[RCA] Help! Our numbers went down yesterday"
 
 ---
 
