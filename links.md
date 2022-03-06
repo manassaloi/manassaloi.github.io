@@ -16,7 +16,7 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 - [Collection of product management principles & frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html)
 - [All my gyaan on life, learning and productivity](https://manassaloi.com/2020/05/18/learning-master.html)
 - [All my gyaan on career](https://manassaloi.com/2020/04/12/master-post-career-gyan.html)
-- [Want to learn poker, then read this](https://manassaloi.com/2020/04/07/learning-poker.html)
+- [Want to learn poker? Read this](https://manassaloi.com/2020/04/07/learning-poker.html)
 - [Learnings from books on personal finance and investing](https://manassaloi.com/2019/08/26/learn-personal-finance-investing.html)
 - [Learnings from books on business strategy](https://manassaloi.com/2019/08/27/learn-business-strategy.html)
 - [I use personal OKRs, you can too](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
