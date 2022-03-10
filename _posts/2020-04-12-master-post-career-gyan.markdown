@@ -76,6 +76,9 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Rangoli jokes](https://manassaloi.com/2022/02/10/rangoli-joke.html)
 - [On Vik](https://manassaloi.com/2022/02/09/on-vik.html)
 - [Thoughts on angel investing](https://manassaloi.com/2022/02/06/angel-investing.html)
+- [Internships](https://manassaloi.com/2022/02/17/unpaid-internships.html)
+- [The tragedy of midwits](https://manassaloi.com/2022/02/19/midwit-tragedy.html)
+- [Career growth and luck](https://manassaloi.com/2022/02/24/career-growth-luck.html)
 
 ### Favourite books on Career
 

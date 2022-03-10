@@ -48,6 +48,8 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Disagree and learn](https://manassaloi.com/2022/02/13/disagree-learn.html)
 - [Is this true or just sounds right?](https://manassaloi.com/2022/02/14/sounds-true.html)
 - [People will shit on you anyway](https://manassaloi.com/2022/02/15/people-will-shit.html)
+- [Stack ranking priorities](https://manassaloi.com/2022/02/22/ranking-priorities.html)
+- [Happiness is just a year away](https://manassaloi.com/2022/02/23/happiness-year-away.html)
 
 ### Favourite books
 
