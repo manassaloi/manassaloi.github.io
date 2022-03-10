@@ -36,4 +36,4 @@ So how do you find the right balance?
 
 An interesting strategy as well as marketplace optimization problem to solve.
 
-If you are working in product/ want to work in the future, these are the problem statements that should excite you.
+If you are working in product/ want to work in the future, these are the kind of problem statements that should excite you.

@@ -3,7 +3,7 @@ layout: post
 title:  "Career growth and luck"
 ---
 
-"After a certain point in your career, a lot of growth is down to org policies and randomness/luck.""
+"After a certain point in your career, a lot of growth is down to org policies and randomness/luck."
 
 Someone smart told me this once. Can't stop thinking about it. The person who said this is pretty successful and IMHO has made it already. It takes a lot of self awareness to accept this.
 
