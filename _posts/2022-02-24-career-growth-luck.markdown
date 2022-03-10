@@ -14,6 +14,4 @@ Someone smart told me this once. Can't stop thinking about it. The person who sa
 
 There are dozens of examples like these that I have seen myself in companies I have worked at or heard from friends who work at other top startups.
 
-I feel over your career, the luck evens out, and you will get what you deserve. But you can't underplay the impact of luck on career growth. Only idiots think hardwork compensates for lack of luck.
-
-They are both needed. You can't rely on just one.
+I feel over your career, the luck evens out, and you will get what you deserve. But you can't underplay the impact of luck on career growth. They are both needed. You can't rely on just one. But since you can't manifest luck, working hard is the only thing in your control I guess.
