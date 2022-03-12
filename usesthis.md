@@ -29,6 +29,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [AirPods Pro](https://www.apple.com/in/shop/product/MLWK3HN/A/airpods-pro): pairs with my iPhone and Mac.
 
++ [Apple Watch 7](apple.com/in/apple-watch-series-7/): To track my fitness.
+
++ [Apple Watch cover](https://www.amazon.in/gp/product/B09L4GBWDV/): Because I don't want scratches on my watch.
+
 + [Sounce Case for AirPods ](https://www.amazon.in/gp/product/B08K8PW1KX/): Protective case.
 
 + [Keyboard Cover for MacBook Air](https://www.amazon.in/gp/product/B08S1MFF1Y/): Protective skin keyboard cover.
