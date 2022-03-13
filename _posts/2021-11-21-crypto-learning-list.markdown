@@ -4,6 +4,8 @@ title:  "Web3 learning resources"
 ---
 
 Newsletters
+- [Milk Road](https://www.milkroad.com/)
+- [Cobie](https://cobie.substack.com/)
 - [Not Boring](https://www.notboring.co/)
 - [Mario at The Generalist](https://readthegeneralist.com)
 - [The Pomp Letter](https://pomp.substack.com/)
