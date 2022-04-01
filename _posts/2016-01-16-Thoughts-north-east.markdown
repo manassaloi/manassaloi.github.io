@@ -4,7 +4,7 @@ title:  "Thoughts from the North-East"
 
 ---
 
-I am currently on a career break. It is similar to a sabbatical where people take some time off from their jobs to do something totally different, only in my case I had to quit my job to take this. I am planning to write a separate blog post on my thoughts behind this decision. On this one I will take your through the start-up ecosystem of North-East and how the various e-com players fare here.
+I am currently on a career break. It is similar to a sabbatical where people take some time off from their jobs to do something totally different, only in my case I had to quit my job to take this. In this post I will take your through the start-up ecosystem of North-East and how the various e-com players fare here.
 
 Being born and brought up in Guwahati (Assam, North-East India), it has been an incredible feeling to see this region transform over the last decade. Thanks to my college and then job I have not had many opportunities in the past few years to spend an extended period of time at home. So this break has been a blessing for me. I have been meeting local entrepreneurs, talking with people of various ages and trying to understand the North-East start-up ecosystem. Here are a few thoughts on the same:
 
