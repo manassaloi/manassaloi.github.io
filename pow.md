@@ -10,14 +10,15 @@ permalink: /proofofwork/
 - **October 2021 - Now**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
 - Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped in this period:
-  - Subscription pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
+  - GoCar XL in Vietnam.
+  - Ride pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
   - Electric Vehicles trial. [press](https://www.dealstreetasia.com/stories/gojek-expands-ev-trial-282349/)
   - GoCar Premium, an on-demand service for luxury vehicles in Singapore. [press](https://www.techinasia.com/gojek-rolls-premium-carhailing-singapore)
   - GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
   - Took GoCorp international; launched in Singapore.
   - Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
   - Introduced cars at scale in Vietnam: launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
-  - Subscription pass product for Singapore.
+  - Ride pass product for Singapore.
 
 - **July 2020 - Septmber 2021**
 - Manager, Growth and Key Initiatives (GKI), Transport. Managed a team of 3 PMs.
