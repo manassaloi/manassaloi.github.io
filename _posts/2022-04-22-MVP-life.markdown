@@ -5,7 +5,7 @@ title:  "MVPs as a career"
 
 In today's world, the cost of trying out the MVP of a career path is very low. If you are interested in something, try it out for a few months and test your assumptions, if it works: continue, else try other things.
 
-Here is how I have been doing.
+Here is how I have been doing:
 1. Wrote a satire blog in college. Could have become a full time blogger. Did not. But used the skills to become a highly followed writer on Quora.
 2. Started a Travel blog on Quora. Ran it for a few years. Realised that it is not something that I want to do for the long run. Used the writing skills (whatever little) developed from the college blog and then the travel blog to later build my own site.
 3. Tried Sales, Marketing, and BD in college. Realised that I enjoyed the business side more than coding (had a CS degree in college). Tried getting into these roles for companies that came for college placement. Got rejected in all. Decided to revise Data Structures and algorithms. Got a software dev job.
