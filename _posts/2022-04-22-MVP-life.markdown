@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "MVPs as a career"
+---
+
+In today's world, the cost of trying out the MVP of a career path is very low. If you are interested in something, try it out for a few months and test your assumptions, if it works: continue, else try other things.
+
+Here is how I have been doing.
+1. Wrote a satire blog in college. Could have become a full time blogger. Did not. But used the skills to become a highly followed writer on Quora.
+2. Started a Travel blog on Quora. Ran it for a few years. Realised that it is not something that I want to do for the long run. Used the writing skills (whatever little) developed from the college blog and then the travel blog to later build my own site.
+3. Tried Sales, Marketing, and BD in college. Realised that I enjoyed the business side more than coding (had a CS degree in college). Tried getting into these roles for companies that came for college placement. Got rejected in all. Decided to revise Data Structures and algorithms. Got a software dev job.
+4. Tried it for 2 years (including the 6 months internship). Realised I could be an average developer at best. After being a 6 pointer in college, and a midwit life for a long time, I wanted to crush at a role I really cared about.
+5. So I decided to try out this thing called Product Management. Turned out I was decent at it. And the only thing I have now done for close to a decade.
+6. Oh forgot, I tried starting up in college. Did not work out. Paused this goal for sometime.
+7. Writing satire was something I enjoyed. So why not write jokes instead for other mediums? Tried creating comics. Was okay at it. But limited drawing skills. So started writing jokes on Facebook and Twitter. Deleted Facebook after a while. Continued with Twitter. People call it shitposting now. I have been writing jokes for 10+ years now. Will I continue posting jokes on Twitter for another 5 years? Who knows. As of now I enjoy it, let's see if I get bored and this evolves to something else. Like how I wrote a satire blog in college and it led to writing jokes on Twitter.
+8.  I have been doing both Product Management and Growth in parallel. By Growth I mean that I have even worked on technical aspects of growth like Facebook marketing and SEO as part of my first growth role. Day to day operations in these roles were tiring. So I decided to work at a higher level of abstraction instead. Working with the SEO manager in my team on copy writing and headlines translated to skills later used on writing headlines for blog posts and even summarising ideas in 1 line tweets.
+9. Got interested in VC. For the longest time I was on the fence. Realised I could just angel invest extremely small checks and see what aspects of the private market investing I liked, and the things I hated. Now I know much more about this domain.
+10. Advising companies. Giving gyaan to companies I have invested in + startups of other friends. Instead of waiting to retire and then do it formally, I wanted to see how it feels. Not sure about this one for the long term.
+11.  Design. In my first PM role, I did not have a full time product designer and only had access to a visual designer. This meant I had to read and become the UX designer myself. I have flirted with design for a long time. The visual aspects are still average, but I think I can get a UX designer role if I wanted to do something more specialised.
+12. Poker. Semi pro. Played online tournaments and made a bit of money. Now play mostly offline with friends. This is something that gives joy, but something I can never do full time. The swings are brutal and I have this habit of tilting.
+13. Starting up 2.0. Around 5 years back I was working on an interesting idea with a friend. After a few months I got burned out doing both: full time job as well as the side project. So I gave up. My friend pivoted and started up. He is doing quite well.
+14. Teaching. I tried running an experimental PM course. It was quite fun. This could have led to a path of a full time CBC teacher. I did not want to make money through this. If you think about it, apart from my day job, I have never optimised for money with the other things I have tried in my life.
+15. Crypto. Got into crypto for 6 months. I realised I was the last person in the centipede of information access and unless I was willing to move to Dubai/ Singapore, there is no point spending so much time.
+16. Managing a team of PMs. This has been an interesting experience and something I have been writing for the last few years.
+
+
+Things I want to try in the future:
+1. A General Manager role. It would be fun to optimise PnL for a change.
+2. Startup. If, and it is a big if, I can commit to a space or idea for 10 years.
+3. Build a cash flow positive business. If 2. does not happen.
+
+
+These are just things I have tried to figure out what I want to do as a career. I have probably tried dozens of other things when it comes to figuring out hobbies/ interests that spark joy ;)
+
+Things to keep in mind:
+1. You can try multiple MVPs at the same time. You don’t have to wait for the results of one activity to move to the next. Focus more on AND than OR. You can be a software developer while working as a scout for a VC fund if you want to understand how VC firms work. You don’t have to quit your job.
+2. This approach of building prototypes is also mentioned in the book ‘Designing your life.’
+3. A lot of times you will think you really like something till you try it out. I remember being impressed by the life of travel bloggers and then a few weeks doing nothing in Bangkok bored me like crazy and I realised I can’t do just Travel as a full time thing.
+4. A lot of things will look good from the outside, and it is easy to try them because of mimesis. Writing shitposts on Twitter is one. As I have mentioned in the past, before you follow a path, you should know what is the outcome you are looking for.
+5. Everyone swings between two needs: stability & novelty. I stayed in Kota, Goa, Pune, Hyderabad, Mumbai and then decide to settle in Bangalore for the time being. Get married. Stick to product management and startups. I seek novelty through the other experiments. Knowing that I am mastering one domain and will always be able to earn a living gives me the flexibility to try other experiments. I have been doing PM’ing for 8 years now, writing for 10+. Software development lasted 2 years, while comics was like one summer when I really got into regular drawing.
+6. These MVPs that I mentioned above have happened over 10+ years. So don’t think I did something extraordinary.
+7. I have been searching for the meaning of life since I was like 10 years old or something. I still don’t know if starting a billion dollar company makes someone happy or having kids. So I try a lot of things, discard those that don’t make me happy, and incorporate the ones that do.
+8. If you want to make more money, you should focus. If you put 3 years in crypto, you will probably make more money than I have made in my last 10 years.
