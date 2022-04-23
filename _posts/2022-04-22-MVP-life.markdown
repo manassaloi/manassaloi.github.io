@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MVPs as a career"
+title:  "MVPs to zero in on a career path"
 ---
 
 In today's world, the cost of trying out the MVP of a career path is very low. If you are interested in something, try it out for a few months and test your assumptions, if it works: continue, else try other things.
