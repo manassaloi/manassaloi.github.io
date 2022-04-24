@@ -17,11 +17,11 @@ I always deferred on buying things for myself because I thought why bother. I wi
 
 Why bother?
 
- More possessions = Less freedom to move.
+More possessions = Less freedom to move.
 
-  But where was I moving? What was the final destination? I did not know.
+ But where was I moving? What was the final destination? I did not know.
 
- Our parents went to college, got a job, got married, had kids. Settled. Bought a house. A place where they belonged. A house fulled with things that gave them joy. They set roots. While I was always running. From one place to another. From one job to another.
+Our parents went to college, got a job, got married, had kids. Settled. Bought a house. A place where they belonged. A house fulled with things that gave them joy. They set roots. While I was always running. From one place to another. From one job to another.
 
 I sometimes ask myself if I have run enough. Let me finally sit and enjoy what I have. Live in a house that feels like mine. Set up the home gym I wanted.
 
