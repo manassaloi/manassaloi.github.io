@@ -7,7 +7,7 @@ What I do on Twitter [being blunt and honest with my thoughts, at least as much 
 
 My answer is that we vastly overestimate how much people care about us. Most people don't. Atleast not enough to hurt their own interests. The people who know me well, know that they should not take my Twitter seriously. And the people who don't matter to me, even if they care about my tweets, why should I be worried about them?
 
-Also if there is one thing I have learned over 10 years working in this system it is that everyone wants the same things: money, power and status. If I startup tomorrow, the same VCs, the same thought leaders from twitter, will want to fund me, irrespective of whether they like my twitter or not. Parker Conrad's first startup Zenefits literally broke laws, but his 2nd startup Ripling still attracted venture capital from top tier VCs. Why? Simple. He is great at what he does.
+Also if there is one thing I have learned over 10 years working in this system it is that everyone wants the same things: money, power and status. If I startup tomorrow, the same VCs, the same thought leaders from twitter, will want to fund me, irrespective of whether they like my twitter or not. Parker Conrad's first startup Zenefits literally broke laws, but his 2nd startup Ripling still attracted venture capital from top tier VCs. Why? Simple. He is great at this startup thingy. And VCs think he will get them superior return compared to the market.
 
 I am also a hypocrite. I might meme a16z all the time, but if I had a chance to be their LP, I would throw everything at them.
 
