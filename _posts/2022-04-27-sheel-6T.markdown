@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Sheel Mohnot's 6T framework"
+---
+
+I found this framework to invest in startups interesting, so adding it to my blog. Sheel mentioned it in a podcast that I listened to. Don't remember
+
+- Team
+  - Most important, especially the founder.
+  - Is the future they are articulating clear?
+  - Can they bring in a strong culture that brings customers?)
+- Traction
+  - What have they built so far?
+  - Have they figured out cac?
+  - Got any partnerships?
+  - Crossed regulatory hurdles?
+- Tech
+  - Can this team build a great product?
+  - Are they iterating on the product fast?
+- Trends and TAM
+  - Are the trends in their favor?
+  - If they execute perfectly how big can it get? Can it go to 1B?
+- Terms
+  - Are the founders being reasonable when it comes to valuation and dilution? Min 10% ownership needed for me to make the math work.
+- Time
+  - Do I like this founder as a person?
+  - Do I want to spend my nights if needed with them?
+  - Can I jam with them?
+
+More investment theses [here](https://manassaloi.com/2020/12/19/vc-frameworks.html).
