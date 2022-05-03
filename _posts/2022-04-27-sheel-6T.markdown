@@ -3,7 +3,7 @@ layout: post
 title:  "Sheel Mohnot's 6T framework"
 ---
 
-I found this framework to invest in startups interesting, so adding it to my blog. Sheel mentioned it in a podcast that I listened to. Don't remember
+I found this framework to invest in startups interesting, so adding it to my blog. Sheel mentioned it in a podcast that I listened to. 
 
 - Team
   - Most important, especially the founder.
@@ -26,5 +26,7 @@ I found this framework to invest in startups interesting, so adding it to my blo
   - Do I like this founder as a person?
   - Do I want to spend my nights if needed with them?
   - Can I jam with them?
+
+Anupam Mittal (shaadi dot com) has a similiar framework called 4T: TAM, Timing, Team, and Type of business.
 
 More investment theses [here](https://manassaloi.com/2020/12/19/vc-frameworks.html).
