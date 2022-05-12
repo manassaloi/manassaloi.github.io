@@ -5,8 +5,6 @@ title:  "A few unpopular opinions"
 
 A few unpopular opinions.
 
-Not unpopular opinions like veg biryaani is not real biryaani, real ones.
-
 1/ The same people who hate on Indian CEOs for hustling, creating a cut throat culture, worship Jobs and Musk. I tried to find the WHY. Debated with a lot of friends and even senior people in the industry to understand their POV.
 
 After like an hour of debate, they would casually mention something like "but he is doing just X, not creating the new iphone or something." This was the epiphany for me. People do not hate CEO X and Y in India because they are assholes or have created a toxic culture, they hate them because they are toxic while creating an incremental product, and not doing something that is seen as world changing.
