@@ -17,7 +17,7 @@ My questions:
 - Is the winner dependent on which of these companies is more driven (follows 996) and can out-execute the other?
 - Is consolidation of the top 2 players the only end game?
 
-I thought [capital as a moat](https://manassaloi.com/2020/01/29/capital-as-moat.html) does not work, but after seeing WeWork's IPO I have changed my views. It does work. But not always. Depends on where we are in the market cycle.
+[Capital as a moat](https://manassaloi.com/2020/01/29/capital-as-moat.html) does work at some level. But not always. Depends on where we are in the market cycle.
 
 I was talking about this with a friend who works in VC. He told me that each year there is a new fad, the goal of each VC fund is to back one of the players, and hope that they will end up as the winner of the sector. But it is very hard to figure out the winner in year 1. So there is a lot of luck involved.
 
