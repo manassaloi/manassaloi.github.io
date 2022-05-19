@@ -13,7 +13,7 @@ When companies grow, committees get formed to formalise org structure and comp p
 
 Remember: Everything you read on social media is content marketing. Know what people are selling you. And why.
 
-There are literally like 10 people I know in life who are actual missionaries, don't care about titles or money and are happy to just work on their craft. Everyone else is just content marketing.
+There are literally like 10 people I know in life who are actual missionaries, don't care about titles or money and are happy to just work on their craft. Everyone else is just doing content marketing on Twitter.
 
 No one grows up wishing to optimise the checkout flow of an ecom site/ increase conversion by 100 basis points. Instead of drinking kool-aid on Twitter, just work hard, show proof of work, become hard to replace, and secure the bag for yourself.
 
