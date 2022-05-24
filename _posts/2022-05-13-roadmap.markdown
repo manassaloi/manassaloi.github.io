@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "How to create your roadmap"
+---
+
+Best resources on roadmaps:
+
+- [How we build our Product Roadmap at Asana](https://jackiebo.medium.com/how-we-build-our-product-roadmap-at-asana-56953b1e25ad)
+- [how to build a product vision, test its viability, then over-communicate your short-term rolling, four-quarter roadmap](https://askgib.substack.com/p/five-answers-to-questions-about-product?s=r)
+- [An Actionable Guide to Product Roadmaps (with templates)](https://productlife.to/p/-an-actionable-guide-to-product-roadmaps?s=r)
+- [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c)
+- [Product Roadmaps – an Essential Guide](https://www.departmentofproduct.com/blog/product-roadmaps-guide/)
+- [The 666 roadmap](https://medium.com/@padday/the-666-roadmap-36c55edb5fd1#.ez5tezsd9)
+- [Where do product roadmaps come from?](https://www.intercom.com/blog/where-do-product-roadmaps-come-from/)
+- [#now, #next, #later](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645)
+- [How to Prioritize a Product Roadmap](https://www.sachinrekhi.com/how-to-prioritize-a-product-roadmap)
+- [How to create a product roadmap: step-by-step guide and free template for founders](https://www.krit.com/blog/product-roadmap-free-template-and-guide-for-founders)
+
+Related: [Vision, mission, values, and OKRs](https://manassaloi.com/2020/05/10/vision-mission.html)
