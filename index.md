@@ -12,7 +12,6 @@ layout: page
 - I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
 - I like using bullet points.
 - Currently a Group Product Manager at Gojek.
-- Small cheque dhaniya angel investor in [SuperK](https://yourstory.com/2022/03/retail-tech-startup-superk-pre-series-a-funding-binny-bansal-021-capital/amp), [Kolo](https://www.entrepreneur.com/article/387200), [Binks](https://techcrunch.com/2019/08/13/yc-backed-startup-binks-can-ship-custom-made-clothing-to-indian-women-in-just-three-days/), and [Rigi](https://economictimes.indiatimes.com/tech/funding/broadcast-platform-rigi-raises-10-million-in-funding-led-by-accel-india-and-others/articleshow/90951442.cms).
 - My credentials can be found here: [POW.](https://manassaloi.com/proofofwork/)
 
 Thanks for checking out my blog. Have a great day 🤗
