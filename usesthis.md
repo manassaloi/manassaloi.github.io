@@ -148,6 +148,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Push-up Bars](https://www.amazon.in/GOCART-Push-up-Bars-Comfortable-Non-Slip/dp/B07FP14HQ1/): Like my bike, this is something which is mostly lying unused. Should not have bought them.
 
++ [Wooden Indian Mugdar](https://www.amazon.in/gp/product/B07QLM95W3/): Trying to use this and my kettlebells more.
 
 ### Wellness
 
@@ -169,8 +170,9 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/): For the cosy vibe in your veranda.
 
-+ [Dr Physio USA Shiatsu Cushion Full Body Neck Massager]: For my legs and back.
++ [Dr Physio USA Shiatsu Kneading Pillow Cushion Full Body Neck Massager](https://www.flipkart.com/physio-shiatsu-kneading-pillow-massage-massagers-machine-heat-relax-sooth-relieve-pain-neck-shoulder-back-full-body-massager/p/itmeyykgfcpv8ps6): For my legs and back.
 
-+ [Caresmith CHARGE Cordless Massage Gun]: To relax my muscles after football.
++ [Caresmith CHARGE Cordless Massage Gun](https://www.amazon.in/gp/product/B08B1PY3B3/): To relax my muscles after football.
+
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
