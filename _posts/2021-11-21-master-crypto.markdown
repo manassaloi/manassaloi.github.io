@@ -3,6 +3,8 @@ layout: post
 title:  "[Crypto Master Post] Crypto resources"
 ---
 
+My attempt at learning web3.
+
 Newest to Oldest:
 - [Are web2 companies evil?](https://manassaloi.com/2022/02/16/web2-evil.html)
 - [Where are you in the information totem pole?](https://manassaloi.com/2022/02/04/bird-centipede.html)

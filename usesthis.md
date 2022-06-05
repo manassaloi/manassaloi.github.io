@@ -169,4 +169,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/): For the cosy vibe in your veranda.
 
++ [Dr Physio USA Shiatsu Cushion Full Body Neck Massager]: For my legs and back.
+
++ [Caresmith CHARGE Cordless Massage Gun]: To relax my muscles after football.
+
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
