@@ -79,6 +79,15 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Internships](https://manassaloi.com/2022/02/17/unpaid-internships.html)
 - [The tragedy of midwits](https://manassaloi.com/2022/02/19/midwit-tragedy.html)
 - [Career growth and luck](https://manassaloi.com/2022/02/24/career-growth-luck.html)
+- [MVPs to zero in on a career path](https://manassaloi.com/2022/04/22/MVP-life.html)
+- [Hacking your career to retire early](https://manassaloi.com/2022/04/26/hacking-career-liquidity.html)
+- [Your need, their calendar](https://manassaloi.com/2022/04/24/your-need-their-calendar.html)
+- [Presenting to execs](https://manassaloi.com/2022/05/10/exec-presentation.html)
+- [Stop reading product blogs](https://manassaloi.com/2022/05/01/stop-reading-pm-blogs.html)
+- [A few unpopular opinions](https://manassaloi.com/2022/05/04/unpopular-opinions.html)
+- [Secure the bag for yourself](https://manassaloi.com/2022/05/03/secure-the-bag.html)
+- [These are the good times](https://manassaloi.com/2022/04/30/good-times.html)
+- [Why angel investing is dumb](https://manassaloi.com/2022/05/11/angel-invest-dumb.html)
 
 ### Favourite books on Career
 

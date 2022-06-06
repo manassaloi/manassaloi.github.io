@@ -50,6 +50,10 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [People will shit on you anyway](https://manassaloi.com/2022/02/15/people-will-shit.html)
 - [Stack ranking priorities](https://manassaloi.com/2022/02/22/ranking-priorities.html)
 - [Happiness is just a year away](https://manassaloi.com/2022/02/23/happiness-year-away.html)
+- [Don't speedrun experiences](https://manassaloi.com/2022/04/29/don't-speedrun-experiences.html)
+- [Pick up a sport](https://manassaloi.com/2022/05/02/pick-up-a-sport.html)
+- [Habits I am tracking daily](https://manassaloi.com/2022/06/02/daily-habits-tracking.html)
+- [10 things I can't live without](https://manassaloi.com/2022/06/01/10-things.html)
 
 ### Favourite books
 
