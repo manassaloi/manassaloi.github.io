@@ -26,3 +26,5 @@ The days I play football, I track these habits related to my game:
 - Pre match stretching [So that I don't get injured]
 - Warm up on the ground [If I warm up with the ball for even 5 mins, I tend to play better]
 - Cool down [I keep missing this]
+
+Related: [Forming habits](https://manassaloi.com/2021/11/28/forming-habits.html)
