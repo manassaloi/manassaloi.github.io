@@ -170,7 +170,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/): For the cosy vibe in your veranda.
 
-+ [Dr Physio USA Shiatsu Kneading Pillow Cushion Full Body Neck Massager](https://www.flipkart.com/physio-shiatsu-kneading-pillow-massage-massagers-machine-heat-relax-sooth-relieve-pain-neck-shoulder-back-full-body-massager/p/itmeyykgfcpv8ps6): For my legs and back.
++ [Dr Physio USA Shiatsu Kneading Pillow Cushion Full Body Neck Massager](https://www.flipkart.com/physio-shiatsu-kneading-pillow-massage-massagers-machine-heat-relax-sooth-relieve-pain-neck-shoulder-back-full-body-massager/p/itmeyykgfcpv8ps6): For massaging my legs and back before I sleep.
 
 + [Caresmith CHARGE Cordless Massage Gun](https://www.amazon.in/gp/product/B08B1PY3B3/): To relax my muscles after football.
 
