@@ -56,4 +56,5 @@ title:  "My favorite personal websites"
 - [Andy Matuschak](https://andymatuschak.org/)
 - [Dan Wilton](https://danwilton.co.uk/)
 - [Bruno](https://www.brunog.design/)
+- [Casey Caruso](https://www.caseycaruso.xyz/)
 - [Sheel Mohnot](https://www.notion.so/sheel/Sheel-Mohnot-acb2920cf07147e88dd24f1774bf4898)

@@ -48,3 +48,7 @@ Investment theses and ideas:
 - You’re solving an important problem, that you’ve got the path to an important solution, that there is a big market opportunity, and that your team is positioned to execute - [Samir Vasavada, Vise CEO](https://techcrunch.com/2021/05/26/vise-ceo-samir-vasavada-and-sequoias-shaun-maguire-break-down-the-art-of-the-pitch/?tpcc=ECTW2020&guccounter=1)
 - Invest in big waves - [Mike Maples](https://youtu.be/ZdzDf9HFvFw?t=544)
 - Make what is available to the rich today acessible to everyone - [Jack Abraham](https://youtu.be/YCq6RjGi-qA?t=2441)
+- 6T - [Sheel Mohnot](https://manassaloi.com/2022/04/27/sheel-6T.html)
+- Founder References, Size the Opportunity, Use The Product, Customer Calls, Traction Analysis, Why Now, Community Review, Tokens and Value Accrual, Competitive Landscaping, Returns Analysis - [Casey Caruso, Paradigm](https://mobile.twitter.com/caseykcaruso/status/1499064398802919424)
+- Ability to get to product/market fit, ability to build a team to scale without the wheels coming off, ability to build an organization that can prosecute many products and markets in parallel - [Marc Andreessen](https://mobile.twitter.com/pmarca/status/1494888502047113216)
+- 7Cs - [Lorimer Ventures](https://wire.insiderfinance.io/the-7-cs-of-venture-investing-95da2411c26a)
