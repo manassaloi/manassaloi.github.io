@@ -65,6 +65,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Playing to Win: How Strategy Really Works - A.G. Lafley](https://www.goodreads.com/book/show/13586928-playing-to-win)
 + [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
 + [Invent and Wander: The Collected Writings of Jeff Bezos - Jeff Bezos, Walter Isaacson](https://www.goodreads.com/book/show/54505323-invent-and-wander)
++ [$100M Offers - Alex Hormozi](https://www.goodreads.com/book/show/58612786-100m-offers)
 
 ### Leading & Managing
 
@@ -145,6 +146,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Die with Zero: Getting All You Can from Your Money and Your Life - Bill Perkins](https://www.goodreads.com/book/show/52950915-die-with-zero)
 + [The 4-Hour Workweek - Timothy Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
 + [A Million Miles in a Thousand Years - Donald Miller](https://www.goodreads.com/book/show/1999475.A_Million_Miles_in_a_Thousand_Years)
++ [Think on These Things - J. Krishnamurti](https://www.goodreads.com/book/show/13470.Think_on_These_Things)
 
 
 ### Health, Habits & Productivity
@@ -185,10 +187,13 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [How to Be a Capitalist Without Any Capital - Nathan Latka](https://www.goodreads.com/book/show/43082141-how-to-be-a-capitalist-without-any-capital)
 + [What I Learned Losing a Million Dollars - Jim Paul](https://www.goodreads.com/book/show/1334384.What_I_Learned_Losing_a_Million_Dollars)
 + [The Snowball: Warren Buffett and the Business of Life - Alice Schroeder](https://www.goodreads.com/book/show/2054761.The_Snowball)
++ [The Millionaire Fastlane - M.J. DeMarco](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane)
++ [Richer, Wiser, Happier - William P. Green](https://www.goodreads.com/book/show/54303127-richer-wiser-happier)
 
 
 ### Venture Capital
 
++ [The Power Law - Sebastian Mallaby](https://www.goodreads.com/book/show/58009109-the-power-law)
 + [Done Deals: Venture Capitalists Tell Their Stories - Udayan Gupta](https://www.goodreads.com/book/show/2381059.Done_Deals)
 + [Angel: How to Invest in Technology Startups: Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000 - Jason Calacanis](https://www.goodreads.com/book/show/32600757-angel)
 + [Mastering the VC Game: A Venture Capital Insider Reveals How to Get from Start-up to IPO on Your Terms - Jeffrey Bussgang](https://www.goodreads.com/book/show/7904927-mastering-the-vc-game)
