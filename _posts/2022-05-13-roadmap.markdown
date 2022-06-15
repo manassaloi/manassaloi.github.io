@@ -5,6 +5,7 @@ title:  "How to create your roadmap"
 
 Best resources on roadmaps:
 
+- [Product Planning](https://msiliski.medium.com/product-planning-a8c18d4018fa)
 - [How we build our Product Roadmap at Asana](https://jackiebo.medium.com/how-we-build-our-product-roadmap-at-asana-56953b1e25ad)
 - [how to build a product vision, test its viability, then over-communicate your short-term rolling, four-quarter roadmap](https://askgib.substack.com/p/five-answers-to-questions-about-product?s=r)
 - [An Actionable Guide to Product Roadmaps (with templates)](https://productlife.to/p/-an-actionable-guide-to-product-roadmaps?s=r)
