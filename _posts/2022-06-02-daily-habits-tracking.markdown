@@ -3,7 +3,7 @@ layout: post
 title:  "Habits I am tracking daily"
 ---
 
-I track these habits on my Streaks app:
+I track these habits on my [Streaks app](https://streaksapp.com/):
 - Go out in the sun [I feel if I even spend 5 mins sitting in my balcony, it improves my mood.]
 - Workout 30 mins [Football, stretching, yoga, and sometimes weight training.]
 - Meditate 10 mins [I probably do 2 times a week, keep missing this.]
