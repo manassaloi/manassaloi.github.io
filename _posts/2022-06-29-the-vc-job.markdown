@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "The VC job"
+---
+
+I have had a few inbounds from VC funds for potential job opportunities over the years. I also think tech investing is adjacent to working in tech, and hence I met quite a few investors to understand how they think, their workdays, and their investment philosophies.
+
+I can't mention any VC by name, but here are a few insights:
+
+- In many VC funds, the approach of each partner is different. Their is no single framework. Partner 1 in VC firm X might prefer investing only on strong founders with a track record while Partner 2 might have a thesis on a sector and invest based on that. If I was a founder, I would heavily research the partner I am pitching to, and tailor my pitch accordingly.
+- I saw the calendar of a VC (VP/ Principal level at a tier 1 fund) and he had meetings from 8AM to 1AM with very few open slots. We joke about VCs living the good life, but the truth is that they slog much more than the average PM or developer. Yes, they might not do deep work, but after the first few months 14-15 hours of calls and in person meetings takes its toll. This person was also telling me how you have to always put on the curious excited VC face, no matter what is happning in your personal life. Let's say your father is down with Covid, but there is this call with the founder of this hot startup, no matter how sad you are, you have to show up and do your job. If you look upset, the founder might think you are not excited about the startup/ idea, and it might lead to you losing the deal, and in turn your shot at a partnership at the VC fund. It is a thankless job. There are ofcourse a lot of benefits to being a VC, but people see the glamour, more than the long hard slog that the job demands.
+- Framework of a GP at a tier 1 fund:
+  -  Founder's understanding of the problem
+  -  Can they sell the product at a higher velocity once they raise investment?
+  -  What is the TAM and adjacent use cases?
+  -  Instead of selling at say 1 mil ticket size, can they find a smaller ticket size, say 30k to sell, and then upsell?
+  -  Is there a distribution advantage?
+  -  Can the founder learn how to build a successful product but also learn how to get distribution?
+  -  Quality of team
+  -  What is the GTM wedge of the company?
+-  There are partners who are senior enough to wait and only invest in the best pitches they see while there are partners who rely a lot on outbound. Depends on whether the partner has the pull factor yet to get the top quartile founders to reach out to them.
+- One GP evaluates 20-25 companies per week. So potentially 100 companies a month. 1000+ over the year.
+- Another GP judges his sourcing ability on this metric: on deals announced each week how many he saw and formed a thesis before passing/ investing. Goal is to see as many deals as possible.
+- Ecosystem coverage is important for sector specific fund partners. A fintech investor would want to cover as many fintech startups as possible and would judge himself on startups:
+  - he never met
+  - he met but did not understand/have a view
+  - he met and formed a view on
+  - invested/ passed
+  - changed his view and invested later on
+- VCs track interesting people in the ecosystem. A friend told me how VCs reached out to him when he quit his role as a Director at a hot startup. They even added his name to their database. These connections are useful for VC firms. Firms might:
+  - hire them for their portfolio companies
+  - pitch them on senior associate/ VP/ Principal roles
+  - use them to source deals
+  - use their expertise to do DD on startups
+  - ask them to give talks to portfolio founders
+- Some funds are very bottom heavy, lots of analysts supporting a few partners, while others are top heavy, single analyst supporting multiple partners, while there are firms where everyone is a partner and share carry equally. There is no right way to run a fund.
+- Early stage and Growth VCs are very different in their philosophy around investing. I remember meeting a VC who does growth deals and he was shocked at the excesses in seed stage and kept saying the entire crypto market is a scam, while early stage VCs I met kept saying Growth VCs are no different than PE partners, focused only on numbers, and missing the "art" of venture investing.
+- All that matters is how much capital you are returning to your LPs. Very few firms generate consistent returns over the long run. A VC I met told me why they keep their fund size small. It is a feature, not a bug. If you do the math, it is very hard to return 3X on a large fund, especially in a market like India where there are very few liquidity events.
+
+If you are interested in Venture Capital, you might want to check out:
+- [Becoming an LP in an a16z fund](https://manassaloi.com/2021/12/16/lp-a16z.html)
+- [Thoughts on angel investing](https://manassaloi.com/2022/02/06/angel-investing.html)
+- [Why angel investing is dumb](https://manassaloi.com/2022/05/11/angel-invest-dumb.html)
+- [VC investment theses](https://manassaloi.com/2020/12/19/vc-frameworks.html)
+- [The Power Law](https://manassaloi.com/booksummaries/2022/04/11/power-law-mallaby.html)
