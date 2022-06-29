@@ -58,3 +58,5 @@ title:  "My favorite personal websites"
 - [Bruno](https://www.brunog.design/)
 - [Casey Caruso](https://www.caseycaruso.xyz/)
 - [Sheel Mohnot](https://www.notion.so/sheel/Sheel-Mohnot-acb2920cf07147e88dd24f1774bf4898)
+
+A curated list here: [Personal sites](https://personalsit.es/)
