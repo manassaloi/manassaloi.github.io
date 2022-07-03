@@ -3,6 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
+(Last updated: 2nd July 2022)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -50,6 +51,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Amazon Unbound - Brad Stone](https://www.goodreads.com/book/show/56695159-amazon-unbound)
 + [We Are The Nerds - Christine Lagorio-Chafkin](https://www.goodreads.com/book/show/31685600-we-are-the-nerds)
 + [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power - Max Chafkin](https://www.goodreads.com/book/show/57880116-the-contrarian)
++ [After Steve - Tripp Mickle](https://www.goodreads.com/book/show/58733657-after-steve)
 
 
 ### Company Building Playbook
@@ -65,6 +67,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Playing to Win: How Strategy Really Works - A.G. Lafley](https://www.goodreads.com/book/show/13586928-playing-to-win)
 + [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
 + [Invent and Wander: The Collected Writings of Jeff Bezos - Jeff Bezos, Walter Isaacson](https://www.goodreads.com/book/show/54505323-invent-and-wander)
++ [Working Backwards - Colin Bryar, Bill Carr](https://www.goodreads.com/book/show/53138083-working-backwards)
 + [$100M Offers - Alex Hormozi](https://www.goodreads.com/book/show/58612786-100m-offers)
 
 ### Leading & Managing
@@ -147,6 +150,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The 4-Hour Workweek - Timothy Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
 + [A Million Miles in a Thousand Years - Donald Miller](https://www.goodreads.com/book/show/1999475.A_Million_Miles_in_a_Thousand_Years)
 + [Think on These Things - J. Krishnamurti](https://www.goodreads.com/book/show/13470.Think_on_These_Things)
++ [The Art of Noticing - Rob Walker](https://www.goodreads.com/book/show/41552704-the-art-of-noticing)
 
 
 ### Health, Habits & Productivity
@@ -328,6 +332,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 
 ### Fiction
 
++ [Lonesome Dove - Larry McMurtry](https://www.goodreads.com/book/show/256008.Lonesome_Dove)
 + [Harry Potter - J.K. Rowling](https://www.goodreads.com/series/45175-harry-potter)
 + [Siddhartha - Hermann Hesse](https://www.goodreads.com/book/show/52036.Siddhartha)
 + [1Q84 - Haruki Murakami](https://www.goodreads.com/book/show/6443834-1q84)

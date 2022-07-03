@@ -3,11 +3,16 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
+(Last updated: 2nd July 2022)
+
 (Proof of Work)
 
 ### Gojek (~3 years) ###
 
-- **October 2021 - Now**
+- **July 2021 - Now**
+- Group Product Manager, Ride hailing products, Transport.
+
+- **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
 - Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped in this period:
   - GoCar XL in Vietnam.
@@ -19,6 +24,7 @@ permalink: /proofofwork/
   - Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
   - Introduced cars at scale in Vietnam: launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
   - Ride pass product for Singapore.
+  - Launched GoPay Coins.
 
 - **July 2020 - Septmber 2021**
 - Manager, Growth and Key Initiatives (GKI), Transport. Managed a team of 3 PMs.
