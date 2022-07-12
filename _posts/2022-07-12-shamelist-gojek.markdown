@@ -159,4 +159,8 @@ I generally share this only once I leave a company. This time I am making an exc
 12. Do the fix then do the RCA.
 13. Know the agenda of stakeholders.
 14. You don't update leadership, every call with them is actually a sales call.
-15. You can't fight all battles.
+15. You can't fight all battles. So pick your battles wisely.
+
+Related:
+  - [Organizational learnings](https://manassaloi.com/2021/12/08/master-organizational-learnings.html)
+  - [Build Measure Learn (for you)](https://manassaloi.com/2019/11/24/build-measure-learn.html)
