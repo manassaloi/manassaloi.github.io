@@ -15,3 +15,10 @@ Tips on presenting to CXOs:
 8. Ask: What is the larger narrative here?
 9. Tie it to the mission.
 10. Course correct if meeting not going as planned instead of hoping for another meeting.
+11. Think about the 3 numbers that you want execs to take away.
+12. Focus on: what you want (your goal from the meeting), what is the obstacle that you want to highlight, and end with your proposal.
+13. Play to emotion.
+14. Use specific examples.
+15. Make it visual.
+16. Use clear linear time sequencing.
+17. Read the room.
