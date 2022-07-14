@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gojek's Shamelist & learnings"
+title:  "Gojek Shamelist & learnings"
 ---
 
 I generally share this only once I leave a company. This time I am making an exception. With my company going public, I can't share details around specific features or metrics anyway. Also note that most of these are from my first year working as an IC.
