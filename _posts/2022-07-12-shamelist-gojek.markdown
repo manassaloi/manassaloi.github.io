@@ -149,17 +149,16 @@ I generally share this only once I leave a company. This time I am making an exc
 2. Create your own identity. What do you want your team/yourself to be known as? Data driven / super technical/ user experience experts?
 3. Send regular updates to stakeholders.
 4. More face time with leadership.
-5. Always work in the mothership and not satellite office.
-6. Tailor content based on who is reading.
-7. Highlight wins as well as issues in real time.
+5. Tailor content based on who is reading.
+6. Highlight wins as well as issues in real time.
+7. Take extreme ownership.
 8. Regular 1-1s with manager. The 1-1 is for you. Don't skip them.
 9. Sometime speaking less is the way.
 10. Be crisp.
-11. Don't volunteer too much info about your career moves.
-12. Do the fix then do the RCA.
-13. Know the agenda of stakeholders.
-14. You don't update leadership, every call with them is actually a sales call.
-15. You can't fight all battles. So pick your battles wisely.
+11. Do the fix then do the RCA.
+12. Know the agenda of stakeholders.
+13. You don't update leadership, every call with them is actually a sales call.
+14. You can't fight all battles. So pick your battles wisely.
 
 Related:
   - [Organizational learnings](https://manassaloi.com/2021/12/08/master-organizational-learnings.html)
