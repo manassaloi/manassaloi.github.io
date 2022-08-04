@@ -4,7 +4,7 @@ title:  "Expectations around dashboards for a team"
 ---
 
 Extremely good:
-- Items mentioned in Good + Have [definitions and dashboards doc](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing) and map to all the relevant dashboards from there. It should have all input levers and output metrics, point out all the dependencies, and show how they are all tied together. This will help determine your growth strategy. Check out Frameworks to think about Growth post on blog.
+- Items mentioned in Good + Have [definitions and dashboards doc](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing) and map to all the relevant dashboards from there. It should have all input levers and output metrics, point out all the dependencies, and show how they are all tied together. This will help determine your [growth strategy](https://manassaloi.com/2021/09/25/think-growth.html). 
 
 Good: Items mentioned in okay +
 - Have all the dashboards on Tableau (or any other BI tool).
