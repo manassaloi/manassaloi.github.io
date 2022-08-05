@@ -3,8 +3,8 @@ layout: post
 title:  "Expectations around dashboards for a team"
 ---
 
-Extremely good:
-- Items mentioned in Good + Have [definitions and dashboards doc](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing) and map to all the relevant dashboards from there. It should have all input levers and output metrics, point out all the dependencies, and show how they are all tied together. This will help determine your [growth strategy](https://manassaloi.com/2021/09/25/think-growth.html). 
+Great:
+- Items mentioned in Good + Have [definitions and dashboards doc](https://docs.google.com/document/d/1PygKV-_ThyWOW95ODefQrwYtQAfGO1yjD4x-8C0O3Uo/edit?usp=sharing) and map to all the relevant dashboards from there. It should have all input levers and output metrics, point out all the dependencies, and show how they are all tied together. This will help determine your [growth strategy](https://manassaloi.com/2021/09/25/think-growth.html).
 
 Good: Items mentioned in okay +
 - Have all the dashboards on Tableau (or any other BI tool).
@@ -18,5 +18,7 @@ Good: Items mentioned in okay +
 Okay:
 - All feature launches are accompanied by relevant dashboards.
 - There are dashboards for the major metrics.
+
+Note: Creation of all of these dashboards won't happen in a day. If you are starting out focus on reaching the okay state asap and then gradually move towards great. I don't expect the PM to create all these dashboards themselves. Most companies have an analyst embedded with product teams. The PM should work closely with them to get to the desired outcome.   
 
 Related: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
