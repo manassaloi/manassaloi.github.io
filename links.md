@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 ---
-(Last updated: 2nd July 2022)
+(Last updated: 2 July 2022)
 
 ## (Transitioning to a PM role)
 

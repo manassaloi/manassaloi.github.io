@@ -3,14 +3,16 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 2nd July 2022)
+(Last updated: 31 August 2022)
 
 (Proof of Work)
 
-### Gojek (~3 years) ###
+### Gojek (~3.5 years) ###
 
 - **July 2021 - Now**
-- Group Product Manager, Ride hailing products, Transport.
+- Group Product Manager, Ride hailing products & GoSend, Transport.
+  - Shortcuts in Vietnam.
+  - Premium insurance in Indonesia.
 
 - **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
