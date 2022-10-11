@@ -16,7 +16,9 @@ All the PMs in my team have to submit a weekly slack update on Tuesday. The week
       - List of a few items done
     - Continuing this week
       - List of a few items to be picked up this week
+    - Highlight blockers if any/ if delayed then explain why
 - Other completed projects in the semester
 - Projects deprioritised/ parked
+- Tag relevant stakeholders for visibility
 
 I love this format and would recommend everyone to use it.
