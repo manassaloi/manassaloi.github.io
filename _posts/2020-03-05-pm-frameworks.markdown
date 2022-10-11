@@ -4,6 +4,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 
 ---
 
+(Last updated: 11 Oct 2022)
+
 ## Values and Principles
 - [Pass the Orange test](https://www.intercom.com/blog/the-orange-juice-test/)
 - [Truth Seeker](https://www.sachinrekhi.com/the-best-product-managers-are-truth-seekers)
@@ -46,9 +48,11 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Intentional](https://twitter.com/Superhuman/status/1338603097711497219)
 - [Internal then external](https://manassaloi.com/2021/02/02/internal-external.html)
 - [Create scope](https://productlife.to/p/-great-pms-create-scope)
+- [Lead through strategy and not inertia](https://craft.faire.com/strategy-leads-the-faire-product-org-not-inertia-dc12b30f619f)
+- [Optimism Shapes Reality](https://alexw.substack.com/p/optimism-shapes-reality?s=r)
 
 
-## Product development, Research & Design
+## Product development, Strategy, Research & Design
 - [Super normal](https://medium.com/design-philosophy/super-normal-c1d22838572a)
 - [One level up](https://manassaloi.com/2021/04/18/one-level-up.html)
 - [Single decisive reasoning](https://coda.io/@rahulvohra/single-decisive-reasoning-sdr-at-superhuman)
@@ -153,6 +157,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [3 types of research](https://manassaloi.com/2020/12/07/research.html)
 - [How to do a design review](https://manassaloi.com/2020/06/30/on-design-reviews.html)
 - [Let Fires Burn](https://productlife.to/p/-pms-let-fires-burn)
+- [Product Strategy is Really About Offense vs. Defense](https://www.reforge.com/blog/product-strategy-framework-offense-vs-defense)
+- [Defensibility](https://mobile.twitter.com/avlok/status/1530232421500583937)
 
 ## Decision making
 - [How I take big decisions](https://manassaloi.com/2020/04/29/decision-making.html)
@@ -168,6 +174,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [What could go right?](https://mobile.twitter.com/bgurley/status/572255806051131392)
 - [Scaling decision making](https://manassaloi.com/2021/02/03/scaling-decisionmaking.html)
 - [Your organization needs product principles](https://slack.design/articles/why-your-organization-needs-product-principles/)
+- [How to tell if you have a real product strategy](https://mobile.twitter.com/shreyas/status/1541973754380570624)
+- [Speed is a function of simplicity](https://twitter.com/daraladje/status/1534000199793770496)
 
 ## Meeting
 - [Get an Inspiration, an Organizer, a Questioner, and a Peacemaker](https://twitter.com/manas_saloi/status/1259492462092926977)
@@ -215,9 +223,13 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Synergy between strategy and org structure](https://mobile.twitter.com/gokulr/status/1417272837706981405)
 - [Horizons and storytelling](https://efeng.medium.com/a-lesson-in-storytelling-from-my-time-at-facebook-b7eb013aede4)
 - [VPs tilt the Curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
+- [Job of a COO](https://mobile.twitter.com/akothari/status/1562649593434714112)
+- [Swinging the Pendulum](https://twitter.com/brandonmchu/status/1502312471461249030)
 
 ## Stakeholder management
 - [Hero meetings](https://twitter.com/sriramk/status/1226959362918215680)
+- [Executive Presentations: A Guide to Achieving the Outcomes You Want](https://debliu.substack.com/p/executive-presentations-a-guide-to)
+- [Docs for busy execs](https://mobile.twitter.com/shreyas/status/1449911454291791875)
 
 ## Project management
 - [Following these rules will help you to manage a big project more effectively](https://manassaloi.com/2020/04/26/rules-project-management.html)
@@ -253,7 +265,8 @@ title: "[Project Lumos] Product Management Principles, Frameworks & Reads"
 - [Leaders build consensus](https://hyperbo.la/w/nemawashi/)
 - [The 10/50/99% Approach to Feedback](https://i-am-brennan.medium.com/the-10-50-99-approach-to-feedback-e32157865c50)
 - [Communication decisions as a CEO](https://mobile.twitter.com/gokulr/status/1421944258827673601)
-- [Executive Presentations: A Guide to Achieving the Outcomes You Want](https://debliu.substack.com/p/executive-presentations-a-guide-to)
+- [Writing an exec summary](https://www.reforge.com/blog/executive-summary)
+- [Running a review as an exec](https://twitter.com/sriramk/status/1574100835822227456)
 
 ## Interview
 - [Least known favourite product](https://manassaloi.com/2020/12/18/fav-product.html)

@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "[Frameworks] 92 Frameworks for your career"
+title:  "[Frameworks] 97 Frameworks for your career"
 
 ---
+
+(Last updated: 11 Oct 2022)
 
 Important frameworks/models/ideas I learned in the last few years which have helped me in my professional life:
 
@@ -189,6 +191,16 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 91. [How to pick a winning startup](https://productlessons.substack.com/p/how-to-pick-a-winning-startup?s=r); Avoid dumpster fires, find gems.
 
 92. [Be explicit about the bets you are making at every stage of your career](https://mobile.twitter.com/joshelman/status/1492540740806713345); Optimise on cash, team, or autonomy based on what you want to bet on.
+
+93. [A Product Manager's Guide to Growing Scope](https://productlife.to/p/-find-and-capture-scope); How to grow your responsibilities and career at the same time.
+
+94. [There's no such thing as being "underpaid."](https://twitter.com/Codie_Sanchez/status/1551303990352175107); The money you make = value you deliver + how replaceable you are + negotiation ability.
+
+95. [Make the table bigger](https://twitter.com/rebeccamakkai/status/1537210974687592449); Wherever you are, your job is to make the table bigger.
+
+96. [Launch, Promo, Abandon](https://mobile.twitter.com/petergyang/status/1576985038511448064/photo/1); Why you probably need to launch more things to get promoted.
+
+97. [0 to 1 operator](https://mobile.twitter.com/akothari/status/1562649593434714112); Pick a problem area, and build 0 to 1 yourself, after it gets going, start recruiting for an experienced leader for the area, onboard the leader well, nuke yourself out and attack next problem.
 
 
 **Note:** I will keep expanding this list.

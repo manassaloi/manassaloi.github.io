@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-(Last updated: 2 July 2022)
+(Last updated: 11 Oct 2022)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -69,6 +69,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Invent and Wander: The Collected Writings of Jeff Bezos - Jeff Bezos, Walter Isaacson](https://www.goodreads.com/book/show/54505323-invent-and-wander)
 + [Working Backwards - Colin Bryar, Bill Carr](https://www.goodreads.com/book/show/53138083-working-backwards)
 + [$100M Offers - Alex Hormozi](https://www.goodreads.com/book/show/58612786-100m-offers)
++ [Amp It Up - Frank Slootman](https://www.goodreads.com/book/show/59383944-amp-it-up)
 
 ### Leading & Managing
 
@@ -151,6 +152,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [A Million Miles in a Thousand Years - Donald Miller](https://www.goodreads.com/book/show/1999475.A_Million_Miles_in_a_Thousand_Years)
 + [Think on These Things - J. Krishnamurti](https://www.goodreads.com/book/show/13470.Think_on_These_Things)
 + [The Art of Noticing - Rob Walker](https://www.goodreads.com/book/show/41552704-the-art-of-noticing)
++ [Four Thousand Weeks - Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 
 
 ### Health, Habits & Productivity
@@ -211,6 +213,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
 + [The Elements of Style - William Strunk Jr](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
 + [The Minto Pyramid Principle - Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
++ [Words Like Loaded Pistols - Sam Leith](https://www.goodreads.com/book/show/12868617-words-like-loaded-pistols)
 
 ### UX and Customer development
 
@@ -268,6 +271,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain)
 + [The Halo Effect: And the Eight Other Business Delusions That Deceive Managers - Philip M. Rosenzweig](https://www.goodreads.com/book/show/136181.The_Halo_Effect)
 + [Wanting: The Power of Mimetic Desire in Everyday Life - Luke Burgis](https://www.goodreads.com/book/show/54860444-wanting)
++ [7 Rules of Power - Jeffrey Pfeffer](https://www.goodreads.com/book/show/60705919-7-rules-of-power)
 
 ### Decision Making
 
@@ -290,8 +294,8 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Career - Alex Banayans](https://www.goodreads.com/book/show/36739769-the-third-door)
 + [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career - Reid Hoffman](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 + [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
-+ [The Presentation Secrets of Steve Jobs - Carmine Gallo](https://www.goodreads.com/book/show/6908348-the-presentation-secrets-of-steve-jobs)
 + [Your Next Five Moves: Master the Art of Business Strategy - Patrick Bet-David](https://www.goodreads.com/book/show/50542735-your-next-five-moves)
++ [The 3-Minute Rule - Brant Pinvidic](https://www.goodreads.com/book/show/49351774-the-3-minute-rule)
 
 
 ###  History

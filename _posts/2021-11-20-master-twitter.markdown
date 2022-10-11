@@ -3,6 +3,8 @@ layout: post
 title:  "[Twitter Master Post] My ramblings about Twitter"
 ---
 
+(Last updated: 11 Oct 2022)
+
 - [Twitter gurus](https://manassaloi.com/2022/04/28/twitter-gurus.html)
 - [Being based on Twitter](https://manassaloi.com/2022/04/23/twitter-unhingeness.html)
 - [Counter-positioning and self-imposed constraints on Twitter](https://manassaloi.com/2022/01/04/counterpositioning-constraints-social-media.html)

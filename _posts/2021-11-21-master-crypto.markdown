@@ -3,6 +3,8 @@ layout: post
 title:  "[Crypto Master Post] Crypto resources"
 ---
 
+(Last updated: 11 Oct 2022)
+
 My attempt at learning web3.
 
 Newest to Oldest:

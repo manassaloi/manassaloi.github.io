@@ -13,6 +13,7 @@ permalink: /proofofwork/
 - Group Product Manager, Ride hailing products & GoSend, Transport.
   - Shortcuts in Vietnam.
   - Premium insurance in Indonesia.
+  - Hemat in Indonesia.
 
 - **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.

@@ -4,6 +4,8 @@ title: "[PM Career Gyaan Master Post] How to think about your career"
 
 ---
 
+(Last updated: 11 Oct 2022)
+
 This will be the place where I link to all the career gyaan I have given or accumulated over the years
 
 ### My own Gyaan
@@ -88,6 +90,7 @@ This will be the place where I link to all the career gyaan I have given or accu
 - [Secure the bag for yourself](https://manassaloi.com/2022/05/03/secure-the-bag.html)
 - [These are the good times](https://manassaloi.com/2022/04/30/good-times.html)
 - [Why angel investing is dumb](https://manassaloi.com/2022/05/11/angel-invest-dumb.html)
+- [The VC job](https://manassaloi.com/2022/06/29/the-vc-job.html)
 
 ### Favourite books on Career
 

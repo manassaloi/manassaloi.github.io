@@ -4,6 +4,8 @@ title:  "[Self Improvement Master Post] Life, Learning and Productivity"
 
 ---
 
+(Last updated: 11 Oct 2022)
+
 This will be the place where I link to all the self improvement gyaan I have given or accumulated over the years
 
 ### My own Gyaan
@@ -54,6 +56,8 @@ This will be the place where I link to all the self improvement gyaan I have giv
 - [Pick up a sport](https://manassaloi.com/2022/05/02/pick-up-a-sport.html)
 - [Habits I am tracking daily](https://manassaloi.com/2022/06/02/daily-habits-tracking.html)
 - [10 things I can't live without](https://manassaloi.com/2022/06/01/10-things.html)
+- [Habits I am tracking daily](https://manassaloi.com/2022/06/02/daily-habits-tracking.html)
+- [Maybe travel more](https://manassaloi.com/2022/07/14/travel-more.html)
 
 ### Favourite books
 
