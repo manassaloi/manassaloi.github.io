@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "What did you get done last week?"
+---
+
+All the PMs in my team have to submit a weekly slack update on Tuesday. The weekly update follows this format:
+
+- Weekly updates for Team X
+  - Link to doc for collated weekly updates [This helps stakeholders go through past updates]
+  - Project 1 [Color code to mark status]
+    - One line status about the project [something like Deployed on Integration last week]
+    - Overall progress status [X% completed]
+    - Total story points [X story points in total for the project]
+    - Name of people working on the project [name everyone working in the project from designers to devs to QAs]
+    - Completed last week
+      - List of a few items done
+    - Continuing this week
+      - List of a few items to be picked up this week
+- Other completed projects in the semester
+- Projects deprioritised/ parked
+
+I love this format and would recommend everyone to use it.
