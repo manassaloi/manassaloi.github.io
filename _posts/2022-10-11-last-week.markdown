@@ -22,3 +22,5 @@ All the PMs in my team have to submit a weekly slack update on Tuesday. The week
 - Tag relevant stakeholders for visibility
 
 I love this format and would recommend everyone to use it.
+
+More processes on how to run a team more efficiently: [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)

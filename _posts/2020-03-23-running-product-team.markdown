@@ -91,6 +91,7 @@ I plan to create templates and best practices for the following over the next 3 
   - [Folder Structure](https://docs.google.com/document/d/1OJmggtFK7Iqmou5NNCusZyChSRMBzRCU3F3RCfk9sVM/edit?usp=sharing)
   - [Update on features](https://manassaloi.com/2021/03/09/slack-update.html)
   - [Dashboards](https://manassaloi.com/2022/08/01/dashboards-expectations.html)
+  - [Weekly Slack update](https://manassaloi.com/2022/10/11/last-week.html)
 
 - **Creating a new feature** (Short term) (Why) (What) (How) (When)
   - [Naming the project](https://docs.google.com/document/d/14qbeZ-hkE55YagqXNLLtw36MCAcFKQEj08DgfMP_W8g/edit?usp=sharing)
