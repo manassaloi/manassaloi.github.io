@@ -4,6 +4,8 @@ title:  "So you want to learn Business Strategy?"
 
 ---
 
+(Last updated: 20 October 2022)
+
 Strategy is mostly around creating competitive advantage/ moats/ secrets (what Thiel calls it). Here are a bunch of frameworks/books to think about the same
 
 ### Frameworks from some of my fav books on Strategy
@@ -28,7 +30,9 @@ Strategy is mostly around creating competitive advantage/ moats/ secrets (what T
 
 10. **[Competing Against Luck](https://manassaloi.com/booksummaries/2017/07/22/competing-against-luck-christensen.html)**:  Customers don’t buy products or services; they "hire" them to do a job.
 
-11. **[Playing to Win - A.G. Lafley](https://manassaloi.com/booksummaries/2016/01/28/playing-win-lafley.html)**: Strategy is about making specific choices to win in the marketplace.
+11. **[Playing to Win](https://manassaloi.com/booksummaries/2016/01/28/playing-win-lafley.html)**: Strategy is about making specific choices to win in the marketplace.
+
+12. **[Good Strategy Bad Strategy](https://manassaloi.com/booksummaries/2022/10/20/good-bad-strategy-rumelt.html)**: The most basic idea of strategy is the application of strength against weakness.
 
 Honorary mentions: **Good to great**, **Built to last**, **Blue Ocean Strategy**, **The Innovator’s Dilemma**
 I read them long back. Have to re read and take notes.
@@ -76,12 +80,13 @@ I read them long back. Have to re read and take notes.
 - [GLEe by Gibson Biddle](https://askgib.substack.com/p/five-answers-to-questions-about-product)
 - [How to Build Actionable Strategies](https://productlife.to/p/how-to-build-actionable-strategies)
 - [Connecting the Dots: From Vision to Execution](https://debliu.substack.com/p/connecting-the-dots-from-vision-to)
+- [Finding Power](https://every.to/divinations/finding-power-432187)
+- [“The value chain” is the DNA of business](https://every.to/divinations/the-value-chain-is-the-dna-of-business-218762)
 
 Masterclass I completed on Business Strategy: [Bob Iger teaches Business Strategy and Leadership](https://manassaloi.com/2020/04/10/bob-iger-masterclass.html)
 
 ### Books I plan to read in the future
 
-- [Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
 - [Thinking Strategically](https://www.amazon.com/Thinking-Strategically-The-Competitive-Edge-in-Business-Politics-and-Everyday-Life/dp/0393310353/)
 - [Turning the Flywheel](https://www.amazon.com/gp/product/B07JFT5G7N/)
 - [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.goodreads.com/book/show/27064401-play-bigger)
