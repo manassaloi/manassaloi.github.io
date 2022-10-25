@@ -27,7 +27,7 @@ Promise yourself that going forward you will never have a zero day in your life.
 
 **#3 Make your goals public**
 
-There are 2 contradicting views on this. Some people believe that telling your goals is the worse thing you can do as it makes you complacent and eventually you end up failing to achieve them. I believe in the other approach. The act of telling your goals makes you accountable. [I publicly state my goals](https://www.quora.com/What-do-you-want-in-2015/answer/Manas-J-Saloi) and I sure as hell try to complete them.
+There are 2 contradicting views on this. Some people believe that telling your goals is the worse thing you can do as it makes you complacent and eventually you end up failing to achieve them. I believe in the other approach. The act of telling your goals makes you accountable.
 
 **#4 Take notes**
 
