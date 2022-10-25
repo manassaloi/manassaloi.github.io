@@ -7,7 +7,7 @@ permalink: /proofofwork/
 
 (Proof of Work)
 
-### Gojek (~3.5 years) ###
+### Gojek (~4 years) ###
 
 - **July 2021 - Now**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
