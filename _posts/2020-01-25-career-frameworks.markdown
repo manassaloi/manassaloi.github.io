@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Frameworks] 97 Frameworks for your career"
+title:  "[Frameworks] 99 Frameworks for your career"
 
 ---
 
@@ -201,6 +201,10 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 96. [Launch, Promo, Abandon](https://mobile.twitter.com/petergyang/status/1576985038511448064/photo/1); Why you probably need to launch more things to get promoted.
 
 97. [0 to 1 operator](https://mobile.twitter.com/akothari/status/1562649593434714112); Pick a problem area, and build 0 to 1 yourself, after it gets going, start recruiting for an experienced leader for the area, onboard the leader well, nuke yourself out and attack next problem.
+
+98. [See if this company can become the number one player in its segment, generally join mid-stage companies](https://www.lennyspodcast.com/gokul-rajaram-on-designing-your-product-development-process-when-and-how-to-hire-your-first-pm-a-playbook-for-hiring-leaders-getting-ahead-in-you-career-how-to-get-started-angel-investing-more/#transcript); Join a series B company that can become a winner in its segment.
+
+99. [Promos are arbitrary](https://twitter.com/danluu/status/1444034823329177602); Manager should make sure you get credit.
 
 
 **Note:** I will keep expanding this list.
