@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - And think not you can direct the course of love, for love, if it finds you worthy, directs your course.
 
 - Love teaches you to:

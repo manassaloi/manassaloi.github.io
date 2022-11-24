@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
 
 - Pick an industry where you can play long-term games with long-term people.

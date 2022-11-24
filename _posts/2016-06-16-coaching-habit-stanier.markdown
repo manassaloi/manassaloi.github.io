@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 + 'What is on your mind?'
   + Cut the intro and get into the question
 + ‘And what else?’

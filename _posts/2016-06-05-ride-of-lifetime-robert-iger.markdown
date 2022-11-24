@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - As I near the end of all of that and think back on what I’ve learned, these are the ten principles that strike me as necessary to true leadership. I hope they’ll serve you as well as they’ve served me.					
   - Optimism. One of the most important qualities of a good leader is optimism, a pragmatic enthusiasm for what can be achieved. Even in the face of difficult choices and less than ideal outcomes, an optimistic leader does not yield to pessimism. Simply put, people are not motivated or energized by pessimists.
   - Courage. The foundation of risk-taking is courage, and in ever-changing, disrupted businesses, risk-taking is essential, innovation is vital, and true innovation occurs only when people have courage. This is true of acquisitions, investments, and capital allocations, and it particularly applies to creative decisions. Fear of failure destroys creativity.

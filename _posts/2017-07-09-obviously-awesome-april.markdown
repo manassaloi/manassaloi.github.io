@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - Every single marketing and sales tactic that we use in business today uses positioning as an input and a foundation. To put it another way—none of the new, cool stuff works without good positioning as a starting point
 
 - Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about marketing and sales. If we fail at marketing and sales, the entire business fails

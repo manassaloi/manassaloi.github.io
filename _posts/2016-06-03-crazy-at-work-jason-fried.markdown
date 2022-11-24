@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-**This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.**  
 
 
 - We work on our company as hard as we work on our products. People often toss a version number at the end of software. “This is iOS 10.1, 10.2, 10.5, 11, etc.” We think of our company in the same way. Today’s Basecamp, LLC, is like version 50.3 of Basecamp, LLC. We got here by going there, trying that, and figuring out what works best.

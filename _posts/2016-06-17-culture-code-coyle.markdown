@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - Belonging cues are behaviors that create safe connection in groups. They include, among others, proximity, eye contact, energy, mimicry, turn taking, attention, body language, vocal pitch, consistency of emphasis, and whether everyone talks to everyone else in the group. Their function is to answer the ancient, ever-present questions glowing in our brains: Are we safe here? What’s our future with these people? Are there dangers lurking?
 
 - Belonging cues possess three basic qualities:

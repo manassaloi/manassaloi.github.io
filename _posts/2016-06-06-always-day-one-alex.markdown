@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - After our meeting, I asked everyone I could about Zuckerberg’s unusual appeal for feedback. Is this normal? Has he ever asked you? Following several inquiries, I had my answer: the request was simply a glimpse into the way he runs Facebook. Zuckerberg has built feedback into Facebook’s very fiber. Major meetings end with requests for it. Posters around Facebook’s offices say FEEDBACK IS A GIFT. And nobody in the company is above it, not even Zuckerberg himself
 
 - “Day One” is everywhere at Amazon. It’s the name of a key building, it’s the title of the company’s blog, and it’s a recurring theme in Bezos’s annual letter to shareholders. And though it’s tempting to read it as an order to work ceaselessly, particularly at the notoriously hard-charging Amazon, its meaning runs deeper

@@ -6,7 +6,7 @@ categories: booksummaries
 
 ---
 
-**This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.**  
 
 
 - Despite his evasiveness and his determination to hew to a single message, Jobs was a vivid presence. The intensity of his self-confidence made me hang on his every word.

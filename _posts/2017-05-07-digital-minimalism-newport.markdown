@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - The New York Post columnist cited above, in other words, should look beyond the notification settings on his 112 apps and ask the more important question of why he uses so many apps in the first place. What he needs—what all of us who struggle with these issues need—is a philosophy of technology use, something that covers from the ground up which digital tools we allow into our life, for what reasons, and under what constraints. In the absence of this introspection, we’ll be left struggling in a whirlwind of addictive and appealing cyber-trinkets, vainly hoping that the right mix of ad hoc hacks will save us.
 
 - Digital Minimalism: A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.

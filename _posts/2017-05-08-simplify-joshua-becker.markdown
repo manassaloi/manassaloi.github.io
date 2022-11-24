@@ -6,6 +6,8 @@ categories: booksummaries
 
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
+
 - The heart of minimalism can be summed up in this phrase: It is the intentional promotion of the things we most value and the removal of anything that distracts us from it. This promotion can be seen in how we spend our time, the artwork that we display, and even the clothes that we wear.
 
 - When I talk to runners about their accomplishment and the daunting task that it must have been to run 26.2 miles, they usually tell me the same thing: you don’t run 26 miles your first time out. You start with a small, manageable distance and build your way up. For many, the idea of decluttering their home seems daunting... or even worse. It may be helpful to consider the process more like training for a marathon. You don’t declutter your whole house the first day out... you start with a small, manageable job and build your way up. I have a good friend who is trying to get out of debt. He was given some interesting advice by his debt counselor. His counselor didn’t tell him to pay off the highest percentage loans right away, instead he was told to pay off the smallest debts first. At first, I thought that was a bit odd until my friend told me the rationale: paying off the smallest debts first results in a victory – one less monthly payment. Even though it wasn’t the biggest burden, it is still one less burden – one victory. And victory breeds more victory. With this picture in mind, you can begin your marathon. Jump right in. Start small. Gain some quick victories. And let victory breed victory!

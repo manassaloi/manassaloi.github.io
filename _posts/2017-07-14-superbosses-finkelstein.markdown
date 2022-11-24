@@ -5,6 +5,7 @@ tags: booksummaries
 categories: booksummaries
 ---
 
+**This blogpost is not an exhaustive summary of the book. Just contains the notes I took.** 
 
 ### Questions to ask if you are on the path to be a super boss:
 
