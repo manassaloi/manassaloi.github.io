@@ -197,7 +197,8 @@
 }
 
 .page-heading {
-  @include relative-font-size(2);
+  @include relative-font-size(3);
+  font-weight: 800;
 }
 
 .post-list-heading {
@@ -234,7 +235,8 @@
 
 .post-title,
 .post-content h1 {
-  @include relative-font-size(1.8);
+  @include relative-font-size(3);
+  font-weight: 800;
   letter-spacing: -1px;
   line-height: 1;
 
