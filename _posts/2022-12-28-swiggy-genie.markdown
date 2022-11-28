@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Swiggy Genie homepage"
+title:  "Swiggy Genie's homepage"
 ---
 
 ![Swiggy Genie](/assets/img/genie.png)
