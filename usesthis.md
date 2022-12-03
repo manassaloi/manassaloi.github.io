@@ -4,7 +4,7 @@ title: Uses This
 image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
-(Last updated: 2 July 2022)
+(Last updated: 3 December 2022)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
@@ -72,6 +72,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Study desk](https://lookinggoodfurniture.com/): I use a dining table as my study desk; cheaper, solid wood and far more space than a traditional desk.
 
++ [Fuji X-E4](https://fujifilm-x.com/global/products/cameras/x-e4/): My travel camera. Use the 27mm F2.8 lens with it.
+
 ## Software
 
 #### On Laptop
@@ -117,7 +119,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium.
 
-+ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android): My main meditation app. I pay for it.
++ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android): I paid for a year of Waking up. Then did not renew because I started relying on Insight Timer for my meditations.
 
 + [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): Another app I use. I pay for this too.
 
@@ -126,6 +128,20 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [INDmoney](https://play.google.com/store/apps/details?id=in.indwealth): To invest in the US markets.
 
 + [Binance](https://play.google.com/store/apps/details?id=com.binance.dev): Store my cryptos mostly here.
+
++ [Fitbod](https://fitbod.me/): To plan my workouts. I have paid for both this and the stretching app mentioned below.
+
++ [Streching app](https://apps.apple.com/us/app/stretch-flexibility-at-home/id1412615103): To improve my flexibility.
+
++ [Stretch Club](https://apps.apple.com/us/app/id1531580935#?platform=iphone): I do the posture reset exercise everyday.
+
++ [Lightroom](https://lightroom.adobe.com/): Use it to edit my photos. Have it on my iPhone as well as iPad.
+
++ [Streaks](https://streaksapp.com/): My habit tracking app.
+
++ [Lose it](https://www.loseit.com/): Track my daily calories here.
+
++ [Skillshare](https://www.skillshare.com/home): For mostly Photography and Procreate lessons.
 
 ## Health
 
@@ -174,6 +190,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Dr Physio USA Shiatsu Kneading Pillow Cushion Full Body Neck Massager](https://www.flipkart.com/physio-shiatsu-kneading-pillow-massage-massagers-machine-heat-relax-sooth-relieve-pain-neck-shoulder-back-full-body-massager/p/itmeyykgfcpv8ps6): For massaging my legs and back before I sleep.
 
 + [Caresmith CHARGE Cordless Massage Gun](https://www.amazon.in/gp/product/B08B1PY3B3/): To relax my muscles after football.
+
++ [Shower filter for hard water](https://www.amazon.in/gp/product/B07XVLHQXN/): Need this to survive in Bangalore.
 
 
 Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
