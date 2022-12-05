@@ -192,6 +192,3 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Caresmith CHARGE Cordless Massage Gun](https://www.amazon.in/gp/product/B08B1PY3B3/): To relax my muscles after football.
 
 + [Shower filter for hard water](https://www.amazon.in/gp/product/B07XVLHQXN/): Need this to survive in Bangalore.
-
-
-Stay up to date with my latest posts/tweets here: [@manas_saloi](http://twitter.com/manas_saloi)
