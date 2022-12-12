@@ -2,6 +2,7 @@
 layout: post
 title:  "My favourite posts on designing a new feature"
 ---
+(Last updated: 12 Dec 2022)
 
  These were written by people who actually designed them. You should read these to understand how some of the most popular features got conceived.
 
@@ -36,5 +37,7 @@ title:  "My favourite posts on designing a new feature"
 - [Story of how Swiggy POP was built…](https://bytes.swiggy.com/story-of-how-swiggy-pop-was-built-773e34d4ff87)
 
 - [Designing To Encourage The Habit Of Tipping](https://medium.com/gojekengineering/ka-ching-designing-to-encourage-the-habit-of-tipping-2822ad2f99cd)
+
+- [How Spotify Designed a New Homepage Experience](https://spotify.design/article/from-web-page-to-web-player-how-spotify-designed-a-new-homepage-experience)
 
 **Note:** I will keep adding more interesting posts I find to this list
