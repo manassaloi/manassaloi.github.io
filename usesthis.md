@@ -40,7 +40,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [OnePlus Bullets Wireless Z](https://www.oneplus.in/product/oneplus-bullets-wireless-z): Pairs with my OnePlus 5.
 
-+ Kindle Paperwhite (Wi-fi model): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: one for reading non fiction (and take notes) and another for fiction (mostly light reading).
++ [Kindle Paperwhite (Wi-fi model)](https://www.amazon.in/Kindle-Devices/b?ie=UTF8&node=1634752031): I bought my first Kindle in 2015. Got another Kindle Paperwhite as part of my onboarding at Directi. I use both Kindles: one for reading non fiction (and take notes) and another for fiction (mostly light reading).
 
 + [Cuzor CZ-01A-12 Power Backup for Router](https://www.flipkart.com/cuzor-cz-01a-12-power-backup-router/p/itmae7daa056ee9d): Enjoy uninterrupted power supply to your router.
 
@@ -52,7 +52,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Gizga Cable Organiser Manager](https://www.amazon.in/gp/product/B01MSEMS0K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1): Organizing and concealing all types of cables.
 
-+ [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2): Mostly to play Fifa 21.
++ [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2): Countless games played on this bad boy.
 
 + [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price.
 
@@ -68,11 +68,15 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [TP-Link Archer C6](https://www.amazon.in/TP-Link-Archer-C6-Wireless-MU-MIMO/dp/B07GVR9TG7/): My main router.
 
-+ [Micromax 43 inch TV](https://www.flipkart.com/micromax-108-cm-43-inch-full-hd-led-tv/p/itm8065d988c02ef): My PS4 Display for the last 4 years; one of the best electronics purchase I have ever made.
++ [Micromax 43 inch TV](https://www.flipkart.com/micromax-108-cm-43-inch-full-hd-led-tv/p/itm8065d988c02ef): My PS4 Display for the last 5 years.
 
 + [Study desk](https://lookinggoodfurniture.com/): I use a dining table as my study desk; cheaper, solid wood and far more space than a traditional desk.
 
 + [Fuji X-E4](https://fujifilm-x.com/global/products/cameras/x-e4/): My travel camera. Use the 27mm F2.8 lens with it.
+
++ [Sony PS5](https://www.playstation.com/en-in/ps5/): Should have upgraded to this much earlier.
+
++ [OnePlus Nord Buds](https://www.oneplus.in/oneplus-nord-buds): Had to get a completely wireless earphones for my OnePlus.
 
 ## Software
 
@@ -82,7 +86,9 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Atom](https://atom.io/): Typing this on Atom. I like Sublime Editor too.
 
-+ Google Chrome: My primary browser. Bookmark Manager says I have got 6000+ bookmarks there. I use [AdblockPlus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) to stop the annoying Youtube ads.
++ [Google Chrome](https://www.google.com/intl/en_in/chrome/): My primary browser.
+
++ [AdblockPlus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb): To stop the annoying Youtube ads.
 
 + [Microsoft Office Suite](https://www.office.com/): Can't live without Excel as a Product Manager.
 
