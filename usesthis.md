@@ -4,7 +4,7 @@ title: Uses This
 image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
-(Last updated: 3 December 2022)
+(Last updated: 18 December 2022)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
