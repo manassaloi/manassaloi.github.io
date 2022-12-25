@@ -126,7 +126,7 @@ In the Happy Memory Study we conducted at the Happiness Research Institute, seve
   - Send audio notes or call instead of texting
   - It is less stressful to say it than to type it. It is also a richer form of communication. The tone of your voice also gives valuable information.
 
-- As we shall see later, today we have great opportunities to outsource our memory to photographs. But, however convenient snapping pictures throughout our holidays might be, it may also mean that you are not paying attention. If you see something without attention, there is less of a chance that you will remember it.
+- We have great opportunities to outsource our memory to photographs. But, however convenient snapping pictures throughout our holidays might be, it may also mean that you are not paying attention. If you see something without attention, there is less of a chance that you will remember it.
 
 - HAPPY MEMORY TIP: TREAT HAPPY MEMORIES AS YOU WOULD YOUR DATE. Pay attention!
 “The true art of memory,” wrote Samuel Johnson, the British writer who compiled the Dictionary of the English Language in the eighteenth century, “is the art of attention.”
