@@ -29,3 +29,4 @@ You can do a more detailed review of 2020 and also plan for 2021 by following th
 - [Ali Abdaal's Annual Review](https://www.youtube.com/watch?app=desktop&v=ERGbgvvCJ8o&feature=youtu.be)
 - [The Annual Life Review by David Spinks](https://davidspinks.substack.com/p/the-annual-life-review)
 - [Past Year Review by Tim Ferriss](https://tim.blog/2021/12/27/past-year-review/)
+- [Katia Verresen's new year ritual](https://creatoreconomy.so/p/make-2023-your-best-year-yet)
