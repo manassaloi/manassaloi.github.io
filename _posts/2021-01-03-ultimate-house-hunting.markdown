@@ -107,6 +107,7 @@ title:  "Ultimate house hunting checklist"
 - Is there sufficient ventilation?
 - Is there exhaust fans in the bathrooms? Do they work fine?
 - Check for parking space.
+- If the owner wants to leave their old furniture, discuss who will be responsible in case they break. I got an old dining table because the owner did not want to take it away. Now my table wobbles every time we sit to eat, and it is even more annoying when guests come. However, we can't just remove it as it is written in the contract. I can't replace it with a new table either because there is no space for 2 dining tables in my house. My inverter that the owner left in the house also gave me a lot of issues, and I had to keep fixing it. A better option would have been to let him take it away, and me getting a new inverter.
 - Move in/move out charges (for tenants).
 
 ## Signing the agreement
