@@ -3,6 +3,8 @@ layout: post
 title:  "Ultimate house hunting checklist"
 ---
 
+(Last updated: 10 Jan 2023)
+
 ## Pre House Hunt
 
 - Be honest about how long do you think you will stay in your new place.
