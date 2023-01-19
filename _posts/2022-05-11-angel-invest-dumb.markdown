@@ -3,22 +3,24 @@ layout: post
 title:  "Why angel investing is dumb"
 ---
 
-I hosted a daily poker game in 2020. We played non stop for months before burning out. A new player Akash, a friend of friend joined us. He came in. Crushed everyone. He invited me to play with his other group. I did. And lost ~30K playing in group. In a month. Then I gave up.
+Back in 2020, I hosted a daily poker game. We played for months until we burnt out. We were joined by a new player Akash, a friend of a friend. He came in and crushed everyone. Crushed everyone. He invited me to come and play with his other group of players. So I did it. And I lost ~30K playing in the group. In the space of a month. Then I quit.
 
-Akash was kind enough to tell me where it went wrong for me: It was dumb to play at his table because my risk appetite as well as bankroll was too low. People in that table ago down by 20K in an hour, then come back, and recover the same the next day. Sometimes end up double of that. They do not get upset over a 50K loss in a night. They survived the downswings. And came back again.
+Akash was kind enough to tell me what it was that went wrong for me: Because my risk appetite and bankroll were too low, it was stupid to play at his table. People at this table would lose $20,000 in an hour, come back the next day, and lose the same amount. Sometimes they ended up making double of that amount. They did not get upset about losing 50K in one night. They survived the dips. And came back. Again and again. They were use to playing at those stakes.
 
-I am [not a bad poker player](https://manassaloi.com/2022/02/25/poker-stats.html). I have made decent money if you count all the tournaments and cash games I have played till now. But I am not someone who is willing to go all in again and again till I double up.
+I am [not a bad poker player](https://manassaloi.com/2022/02/25/poker-stats.html). I have made a decent amount of money, if you take into account all the tournaments and cash games I have ever been a part of. But I am not the kind of person who is willing to go all in over and over again until I have doubled up.
 
-That is what a prominent angel investor did once when I played at his place. Kept challenging that he will double his money in the next 15 mins. I knew my poker bankroll was not the same as his. So I tightened my game.
+This is exactly what a prominent angel investor did to me once when I was playing at his table. He kept challenging me by going all in multiple times. He kept shouting that he would double his money in the next 15 minutes. I knew my poker bankroll was not equal to his. So I started to tighten up my game.
 
-Over time, I learned to not play with people who had a bankroll far above mine. Table selection is key in poker. And in life.
+Over time, I learned not to play with people whose bankrolls were much larger than mine. The key to poker is table selection. And in life, too.
 
-I also saw the graphs of professional poker players on pokerguru. Their stats are public. These pros have months of downswings. They would go down by 10L- 50L before they won one big tourney and break even. But what if you do not win that one big tournament? That happens to a lot of poker players. And eventually they get out of Poker.
+I also had a look at the graphs of professional poker players on pokerguru. Their stats are open to the public. For months on end, these pros would go down. They would go down by L10 - L50 before they would win a big tournament and break even. But what if you don't have that one big tournament win? This is what happens to a lot of poker players. And they end up dropping out of the poker game.
 
-Yes, a lot of these players are staked. Without staking it is very hard to survive as a poker player today. People might go on a heater and make a boatload and use the bankroll to play the stakes they want. But that is more of an exception than the norm. Most poker players lose money. Even the best Poker coach in India has a losing record.
+Yes, many of these players are staked. Without staking, it is very hard to survive as a poker player in this day and age. People might go on a heater and make a boatload and use the bankroll to play the stakes they want. But that is the exception rather than the rule. Most poker players are money losers. Even the best poker coach in India has a record of losing money.
 
-Angel investing and Poker are not different.
+Angel investing and poker are not dissimilar.
 
-You need good bank roll management. You have to take sufficient swings. Let's say your average check size is 3L. It is the lower end of the spectrum. People who have made good money in this game, invest a lot more. Even with 3L check sizes, you will need to invest atleast in 100 startups [similiar to 100 buyins rule of poker]. You need to beat variance. The best player in this game, YC does the same. So you need a bankroll of 3 Cr. I don't have 3 Cr lying around. And ideally you should not invest more than 5% of your networth in an asset class that is so risky that it can easily go to 0. And yes, you can go on a heater like Sacca, but most investors will lost money if they don't take enough swings. I doubt I will make any money with the <10 bets that I plan to take over the next couple of years. Most startups die. And my sample size would be too low. I feel I have only invested the money I can afford to lose. There are [other benefits to doing it](https://manassaloi.com/2022/02/06/angel-investing.html). So maybe it is okay for me. But it is a dumb idea to start investing from a strictly ROI standpoint unless you can investment in 100+ startups.
+You need to have good bank roll management. You need to take a sufficient number of swings. Let's say: Your average cheque size is 3L. That is the lower end of the spectrum. A lot more is invested by people who have made good money at this game. Even with a 3L check size, you still need to invest in at least 100 startups [similar to the 100 buy-in rule in poker]. You will have to beat the variance. The best player in this game, YC, is doing the same thing. So you need to have a bankroll of at least 3 Cr. I don't have a 3 Cr bankroll lying around. And ideally, you should not have more than 5% of your net worth invested in an asset class that is so risky that it can easily go to 0. And yes, you can go on a heater like Sacca, but most investors are not going to go to 0.
 
-So think carefully before starting.
+Most startups die. And my sample size would be too low. As I don't have 3 Cr to bet. I feel till now I have only invested the money I can afford to lose. There are [other benefits to doing angel investing](https://manassaloi.com/2022/02/06/angel-investing.html). But it is a dumb idea to invest in startups from a strictly ROI standpoint unless you can investment in 100+ of them.
+
+So think carefully before starting this journey.
