@@ -13,9 +13,7 @@ This is exactly what a prominent angel investor did to me once when I was playin
 
 Over time, I learned not to play with people whose bankrolls were much larger than mine. The key to poker is table selection. And in life, too.
 
-I also had a look at the graphs of professional poker players on pokerguru. Their stats are open to the public. For months on end, these pros would go down. They would go down by L10 - L50 before they would win a big tournament and break even. But what if you don't have that one big tournament win? This is what happens to a lot of poker players. And they end up dropping out of the poker game.
-
-Yes, many of these players are staked. Without staking, it is very hard to survive as a poker player in this day and age. People might go on a heater and make a boatload and use the bankroll to play the stakes they want. But that is the exception rather than the rule. Most poker players are money losers. Even the best poker coach in India has a record of losing money.
+I also had a look at the graphs of professional poker players on pokerguru. Their stats are open to the public. For months on end, these pros would go down. They would go down by L10 - L50 before they would win a big tournament and break even. But what if you don't have that one big tournament win? This is what happens to a lot of poker players. And they end up dropping out of the poker game. Yes, many of these players are staked. Without staking, it is very hard to survive as a poker player in this day and age. People might go on a heater and make a boatload and use the bankroll to play the stakes they want. But that is the exception rather than the rule. Most poker players are money losers. Even the best poker coach in India has a record of losing money.
 
 Angel investing and poker are not dissimilar.
 
