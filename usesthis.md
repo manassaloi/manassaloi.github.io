@@ -54,7 +54,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Sony PS4 Slim](https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2): Countless games played on this bad boy.
 
-+ [Mika Study Chair](https://www.urbanladder.com/products/mika-study-chair): Worth the price.
++ [Featherlite Helix Office Chair](https://www.featherlitefurniture.com/product/helix-high-back-mesh-chair/): Newly acquired.
 
 + [Mi Smart Band 4](https://www.mi.com/in/mi-smart-band-4/): I took a lot of time deciding between this and a Fitbit. TBH I am quite happy with this one.
 
@@ -68,7 +68,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [TP-Link Archer C6](https://www.amazon.in/TP-Link-Archer-C6-Wireless-MU-MIMO/dp/B07GVR9TG7/): My main router.
 
-+ [Micromax 43 inch TV](https://www.flipkart.com/micromax-108-cm-43-inch-full-hd-led-tv/p/itm8065d988c02ef): My PS4 Display for the last 5 years.
++ [LG C2 65 TV](https://www.lg.com/in/tvs/lg-oled65c2psc): Splurged on it after I bought the PS5. Very expensive, but worth it.
 
 + [Study desk](https://lookinggoodfurniture.com/): I use a dining table as my study desk; cheaper, solid wood and far more space than a traditional desk.
 
