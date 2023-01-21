@@ -13,7 +13,9 @@ Let's take ridehailing for example.
 - Region domination: Tier 1 cities, tier 2 cities, suburbs..
 - User group based on age and gender domination: Genz, working moms, college kids..
 - Time of the day domination: commute hours, late night..
+- Distance domination: <5kms, >5 kms, >20 kms..
+- Place of interest domation: Airports, malls, bus stops, railways..
 
-There are many other groupings. The list above is not MECE complete, but a good starting point. 
+There are many other groupings. The list above is not MECE complete, but a good starting point.
 
 For a case study, refer to this thread on how [Doordash became the dominant food delivery platform in the US by focusing on the right segments.](https://mobile.twitter.com/michaelxbloch/status/1335608284338909187)
