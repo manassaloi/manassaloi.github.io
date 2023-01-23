@@ -32,8 +32,8 @@ Let's have a look at your return on investment on the basis of a few different s
 A) The stock market does really well over the next 20 years. And XYZ beats the market handsomely. It generates enough alpha without a lot of beta (so that you can continue to have confidence in it and not have to go through what the ark investors had to go through).
 In this case, you'll be more than happy to give away x% of the gains. After all, you would not have made as much money with a passive investment strategy.
 B) The stock market performs well. XYZ does well but not by much. They both go over the y% mark. But you would pay x% of the gain because they exceed the y% return threshold. In this case, you are giving away more money. And after fees, your return may not actually beat the passive investment. Would that satisfy you?
-C) The stock market and XYZ both do not go up more than y%,
-D) A bear market in which both go down a lot.  
+C) The stock market and XYZ both do not go up more than y%.
+D) A bear market in which both go down a lot.
 E) The stock market is flat and so is XYZ for a long time.  Howard Marks calls this the 3rd sea change XYZ would probably take on more risk to justify its fees. Otherwise, investors would have an exodus. And in the end, your losses could be far greater than the stock market's. Look at what happened to Ark's investors.
 
 Actually, now that I think about it, this is also true of A and B. If the market itself is doing well, XYZ might still try to take on more risk because they have to justify their fees. Look at what Tiger Global, a "hedge fund", has done. They went full YOLO in the biggest bull market in recent memory. Now they are down. A lot.
