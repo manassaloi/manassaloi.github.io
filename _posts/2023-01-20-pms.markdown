@@ -17,7 +17,7 @@ HNIs choose PMS because they give access to services not available for the commo
 
 For someone in 30, you can just choose 30% and 70% equities. That is the current wisdom. Put 100 - age in equities.
 
-### Reply to a friend who asked if it makes sense to use XYZ, another PMS that charges based on performance, x% of profit if they return beyond y%
+### Reply to a friend who asked if it makes sense to use XYZ, another PMS that charges based on performance, x% of profit if they generate from than y% return:
 
 It is all about expected return. 
 
