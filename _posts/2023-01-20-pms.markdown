@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Should you sign up for a PMS?"
+---
+
+I had 3 friends ping me last week on advice regarding signing up for portfolio management services. Here are slightly edited replies to their queries.
+
+## To a friend who asked if it makes sense to use X PMS:
+
+X’s performance is not bad. But my worry is that over long run they might not be able to beat the market. Most portfolio managers, over a long period, don’t.
+
+Their content is amazing though. But does good content lead to superior investing performance? No data to support it.
+The best advice I found reading a lot of investment content is that you can just invest 33-33-33 in Nifty, Nifty Next, and Nasdaq/ S&P.
+
+I spread across all 4 as I think S&P will beat Nasdaq performance as tech stocks will underperform.
+HNIs choose PMS because they give access to services not available for the common man.  Pre IPO access. Crypto deals. JP Morgan gets you these. Not sure X can do that. What X can do though is invest based on a strategy that you might yourself not follow diligently because of emotions/ macro/ recency bias. And of course people generally don’t like thinking about their finances and want to outsource to someone who can take care of it.
+
+For someone in 30, you can just choose 30% and 70% equities. That is the current wisdom. Put 100 - age in equities.
+
+## To a friend who asked if it makes sense to use another PMS XYZ that charges based on performance, x% of profit if they return beyond y%
+
+It is all about expected return. 
+
+Let's assume you don’t want to think about your finances at all and are outsourcing to XYZ who will manage your entire portfolio.
+Let’s think about your return based on a few different scenarios. 
+
+A) In the next 20 years, the stock market does really well. And XYZ beats the market by a healthy amount. Generates sufficient alpha without much beta (so that you can continue trusting them and not go through what Ark investors had to). 
+In this case you're more than happy to give x% of profit. Because with a passive investing strategy, you would not have made as much.
+B) The stock market does well. XYZ does well, but not by much. They both cross y%. But since they are crossing the y% return threshold, you would pay the x% of profit. In this case you are giving out more money, and net fees your return might not actually beat passive investing. Would you be happy?
+C) The stock market  and XYZ both goes not cross y%,
+D) bear market, where both go down a lot  
+E) stock market is stagnant, and so is XYZ for a long period because we are in a new territory. Howard Marks calls it the 3rd sea change. XYZ to justify their fees, would probably take more risks. Else investors would churn. And you might end up losing far more than the stock market. See what is happening with Ark.
+
+Actually when I think about it, this is true even in A and B. When the market is doing well itself, XYZ might still try to take more risks because they have to justify their fees. See what Tiger Global, “a hedge fund”, did. Went full YOLO in the biggest bull market in recent times and are now down. A lot.
+
+So, just be careful and think about the expected return through all scenarios. You are only thinking I will pay x% if they return y%, basically A) and B) but you have to think about C), D), and E) too.
+
+**Disclaimer:** This is just my opinion. I am not an investment professional. Do your own research.
