@@ -5,7 +5,7 @@ title:  "Should you sign up for a PMS?"
 
 I had 3 friends ping me last week on advice regarding signing up for portfolio management services. Here are slightly edited replies to their queries.
 
-## To a friend who asked if it makes sense to use X PMS:
+### Reply to a friend who asked if it makes sense to use X, a PMS that charges a fixed rate:
 
 X’s performance is not bad. But my worry is that over long run they might not be able to beat the market. Most portfolio managers, over a long period, don’t.
 
@@ -17,7 +17,7 @@ HNIs choose PMS because they give access to services not available for the commo
 
 For someone in 30, you can just choose 30% and 70% equities. That is the current wisdom. Put 100 - age in equities.
 
-## To a friend who asked if it makes sense to use another PMS XYZ that charges based on performance, x% of profit if they return beyond y%
+### Reply to a friend who asked if it makes sense to use XYZ, another PMS that charges based on performance, x% of profit if they return beyond y%
 
 It is all about expected return. 
 
