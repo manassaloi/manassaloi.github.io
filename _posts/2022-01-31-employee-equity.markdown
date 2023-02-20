@@ -3,6 +3,7 @@ layout: post
 title:  "Resources on employee equity"
 ---
 
+- [How equity in tech companies works](https://theskip.substack.com/p/how-equity-in-tech-companies-works)
 - [Equity for employees](https://stripe.com/en-in/guides/equity-for-employees)
 - [A potential employee’s guide to Silicon Valley startup equity](http://jamie-wong.com/post/valley-equity/)
 - [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
