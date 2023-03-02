@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gaslighting your manager at work"
+title:  "Gaslighting your manager"
 ---
 
 I remember the 2 years I spent as a developer. I had no interest in the work I did. I was extremely lazy. And I didn't doubt that I was going to quit my developer job soon.
