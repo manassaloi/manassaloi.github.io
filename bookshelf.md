@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-(Last updated: 11 Oct 2022)
+(Last updated: 20 Mar 2023)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -118,7 +118,8 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Competing Against Luck - Clayton M. Christensen](https://www.goodreads.com/book/show/28820024-competing-against-luck)
 + [Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta](https://www.goodreads.com/book/show/13263934-understanding-michael-porter)
 + [Start at the End: How to Build Products That Create Change - Matt Wallaert](https://www.goodreads.com/book/show/43607837-start-at-the-end)
-+ [Inspired -Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired)
++ [Inspired - Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired)
+- [Good Strategy Bad Strategy - Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
 
 
 ### Life, Living & Mindset
@@ -153,6 +154,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Think on These Things - J. Krishnamurti](https://www.goodreads.com/book/show/13470.Think_on_These_Things)
 + [The Art of Noticing - Rob Walker](https://www.goodreads.com/book/show/41552704-the-art-of-noticing)
 + [Four Thousand Weeks - Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
++ [From Strength to Strength - Arthur C. Brooks](https://www.goodreads.com/book/show/58100575-from-strength-to-strength)
 
 
 ### Health, Habits & Productivity
@@ -296,6 +298,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The First 90 Days: Critical Success Strategies for New Leaders at All Levels - Michael D. Watkins](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 + [Your Next Five Moves: Master the Art of Business Strategy - Patrick Bet-David](https://www.goodreads.com/book/show/50542735-your-next-five-moves)
 + [The 3-Minute Rule - Brant Pinvidic](https://www.goodreads.com/book/show/49351774-the-3-minute-rule)
++ [Captivate - Vanessa Van Edwards](https://www.goodreads.com/book/show/31868165-captivate)
 
 
 ###  History
@@ -364,3 +367,5 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Circe - Madeline Miller](https://www.goodreads.com/book/show/35959740-circe)
 + [City of Thieves - David Benioff](https://www.goodreads.com/book/show/1971304.City_of_Thieves)
 + [Passage West - Rishi Reddi](https://www.goodreads.com/book/show/49948446-passage-west)
++ [A Suitable Boy - Vikram Seth](https://www.goodreads.com/book/show/50365.A_Suitable_Boy)
++ [Sea of Tranquility - Emily St. John Mandel](https://www.goodreads.com/book/show/58446227-sea-of-tranquility)
