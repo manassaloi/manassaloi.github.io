@@ -17,8 +17,8 @@ But there are a lot of factors at play in a company: Your growth or lack of it c
 
 So I started thinking about global maxima too instead of just local. I want my PMs to not just optimise for their next role in my company, but also benchmark themselves globally.
 
-If the superstar PM in my team she leaves my organisation and decides to join another company, where would she be placed? Will they be hired at the same level or would they get a big jump?
+A question I ask often: Where do my PMs stand when benchmarked against the best PMs in their peer group?
 
-Where do they stand when benchmarked against the best PMs in their peer group?
+If a PM in my team leaves my team and to join another company, would she get hired at the same level or would she get a bump in terms of both role and salary? The last PM in my team who joined Gojek as a first time PM, and had worked with me for 2 years, joined as a GPM at another Indian unicorn. I want exponential growth for all my PMs.
 
-This exercise has helped my create career development plans for my PMs and push them beyond the comfort of competing for the local maxima.
+This local vs global maxima exercise has helped my create career development plans for my PMs and push them beyond the comfort of competing for the local maxima.
