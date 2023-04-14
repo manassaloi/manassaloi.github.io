@@ -7,7 +7,7 @@ Learners are people who have a passion for learning and are driven to constantly
 
 Example. Becoming a GPM from a Senior PM may be a promotion for you, but the question is whether you are actually capable of handling the new role of managing PMs or just filling a gap due to the demand for more managers in the industry thanks to the 100 odd unicorns being born in this country and there was more demand than supply? Something to ask yourself.
 
-Careerists tend to focus on the optics of their careers rather than on learning and becoming better at their craft.
+Careerists tend to focus on the optics of their careers rather than on learning and becoming better at their craft. Every decision they take at work is through the lens of whether it will help them in their next promotion.
 
 Both aspects, optics, and learning are important for career growth. You need to be able to sell your work as well as continue to learn and ship new things. However, it is important not to give up on learning just because you have reached a certain level in your career.
 
