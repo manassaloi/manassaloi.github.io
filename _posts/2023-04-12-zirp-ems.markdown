@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Dear EM, ZIRP is over"
+---
+
+The Zero Interest Rate Policy (ZIRP) has had a profound impact on the corporate world, leading to the rise of a special type of Engineering Manager whose singular focus is on engineering, to the exclusion of "product" or "business" considerations, which they consider to be afterthoughts or necessary evils.
+
+While it's true that ZIRP, thanks to making the cost of capital free, made it possible for everyone to pursue their passion projects at work, it's important to remember that companies exist to make money. Without a focus on business, there would be no money to pay salaries or fund these passion projects.
+
+Unfortunately, even in my own company, some developers have reported to me that their managers did not promote them or give them a satisfactory salary increase because they were too focused on delivering projects that met business requirements rather than pursuing engineering perfection. This has to end.
+
+This is not to say that engineering excellence is unimportant. However, when a company's survival depends on delivering a project, it's foolish to delay it because of personal ego or a devotion to engineering principles over business needs.
