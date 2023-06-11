@@ -10,3 +10,5 @@ While it's true that ZIRP, thanks to making the cost of capital free, made it po
 Unfortunately, even in my own company, some developers have reported to me that their managers did not promote them or give them a satisfactory salary increase because they were too focused on delivering projects that met business requirements rather than pursuing engineering perfection. This has to end.
 
 This is not to say that engineering excellence is unimportant. However, when a company's survival depends on delivering a project, it's foolish to delay it because of personal ego or a devotion to engineering principles over business needs.
+
+(Edited with the help of ChatGPT.)

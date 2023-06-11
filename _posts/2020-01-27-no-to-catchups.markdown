@@ -3,57 +3,23 @@ layout: post
 title:  "I will say NO to your request to catch up"
 
 ---
-I wrote a thread recently on why I turn down most catch up requests. Turning it into a blogpost (with some minor edits)
 
-**/threadstarts**
 
-Till I was in my mid 20s I used to meet people just because they were from college or we had worked together somewhere.
+I used to meet people just because they were from college or we had worked together somewhere, until I was in my mid-20s. These were what people call "social commitments". I used to go to parties I didn't want to go to because I was afraid people would call me a spoilsport.
 
-These were what people call 'social commitments'.
+As I got closer to my late 20s, I began to realise how fleeting most relationships are. You hardly ever talk to or meet the people you once thought of as your "close friends". As soon as you move to a new job or city, very few of those people will stay with you.
 
-I used to go to parties I did not want because I was scared people would call me a spoilsport otherwise.
+So I began to ask myself: How much will it matter to this person, or even to me, if I don't go to this party? The answer is usually 'not much'. Will I still want to meet the person that I am going to meet today in 5 years' time? Again the answer is usually no.
 
-As I moved towards my late 20s, I realised how transient most relationships are.
+So I stopped worrying about these 'social commitments'.
 
-You barely talk to/meet  people you once thought of as "close friends".
+Now I only go out to meet people that I really want to meet. The people who make me feel happy. People I learn from and look up to. The kind of people for whom I would set an alarm in the morning saying "IMP meet X in the evening" so that I don't miss the engagement.
 
-Once you move jobs, cities very few of these people will remain with you.
+Another filter I use: If there was no alcohol involved, would I still want to meet this person? Is this chat only happening because we both have nothing else to do and therefore it is fine to spend 3 hours saying "aur batao" over a beer while waiting for the evening to end? Or is it because I am really looking forward to meeting this person and therefore this person has priority over a dozen other things I could be doing?
 
-So I started asking myself.
+I have very little regret about not meeting people.  But I do have a lot of them about: Going to parties I didn't want to go to. Going because the person asked a dozen times and I couldn't say no. Meeting someone with the knowledge that all we will do is bitch and bitch and bitch. And I will just fake a smile through the whole thing. I will wait to go home.
 
-'If I don't go this party how much will this person care or even I will care later.
-
-The answer generally is Not much.
-
-'Will I want to meet the person I am meeting today after 5 years too?'
-
-Again the answer is mostly No.
-
-So I stopped bothering with these 'social commitments'.
-
-Now I only meet people I really want to meet.
-
-These are the people who I meet and then feel more optimistic and happy about myself.
-
-People for whom I set an alarm call in the morning saying "IMP Meet X in the evening."
-
-**Another filter:** If there was no alcohol involved would I still meet this person?
-
-Is this catch-up happening only because both of us have nothing else to do and hence we are ok spending 3 hours asking "aur batao" over beer while waiting for the evening to get over?
-
-Or is it because I am really looking forward to meet this person and hence  am prioritising this person over dozen other things I could do?
-
-I have very few regrets about not meeting people.
-
-But I have loads about:
-
-Going to parties I did not want but went because the person asked a dozen times and I just could not say No.
-
-Meeting someone knowing we will just bitch and take each others case.
-
-And I will just fake smile through the whole thing waiting to come back home.
-
-Saying No has become second nature now.
+Saying no has become second nature to me now.
 
 Thanks to good defaults:
 1. Reading (books/articles)
@@ -61,14 +27,6 @@ Thanks to good defaults:
 3. Occasional travel
 4. Learning one new thing or the other
 
-the cost of saying Yes is much more than me sticking to my defaults.
+the cost of saying Yes is much more than me sticking to my defaults. The things I enjoy. And I am fine with that.
 
-This is not a meta thread I wrote so that I can forward it to someone while I say No to their invitation.
-
-It took me a lot of time to learn this.
-
-I wish I was better at saying No when I was in college.
-
-And saying No is one topic I talk about often in my tweets/posts.
-
-**/end**
+It took me a lot of time to learn this. I now wish I was better at saying No when I was in college.
