@@ -9,7 +9,10 @@ permalink: /proofofwork/
 
 ### Gojek (~4 years) ###
 
-- **July 2021 - Now**
+- **June 2023 - Now**
+- Head of Product, Ride hailing products & GoSend.
+
+- **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
   - Shortcuts in Vietnam.
   - Premium insurance in Indonesia.
