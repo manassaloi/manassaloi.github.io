@@ -3,11 +3,11 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 31 August 2022)
+(Last updated: 17 June 2023)
 
 (Proof of Work)
 
-### Gojek (~4 years) ###
+### Gojek (~5 years) ###
 
 - **June 2023 - Now**
 - Head of Product, Ride hailing products & GoSend.
@@ -15,8 +15,24 @@ permalink: /proofofwork/
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
   - Shortcuts in Vietnam.
-  - Premium insurance in Indonesia.
-  - Hemat in Indonesia.
+  - Premium insurance in Indonesia, Singapore and Vietnam.
+  - Late pickup vouchers in Indonesia, Singapore, and Vietnam.
+  - Gopay coins inside Transport.
+  - GoCar Kids and GoCar XL in Singapore.
+  - Voucher round off logic improvements.
+  - Tiered booking fee.
+  - GoCar Luxe in Indonesia.
+  - GoCar Premium in Singapore.
+  - GoCar Hemat in Indonesia.
+  - GoRide Hemat in Indonesia.
+  - Redesign of GoSend.
+  - Saved addresses improvement in GoSend.
+  - Cashless tipping.
+  - Tipping feature in Singapore and Vietnam.
+  - Voucher calculation optimisations.
+  - Waiting fee in Singapore.
+  - Express++: A massive undertaking to cut launch time of new services from 6 months to less than 2 weeks.
+  - Gosend 4W in Indonesia.
 
 - **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
@@ -25,7 +41,7 @@ permalink: /proofofwork/
   - Ride pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
   - Electric Vehicles trial. [press](https://www.dealstreetasia.com/stories/gojek-expands-ev-trial-282349/)
   - GoCar Premium, an on-demand service for luxury vehicles in Singapore. [press](https://www.techinasia.com/gojek-rolls-premium-carhailing-singapore)
-  - GoCarXL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
+  - GoCar XL in Singapore. [press](https://kr-asia.com/gojek-expands-services-in-singapore-but-lags-behind-grab)
   - Took GoCorp international; launched in Singapore.
   - Protect+, a new hygiene focused service for both 4W and 2W in Indonesia. [press](https://en.antaranews.com/news/189549/guarantees-a-more-hygienic-customer-journey-gojek-prepares-goride-and-gocar-protect)
   - Introduced cars at scale in Vietnam: launched Protect+ service in Vietnam. [press](https://e.vnexpress.net/news/business/companies/gojek-launches-car-ride-hailing-service-in-hcmc-4388082.html)
