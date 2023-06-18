@@ -11,6 +11,9 @@ permalink: /proofofwork/
 
 - **June 2023 - Now**
 - Head of Product, Ride hailing products & GoSend.
+  - Return trip.
+  - Payment method specific vouchers.
+  - Gosend 4W in Indonesia.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
@@ -33,8 +36,6 @@ permalink: /proofofwork/
   - Voucher calculation optimisations.
   - Waiting fee in Singapore.
   - Express++: A massive undertaking to cut launch time of new services from 6 months to less than 2 weeks.
-  - Return trip.
-  - Gosend 4W in Indonesia.
 
 - **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
@@ -58,7 +59,7 @@ permalink: /proofofwork/
   - Ran GoCorp (Gojek's business product for Transport). [press](https://kr-asia.com/gojek-reveals-new-features-for-corporate-clients-to-keep-up-with-grab)
   - Shipped a premium schedule a ride feature.
   - Owned the loyalty levers for Transport: Subscription, Bundles, GoClub, Vouchers, Missions.
-  - Redesigned the voucher experience.
+  - Redesigned the voucher application experience.
   - Owned the Experiments roadmap for Transport and in charge of improving the capabilities of our experimentation platform.
   - Owned the resurrection charter: getting back users lost during Covid.
   - Launched GoClub (Gojek's loyalty product) in Transport.
