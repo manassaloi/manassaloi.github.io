@@ -27,6 +27,7 @@ permalink: /proofofwork/
   - GoRide Hemat in Indonesia.
   - Redesign of GoSend.
   - Saved addresses improvement in GoSend.
+  - Reduction of defect rate.
   - Cashless tipping.
   - Tipping feature in Singapore and Vietnam.
   - Voucher calculation optimisations.

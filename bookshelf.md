@@ -52,6 +52,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [We Are The Nerds - Christine Lagorio-Chafkin](https://www.goodreads.com/book/show/31685600-we-are-the-nerds)
 + [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power - Max Chafkin](https://www.goodreads.com/book/show/57880116-the-contrarian)
 + [After Steve - Tripp Mickle](https://www.goodreads.com/book/show/58733657-after-steve)
++ [On the Firing Line - Gil Amelio](https://www.goodreads.com/book/show/643880.On_the_Firing_Line)
 
 
 ### Company Building Playbook
