@@ -33,6 +33,7 @@ permalink: /proofofwork/
   - Voucher calculation optimisations.
   - Waiting fee in Singapore.
   - Express++: A massive undertaking to cut launch time of new services from 6 months to less than 2 weeks.
+  - Return trip.
   - Gosend 4W in Indonesia.
 
 - **October 2021 - June 2022**
