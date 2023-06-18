@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "ONDC will fail"
+---
+
+tl;dr ONDC in its current avatar is destined to fail.
+
+The food delivery business is a 3-sided market place with a thin profit margin.
+
+In that thin margin you have to acquire users, retain them with coupons, build your fulfilment arm, spend on delivery incentives, run ML models to optimise pricing and allocation, including batching orders.
+
+In a low margin business, optimisation is the name of the game. Feature differentiation fails because every delivered product will end up having the same features anyway.
+
+So you spread the cost of acquisition and increase the LTV. You reduce the payback period by building multiple products.
+
+You have to find the right group of customers for vouchers. You cannot give them to everyone. You have to figure out the best way to spend the demand spend budget for the week. And the supply spend as well. In the early days, even subsidising merchants. Remember, this is a market place, after all.
+
+Figure out price differentiation. Figure out the best way to do batch orders. Cut costs further. Build your own cloud kitchen network. Reduce delivery costs and secure X number of orders by launching a subscription plan. Then customer support, of course.
+
+All of this on top of running an ops team.
+
+And running a tech team.
+
+And running ML models, which has a lot of infrastructure costs associated with it.
+
+ONDC cannot manage all this by charging 2-4% commission per order. It is insane how people are praising it just in the name of patriotism.
+
+I have been writing about food delivery businesses for years. [This](https://linkedin.com/pulse/post-how-build-super-apps-manas-j-saloi/) was written 4 years ago. I was betting on Swiggy then. Still am. For them the only missing piece is the integration of Rapido to further optimise the utilisation of supply. I am not sure why this has not been done yet.
+
+If you are an ONDC bull, you can build a business model for CM1/2/3 and EBIDTA for them. So many on-demand companies have gone public and their data is easily available.
+
+For a fully integrated delivery model we already know the economics. If you unbundle, does it lead to a cost advantage? I don't think so.
+
+All the players in the food delivery space today are vertically integrated. The acquisition of customers and drivers, the discovery of food, the payment and the delivery all happen on the same platform. By driving efficiencies across the value chain, they squeeze out some of the already low margins.
+
+If you break the chain and have multiple players for each activity, does that further erode the margin in each part of the chain? Or does it have the effect of greater efficiency and an improvement in margin? I would say it is the former. Wait and see.
