@@ -10,13 +10,14 @@ permalink: /proofofwork/
 ### Gojek (~5 years) ###
 
 - **June 2023 - Now**
-- Head of Product, Ride hailing products & GoSend.
+- Head of Product, Ride hailing products & GoSend. They just changed the title. I have been doing the same thing for 2 years now.
   - Return trip.
   - Payment method specific vouchers.
   - Gosend 4W in Indonesia.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
+- Product head for ride hailing products in Indonesia, Singapore, and Vietnam. Also responsible for GoSend (think of it as Dunzo) in Indonesia and Vietnam.
   - Shortcuts in Vietnam.
   - Premium insurance in Indonesia, Singapore and Vietnam.
   - Late pickup vouchers in Indonesia, Singapore, and Vietnam.
