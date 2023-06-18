@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yeh Jawaani Hai Deewani"
+title:  "Yeh jawaani hai deewani"
 ---
 
 A decade ago, during my aspiring travel blogger days, I watched this movie called Ye Jawanee Hai Deewaanee. A discussion from the movie resonated with me and has stayed with me throughout the years. The conversation that lingers at the end of the movie between Deepika and Ranbir revolves around the comparison of their life experiences.
