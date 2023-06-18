@@ -61,35 +61,20 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
   ## (Newsletters I have subscribed to)
 
   - [CBInsights](https://www.cbinsights.com/newsletter)
-
   - [Reforge](https://www.reforge.com/blog/)
-
   - [Axios](https://www.axios.com/newsletters) (Pro Rata and Login)
-
   - [StrictlyVC](https://www.strictlyvc.com/)
-
   - [Kenny Chen](https://uxdesignweekly.com/)
-
   - [Not Boring](notboring@substack.com)
-
   - [Mario at The Generalist](https://thegeneralist.substack.com/)
-
   - [The Skip](theskip@substack.com)
-
   - [Department of Product](https://www.departmentofproduct.com/newsletter/)
-
   - [Hey Designer](https://heydesigner.com/)
-
   - [Milk Road](https://www.milkroad.com/)
-
   - [Dense Discovery](https://www.densediscovery.com/)
-
   - [Linda from Product Lessons](https://productlessons.substack.com/)
-
   - [Ali Abdaal's Sunday Snippets](https://aliabdaal.com/newsletter/)
-
   - [Osborne Saldanha's Fintech Inside](https://fintechinside.substack.com/)
-
   - [Matt Levine's Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 
 
@@ -118,7 +103,6 @@ I once ran an experimental PM course called Aristos: [Aristos - PM Coaching](htt
 
 - **[Not Overthinkin‪g‬](https://podcasts.apple.com/us/podcast/not-overthinking/id1456538451)**
   - fav: [https://podcasts.apple.com/us/podcast/should-we-be-trying-to-build-an-online-audience/id1456538451?i=1000507275520](https://podcasts.apple.com/us/podcast/should-we-be-trying-to-build-an-online-audience/id1456538451?i=1000507275520)
-
 
 
 ## (Books I recommend)
