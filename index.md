@@ -11,7 +11,6 @@ layout: page
 - Summaries of 100+ non-fiction books I have enjoyed reading can be found [here](https://manassaloi.com/booksummaries/).
 - I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
 - I like using bullet points.
-- Currently a Group Product Manager at Gojek.
 - My credentials can be found here: [POW.](https://manassaloi.com/proofofwork/)
 
 Thanks for checking out my blog. Have a great day 🤗
