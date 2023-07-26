@@ -14,6 +14,9 @@ permalink: /proofofwork/
   - Return trip.
   - Payment method specific vouchers.
   - Gosend 4W in Indonesia.
+  - GoCar Economy in Vietnam.
+  - Insurance penetration experiments in GoSend.
+  - Time based pricing.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
@@ -31,7 +34,7 @@ permalink: /proofofwork/
   - GoRide Hemat in Indonesia.
   - Redesign of GoSend.
   - Saved addresses improvement in GoSend.
-  - Reduction of defect rate.
+  - Reduction of defect rate in Transport products.
   - Cashless tipping.
   - Tipping feature in Singapore and Vietnam.
   - Voucher calculation optimisations.
