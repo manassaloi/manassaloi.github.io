@@ -3,20 +3,25 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 17 June 2023)
+(Last updated: 12 September 2023)
 
 (Proof of Work)
 
 ### Gojek (~5 years) ###
 
 - **June 2023 - Now**
-- Head of Product, Ride hailing products & GoSend. They just changed the title. I have been doing the same thing for 2 years now.
-  - Return trip.
+- Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
+  - Return trip nudges.
   - Payment method specific vouchers.
   - Gosend 4W in Indonesia.
   - GoCar Economy in Vietnam.
   - Insurance penetration experiments in GoSend.
   - Time based pricing.
+  - GoCar Comfort in Indonesia.
+  - MTU growth experiments.
+  - Services growth experiments.
+  - Flat fare in GoSend.
+  - Better Search: PPOI integration in GoSend.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
@@ -32,7 +37,7 @@ permalink: /proofofwork/
   - GoCar Premium in Singapore.
   - GoCar Hemat in Indonesia.
   - GoRide Hemat in Indonesia.
-  - Redesign of GoSend.
+  - Project Narnia: Redesign of GoSend.
   - Saved addresses improvement in GoSend.
   - Reduction of defect rate in Transport products.
   - Cashless tipping.
