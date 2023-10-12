@@ -3,7 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 12 September 2023)
+(Last updated: 12 October 2023)
 
 (Proof of Work)
 
@@ -22,6 +22,8 @@ permalink: /proofofwork/
   - Services growth experiments.
   - Flat fare in GoSend.
   - Better Search: PPOI integration in GoSend.
+  - BIN based vouchers.
+  - A better airport experience.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
