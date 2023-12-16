@@ -4,7 +4,7 @@ title: Uses This
 image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
-(Last updated: 18 December 2022)
+(Last updated: 16 December 2023)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
@@ -153,6 +153,12 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ### Home gym
 
++ [Squat Half Rack](https://www.siegefitness.in/product-page/daemon-half-rack): Daemon half rack from Siege Fitness. I have the rack and all the extensions.
+
++ [Bench](https://www.decathlon.in/p/8766093/gym-bench/gym-weight-bench-900-black?id=8766093&type=p): Gym Weight Bench 900 Black from Decathlon.
+
++ [Barbell](https://www.siegefitness.in/product-page/chieftain-barbell-1): Chieftain Barbell from Siege Fitness.
+
 + [Weight training equipments: curl rod, dumbbell rods, plain rods + around 100 kgs weight](https://www.amazon.in/stores/Kore/page/435A5FB6-7DBD-48CA-9AA9-40BE296333E9?ref_=ast_bln): Got the cheapest equipments because I did not want to overcommit and then have weights occupying space.
 
 + [AMAZE Multipurpose Exercise Flat Bench](https://www.amazon.in/INFINITY-FITNESSTM-Multipurpose-Exercise-Capacity/dp/B07WYXYWLW/): Extremely fuddu bench but I needed something to do chest workouts. Can't wait to get a better bench. Most Amazon gym equipments are low quality. My plan is to use these for 6 months and then spend more and get better stuff from local retailers.
@@ -165,13 +171,23 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Dolphy Exercise Spinning Bike](https://www.amazon.in/Dolphy-Exercise-Spinning-Indoor-Cycling/dp/B07WP5FHXB/): Not using this as much as I would have liked.
 
-+ [Fitlastics Resistance Loop Bands](https://www.amazon.in/Fitlastics-Resistance-Pilates-Fitness-Workouts/dp/B07XTCPHTM/): These are very good for warming up. You can even use them as replacement for weights.
++ [Fitlastics Resistance Loop Bands](https://www.amazon.in/Fitlastics-Resistance-Pilates-Fitness-Workouts/dp/B07XTCPHTM/): These are very good for warming up. You can even use them as replacement for weights. I have all the bands from Fitlastic.
 
 + [Wrist Wrap Gloves](https://www.amazon.in/Xtrim-Macho-Leather-Workout-Gloves/dp/B01N6Y6Z4N/): Highly recommend this one.
 
 + [Push-up Bars](https://www.amazon.in/GOCART-Push-up-Bars-Comfortable-Non-Slip/dp/B07FP14HQ1/): Like my bike, this is something which is mostly lying unused. Should not have bought them.
 
 + [Wooden Indian Mugdar](https://www.amazon.in/gp/product/B07QLM95W3/): Trying to use this and my kettlebells more.
+
++ [Squat Wedge](https://www.amazon.in/gp/product/B0C7MK4NN2/): Professional Squat Ramp for Weightlifting and Fitness by Yokefit.
+
++ [Ankle Strap](https://www.amazon.in/gp/product/B09NPWT6R6/): Ankle Strap for Cable Machine by Sportneer.
+
++ [Aerobics Stepper](https://www.amazon.in/gp/product/B089SNPGMS/): Fitness Stepper by Lifelong.
+
++ [Barbell Pad for Weight Lifting](https://www.amazon.in/gp/product/B0BNBS8KPQ/): Extra Cushion Squat Pad for Gym.
+
++ [Boldfit Fabric Resistance Band](https://www.amazon.in/gp/product/B092ZXF779/): Resistance Band for leg/glute workouts.
 
 ### Wellness
 
@@ -193,6 +209,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Casinokart Chip Pack](https://www.amazon.in/gp/product/B07BRZJFKY/): My poker set. Yes, this comes under wellness.
 
++ [Poker set](https://www.amazon.in/Casinoite-Billium-Denomination-Bricks-Chip/dp/B07JX4XX72/): Casinoite Billion 500 with Denomination Bricks Chip Set.
+
 + [Solar lamp for Home](https://www.amazon.in/gp/product/B08KWCCPZG/): For the cosy vibe in your veranda.
 
 + [Dr Physio USA Shiatsu Kneading Pillow Cushion Full Body Neck Massager](https://www.flipkart.com/physio-shiatsu-kneading-pillow-massage-massagers-machine-heat-relax-sooth-relieve-pain-neck-shoulder-back-full-body-massager/p/itmeyykgfcpv8ps6): For massaging my legs and back before I sleep.
@@ -200,3 +218,5 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Caresmith CHARGE Cordless Massage Gun](https://www.amazon.in/gp/product/B08B1PY3B3/): To relax my muscles after football.
 
 + [Shower filter for hard water](https://www.amazon.in/gp/product/B07XVLHQXN/): Need this to survive in Bangalore.
+
++ [Airfryer](https://www.amazon.in/PHILIPS-Digital-HD9252-90-Technology/dp/B097RJ867P/): Philips Digital Air Fryer HD9252/90.
