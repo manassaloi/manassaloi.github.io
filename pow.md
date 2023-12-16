@@ -10,7 +10,7 @@ permalink: /proofofwork/
 ### Gojek (~5 years) ###
 
 - **December 2023 - Now**
-- Head of Product, Transport, Consumer Logistics, and GoCorp.
+- Head of Product for Transport, Consumer Logistics, and GoCorp.
 - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
 - Consumer logistics = GoSend + GoBox.
 - GoCorp = Gojek's suite of B2B products.
