@@ -3,13 +3,21 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 12 October 2023)
+(Last updated: 16 December 2023)
 
 (Proof of Work)
 
 ### Gojek (~5 years) ###
 
-- **June 2023 - Now**
+- **December 2023 - Now**
+- Head of Product, Transport, Consumer Logistics, and GoCorp.
+- Transport = Ridehailing + Taxi + Airport experience + Public Transit.
+- Consumer logistics = GoSend + GoBox.
+- GoCorp = Gojek's suite of B2B products.
+  - GoCar Comfort in Vietnam.
+  - GoRide Comfort in Vietnam.
+
+- **June 2023 - November 2023**
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
   - Return trip nudges.
   - Payment method specific vouchers.
@@ -22,8 +30,10 @@ permalink: /proofofwork/
   - Services growth experiments.
   - Flat fare in GoSend.
   - Better Search: PPOI integration in GoSend.
+  - Sharing saved address in GoSend.
   - BIN based vouchers.
   - A better airport experience.
+  - GoCar Prioritas in Indonesia.
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
@@ -98,7 +108,7 @@ permalink: /proofofwork/
 
 ### Directi (~2 years) ###
 
-- **Dec 2016 - Nov 2018**
+- **December 2016 - November 2018**
 - Flock is a leading enterprise collaboration platform owned by Directi. I was the PM looking at long term retention for our users. [press](https://www.financialexpress.com/industry/flock-messaging-apps-makes-communication-seamless-brings-team-together/633182/)
   - Product owner of the Flock App Store, which has 50+ apps and third party integrations.
   - Led experience of 6 core apps built on Flock’s platform: Mailcast, Notes, Polls, Reactions, Reminders, Favourite.
@@ -110,7 +120,7 @@ permalink: /proofofwork/
 
 ### Craftsvilla (~1 year) ###
 
-- **Jan 2016 - Sep 2016**
+- **January 2016 - September 2016**
 - I was the Product Owner of both Android and iOS mobile apps. I rebuilt the Android app from scratch. [press](https://economictimes.indiatimes.com/small-biz/startups/craftsvilla-bets-on-customisation-to-drive-more-traffic-to-its-app/articleshow/51183666.cms)
   - 100% Growth in number of users visiting Product Detail Page.
   - 20% Jump in monthly retention of the users.
@@ -127,7 +137,7 @@ permalink: /proofofwork/
 
 ### CouponDunia (~1 year) ###
 
-- **Dec 2014 - Dec 2015**
+- **December 2014 - December 2015**
 - CouponDunia is India’s largest digital coupon marketplace. It was acquired by Times Internet in 2014.
 - Product & Business Owner for CashBoss, a new business unit within CouponDunia. [press](https://www.financialexpress.com/industry/coupondunia-launches-new-incentive-app-cashboss/55229/)
   - Shipped the v1 of CashBoss Android App in 4 months and scaled it to 1 million installs.
@@ -144,7 +154,7 @@ permalink: /proofofwork/
 
 ### Kore (~1.5 years) ###
 
-- **Aug 2013 - Nov 2014**
+- **August 2013 - November 2014**
 - Kore pivoted and became Kore.ai, a bot platform in 2016. Before that, Kore was a messaging platform for enterprises. [press](https://www.pcworld.com/article/3035098/these-two-startups-are-out-to-dethrone-slack.html)
   - Joined its Android team and worked on the Video and Camera features of the Kore application.
   - Contributed to the location based message delivery feature of the app. It was a differentiator from other enterprise collaboration applications in the market.
