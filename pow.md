@@ -16,6 +16,11 @@ permalink: /proofofwork/
 - GoCorp = Gojek's suite of B2B products.
   - GoCar Comfort in Vietnam.
   - GoRide Comfort in Vietnam.
+  - Self serve booking at airports.
+  - Concierge booking at airports.
+  - Dynamic services on estimate screen.
+  - Zalopay payment integration in Vietnam.
+  - GoCar XL and GoCar Comfort at airports.
 
 - **June 2023 - November 2023**
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
@@ -32,7 +37,7 @@ permalink: /proofofwork/
   - Better Search: PPOI integration in GoSend.
   - Sharing saved address in GoSend.
   - BIN based vouchers.
-  - A better airport experience.
+  - Improve PPOIs at airports.
   - GoCar Prioritas in Indonesia.
 
 - **July 2021 - May 2023**
