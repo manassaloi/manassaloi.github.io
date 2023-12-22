@@ -3,7 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 16 December 2023)
+(Last updated: 31 December 2023)
 
 (Proof of Work)
 
