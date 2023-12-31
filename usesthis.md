@@ -14,7 +14,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ## Hardware
 
-+ [MacBook Pro (15-inch, 2018)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek.](https://www.go-jek.com/)
++ [MacBook Pro (13-inch, 2021)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek.](https://www.go-jek.com/)
 
 + [MacBook Air M1 (13-inch, 2020)](https://www.apple.com/in/mac/compare/): My personal computer.
 
