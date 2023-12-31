@@ -4,7 +4,7 @@ title: Uses This
 image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
-(Last updated: 16 December 2023)
+(Last updated: 31 December 2023)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
@@ -79,6 +79,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Sony PS5](https://www.playstation.com/en-in/ps5/): Should have upgraded to this much earlier.
 
 + [OnePlus Nord Buds](https://www.oneplus.in/oneplus-nord-buds): Had to get a completely wireless earphones for my OnePlus.
+
++ [Omron body composition monitor](https://www.omronbrandshop.com/product/digital-weighing-machines/hbf-702t/): My team gifted this one to me.
 
 ## Software
 
