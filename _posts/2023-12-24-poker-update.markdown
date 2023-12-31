@@ -25,6 +25,8 @@ I am still down ~30K for the year. This is not bad at all because before this ye
 
 I think I have ended positive in like 8 our of 10 sessions. And 2 of my biggest wins have come in the last 10 sessions.
 
-If you think about it spending 30K to play mid/high stakes in India is not bad. I will never make enough money from Poker to replace my tech job. I must have played 50-100 sessions this year. So ~500/ session to test yourself vs some really good players in the Bengaluru poker scene is not bad. My average Swiggy order is more than that.
+If you think about it spending 30K to play mid/high stakes in India is not bad. I will never make enough money from Poker to replace my tech job. I must have played 50-100 sessions this year. Probably closer to 100 than 50. So ~500/ session to test yourself vs some really good players in the Bengaluru poker scene is not bad. My average Swiggy order is more than that.
 
 There are still leaks in my game. And over time other players also improve. So it will be interesting to see if I continue to continue my upswing.
+
+Update on 31st December: Down 84K total. Played a few more sessions and did not run good.
