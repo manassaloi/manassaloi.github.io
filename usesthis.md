@@ -111,8 +111,6 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 #### On Phone
 
-+ [Loop Habits Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN): To build new habits & track them.
-
 + [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_IN): To listen to podcasts during my commute.
 
 + [Pedometer](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)/ [Pacer](https://play.google.com/store/apps/details?id=cc.pacer.androidapp): To count steps.
@@ -122,8 +120,6 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader): Have read dozens of ebooks on my phone thanks to this app.
 
 + [Insight Timer - Free Meditation App](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2&hl=en_IN): I prefer this free app over paying for Headspace now.
-
-+ [Mi fit app](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=en_IN): Pairs with my Mi fit.
 
 + [Splitwise](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_IN): To share expenses with friends and family.
 
@@ -139,10 +135,6 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Binance](https://play.google.com/store/apps/details?id=com.binance.dev): Store my cryptos mostly here.
 
-+ [Fitbod](https://fitbod.me/): To plan my workouts. I have paid for both this and the stretching app mentioned below.
-
-+ [Streching app](https://apps.apple.com/us/app/stretch-flexibility-at-home/id1412615103): To improve my flexibility.
-
 + [Stretch Club](https://apps.apple.com/us/app/id1531580935#?platform=iphone): I do the posture reset exercise everyday.
 
 + [Lightroom](https://lightroom.adobe.com/): Use it to edit my photos. Have it on my iPhone as well as iPad.
@@ -151,7 +143,16 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Lose it](https://www.loseit.com/): Track my daily calories here.
 
-+ [Skillshare](https://www.skillshare.com/home): For mostly Photography and Procreate lessons.
++ [Nike Run Club](https://www.nike.com/nrc-app): To track my runs.
+
++ [Nike Training](https://www.nike.com/ntc-app): Best free training app.
+
++ [Pretty Progress](https://prettyprogress.app/): Progress bar and countdown widgets.
+
++ [Things](https://culturedcode.com/things/): Personal tasks manager.
+
++ [Waterllama](https://waterllama.com/): Water tracker app.
+
 
 ## Health
 
