@@ -14,6 +14,7 @@ permalink: /proofofwork/
 - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
 - Consumer logistics = GoSend + GoBox.
 - GoCorp = Gojek's suite of B2B products.
+- GoShop and GoMart = Blinkit of Indonesia.
   - GoCar Comfort in Vietnam.
   - GoRide Comfort in Vietnam.
   - Self serve booking at airports.
