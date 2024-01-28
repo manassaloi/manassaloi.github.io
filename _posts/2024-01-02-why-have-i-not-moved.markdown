@@ -36,3 +36,27 @@ Deep down, I know that all these reasons are probably a result of my upbringing 
 I would not have cared so much about idly sambhar. My taste in food would have been very different. And I would be used to doing my own work. I wouldn't be dependent on cheap labour (just a fact). Maybe I would be more concerned about the quality of the air and the water and other things that people in the US take for granted.
 
 One way to answer whether Bangalore is a global city that attracts the best talent is to ask a random white person working in Tech in Berlin and ask, given a choice: equivalent quality of life in the U.S./let's say New York vs. Bangalore, where would they move? We already know their response.
+
+---
+
+(This thread became viral on Twitter, and I saw people QT'ing it heavily. A lot of NRIs jumped on the 'India is the future' bandwagon. So I wrote a follow up thread. Sharing it below.)
+
+I have had a lot of people DM me QT's from NRI folks. People who are cheering us on from the sidelines. Sitting in the US and telling us how good we have it here in India.
+
+If it is India's decade, you should all move back right?
+
+Why would you miss out on the insane career growth and the quality of life by not being here?
+
+Reply to their tweet and ask them why they are not here if you see someone rooting for us from the sidelines.
+There are talkers. There are doers. Most of the people here are talkers. They're not walking the walk.
+If you were to move back and grind it out here, create a billion dollar company, employ tens of thousands of people and contribute to our GDP, I would have massive respect for you.
+But you won't. You will keep cheering us on.
+Mukesh Bansal came back. He started Myntra. SriHarsha could have gone out. But he started Swiggy. Bhavesh stayed back. He is grinding for a decade.
+None of these people are cheering us on from the US as they post pictures of their Thanksgiving dinner.
+
+I work for the South East Asia market, but I pay over 35% income tax and 18% GST here.
+
+And the people cheering from the US are bigger patriots? Just because they use chatgpt to generate in/acc pictures? Since a few people have DM'd me asking what's wrong with people cheering us on even if they don't live here, here's my answer: I don't control what people can do here. I can call out their hypocrisy in acting morally superior to those of us who choose to stay here, just as they are free to post Midwit memes.
+
+One of the best role models here is Vembu. I think. Regardless of what you think of his political leanings, the man walks the talk and runs a huge tech company from a village in TN. That means his words carry a lot more weight, even if you disagree.
+Yes, even I don't agree with everything he says. But Zoho is an inspiration to us all and one of the best examples of walking the talk instead of cheering from the sidelines.
