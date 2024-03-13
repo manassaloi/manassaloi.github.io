@@ -3,16 +3,16 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 31 December 2023)
+(Last updated: 18 Mar 2023)
 
 (Proof of Work)
 
-### Gojek (~5 years) ###
+### Gojek (~5.5 years) ###
 
 - **December 2023 - Now**
-- Head of Product for Transport, Consumer Logistics, and GoCorp.
+- Head of Product for Transport, Consumer Logistics, Groceries & GoCorp.
 - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
-- Consumer logistics = GoSend + GoBox.
+- Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
 - GoCorp = Gojek's suite of B2B products.
 - GoShop and GoMart = Blinkit of Indonesia.
   - GoCar Comfort in Vietnam.
@@ -22,6 +22,14 @@ permalink: /proofofwork/
   - Dynamic services on estimate screen.
   - Zalopay payment integration in Vietnam.
   - GoCar XL and GoCar Comfort at airports.
+  - Lion Air partnerhsip to crosssell Gojek transportaion options.
+  - Simplified driver earnings.
+  - Dynamic service ranking.
+  - Personalised booking journey for new users.
+  - Surge experiments.
+  - GoCar Comfort and Luxe in Airports.
+  - New GoTransit booking summary screen.
+  - GoSend Home redesign.
 
 - **June 2023 - November 2023**
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
