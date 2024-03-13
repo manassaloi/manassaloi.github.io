@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-(Last updated: 18 Jun 2023)
+(Last updated: 11 Mar 2024)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -53,7 +53,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power - Max Chafkin](https://www.goodreads.com/book/show/57880116-the-contrarian)
 + [After Steve - Tripp Mickle](https://www.goodreads.com/book/show/58733657-after-steve)
 + [On the Firing Line - Gil Amelio](https://www.goodreads.com/book/show/643880.On_the_Firing_Line)
-
++ [Elon Musk - Walter Isaacson](https://www.goodreads.com/book/show/122765395-elon-musk)
 
 ### Company Building Playbook
 
@@ -122,7 +122,6 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Inspired - Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired)
 - [Good Strategy Bad Strategy - Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
 
-
 ### Life, Living & Mindset
 
 + [Being Mortal: Medicine and What Matters in the End - Atul Gawande](https://www.goodreads.com/book/show/20696006-being-mortal)
@@ -156,7 +155,6 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Art of Noticing - Rob Walker](https://www.goodreads.com/book/show/41552704-the-art-of-noticing)
 + [Four Thousand Weeks - Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 + [From Strength to Strength - Arthur C. Brooks](https://www.goodreads.com/book/show/58100575-from-strength-to-strength)
-
 
 ### Health, Habits & Productivity
 
@@ -198,7 +196,6 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Snowball: Warren Buffett and the Business of Life - Alice Schroeder](https://www.goodreads.com/book/show/2054761.The_Snowball)
 + [The Millionaire Fastlane - M.J. DeMarco](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane)
 + [Richer, Wiser, Happier - William P. Green](https://www.goodreads.com/book/show/54303127-richer-wiser-happier)
-
 
 ### Venture Capital
 
@@ -275,6 +272,8 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Halo Effect: And the Eight Other Business Delusions That Deceive Managers - Philip M. Rosenzweig](https://www.goodreads.com/book/show/136181.The_Halo_Effect)
 + [Wanting: The Power of Mimetic Desire in Everyday Life - Luke Burgis](https://www.goodreads.com/book/show/54860444-wanting)
 + [7 Rules of Power - Jeffrey Pfeffer](https://www.goodreads.com/book/show/60705919-7-rules-of-power)
++ [The Kremlin School of Negotiation - Igor Ryzov](https://www.goodreads.com/book/show/44569846-the-kremlin-school-of-negotiation)
++ [Hardball - Chris Matthews](https://www.goodreads.com/book/show/252908.Hardball)
 
 ### Decision Making
 
@@ -300,7 +299,6 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Your Next Five Moves: Master the Art of Business Strategy - Patrick Bet-David](https://www.goodreads.com/book/show/50542735-your-next-five-moves)
 + [The 3-Minute Rule - Brant Pinvidic](https://www.goodreads.com/book/show/49351774-the-3-minute-rule)
 + [Captivate - Vanessa Van Edwards](https://www.goodreads.com/book/show/31868165-captivate)
-
 
 ###  History
 
