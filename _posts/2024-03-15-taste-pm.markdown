@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "PMs have no taste?"
+---
+
+I keep reading that PMs have no taste in design. A lot of them follow cookie cutter templates without having taste.
+
+I honestly feel that it is just a case of PMs not caring enough about the craft of building products..
+
+Even after 10 years in my job as a product person, I'm still installing apps every week, trying to understand flows, reading investor updates daily to understand how founders tell stories, think about their strategy and product roadmap.
+
+This is how I spent yesterday:
+
+In addition to my day job, the details of which I can't share publicly, I:
+
+1. Spent an hour, with my very basic css knowledge, on the improvement of my website. Changed the font size. Changed some margin, padding. Continued inspecting elements and trying to figure out why some sites look better while others don't.
+
+2. Added a couple of new sites to my collection of sites that I like a lot.
+
+Copied the font size from [naive-yearly](https://naive-yearly.are.na/) and then used montserrat. My site header broke due to the increased font weight, then spent a lot of time trying to figure out how to fix it. Learned a bit more about fonts and frontend css.
+
+3. Found out about naive-yearly from another newsletter. I follow a lot of design newsletters.
+
+4. Then spent an hour watching videos of people trying out Devin. Not that I do any coding, but I wanted to understand how you would design the user interface of an AI developer agent.
+
+How do you show the progress so that the developer can do other tasks, so that the agent can do the work async and you can see the progress when you come back to the window.
+
+What would I have done as the designer for Devin.
+
+I regularly share design observations on Twitter. I spent hours analysing quick commerce apps last week.
+
+Only by using more products and thinking about them will you understand what makes one better than the other.
+
+5. Then I created a few memes on pixomatic. Compared to other similiar editing apps that have layers, Pixomatic is so much easier to use on mobile. It's so well designed. It's easy to do your basic stuff, but you can do more complicated stuff if you pay for premium.
+
+6. Then I did a night's research on AI writing assistants.
+
+All in a day's work.
+
+You have to put in the hours and be curious if you want to get better at building products. There is no exception.
