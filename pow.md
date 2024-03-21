@@ -3,7 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 18 Mar 2023)
+(Last updated: 21 Mar 2023)
 
 (Proof of Work)
 
@@ -22,7 +22,7 @@ permalink: /proofofwork/
   - Dynamic services on estimate screen.
   - Zalopay payment integration in Vietnam.
   - GoCar XL and GoCar Comfort at airports.
-  - Lion Air partnerhsip to crosssell Gojek transportaion options.
+  - Lion Air partnership to crosssell Gojek transportaion options.
   - Simplified driver earnings.
   - Dynamic service ranking.
   - Personalised booking journey for new users.
@@ -30,6 +30,9 @@ permalink: /proofofwork/
   - GoCar Comfort and Luxe in Airports.
   - New GoTransit booking summary screen.
   - GoSend Home redesign.
+  - Toll and parking fee in Vietnam.
+  - Speciality stores in GoMart.
+  - GoRide Hemat in Vietnam.
 
 - **June 2023 - November 2023**
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
