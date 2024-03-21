@@ -3,6 +3,6 @@ layout: booksummaries
 title: Summaries
 permalink: /booksummaries/
 ---
-(Last updated: 15 October 2023)
+(Last updated: 11 Mar 2024)
 
 Notes on some of the books I have read. It is not exhaustive; just a collection of my favourite excerpts. You can follow me on GoodReads to get book recommendations: [Goodreads Profile.](https://www.goodreads.com/user/show/9698257-manas-saloi)
