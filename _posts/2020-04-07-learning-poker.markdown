@@ -3,6 +3,7 @@ layout: post
 title:  "So you want to learn Poker?"
 image: 'https://manassaloi.com/assets/img/pl_aa.png'
 ---
+(I posted this in April 2020, but my phase of non stop tournament poker I talk about in this post was in 2019.)
 
 I was obsessed with Zynga Poker when I was in college. Every morning I would wake up excited, and then wait to receive the Zynga Poker briefcase, which would let me unlock more virtual coins. After years of playing offline (not regularly), I spent 6 months last year learning the game. I must have spent most of my waking minute, apart from work, on adda52.
 
