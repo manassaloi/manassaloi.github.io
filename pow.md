@@ -33,6 +33,7 @@ permalink: /proofofwork/
   - Toll and parking fee in Vietnam.
   - Speciality stores in GoMart.
   - GoRide Hemat in Vietnam.
+  - Configurable service type cell.
 
 - **June 2023 - November 2023**
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
