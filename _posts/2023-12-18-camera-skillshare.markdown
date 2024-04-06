@@ -21,4 +21,8 @@ More dangerous the body language the more confident you appear. Example. Under a
 
 Your body is a radio tower. Always sending signals. Make sure you send high value signals.
 
+More dangerous the body language the more confident you appear. Example. Under attack you open chest, put arms on waist, then you are at risk as vital organs exposed, but it shows you are not worried. You are confident.
+
+Body is radio tower. Always sending signals. Make sure you send high value signals.
+
 (Disclaimer: I probably don't do any of these.)
