@@ -3,7 +3,7 @@ layout: post
 title:  "Internships"
 ---
 
-A lot of advice on Twitter is of the 'Linkedin agree' variety rathr than something that teaches you anything new. They draw likes, but lack nuance.
+A lot of advice on Twitter is of the 'Linkedin agree' variety rather than something that teaches you anything new. They draw likes, but lack nuance.
 
 Let's take internships.
 
