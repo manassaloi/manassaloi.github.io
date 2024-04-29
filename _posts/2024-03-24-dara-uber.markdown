@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dara is a GOAT"
+---
+
+Random thoughts:
+
+- Dara is so underrated as a strategist. Yes, Uber's execution was stellar, but he also made a lot of decisions that seemed bad for Uber's valuation (which is what public investors care about most) because it didn't align with the long term narrative of growing TAM: he got out of countries where Uber couldn't be top 2, example selling uber eats to zomato, divestitures to cut costs: look at the number of subsidiaries they sold, got out of the autonomous car race (Apple took years to make the same decision), and focused on the core without distractions.
+- If brand strength is measured by how well it's known, how well it's penetrated organically, and if it stands for something, what other strong brands have emerged in the last 5 years besides Duolingo? Unacademy and Cred have spent a lot of money trying to build their brands, but have they been successful?
+- How does a product help different users with their journey? Many home screens are quite static. A new user on Swiggy/ Phonepe is unlikely to try all the products. So how do you guide the user through their first transaction? At this stage of the journey, education is important. New users should have an understanding of how to use the product, as well as when to use it. Whereas for mature users you want to reduce the number of steps in their journey. More power-user features. Less training. More upselling and selling bundles/subscriptions that increase the frequency of transactions. This moves users from the middle of the bell curve to power users. But the home of most of the multi-product apps look the same. They don't evolve as the user moves through the user funnel.
+- I was listening to the my first million podcast where they mentioned that users even in developed countries don't care about productivity as much as they care about making more revenue. So the framing needs to change from saving time to selling/making more. Maybe this is why productivity apps fail.
