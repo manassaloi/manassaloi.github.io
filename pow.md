@@ -3,13 +3,21 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 21 Mar 2023)
+(Last updated: 29 April 2024)
 
 (Proof of Work)
 
 ### Gojek (~5.5 years) ###
 
-- **December 2023 - Now**
+- **April 2024 - Now**
+- VP Product for Transport, Consumer Logistics, Groceries, & GoCorp.
+  - CDG integration in Singapore.
+  - On Time Guarantee for GoSend.
+  - GoRide Hemat scaleup.
+  - GoCar Hemat scaleup.
+  - Multimodal in Jogya Solo.
+
+- **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, Groceries & GoCorp.
 - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
 - Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.

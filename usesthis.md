@@ -82,6 +82,12 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Omron body composition monitor](https://www.omronbrandshop.com/product/digital-weighing-machines/hbf-702t/): My team gifted this one to me.
 
++ [Fujifilm Instax Mini Link 2 Printer](https://www.amazon.in/gp/product/B0B1QV6RKW/): For photo printouts.
+
++ [Anker 537 Power Bank, 24,000mAh](https://www.amazon.in/gp/product/B0B9XHR6BG/r): Power bank for laptop.
+
++ [Anker 20000 mAh PD Power Bank, PowerCore (Series 3)](https://www.amazon.in/gp/product/B0BYP4Y1N8/): Power bank for phone.
+
 ## Software
 
 #### On Laptop
@@ -99,6 +105,10 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Slack](https://slack.com/): For Office Communication.
 
 + [Zoom](https://zoom.us/): Best Video Conferencing tool out there. Go-Jek runs on Zoom.
+
++ [Deep L Write Pro](https://www.deepl.com/write): I edit my posts using this.
+
++ [ChatGPT Plus](https://chat.openai.com/): Pretty much useless. Not sure why I am paying for this.
 
 #### On iPad
 
