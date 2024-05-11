@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Does Uber need PMs"
+---
+
+I was talking to a friend yesterday. He does not come from a technical background.
+
+He asked me an interesting question when I was talking about what PMs do: What does somebody who work on a mature product like Uber do? Isn't everything already in place? Why does Uber still have so many people working for it? Here is an example that I gave him.
+
+Take the simple 'recommended for you' section on Uber's price estimate screen.
+
+Most people would ignore it.
+
+Except the PM whose job is to convert people on this price estimate screen.
+
+Now, for you, you probably think that these options are random.
+
+But there are 4 service recommendations for you to play with on this screen. You need to make sure they're 
+- Relevant to the user- Meet the needs of Uber as a business
+So, what would you look at?
+- The user's choice on the home page.
+- History   
+  - Recently used.   
+  - Frequently used.
+- Supply availability.
+- User persona (price conscious, normal, premium).
+- User maturity (new, early, mature, power user, resurrected, soft churned) A new user may prefer the cheapest trip. Same with a resurrected user.
+- Time of day.
+- Distance of the trip.
+- Destination location.
+- Pick up location.
+- Any treatment group the user belongs to for an experiment some Uber PM is running.
+- Price sensitivity, maybe the user has been okay paying 2X surge price for a car ride for the last few trips, and is used to paying Premium pricing, and now is the time to recommend premium car. 
+- Competition: Competition is promoting an economy type of service and taking market share, and you have to counter by pushing economy to increase your completion orders. Maybe Uber Moto is the way.
+- Business needs: Maybe GTV is a priority and even if the user has been using Auto, you want to nudge Car. Or it is the contribution margin that is a priority and you want to nudge the service with the better contribution margin.
+- Marketing campaign you are running. Maybe it's a new user joining Uber who saw an Auto ad and installed Uber, and now you need to select Auto as the first option on the estimate screen. 
+
+You might want to give weight to these different factors that decides what options to show on the estimate screen and their ranking. You might want to run an ML model to make a recommendation. The recommendation will be improved based on a feedback loop.
+
+You might even create a config portal to do the above. Provide the Portal to Region Ops, so that devs don't have to do a deployment when they have a new request. 
+
+There are a lot of things to think about. A simple 1% conversion bump on estimate screen probably add 10s/ 100s of millions of revenue. So yes, you do need people to work on Uber still. They will have teams that just work on improving the GPS accuracy. Small improvements at Uber's scale is meaningful and justifies the cost of entire teams. So here you have it. You know why so many people still work on the Uber product.
+
+(Disclaimer: I don't work at Uber, and this is purely guesswork on my part, but I do know a bit about this space.)
