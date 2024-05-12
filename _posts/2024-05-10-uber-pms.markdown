@@ -23,6 +23,8 @@ So, what would you look at?
   - Recently used.   
   - Frequently used.
 - Supply availability.
+- Weather conditions.
+- Traffic.
 - User persona (price conscious, normal, premium).
 - User maturity (new, early, mature, power user, resurrected, soft churned) A new user may prefer the cheapest trip. Same with a resurrected user.
 - Time of day.
