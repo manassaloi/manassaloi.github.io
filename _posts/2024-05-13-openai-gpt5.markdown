@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "GPT5"
+---
+
+GPT5 is important, but so is OpenAI creating high switching costs for existing users. For a lot of people, the interactions they have with LLMs are transactional. They have a question to ask. They ask chatgpt or claude or an equivalent product. And as the models improve, there is less and less differentiation between them. And it doesn't take long for other players to catch up to whatever new model OpenAI comes out with in terms of performing better.
+
+I have seen so many people switching from one LLM to another. Yesterday it was GPT4, today Claude.
+
+So what do you do to increase the cost of switching?
+
+Start with history retention. Customised instructions. AI waifu that understands you. Keeps all your chat history and you build a relationship with. Custom GPTs through the GPT store. All of these are ways for you to stay in the ecosystem of OpenAI.
