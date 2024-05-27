@@ -25,4 +25,6 @@ Poker is a crazy zero-sum endeavour. It is just a bunch of friends sitting down 
 
 The early hires want to be founders. The VC backed founder wants to be a bootstrapper. Burnt out exec wants a sabbatical. The world wants the PM to become a 'craftsman'.
 
-There is no end to it, but everyone is in pursuit of some end point where they will have the feeling that they have done it. 
+There is no end to it, but everyone is in pursuit of some end point where they will have the feeling that they have done it.
+
+Update: I lost 3L in 3 sessions. So I have given up all the gains for this year. 
