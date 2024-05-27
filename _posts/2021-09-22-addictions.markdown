@@ -18,6 +18,3 @@ I have been addicted to various things over my lifetime. I get obsessed with som
 - Music blog. Started doing this on DC++ first when I was in college. Also ran it for almost 2 years on Quora.
 - Twitter. The thing I have found the hardest to get rid of. [I have tried a lot.](https://manassaloi.com/2021/09/14/twitter-games.html)
 - Bloging. I actually enjoy blogging. I don't have any analytics on my blog. I don't have a reply section. So I can just post whatever I am thinking about. Like I am doing here. I have actively avoided even letting people subscribe to this blog so that I can write in peace without worry about subscribers count. Anything that becomes a metric loses its joy for me.
-
-
-No NSFW content in this list.
