@@ -12,5 +12,6 @@ layout: page
 - I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
 - I like using bullet points.
 - My credentials can be found here: [POW.](https://manassaloi.com/proofofwork/)
+- Mostly active on Twitter: [Manasjsaloi](https://x.com/manasjsaloi)
 
 Thanks for checking out my blog. Have a great day 🤗
