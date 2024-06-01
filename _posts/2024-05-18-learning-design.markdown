@@ -13,6 +13,6 @@ I was forced to learn Sketch by my manager Madhur. He was not happy with Balsimi
 
 It is funny that I learned Sketch not through the design of features, but through creation of memes.
 
-By the end of my 2 years, I had probably read most of the posts on Nielsen Norman's blog. (It's great, by the way).
+By the end of my 2 years, I had probably read most of the posts on Nielsen Norman Group's blog. (It's great, by the way).
 
 My advice is to have a period of time where you are obsessed with one aspect of product management: be it design, engineering, data or strategy. You will come out of it a much better product manager than if you try to learn it all at once.
