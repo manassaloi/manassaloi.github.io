@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Designers could do your job"
+title:  "A designer could do your job"
 ---
 
 bUt iF dEvs aNd desIgnErs dID thEiR jObs tHe wOlrd wOuLd nOT nEed PMs
