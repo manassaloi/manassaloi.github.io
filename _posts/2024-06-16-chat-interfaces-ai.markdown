@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Will there be no more design jobs?"
+title:  "Will there be no more interfaces?"
 ---
 
 I saw [this tweet by Sam Lessin](https://x.com/lessin/status/1800728582043603196) on why there won't be app interfaces in the future.
