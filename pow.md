@@ -3,19 +3,24 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 29 April 2024)
+(Last updated: 6 July 2024)
 
 (Proof of Work)
 
-### Gojek (~5.5 years) ###
+### Gojek (~6 years) ###
 
 - **April 2024 - Now**
-- VP Product for Transport, Consumer Logistics, Groceries, & GoCorp.
+- VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
   - CDG integration in Singapore.
   - On Time Guarantee for GoSend.
   - GoRide Hemat scaleup.
   - GoCar Hemat scaleup.
   - Multimodal in Jogya Solo.
+  - New pricing flexibility with dynamic take rates.
+  - Saved addresses improvements.
+  - Subs integration for Transport.
+  - Edit station for public transit.
+  - Low fare indicator.
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, Groceries & GoCorp.
