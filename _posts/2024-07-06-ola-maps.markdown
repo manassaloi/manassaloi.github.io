@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Ola Maps"
+---
+
+Ola is going to save 100 Cr INR per year by moving to their in house mapping solution according to Bhavish Agarwal.
+
+At a take rate of 30%, Ola needs  to generate a top line of ~330 CR to pay for Google Maps.
+
+At 25%, 400 Cr.
+
+Now these 100 Cr of savings can be used on demand side or supply side expenditure.
+
+My guess is that they would do neither.
+
+They are in a rough spot.
+
+Driver unions are fighting to ban their 2 wheeler rides business.
+
+And for cars, Ola is moving to a subscription model to avoid GST payments + stop market share loss to Rapido & Namma Yatri.
+
+Earlier, their take was close to 30%.
+
+If a driver was doing 10 rides at an AOV of INR 100, they would be making INR 300 per day from one driver.
+
+Now a driver would pay a subscription fee of 30 INR/day.
+
+From 300 INR to 30 INR. It is a big big drop.
+
+Their  top line (take rate * rides) is decimated.
+Their bottom line too.
+
+And now they are a subscription company with far lower revenue.
+
+Namma Yatri, a private company competitor can pivot to it. So can Rapido.
+
+An IPO-bound company can't.
+
+Yes, with this new subscription fee they probably wouldn't pay driver incentives. But even then their numbers would look worse in 2024 than in '23.
+
+So, of course, they have to bring down the IT COGS.
+
+It is not a matter of deshbhakti. It is a simple exercise in cutting costs. No matter what kind of spin Bhavish puts on it.
