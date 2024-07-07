@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Figma flides"
+---
+
+Lending is a feature.
+
+A lot of standalone lending apps died in India because eventually all the Fintech companies realised that lending (and maybe selling insurance) is the only way to monetise. So all the big fintech companies got NBFC licences/ tied up with NBFCs and started lending. No one was ever going to make money from the payments in India.
+
+AI is also a feature.
+
+New standalone presentation companies powered by AI never made sense. All the big consumer companies are going to sprinkle magic AI dust and leverage AI. Most of the value will be captured by them thanks to their distribution.
+
+Figma just introduced their slides product. Flides they call it. A lot of designers were already making slides on Figma. They just turned it into a product. And whatever opex they incur, they will eventually pass on to their customers. They are also private. They don't have the pressure of the public market to maintain their margin in the short term. They can give away slides for free for the next few years. This helps them build a range of products for their designers. Classic Figma, Figjam and now Slides. A designer can jam with their client/PM in Figjam, create designs in Figma and then present them in Slides. Their entire workflow will be within the Figma ecosystem. If designers were unhappy with the recent Figma draft changes and were considering switching, they have another reason to stay with Figma. The more products someone uses in the Figma ecosystem, the more their workflow is tied to the Figma ecosystem, the higher the retention rate. Slides might also get them to design adjacent user segments. Previously, a PM might have been fine with not having Figma, just reviewing designs on Figma, but with Figjam and now Slides, they will have a larger TAM beyond designers.
