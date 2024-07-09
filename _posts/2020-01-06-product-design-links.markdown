@@ -16,9 +16,9 @@ title:  "My favourite posts on designing a new feature"
 
 - [Designing Google Maps for Motorbikes](https://design.google/library/designing-google-maps-motorbikes/)
 
-- [How We Changed the Facebook Friends Icon and Why symbols matter](https://medium.com/facebook-design/how-we-changed-the-facebook-friends-icon-dc8526ea9ea8)
+- [Facebook Friends Icon and Why symbols matter](https://medium.com/facebook-design/how-we-changed-the-facebook-friends-icon-dc8526ea9ea8)
 
-- [Ola Play design](https://behance.net/gallery/48694387/Ola-Play-V10-Platform-Design);If I want to understand how popular products get designed, I just search "X design/redesign" and I end up finding the case study in the designer's personal website or Behance or Medium :)
+- [Ola Play design](https://behance.net/gallery/48694387/Ola-Play-V10-Platform-Design)
 
 - [Redesigning the Uber pickup experience](http://simonpan.com/work/uber/)
 
@@ -32,7 +32,7 @@ title:  "My favourite posts on designing a new feature"
 
 - [Medium's Heart to Clap journey](https://medium.engineering/-b10bec20de1d)
 
-- [How our customers helped shape the future of Slack](https://slackhq.com/designing-the-future-of-slack-with-customers)
+- [Future of Slack](https://slackhq.com/designing-the-future-of-slack-with-customers)
 
 - [Story of how Swiggy POP was built…](https://bytes.swiggy.com/story-of-how-swiggy-pop-was-built-773e34d4ff87)
 
@@ -42,4 +42,8 @@ title:  "My favourite posts on designing a new feature"
 
 - [Linear: A design reset](https://linear.app/blog/a-design-reset)
 
-**Note:** I will keep adding more interesting posts I find to this list
+- [Family Values](https://benji.org/family-values)
+
+P.S When you want to understand how a popular design is created, just type in "X design/redesign" and you'll find it on the designer's personal website or on Behance or Medium.
+
+**Note:** I will keep adding more interesting posts I find to this list.
