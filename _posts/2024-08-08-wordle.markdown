@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Wordle"
+---
+
+I've been thinking about Wordle ever since it came out: why it took off and what other games could use the same template.
+
+Wordle is a game that
+1. Takes less than 5 minutes.
+2. Seems intellectual.
+3. Has inherent virality because people sharing their score on social media.
+4. Other people can play instantly in response and share their own score in response.
+5. People have a reason to come back: A new challenge every day.
+6. Has no guilt associated like other addictive games that waste your time.
+7. Can become a ritual.
+
+Our parents started the day with the newspaper crossword. Our generation is doing the same with these NYT games.
+
+I have been thinking about games for a long time. Flappy Bird was another interesting one. Simple mechanics.
+
+Thanks to Claude Sonnet, it is very easy to make these simple games. You just have to work backwards from the shareability angle. And have a strong hook.
