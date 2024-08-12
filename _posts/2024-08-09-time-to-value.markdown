@@ -23,15 +23,13 @@ Based on Hormozi's ideas and my own experience, I created this equation that I s
 
 Job search success = (outcome * probability of success * evidence of work)/ (time to value * risk * effort * cost).
 
-
-Outcome = What outcome can you deliver for the business?
-Likelihood of success = Hard to predict, but important.
-Proof of work = What proof do you have that you can do the work?
+- Outcome = What outcome can you deliver for the business?
+- Proof of work = What proof do you have that you can do the work?
 Divided by
-Time to value = How much time do you need to demonstrate your value?
-Risk = What are the risks of hiring you.
-Effort = There will be an effort to integrate you, if you are early, someone may need to mentor you
-Cost = What will it cost the company. Cost in terms of both money and reputation.
+- Time to value = How much time do you need to demonstrate your value?
+- Risk = What are the risks of hiring you.
+- Effort = There will be an effort to integrate you, if you are early, someone may need to mentor you
+- Cost = What will it cost the company. Cost in terms of both money and reputation.
 
 If you think about it, it's hardest to get hired if you're early in your career, you don't have domain experience, you're a costly resource (e.g. post-MBA years of experience in PGM who wants to move to Product later in your career) and there's not enough evidence to predict whether you'll be successful.
 
