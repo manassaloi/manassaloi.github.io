@@ -25,7 +25,9 @@ Job search success = (outcome * probability of success * evidence of work)/ (tim
 
 - Outcome = What outcome can you deliver for the business?
 - Proof of work = What proof do you have that you can do the work?
+
 Divided by
+
 - Time to value = How much time do you need to demonstrate your value?
 - Risk = What are the risks of hiring you.
 - Effort = There will be an effort to integrate you, if you are early, someone may need to mentor you
