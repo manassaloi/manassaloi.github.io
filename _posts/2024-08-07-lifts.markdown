@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Lift buttons"
+---
+
+The up and down buttons outside the lifts in apartments cause confusion because it is not intuitive whether you are calling the lift up or down or you want to go up or down.
+
+The number tells you the state of the lift, where it is at the moment, while the arrows tell you which direction you want to go.
+
+There is a disconnect.
+
+You definitely need both arrows/buttons as you may be going up or down, especially in hotels where there are gyms/restaurants on separate floors and the system can't work out your intention.
+
+How would you solve this? Let's evaluate some options.
+
+1. Next to the arrows, have a little animation of a person going up or down. So that you as a user can visualise it. An animation of a person going up or down next to the buttons will give more context. It will increase the cost of operating the lift though as you will now need 2 additional lcd screens to show the animations next to the up and down buttons.
+2. Don't show an animation, but have a picture of a person next to the buttons. This is implicit. Hopefully the user will figure out that the buttons are related to the person's needs, not the lift's movement.
+3. Have an actual description next to the buttons. "You are going down" next to the down button, "You are going up" next to the up button. But that takes up a lot of space. And most lift buttons are in a small container and there may not be room to add these long texts.
+
+The arrows in the context of the lift's or the user's movement is also a problem for illiterate/semi-literate people and they may not even know English. So you might need  local language translations. More translations mean even more texts and need of more space.
+
+So it is a trade-off between cost (high context through animation), space (high context through text), a balance of cost and space (low context but low space and low cost through the person symbol).
