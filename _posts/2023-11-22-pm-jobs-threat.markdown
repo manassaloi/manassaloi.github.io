@@ -17,7 +17,7 @@ When was the last time you as a developer or a designer met a PM and were like w
 
 When you, as a PM, work based on implied authority without anyone reporting to you, you have to put in the work.
 
-When was the last time you installed aa new app to understand how they do onboarding? Paid for an app to understand their payment flow? Tried to understand how a free app upsells their users to their premium plan? Do you take screenshots of your favourite UIs? Do you debate why a particular UX is better than the other? When was the last time you understood a new ecosystem? Be it Fintech or Crypto or AI or on-demand marketplace. Anything?
+When was the last time you installed a new app to understand how they do onboarding? Paid for an app to understand their payment flow? Tried to understand how a free app upsells their users to their premium plan? Do you take screenshots of your favourite UIs? Do you debate why a particular UX is better than the other? When was the last time you understood a new ecosystem? Be it Fintech or Crypto or AI or on-demand marketplace. Anything?
 Tried to understand your own company's PnL?
 
 I have so many friends who want to do product after their banking/ consulting/ MBA and I always ask them why? I have never seen any of them discuss products with me before. I am sure they don't care about tech. They just want in because the role sounds good. And pays well. Most of these people will fail to build a meaningful career in this domain because they don't care about the craft of product management. They just want the status of a well paying tech job.
