@@ -3,7 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 6 July 2024)
+(Last updated: 11 Sep 2024)
 
 (Proof of Work)
 
@@ -21,9 +21,10 @@ permalink: /proofofwork/
   - Subs integration for Transport.
   - Edit station for public transit.
   - Low fare indicator.
+  - AAV/MAV based on voucher type.
 
 - **December 2023 - March 2024**
-- Head of Product for Transport, Consumer Logistics, Groceries & GoCorp.
+- Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
 - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
 - Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
 - GoCorp = Gojek's suite of B2B products.
