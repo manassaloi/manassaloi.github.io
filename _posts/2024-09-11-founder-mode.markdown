@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Airbnb's Founder Mode vs Booking's Manager Mode"
+title:  "Founder mode"
 ---
 
 I saw a tweet comparing Airbnb's stock price (founder mode) versus Booking's (manager mode).
