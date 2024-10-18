@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "PMs need to have a POV"
+---
+
+Product builders need to have an opinion about the things they build.
+
+Many of them don't.
+
+Let's say you are the PM who is in charge of the home page at Zepto. Your company spends a lot of money on acquiring new users every month.
+
+Do you have an opinion on how the first transaction of a new user should be carried out? Do new users look for items via search or do they go to the categories on the home page? Or do they find the relevant SKU on the home page itself because your feed recommendations are so good?
+
+If it is the search, have you made the search more prominent for the new user and reduced the other elements that may just be noise?
+
+What's the right time to sell them ZeptoPass? Before they have even added a single item? After they have added 1 item? Do you throw a pop-up and when they click on the shopping cart icon ? Or when they land on the cart?
+
+What is the right communication on the hero banner on home?
+
+What do new users care about most? Is it the lowest price for items? Is it free money in their wallet? Is it free shipping on first X orders? Is it reliability? Reliability in terms of delivery time or reliability in terms of finding the item they are looking for (because Zepto has the largest SKUs (assumption)) or is it reliability in terms of items being fresh (for groceries) or delivered in the right condition?
+
+Is the hero banner on the home page talking about what is most important to a new user?
+
+Now, new users are not a homogeneous segment. The behaviour of new users may be different in different regions. As well as the segment they belong to (affordable vs normal vs premium). It might depend on the time of day, whether it is the festive season, whether your supply situation is good or bad at that time. But you still need a POV as PM if you need to have a high conversion at home.
+
+If you are the pricing PM, do you show a discounted price with strike through on the base price, or do you mention that this is conditional and eligible above a basket value? Do you show the base price but mention in the banner that a coupon of value X will be automatically applied? Or do you automatically add the Zepto Pass and show discounted prices? Do you show free shipping + discounted prices? Do you show free delivery + auto applied voucher without strikethrough on the base and discounted price knowing that the customer might feel misled on the cart if you show that the prices are only relevant if the cart value is over a certain amount?
+
+There is no right answer. And the easiest thing to do is to run a dozen experiments that lead to results that are statistically significant, but a combination that leads to a home page that delivers your org structure instead of what is most relevant to the new user.
+
+How to have a POV? Think a lot about the different products you use. Keep thinking about alternative options in terms of design and strategy. And have people with whom you can discuss these opinions.
+
+Recently I spent an hour with a friend debating whether a super app (Swiggy) was a better strategy or whether standalone apps were the way to go (Zomato).
+
+Stand alone apps mean that every app owner has their blank canvas to work on. They can build standalone brands. They can have different social media strategies. You don't have a dozen dependent teams to coordinate when you need to ship something. But you can't also have a loyalty programme that rewards users for using multiple products in the super app. Communication to users is easier. You can send push notifications separately based on the JTBD. Users are less annoyed because they are not getting multiple notifications from the same app.
+
+But there are drawbacks. If I buy a gift card with my credit card as a user, I can use it on either Blinkit or Zomato, not both. Zomato has to acquire users for both products separately. They can't cross-sell easily. I remember for the longest time in my current company, we used to measure the percentage of MTU that was transacted across mobility, food and payments. We called it the golden triangle. Swiggy probably does the same. Look at what percentage of users of their food product end up using Instamart, Genie and other products. Swiggy has to spend money just once on acquisition, but can then cross-sell the same user to multiple products. Zomato has a deep tie-up with Blinkit, but when they launch District, they would have to figure out how to get distribution for District too. How they can cross-sell their current users and get them to install the new District app. But again, the District app owner will have full control over the customer experience.  A different acquisition strategy. A different retention strategy and loyalty programme. They can move fast because it is like a new startup within Zomato. The Swiggy Minis or Genie PMs probably want better visibility at home and to do things differently, but they have to stick to the Swiggy design system as well as the various processes that have become standardised at Swiggy.
+
+Of course, there are many more nuances. Why have super apps been so successful in China and South East Asia, but not in the US? A lot of think pieces have been written on why standalone apps are a better approach once Zomato becomes bigger than Swiggy.
+
+Okay, I've gone on a long tangent, but yes, have a POV as a PM.
+
+Caveat: Having a POV does not mean you always get to do what you think is right. A lot of organisational dynamics, including power plays between various people at the top, determine what decisions are ultimately made. It is a constant tug-of-war between product and business, various executives who sometimes have their own agendas. But despite all this, if you want to become a better product builder, you should spend a lot of time thinking about the product you are building, as well as the products you use every day.
