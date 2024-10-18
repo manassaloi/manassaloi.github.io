@@ -29,4 +29,4 @@ If I were Zomato, I would even put a clause in these loans so that most of the m
 
 This is pure guesswork at this point, but my guess is that over the next few years, Zomato will make a big push into lending. First to restaurant merchants, and then to Blinkit franchisee owners.
 
-P.S. I don't work at Zomato and most of my posts are about what I would have done had I been in charge of strategy. [Toast](https://pos.toasttab.com/products/capital) has done the same.
+P.S. I don't work at Zomato and most of my posts are about what I would have done had I been in charge of a company's strategy. That's why despite Zomato recently withdrawing their lending licence, I still feel they will eventually go after lending.[Toast](https://pos.toasttab.com/products/capital) has done the same in the US.
