@@ -28,7 +28,7 @@ defaults:
       image: https://manassaloi.com/assets/img/manas.png
 
 twitter:
-  username: manasjsaloi
+  username: manas_saloi
   card: summary_large_image
 
 # Build settings
@@ -50,3 +50,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+
+incremental: true
+liquid:
+  error_mode: strict
+  strict_filters: true
