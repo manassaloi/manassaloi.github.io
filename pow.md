@@ -9,6 +9,12 @@ permalink: /proofofwork/
 
 ### Gojek (~6 years) ###
 
+- Transport = Ridehailing + Taxi + Airport experience + Public Transit.
+- Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
+- GoCorp = Gojek's suite of B2B products.
+- GoShop and GoMart = Blinkit of Indonesia.
+- Kilat = B2B Logistics.
+
 - **April 2024 - ▒▒**
 - VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
   - CDG integration in Singapore. [press](https://www.businesstimes.com.sg/startups-tech/startups/gojek-and-comfortdelgro-taxi-send-untaken-rides-each-other-s-platforms)
@@ -29,10 +35,6 @@ permalink: /proofofwork/
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
-- Transport = Ridehailing + Taxi + Airport experience + Public Transit.
-- Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
-- GoCorp = Gojek's suite of B2B products.
-- GoShop and GoMart = Blinkit of Indonesia.
   - GoCar Comfort in Vietnam.
   - GoRide Comfort in Vietnam.
   - Self serve booking at airports.
