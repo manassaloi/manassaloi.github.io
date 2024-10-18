@@ -3,25 +3,29 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 11 Sep 2024)
+(Last updated: 7 Oct 2024)
 
 (Proof of Work)
 
 ### Gojek (~6 years) ###
 
-- **April 2024 - Now**
+- **April 2024 - ▒▒**
 - VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
-  - CDG integration in Singapore.
-  - On Time Guarantee for GoSend.
+  - CDG integration in Singapore. [press](https://www.businesstimes.com.sg/startups-tech/startups/gojek-and-comfortdelgro-taxi-send-untaken-rides-each-other-s-platforms)
+  - On Time Guarantee for GoSend. [press](https://www.thejakartapost.com/ms/gojek-2019/2022/08/31/gosend-instants-ada-apa-denganmu-remake-video-wins-hearts-users-through-nostalgia.html)
   - GoRide Hemat scaleup.
   - GoCar Hemat scaleup.
-  - Multimodal in Jogya Solo.
+  - Multimodal in Jogya Solo. [press](https://www.gatra.com/news-597515-ekonomi-go-transit-launching-di-solo-jogja-permudah-rutinitas-pelaju.html)
   - New pricing flexibility with dynamic take rates.
   - Saved addresses improvements.
-  - Subs integration for Transport.
+  - Subscription integration for Transport.
   - Edit station for public transit.
   - Low fare indicator.
   - AAV/MAV based on voucher type.
+  - GoSend Hemat.
+  - GoSend Sameday schedule.
+  - Kilat Shifts.
+  - Boost.
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
@@ -34,7 +38,7 @@ permalink: /proofofwork/
   - Self serve booking at airports.
   - Concierge booking at airports.
   - Dynamic services on estimate screen.
-  - Zalopay payment integration in Vietnam.
+  - Zalopay payment integration in Vietnam. [press](https://en.vneconomy.vn/gojek-zalopay-announce-partnership.htm)
   - GoCar XL and GoCar Comfort at airports.
   - Lion Air partnership to crosssell Gojek transportaion options.
   - Simplified driver earnings.
@@ -53,7 +57,7 @@ permalink: /proofofwork/
 - Head of Product, Ride hailing products & GoSend. They just gave me a fancier title. I have been doing the same thing for 2 years now.
   - Return trip nudges.
   - Payment method specific vouchers.
-  - Gosend 4W in Indonesia.
+  - Gosend 4W in Indonesia. [press](https://koranindopos.com/gosend-car-instant-gobox-van-hadir-jawab-kebutuhan-kirim-cepat-untuk-paket-besar/)
   - GoCar Economy in Vietnam.
   - Insurance penetration experiments in GoSend.
   - Time based pricing.
@@ -65,7 +69,7 @@ permalink: /proofofwork/
   - Sharing saved address in GoSend.
   - BIN based vouchers.
   - Improve PPOIs at airports.
-  - GoCar Prioritas in Indonesia.
+  - GoCar Prioritas in Indonesia. [press](https://finance.detik.com/berita-ekonomi-bisnis/d-6593158/gojek-bakal-keluarin-fitur-baru-yang-bikin-driver-datang-lebih-cepat)
 
 - **July 2021 - May 2023**
 - Group Product Manager, Ride hailing products & GoSend, Transport.
@@ -87,13 +91,13 @@ permalink: /proofofwork/
   - Cashless tipping.
   - Tipping feature in Singapore and Vietnam.
   - Voucher calculation optimisations.
-  - Waiting fee in Singapore.
+  - Waiting fee in Singapore. [press](https://www.straitstimes.com/singapore/transport/shorter-grace-period-and-new-3-waiting-fee-for-gojek-from-sept-26)
   - Express++: A massive undertaking to cut launch time of new services from 6 months to less than 2 weeks.
 
 - **October 2021 - June 2022**
 - Group Product Manager, Growth and Key Initiatives (GKI), Transport.
 - Run these streams inside Transport: Core Growth, GoCorp (B2B product), Instant(on spot bookings), Service Excellence, and Engineering Excellence. What we have shipped in this period:
-  - GoCar XL in Vietnam.
+  - GoCar XL in Vietnam. [press](https://vir.com.vn/gojek-launches-gocar-xl-protect-7-seater-ride-hailing-service-93207.html)
   - Ride pass product launched in Indonesia to improve incremental transactions and boost customer loyalty.
   - Electric Vehicles trial. [press](https://www.dealstreetasia.com/stories/gojek-expands-ev-trial-282349/)
   - GoCar Premium, an on-demand service for luxury vehicles in Singapore. [press](https://www.techinasia.com/gojek-rolls-premium-carhailing-singapore)
