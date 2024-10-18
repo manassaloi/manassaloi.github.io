@@ -9,11 +9,12 @@ permalink: /proofofwork/
 
 ### Gojek (~6 years) ###
 
-- Transport = Ridehailing + Taxi + Airport experience + Public Transit.
-- Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
-- GoCorp = Gojek's suite of B2B products.
-- GoShop and GoMart = Blinkit of Indonesia.
-- Kilat = B2B Logistics.
+- I ran the following products in Gojek at various points of time:
+  - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
+  - Consumer logistics = GoSend + GoBox. GoSend is Swiggy Genie equivalent for Indonesia and Vietnam.
+  - GoCorp = Gojek's suite of B2B products.
+  - GoShop and GoMart = Blinkit of Indonesia.
+  - Kilat = B2B Logistics.
 
 - **April 2024 - ▒▒**
 - VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
