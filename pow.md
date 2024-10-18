@@ -16,7 +16,7 @@ permalink: /proofofwork/
   - GoShop and GoMart = Blinkit of Indonesia.
   - Kilat = B2B Logistics.
 
-- **April 2024 - ▒▒**
+- **April 2024 - Now**
 - VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
   - CDG integration in Singapore. [press](https://www.businesstimes.com.sg/startups-tech/startups/gojek-and-comfortdelgro-taxi-send-untaken-rides-each-other-s-platforms)
   - On Time Guarantee for GoSend. [press](https://www.thejakartapost.com/ms/gojek-2019/2022/08/31/gosend-instants-ada-apa-denganmu-remake-video-wins-hearts-users-through-nostalgia.html)
