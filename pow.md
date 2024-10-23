@@ -161,6 +161,7 @@ permalink: /proofofwork/
 
 - **January 2016 - September 2016**
 - I was the Product Owner of both Android and iOS mobile apps. I rebuilt the Android app from scratch. [press](https://economictimes.indiatimes.com/small-biz/startups/craftsvilla-bets-on-customisation-to-drive-more-traffic-to-its-app/articleshow/51183666.cms)
+- I also led growth for mobile.
   - 100% Growth in number of users visiting Product Detail Page.
   - 20% Jump in monthly retention of the users.
   - 6X Jump in the number of users logged-in.
