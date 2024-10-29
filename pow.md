@@ -33,6 +33,7 @@ permalink: /proofofwork/
   - GoSend Sameday schedule.
   - Kilat Shifts.
   - Boost.
+  - Driver queue at airports.
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
