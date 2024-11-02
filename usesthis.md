@@ -108,7 +108,11 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Deep L Write Pro](https://www.deepl.com/write): I edit my posts using this.
 
-+ [ChatGPT Plus](https://chat.openai.com/): Pretty much useless. Not sure why I am paying for this.
++ [ChatGPT Plus](https://chat.openai.com/): My assistant.
+
++ [Claude AI](https://claude.ai/new): My other assistant.
+
++ [Affinity design suite](https://affinity.serif.com/en-us/): One time purchase because I can't pay Adobe every month.
 
 #### On iPad
 
@@ -151,7 +155,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Streaks](https://streaksapp.com/): My habit tracking app.
 
-+ [Lose it](https://www.loseit.com/): Track my daily calories here.
++ [Lose it](https://www.loseit.com/): To track my daily calories.
 
 + [Nike Run Club](https://www.nike.com/nrc-app): To track my runs.
 
@@ -162,6 +166,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Things](https://culturedcode.com/things/): Personal tasks manager.
 
 + [Waterllama](https://waterllama.com/): Water tracker app.
+
++ [Quartr](https://web.quartr.com/home): To listen to earnings calls of companies I track.
 
 
 ## Health
