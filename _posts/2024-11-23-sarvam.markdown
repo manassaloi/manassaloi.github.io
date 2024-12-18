@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Sarvam AI"
+---
+
+I was catching up with a friend the other day, and we ended up going down this rabbit hole about AI, new consumer apps, and somehow, Sarvam popped up. You know, the guys who built the only foundational model in India?
+
+My friend, who's pretty plugged into the tech scene, didn't even realize it was a foundational model. He just assumed it was some fine-tuned version of Llama or Qwen. And honestly, I wasn't 100% sure either until another friend confirmed that, yeah, it's the real deal. Apparently, they put in a ton of work creating synthetic Indic data to train it.
+
+That got us talking about the market size. I mean, for any product to take off, it really boils down to being one (or ideally all three) of these:
+- Better
+- Faster
+- Cheaper
+
+Let's stick to Indian use cases for now. Take something like those calls from banks about loans. Could Sarvam power AI agents that call up customers offering consumer loans?
+
+Now, Sarvam (at least according to their blog posts) seems to be way better than other small models at understanding the nuances of Indic languages. So, if they can do this job cheaper than actual call center agents, and the performance is just as good, then it's easy to see a bunch of banks jumping on board.
+
+But here's the catch: will these banks use a mix of LLMs? Like, maybe OpenAI or Gemini for English and Sarvam for regional languages? Or will they just go all-in on Sarvam? Or, and this is a big one, will OpenAI just get so good that their AI agents can flawlessly speak Oriya, Assamese, and every other language, making Sarvam kind of irrelevant?
+
+Sarvam's whole thing was generating a boatload of synthetic Indic tokens so it could outperform global LLMs that are mostly trained on English. Will a smaller, cheaper model actually be better in the long run? Only time will tell.
+
+If this is a real market, how big is it actually? OpenAI can go global. Sarvam's strength is in regional languages. They've done a good job training their model on a budget (which they had to, given their funding). And if this approach works, and they can keep fine-tuning, they might actually have an edge in regional use cases.
+
+But again, how big is that market? If you're talking about lending, an English-speaking customer is probably a higher-value customer than someone who wants to chat with an AI agent in Oriya.
+
+Inference is another piece of the puzzle. Sarvam claims their inference is 4-6x faster than larger models, while matching or even beating their performance on Indic language tasks. But we don't know about the cost. Could smaller, fine-tuned Llama or Qwen models be cheaper for inference? I mean, these big companies are probably pouring money into R&D to lower inference costs, and they can spread those costs over a much larger customer base. We just don't know yet.
+
+And what about globally? What if Sarvam's approach is the right one? What if a ton of synthetic local data really does help build a better model for regional languages? Could they sell their tech to other countries that want their own native LLM (maybe for patriotic reasons, national security, or privacy)? Sure, OpenAI will probably support more and more local languages, but there's a long tail of languages and countries they might not bother with because the scale isn't that exciting. Could Sarvam build a sales team that goes out and sells custom models to these countries?
+
+So basically are the questions:
+- Can they generate synthetic Indic data in a way that gives them a real moat? (Not just a technical one, because Facebook could do the same with Llama, but they probably won't because a smaller regional model isn't a priority for them).
+- Will this model actually outperform smaller models on specific tasks?
+- Can they export this tech to other countries?
+
+Just like when we're building products, asking the right questions is crucial when evaluating companies.
+
+I'm super pumped to see a regional player in this space. And I really hope they can go toe-to-toe with the global giants. But honestly, Sarvam seems to have dropped the ball on their PR. I had to dig through Hugging Face and their blogs to understand their approach. And every time I bring up Sarvam, people ask if their model is even out yet and if they have any real customers. Compare that to the buzz OpenAI, Claude, and others get whenever they release something new. They need to up their game for sure.
