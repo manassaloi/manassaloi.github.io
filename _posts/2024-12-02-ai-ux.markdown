@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "AI UX"
+---
+
+I was talking to a friend the other day. He works at an AI startup, and we got into this whole discussion about how we're actually going to use AI in our everyday lives: the real everyday things, like booking a flight.
+
+Right now, if I want to book a flight, it's a whole process. I'll probably open up Google Flights or Skyscanner. Maybe Makemytrip or Cleartrip if I'm feeling fancy. Or, if I'm really trying to maximize those credit card points, I'll go through Smartbuy. It's a bunch of steps, filters, and hunting for offers.
+
+But what if we could just tell an AI, "Hey, book me a flight to Mumbai on Sunday morning. I don't want to spend a fortune, but one stop is fine. And avoid AirIndia - they'll probably lose my luggage."
+
+There are a few ways I can see this playing out:
+
+The Chatbot Scenario: You prompt Claude (or whatever AI you use). It knows your preferences, has your card details, and can book directly through the OTAs because they've opened up their data. Maybe it asks a few follow-up questions in the chat, or maybe it just presents a few options, and you pick one.
+
+The "Take Over My Computer" Scenario: This one's a bit wilder. Imagine an AI like Claude Computer that literally takes control of your computer and goes through the same booking steps you would. No need for direct data access from the OTAs. Maybe it still needs your approval at certain points. It could show options in the Claude chat, or maybe there's some kind of overlay on your screen where you hit "approve." And for payments, maybe it can even read your OTP if needed.
+
+The Siri Scenario: This is where Apple (or Google Assistant) might really shine. They could do everything - book, pay, read OTPs, the whole shebang.
+
+The In-App Agent Scenario: What if OTAs integrated with agent platforms like Sierra? You could chat directly within the OTA app to book, get support, and even get upsells. Imagine the agent suggesting a rental car or travel insurance right in the chat instead of those annoying follow-up emails.
+
+The Hybrid Scenario: Maybe it's a mix of all of these. Your Claude Computer could be prompting inside the OTA's chat, which is powered by Sierra, creating this whole agent-to-agent interaction to complete the booking.
+
+This kind of high-intent, specific workflow seems ripe for automation. It's like that one-tap booking on Namma Yatri - just skip all the steps.
+
+But then there are things like food ordering. That's more discovery-based. You're not just looking at price; you're browsing restaurants, cuisines, checking vouchers, and maybe deciding the delivery fee is too high because it's raining and you'll just make Maggi instead.
+
+Look, no one knows exactly how this will pan out. These are just some random thoughts I've been having. But it's a fun thought exercise, right? How will AI change the UX of the most basic things we do. Will these be better or worse. Only time will tell.
