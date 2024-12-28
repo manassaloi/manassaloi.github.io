@@ -30,3 +30,17 @@ Life is long, but these visits are short. When I look back, I want each trip to 
 "Nobody on Twitter might disagree, but not all in-laws are bad. No nazar please.
 
 I highly recommend this book: [The Art of Making Memories - Meik Wiking](https://manassaloi.com/booksummaries/2021/03/01/art-making-memories-wiking.html)
+
+----
+
+I got some backlash from some people when I posted the above on x dot com. 'oh techbros trying to optimise everything'.
+
+I say yes, optimise everything you can. Make memories.
+
+Got promoted? Instead of just calling your parents and telling them, take them out for a nice dinner. Make it memorable. Have a date night. Celebrate other people's victories. On your last day at work, go to that shady bar nearby.
+
+Treat yourself. And treat those close to you, too.
+
+Life is short. I could have a heart attack and die next year. I want my annual reflection to include enough things that it feels crazy to look back and wonder how I got so many things done. Try more things. If you have the time and can afford it.
+
+Or ignore all of the above and just do you. I can only live my life the way I want to!
