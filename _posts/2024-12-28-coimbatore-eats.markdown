@@ -5,9 +5,9 @@ title:  "Coimbatore food recommendations"
 
 Sourced on Twitter and cleaned up using Claude.
 
-# Restaurants in Coimbatore
+### Restaurants in Coimbatore
 
-## Vegetarian Restaurants
+#### Vegetarian Restaurants
 * **Annapoorna**
     * Known for excellent South Indian breakfast, coffee, and their signature rose milk
 * **Nagercoil Arya Bhavan**
@@ -17,7 +17,7 @@ Sourced on Twitter and cleaned up using Claude.
 * **Original Tiffin House**
     * Traditional South Indian fare
 
-## Non-Vegetarian Restaurants
+#### Non-Vegetarian Restaurants
 * **SMS Restaurant**
 * **Shahi Grill**
 * **Parotta Factory**
@@ -29,7 +29,7 @@ Sourced on Twitter and cleaned up using Claude.
 * **Burma Bai**
     * Known for their parotta and pepper chicken
 
-## Cafes & Contemporary Dining
+#### Cafes & Contemporary Dining
 * **On The Go**
     * Serves North Indian cuisine and their signature mud soufflé
 * **That's Y Food**
@@ -39,17 +39,17 @@ Sourced on Twitter and cleaned up using Claude.
 * **Sticksy**
 * **Boomerang**
 
-## Coffee & Quick Bites
+#### Coffee & Quick Bites
 * **Velan Coffee**
 * **Valarmathi Mess**
 * **Pillar 129**
     * An underrated local favorite
 
-## Street Food
+#### Street Food
 * Various shawarma joints throughout the city
 
-## Traditional Home-Style Dining
+#### Traditional Home-Style Dining
 * **Ammayi Veedu**
     * Serves home-style meals
 
-[Bengaluru list for anyone interested](https://manassaloi.com/2021/05/15/bangalore-food.html)
+[Bengaluru list for anyone interested.](https://manassaloi.com/2021/05/15/bangalore-food.html)
