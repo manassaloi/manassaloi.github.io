@@ -7,8 +7,6 @@ I visit my in-laws and parents once a year. That's it. Two trips. So I've been t
 
 The thing about memories is that they're made up of moments that stand out.
 
-Like getting my FIL a whisky from one of Scotland's oldest bottlers when I was in Edinburgh. It's not about the number of gifts but the thought behind them. 
-
 My MIL loves cooking for us. The way her face lights up when we dig into her biryani – that's priceless. In return, I've made it my mission to explore new places to eat around Coimbatore with my in-laws.
 
 We finally ticked off that Guruvayur temple trip they'd been planning forever. Spent a day there, roamed around Thrissur. Sometimes the best gifts are experiences. Speaking of which, I got my brother's FIL (who's a massive Shiva devotee) a small idol from Guruvayur. He's always hosting us for dinner when we visit my hometown, so it felt right.
