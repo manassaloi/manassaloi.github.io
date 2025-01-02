@@ -1,10 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-<<<<<<< Updated upstream
 .DS_Store
-=======
-_posts/.DS_Store
-assets/.DS_Store
->>>>>>> Stashed changes
 assets/.DS_Store
