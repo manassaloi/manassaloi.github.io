@@ -2,17 +2,17 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Montserrat, SF Pro Display, Helvetica Neue, Helvetica, serif !default;
-$base-font-size:   24px !default;
+$base-font-family: Helvetica, serif !default;
+$base-font-size:   18px !default;
 $base-font-weight: normal !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     40px !default;
 
-$text-color:       #FFFFFF !default;
+$text-color:       #1C1C1C !default;
 $a-color:          #EA5426 !default;
-$background-color: #1C1C1C !default;
+$background-color: #FFFFFF !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
@@ -22,10 +22,10 @@ $orange-color:     #f66a0a !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    680px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        680px !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
