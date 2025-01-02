@@ -3,11 +3,11 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 1 Nov 2024)
+(Last updated: 1 Jan 2024)
 
 (Proof of Work)
 
-### Gojek (~6 years) ###
+### Gojek (6 years) ###
 
 - I ran the following products in Gojek at various points of time:
   - Transport = Ridehailing + Taxi + Airport experience + Public Transit.
@@ -34,6 +34,9 @@ permalink: /proofofwork/
   - Kilat Shifts.
   - Boost.
   - Driver queue at airports.
+  - GoCar Flash in SG.
+  - Onetap resume journey.
+  - Spin the wheel (Transfort Gamification M1).
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
