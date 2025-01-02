@@ -4,7 +4,7 @@ title: Uses This
 image: 'https://manassaloi.com/assets/img/usesthis.png'
 permalink: /usesthis/
 ---
-(Last updated: 30 April 2024)
+(Last updated: 1 Jan 2025)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
@@ -14,9 +14,13 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 ## Hardware
 
++ [MacBook Pro M4 48GB 1 TB (13-inch, 2024)](https://www.apple.com/in/mac/compare/): New personal laptop.
+
 + [MacBook Pro (13-inch, 2021)](https://www.apple.com/in/mac/compare/): Work computer provided by [Go-Jek.](https://www.go-jek.com/)
 
 + [MacBook Air M1 (13-inch, 2020)](https://www.apple.com/in/mac/compare/): My personal computer.
+
++ [Dell S2722QC](https://www.amazon.in/dp/B09DTDRJWP?ref=ppx_yo2ov_dt_b_fed_asin_title): Monitor.
 
 + [iPhone 13 Pro](https://www.apple.com/in/iphone-13-pro/): Primary phone.
 
@@ -110,9 +114,17 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [ChatGPT Plus](https://chat.openai.com/): My assistant.
 
-+ [Claude AI](https://claude.ai/new): My other assistant.
++ [Claude AI Pro](https://claude.ai/new): My other assistant.
+
++ [Cursor Pro](https://www.cursor.com/): Main IDE.
 
 + [Affinity design suite](https://affinity.serif.com/en-us/): One time purchase because I can't pay Adobe every month.
+
++ [Midjourney](https://www.midjourney.com/): To get my creative juices flowing.
+
++ [Figma](https://www.figma.com/): For everything design.
+
++ [Raindrop](https://raindrop.io/): The best bookmarks manager there is.
 
 #### On iPad
 
@@ -139,9 +151,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN): Started listening to music on this app after paying for Youtube Premium.
 
-+ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android): I paid for a year of Waking up. Then did not renew because I started relying on Insight Timer for my meditations.
-
-+ [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): Another app I use. I pay for this too.
++ [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android): Another app I use. I pay for this.
 
 + [TickTick: ToDo List Planner, Reminder & Calendar](https://play.google.com/store/apps/details?id=com.ticktick.task): Track my tasks usint this app.
 
@@ -155,19 +165,23 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [Streaks](https://streaksapp.com/): My habit tracking app.
 
-+ [Lose it](https://www.loseit.com/): To track my daily calories.
++ [Lose it](https://www.loseit.com/): To track my daily calories. I paid for lifetime access.
 
 + [Nike Run Club](https://www.nike.com/nrc-app): To track my runs.
 
 + [Nike Training](https://www.nike.com/ntc-app): Best free training app.
 
-+ [Pretty Progress](https://prettyprogress.app/): Progress bar and countdown widgets.
++ [Pretty Progress](https://prettyprogress.app/): Progress bar and countdown widgets. I paid for this.
 
 + [Things](https://culturedcode.com/things/): Personal tasks manager.
 
 + [Waterllama](https://waterllama.com/): Water tracker app.
 
 + [Quartr](https://web.quartr.com/home): To listen to earnings calls of companies I track.
+
++ [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android): I paid for a year of Waking up. Then did not renew because I started relying on Insight Timer for my meditations.
+
++ [Cosmos](https://www.cosmos.so/) & [Are.na](https://www.are.na/): To develop taste.
 
 
 ## Health
@@ -186,7 +200,7 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 + [USI Universal Power Lifting Belt PLH](https://www.amazon.in/USI-Power-Lifting-Belt-Heavy/dp/B01NAAWBQI/): For deadlifts.
 
-+ [Kettlebells - AmazonBasics cast-iron 6kg and 12 kgs](https://www.amazon.in/AmazonBasics-KB-12KG-cast-Iron-Kettlebell-12kg/dp/B076QDSYC7/): Kettlebells are amazing; I mostly use them for swings and presses.
++ [Kettlebells - AmazonBasics cast-iron 6, 8, 12, 16, and 20 kgs](https://www.amazon.in/AmazonBasics-KB-12KG-cast-Iron-Kettlebell-12kg/dp/B076QDSYC7/): Kettlebells are amazing; I mostly use them for swings and presses.
 
 + [AmazonBasics Puzzle Exercise Mat with EVA Foam Interlocking Tiles](https://www.amazon.in/AmazonBasics-Puzzle-Exercise-Interlocking-Tiles/dp/B0719BBFP2/): Protects the floor.
 
@@ -209,6 +223,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 + [Barbell Pad for Weight Lifting](https://www.amazon.in/gp/product/B0BNBS8KPQ/): Extra Cushion Squat Pad for Gym.
 
 + [Boldfit Fabric Resistance Band](https://www.amazon.in/gp/product/B092ZXF779/): Resistance Band for leg/glute workouts.
+
++ [Kobo - CTA-20 CTA-20 Nylon Weighted Vest, Adult 15Kg](https://www.amazon.in/dp/B076PNPSKZ?ref=ppx_yo2ov_dt_b_fed_asin_title): Weighted Vest.
 
 ### Wellness
 
