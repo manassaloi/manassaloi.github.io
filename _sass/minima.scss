@@ -1,57 +1,121 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
+// First, define all static SCSS color variables
+$base-text-color: #111 !default;
+$base-background-color: #fdfdfd !default;
+$base-link-color: #f26f54 !default;
+$base-grey-color: #828282 !default;
 
-$base-font-family: Helvetica, serif !default;
-$base-font-size:   18px !default;
-$base-font-weight: normal !default;
+// Define other base variables
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
-
-$spacing-unit:     40px !default;
-
-$text-color:       #1C1C1C !default;
-$a-color:          #EA5426 !default;
-$background-color: #FFFFFF !default;
-$brand-color:      #2a7ae2 !default;
-
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
-$orange-color:     #f66a0a !default;
+$spacing-unit:     30px !default;
 $table-text-align: left !default;
 
-// Width of the content area
-$content-width:    680px !default;
+// Define derived SCSS colors (these need to be before CSS variables)
+$grey-color:       $base-grey-color !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$brand-color:      #2a7ae2 !default;
+$orange-color:     #f66a0a !default;
 
+// Layout variables
+$content-width:    800px !default;
 $on-palm:          600px !default;
-$on-laptop:        680px !default;
-
+$on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-// Notice the following mixin uses max-width, in a deprecated, desktop-first
-// approach, whereas media queries used elsewhere now use min-width.
+// Now define CSS custom properties
+:root {
+  --background-color: #{$base-background-color};
+  --text-color: #{$base-text-color};
+  --link-color: #{$base-link-color};
+  --grey-color: #{$grey-color};
+  --grey-color-light: #{$grey-color-light};
+  --grey-color-dark: #{$grey-color-dark};
+}
+
+[data-theme="dark"] {
+  --background-color: #1a1a1a;
+  --text-color: #f5f5f5;
+  --link-color: #ff8f7d;
+  --grey-color: #{$grey-color};
+  --grey-color-light: #404040;
+  --grey-color-dark: #dfdfdf;
+}
+
+// Map theme variables
+$text-color: $base-text-color !default;
+$background-color: $base-background-color !default;
+$a-color: $base-link-color !default;
+
+// Mixins
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
   }
 }
 
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
-// Import partials.
+// Import partials
 @import
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Theme styles using CSS variables
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+// Disable transitions during page load
+.preload * {
+  transition: none !important;
+}
+
+a {
+  color: var(--link-color);
+
+  &:visited {
+    color: var(--link-color);
+  }
+}
+
+.site-header {
+  background-color: var(--background-color);
+  border-color: var(--grey-color-light);
+}
+
+.site-nav {
+  background-color: var(--background-color);
+  border-color: var(--grey-color-light);
+
+  .page-link {
+    color: var(--link-color);
+  }
+}
+
+// Table styles
+table {
+  text-align: $table-text-align;
+  color: var(--text-color);
+  border-color: var(--grey-color-light);
+
+  th {
+    background-color: var(--grey-color-light);
+  }
+
+  tr:nth-child(even) {
+    background-color: var(--grey-color-light);
+  }
+}
