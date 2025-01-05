@@ -1,5 +1,4 @@
 <header class="site-header">
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -27,5 +26,12 @@
         </div>
       </nav>
     {%- endif -%}
+
+    <div class="theme-switcher">
+      <button class="theme-switcher__button" onclick="toggleTheme()" aria-label="Toggle theme" title="Toggle dark/light mode">
+        <span class="theme-switcher__icon theme-switcher__icon--light">☀️</span>
+        <span class="theme-switcher__icon theme-switcher__icon--dark">🌙</span>
+      </button>
+    </div>
   </div>
 </header>

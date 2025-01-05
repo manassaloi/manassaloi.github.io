@@ -9,4 +9,14 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <script>
+    // Immediately set the theme before the page renders
+    (function() {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      document.body.style.backgroundColor = savedTheme === 'dark' ? '#1a1a1a' : '#fdfdfd';
+      document.body.style.color = savedTheme === 'dark' ? '#f5f5f5' : '#111';
+    })();
+  </script>
+  <script src="{{ '/assets/js/theme-switcher.js' | relative_url }}" defer></script>
 </head>
