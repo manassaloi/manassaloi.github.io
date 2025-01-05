@@ -21,7 +21,7 @@
 
 .site-title {
   @include relative-font-size(1.25);
-  color: $a-color;
+  color: var(--link-color);
   font-weight: 400;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -41,7 +41,7 @@
 
   .page-link {
     @include relative-font-size(0.8);
-    color: $a-color;
+    color: var(--link-color);
     line-height: $base-line-height;
     margin-right: 1.5rem;
 
@@ -230,7 +230,7 @@
 
 .post-link {
   @include relative-font-size(1);
-  color: $a-color;
+  color: var(--link-color);
 }
 
 /**

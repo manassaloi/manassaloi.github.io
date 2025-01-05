@@ -98,35 +98,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
-
-/**
- * Links
- */
-a {
-  color: $a-color;
-  text-decoration: none;
-
-  &:visited {
-    color: $a-color
-  }
-
-  &:hover {
-    color: $a-color;
-    text-decoration: underline;
- //   background-color: $background-color;
-  }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: none;
-    }
-  }
-}
-
-
 /**
  * Blockquotes
  */
