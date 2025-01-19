@@ -7,8 +7,9 @@ layout: page
 👋, I am Manas J Saloi.
 
 - You probably came here to read [my blog.](https://manassaloi.com/posts/)
-- I don't have tags on my website. Master posts related to all topics can be found [here](https://manassaloi.com/links/).
-- Summaries of 100+ non-fiction books I have enjoyed reading can be found [here](https://manassaloi.com/booksummaries/).
+- I don't have tags on my website.
+- Master posts related to all topics: [here](https://manassaloi.com/links/).
+- Summaries of 100+ non-fiction books: [here](https://manassaloi.com/booksummaries/).
 - I spend my time [reading](https://www.goodreads.com/user/show/9698257-manas-saloi) and [writing](https://manassaloi.com/posts/).
 - I like using bullet points.
 - My credentials can be found here: [POW.](https://manassaloi.com/proofofwork/)
