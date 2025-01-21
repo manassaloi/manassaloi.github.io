@@ -3,7 +3,7 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 1 Jan 2025)
+(Last updated: 21 Jan 2025)
 
 (Proof of Work)
 
@@ -37,6 +37,8 @@ permalink: /proofofwork/
   - GoCar Flash in SG.
   - Onetap resume journey.
   - Spin the wheel (Transfort Gamification M1).
+  - Transit new homepage.
+  - Instant everywhere.
 
 - **December 2023 - March 2024**
 - Head of Product for Transport, Consumer Logistics, GoMart, GoShop, & GoCorp.
