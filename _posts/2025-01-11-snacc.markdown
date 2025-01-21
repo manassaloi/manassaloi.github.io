@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "A standalone snacc app"
+---
+
+"O Manas, why did Swiggy launch Snacc? Isn’t it an admission that having multiple brands might be a better plan?"
+
+I have had people DM me this after Swiggy launched their new Snacc app.
+
+
+Snacc is a separate app because you can’t directly compete with the restaurants you serve (one side of your three-sided marketplace) in the same Swiggy app.
+
+If you're positioning SNACC as a solution to expensive food delivery, long wait times, and excessive fees, you can't effectively do this by placing the SNACC icon next to traditional food delivery options on Swiggy's homepage.
+
+Customers need to think of SNACC as a distinct service for quick, reheated frozen food delivered in 10 minutes. Mixing dark store food with restaurant offerings in the same app could confuse the value proposition.
+
+Consider this: If a customer has a bad experience with a reheated samosa from SNACC, they might question Swiggy's entire food delivery business.
+Additionally, restaurants would likely object to having their offerings displayed alongside reheated frozen food, given the perception issues.
+(Though one could argue that restaurant food is also frequently reheated packaged food.)
+
+The app separation also helps manage customer expectations. You can't effectively promise both 10-minute and 50-minute deliveries in the same app. The goal is to train users to use SNACC specifically for quick snacks, while using Swiggy for restaurant food – even if it means paying more and waiting longer.
+
+The separation enables different demand and supply strategies.
+On the demand side, having both quick, cheap SNACC items and restaurant food in one app creates competing user flows. For example, a customer looking for a samosa on SNACC might compare it with a nearby restaurant's samosa on Swiggy, which could be cheaper despite the 25-minute delivery time. Separating the apps eliminates this direct comparison.
+Supply-side operations also differ. Dark store delivery workers handling 10-minute deliveries may require different incentive structures, necessitating a separate supply spending strategy.
+
+Finally, organizational dynamics play a role. A separate app gives the SNACC team autonomy. They don't need to compete for visibility on Swiggy's home screen or negotiate with the design team about animations and features. They can move quickly, ship features rapidly, and maintain independent control over branding, communications, and overall product development.
+This illustrates a key advantage of multiple apps. However, it comes with challenges: building a user base from scratch, training customers to use multiple apps, and managing cross-platform features. For instance, I still can't use my Zomato wallet money from an Infinia gift card on Blinkit, nor can I earn and use points across their product portfolio.
+
+Both approaches have their merits and drawbacks.
+
+Having said all this, no one really knows the exact rationale behind this decision. Based on my decade-plus experience in tech, most decisions ultimately stem from CEO preferences and influential stakeholder input, shaped by various biases – recency bias, confirmation bias, and many others – plus competitive pressures. The true decision-making process often remains opaque.
