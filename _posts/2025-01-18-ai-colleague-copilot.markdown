@@ -13,11 +13,11 @@ This may not be new to people who are deep into AI and agents. But for an averag
 
 There are 2 types of agents.   Agent as colleague. Agent as copilot.
 
- Colleague agents are much more expensive. Take Devin for example. He is supposed to be a junior developer who you can also delegate tasks to and he *works independently*, while Cursor Agent (Composer) and Replit Agent are examples of copilots. They take some tasks off you, but I assume they enhance your ability as a developer rather than working independently. And they are priced accordingly.   500 dollars a month for Devin versus 20 dollars for Composer.
+ Colleague agents are much more expensive. Take Devin for example. He is supposed to be a junior developer who you can also delegate tasks to and he *works independently*, while Cursor Agent (Composer) and Replit Agent are examples of copilots. They take some tasks off you, but I assume they enhance your ability as a developer rather than working independently.And they are priced accordingly.  500 dollars a month for Devin versus 20 dollars for Composer.
 
 So how do you work with each type of agent?   I told my friend that if you think of Devin as a real colleague, an employee in your organisation, then its onboarding should be like a real colleague.  Let's take the example of a new agent.   We have decided to buy Jagan, a data analyst agent created by Data Friend Labs.  What should the workflow look like?
 
-In an ideal scenario. This may already be happening with some agents today, but let's say we don't know of any and we're using some good old-fashioned *first principles* thinking.  How do you onboard an agent?
+In an ideal scenario. This may already be happening with some agents today, but let's say we don't know of any and we're using some good old-fashioned *first principles* thinking.   How do you onboard an agent?
 
  A regular employee joins. They have a manager. They have an onboarding buddy. They get an email id. They have a slack. They have an onboarding checklist created by their manager.   Now suppose you want this colleague, Jagan, to be as useful as a human employee. How would you do its onboarding?
 
