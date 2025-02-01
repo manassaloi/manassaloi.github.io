@@ -1,8 +1,0 @@
-I"�<p>It is Friday evening. In spite of your No Deployment Fridays rule, you have decided to release that big feature on production. It was delayed by weeks, and you can’t afford more delays. Your QA team, after a mammoth effort of 2 continuous night outs, just completed testing the build. Everything looks good.</p>
-
-<p>Oops. Your designer just discovered a big edge case. It is quite late at night though. And you are scared to ask your QA to test the build all over again. You think you can skip the test cycle, and just deploy on prod as a hot-fix. Who cares right?</p>
-
-<p>DON’T</p>
-
-<p>Stay up to date with my latest posts/tweets here: <a href="http://twitter.com/manas_saloi">@manas_saloi</a></p>
-:ET
