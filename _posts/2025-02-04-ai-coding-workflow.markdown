@@ -4,6 +4,7 @@ title:  "AI coding workflow"
 ---
 
 I spent 5 hours on Cursor today. Here are some of my findings. Might be obvious to some. But this is the way I will do my next projects to save a lot of pain later.
+
 -----
 
 Make a project plan. Get help from O1.
