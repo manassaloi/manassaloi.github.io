@@ -18,7 +18,7 @@ permalink: /proofofwork/
 
   Led a team of ~15 PMs and worked with 60+ engineers, 10+ product designers, 5 product researchers, 4 BI analysts, and folks from marketplace, driver platform, care and comms, data engineering, ops, marketing, Strategy & Planning teams to deliver a host of key Gojek projects.
 
-- **April 2024 - April 2025**
+- **April 2024 -**
 - VP Product for Transport, Consumer Logistics, Kilat, & GoCorp.
   - CDG integration in Singapore. [press](https://www.businesstimes.com.sg/startups-tech/startups/gojek-and-comfortdelgro-taxi-send-untaken-rides-each-other-s-platforms)
   - On Time Guarantee for GoSend. [press](https://www.thejakartapost.com/ms/gojek-2019/2022/08/31/gosend-instants-ada-apa-denganmu-remake-video-wins-hearts-users-through-nostalgia.html)
