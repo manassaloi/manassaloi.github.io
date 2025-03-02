@@ -29,7 +29,7 @@ And even if their India business revenue was only 1/2% of global, for a public c
 
 My guess is that Rapido and Namma took market share away from them. Not just in auto, but also Cabs. Rapido is 0% commission even on cabs.
 
-This is a last ditch attempt from Uber to protect GMV (assuming auto rides on Uber's platform is significant % of their total rides), and give up on revenue.
+This is a last ditch defensive attempt from Uber to protect GMV (assuming auto rides on Uber's platform is significant % of their total rides), and give up on revenue.
 
 And Dara made it clear that he is focused on only countries where they can be clear number 1 or 2.
 
