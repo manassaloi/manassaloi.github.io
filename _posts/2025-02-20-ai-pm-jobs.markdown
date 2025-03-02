@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Will AI take a PM's job?"
+---
+
+A lot of PMs DM me worried about the future of product management. I don't give specific advice. And I think most advice is just asked to receive confirmation bias. But here is something I have been writing even before AI became popular and people started debating role definitions.
+
+I was a developer 10 years back. I did a 6-month internship as an Android dev, then 6 months as a dev, followed by another year of backend work. But I was a Stack Overflow developer. I did enough that I never got fired. But being good at it would have meant the same amount of effort I later put into PMing. I think about products all the time, while for development, it was always at the higher level of abstraction.
+
+I would see null pointer exceptions a few times on Eclipse and give up. When I had to figure out edge cases, make sure how to take my code to production, and think about scalability, I would give up. But now I am having fun with Cursor, coding random things I wanted. But no one would hire me as a dev. I am not exceptional at coding. But the funny thing is that most people pretending to be exceptional here are not exceptional either.
+
+My question to myself when I was a dev: I had a 6.7 CGPA in my undergrad CS degree at BITS. I was in the middle of the bell curve. I was middle of the bell curve as a dev too. I could have worked hard and become an EM/TL in 10 years, but I did not want a slow path. And again, I was more interested in breaking down landing pages, reading posts on how products grew than figuring out why I could not fix some issue at my day job.
+
+You need to care. Caring is everything. It is what separates the best people from the average ones.
+
+How was it different in product? I have never shared this, but I became a PM 2 years out of college. I knew I would become a Head of Product by the time I was 30. I started getting such offers from startups without even going out to look for jobs. And the people who have worked hard under me had accelerated growth too.
+
+What do I mean by working hard? Here is an example. When I started leading growth and new initiatives for mobility, I wrote a 40-pager with my PM on terms and definitions, got all dashboards made, did growth equations, and broke down how we can grow more. That PM became a GPM after 2 years in product and is now an Associate Director for a soonicorn. A lot of ideas there became part of my "Frameworks to think about growth" series.
+
+When another PM took up pricing, we wrote a comprehensive document on how to think of pricing. I can challenge that there won't be any doc out there which is as in-depth on marketplace pricing as that one. That person ended up being HOP for Ride hailing under me.
+
+Another PM wrote a 30-pager (maybe more) doc on loyalty. In my 6 years at one of the leading super apps in South East Asia, we have tried almost every program to increase engagement and retention: cash back, points, subscriptions, passes, loyalty clubs, and what not. That PM ended up heading our consumer logistics product.
+
+You are a PM at Razorpay? Think how you will grow Razorpay in international markets. Write a 50-pager doc. Go deep. And I mean really deep. Don't use ChatGPT. Sit and think.
+
+You are a PM at Zomato? Think about variable pricing. Write a doc on your pricing strategy.
+
+Yes, best is if you are writing these docs that are relevant to your role. But you can do it for anything that you are interested in.
+
+I knew that unlike when I was a dev, if I ever needed a product job I would just write a comprehensive doc, go deep into some particular company, some particular problem statement inside the company, and email the CEO about it. (And yes, that is what I used to do at the beginning of my product career.)
+
+No one knows where the world is headed. There are people who write docs defining functions. And there are people who think deeply about their work and put in the hours. Be the latter.
