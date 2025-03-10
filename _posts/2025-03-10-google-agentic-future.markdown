@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google's Agentic Future"
+title:  "Google's agentic future"
 ---
 
 I've been thinking a lot about agentic software lately and how it's going to transform our workplaces. While everyone's experimenting with AI assistants and cobbling together solutions with tools like LangChain and Crew AI, I believe Google actually has the best shot at making AI agents a seamless part of our daily work lives. Let me explain why.
