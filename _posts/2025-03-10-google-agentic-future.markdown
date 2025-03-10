@@ -100,3 +100,5 @@ I believe we're moving toward a world where our digital work life isn't spread a
 Google, with its integrated workspace, massive context windows, and search capabilities, has everything needed to make this vision a reality. The question isn't if this will happen, but when - and which companies will be quick enough to adapt.
 
 As these agentic systems mature, the productivity gains will be enormous. The companies that embrace this shift earliest will have a significant competitive advantage. And based on what I'm seeing, Google is perfectly positioned to lead the way.
+
+P.S Yes, Microsoft can build this too. Eventually OpenAI might also figure out long context, and Microsoft has a product suite like Google. Since I have always used Google suite, this was more about how I see my workflow evolving.
