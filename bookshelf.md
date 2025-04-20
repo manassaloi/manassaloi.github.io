@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-(Last updated: 11 Mar 2024)
+(Last updated: 20 Apr 2025)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -71,6 +71,8 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Working Backwards - Colin Bryar, Bill Carr](https://www.goodreads.com/book/show/53138083-working-backwards)
 + [$100M Offers - Alex Hormozi](https://www.goodreads.com/book/show/58612786-100m-offers)
 + [Amp It Up - Frank Slootman](https://www.goodreads.com/book/show/59383944-amp-it-up)
++ [Seeing the Unseen: Behind Chinese Tech Giants' Global Venturing - Guoli Chen, Jianggan Li](https://www.goodreads.com/book/show/59862534-seeing-the-unseen)
++ [Pattern Breakers - Mike Maples Jr](https://www.goodreads.com/book/show/201757917-pattern-breakers)
 
 ### Leading & Managing
 
@@ -155,6 +157,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Art of Noticing - Rob Walker](https://www.goodreads.com/book/show/41552704-the-art-of-noticing)
 + [Four Thousand Weeks - Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 + [From Strength to Strength - Arthur C. Brooks](https://www.goodreads.com/book/show/58100575-from-strength-to-strength)
++ [The Surrender Experiment: My Journey into Life's Perfection - Michael A. Singer](https://www.goodreads.com/book/show/23164946-the-surrender-experiment)
 
 ### Health, Habits & Productivity
 
@@ -299,6 +302,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Your Next Five Moves: Master the Art of Business Strategy - Patrick Bet-David](https://www.goodreads.com/book/show/50542735-your-next-five-moves)
 + [The 3-Minute Rule - Brant Pinvidic](https://www.goodreads.com/book/show/49351774-the-3-minute-rule)
 + [Captivate - Vanessa Van Edwards](https://www.goodreads.com/book/show/31868165-captivate)
++ [Executive Presence - Sylvia Ann Hewlett](https://www.goodreads.com/book/show/18498555-executive-presence)
 
 ###  History
 
@@ -335,6 +339,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [The Key Man - Simon Clark, Will Louch](https://www.goodreads.com/book/show/55577662-the-key-man)
 + [The Cult of We - Eliot Brown, Maureen Farrell](https://www.goodreads.com/book/show/54998264-the-cult-of-we)
 + [Blood and Oil - Bradley Hope, Justin Scheck](https://www.goodreads.com/book/show/52038578-blood-and-oil)
++ [The Path to Power - Robert A. Caro](https://www.goodreads.com/book/show/86524.The_Path_to_Power)
 
 ### Fiction
 
