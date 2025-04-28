@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "nepotism will be back"
+title:  "Nepotism will be back"
 ---
 
 I am very bullish on nepotism making a comeback once AGI is here.

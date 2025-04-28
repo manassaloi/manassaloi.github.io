@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "White Hat Junior 2.0"
+---
+
+Actually, the best time to build White Hat Jnr was now. It got started ahead of its time.
+
+Instead of call center agents with zero tech knowledge reading computer programs from a script, this time an AI agent would be the personal tutor for your kid.
+
+Human motivation does not change. Parents still want their kids to get ahead in life and get an early start. But 1-1 personal tutoring is finally possible at scale due to AI agents.
