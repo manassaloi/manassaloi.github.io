@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Wander"
+---
+
+Wander's Counter-Positioning Against Airbnb & Its Self-Imposed Constraints.
+
+Disclaimer: Never stayed in a Wander, but have been following the company for years ever since Kyle Tibbitts (a marketer I respect) joined as the CMO.
+
+If you listen to TBPN, you must have heard Jordi Hays and John Coogan shout "find your happy place" enough times to google Wander and see what it is. Now they are raising a Series B and the size going would be hit soon on TBPN I guess. 
+
+Let's get back to the real topic: Why I love Wander and why it is another example of counter-positioning done well.
+
+The vacation rental market is interesting. Let’s talk Airbnb. On one hand, you have Airbnb, which has become a verb at this point. On the other hand, you have thousands of horror stories of people showing up to Airbnbs that look nothing like the pictures. Surprise cleaning fees. Hosts who don't respond. Hard to find locations. Low touch experience at the price of a hotel.
+
+Wander has been deliberately going after this problem. They are a counterposition to Airbnb. They have created a 'hotelified' alternative to Airbnb for the top 1%. They're curating the top 1 percent of vacation homes, professionally managing each one to guarantee consistent, luxury-grade experiences. No surprises, no mismatched listings, no unreliable hosts. This is what Oyo was supposed to be in India. But couldn't.
+
+Wander is something Oyo could have been if it was a luxury product. "70% of Wander guests are affluent, with net worths exceeding $1M," according to Wander's website. "Wander's audience is primarily composed of CEOs, founders, executives, software engineers, and individuals working predominantly in the tech sector."
+
+What makes them interesting is their vertical integration. Unlike Airbnb, which is just a marketplace where anyone can list their property, Wander owns and operates everything end to end. Again, like how OYO promised. They buy the properties. They renovate them. They furnish them. They handle the bookings. They manage the properties with their own team.
+This creates a moat that Airbnb can't easily cross without completely changing their asset-light approach. Airbnb's strength is also its weakness: with millions of properties, they can't control the experience.
+
+[Check sentiment on the Airbnb experience over the last few years on Twitter.]
+
+There's an obvious tradeoff. By purchasing, renovating, and operating each property itself, Wander takes on all the principal risk. This capital intensive model makes it harder to expand quickly and limits their selection compared to Airbnb.
+
+It's a classic case of self-imposed constraints. While Airbnb can add new hosts at internet speed with near zero cost, Wander has to buy and upgrade each property. They're deliberately capping their total market size in exchange for higher unit economics, stronger brand loyalty, and way better guest satisfaction.
+
+Every property has the same hotel-grade amenities: super-fast Wi-Fi, private pools or hot tubs, gyms, and 24/7 concierge service. No wonder Wander's guest satisfaction is high (see the testimonials on their site).
+They've built something called WanderOS, which centralises all property controls into a single app. Door locks, lighting, temperature, even Tesla access. Yes, they provide a Tesla at all their vacation homes.
+
+This appeals to travellers who want the freedom of a private home but demand the reliability, transparency, and service levels of a luxury hotel.
+
+They've also got an AI-assisted concierge team that handles guest inquiries with site-specific data, automatically creating maintenance tickets or escalating to humans when needed. This tech investment lets them manage dozens of homes with fewer property managers, delivering consistent quality with higher margins.
+
+Wander isn't doing the 1% improvements to Airbnb's model. They're creating a step function change by completely rethinking the approach.
+They'll never match Airbnb's scale, but they don't need to. They're building a profitable, defensible niche in the high-end segment of the $1.3 trillion lodging industry.
+
+It's a classic example of counter-positioning. They're building something that their bigger competitor can't copy without undermining their own business model. 
+
+And they are also capping their growth by constraining their growth.
+
+And I love these kinds of bets. Let the big platforms scale to infinity with lower margins while carving out the premium segment with better economics and happier customers. Not every business needs to be a winner-take-all marketplace.
+
+(To deal with the capital constraints, they launched Atlas in 2022, which they call the world's first vacation rental REIT. This moves property acquisition costs off their balance sheet while letting them keep operational control. Smart way to unlock investor capital without dilutive funding. You can read the details in an amazing Deep Dive done by Packy McCormick way back in 2023.)
+
+[Post created by thought dump on ChatGPT and then verifying some of the details on Packy's post and Wander's own website. Then edited with Claude because Narayana knows I don’t have the patience for it.]
