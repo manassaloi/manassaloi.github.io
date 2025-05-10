@@ -3,8 +3,8 @@ layout: post
 title:  "Zepto doing car delivery"
 ---
 
-Blinkit launching ambulance service. Zepto launching car delivery.
-A viral tweet saying Indian founders just burn VC money and build their brand, instead of focusing on running a business.
+Blinkit is launching ambulance service. Zepto is launching car delivery.
+A viral tweet is saying Indian founders just burn VC money and build their brand, instead of focusing on running a business.
 
 It is easy to understand the game. Not the meta game.
 
