@@ -8,10 +8,12 @@ $base-grey-color: #828282 !default;
 
 // Define other base variables
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$letter-font-family: Georgia, "Times New Roman", Times, serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.6 !default;
+$letter-line-height: 1.7 !default;
 $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
@@ -37,6 +39,9 @@ $on-large:         $on-laptop !default;
   --grey-color: #{$grey-color};
   --grey-color-light: #{$grey-color-light};
   --grey-color-dark: #{$grey-color-dark};
+  --letter-bg: #fafafa;
+  --letter-shadow: rgba(0, 0, 0, 0.1);
+  --letter-border: rgba(0, 0, 0, 0.05);
 }
 
 [data-theme="dark"] {
@@ -46,6 +51,9 @@ $on-large:         $on-laptop !default;
   --grey-color: #{$grey-color};
   --grey-color-light: #404040;
   --grey-color-dark: #dfdfdf;
+  --letter-bg: #2a2a2a;
+  --letter-shadow: rgba(0, 0, 0, 0.3);
+  --letter-border: rgba(255, 255, 255, 0.1);
 }
 
 // Map theme variables
