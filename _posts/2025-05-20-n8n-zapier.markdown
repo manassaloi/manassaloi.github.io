@@ -3,20 +3,16 @@ layout: post
 title:  "How n8n counter positioned its way into Zapier's market"
 ---
 
- I was reading about Lindy and noticed they chose to build on top of n8n instead of Zapier.
+I was reading about Lindy and noticed they chose to build on top of n8n instead of Zapier.
 
- Here is why they did it (based on Tegus transcripts, summary by NotebookLLM):
-
- • Scaling Costs: One of the most important considerations was the potential associated cost with scaling their product to a large number of users. The Former Senior Engineering Manager stated that with Zapier, their cost would grow in a linear way based on the number of users or task executions. In contrast, n8n had a potentially higher upfront cost, but they would not charge Lindy for execution (e.g., per single API request). This fixed-cost model was more favourable for projected rapid scaling.
-
- • Performance and Latency: Using n8n, which was embedded as an NPM package on Lindy’s own server, resulted in zero latency overhead. Executing a workflow felt like a direct internal call. With Zapier, there would be extra latency involved in calling Zapier servers, which would then execute the ‘zap’ and potentially contact the third-party integrator.
-
- • Open Source Benefits: The open-source nature of n8n contributed to the decision. Specific benefits mentioned included:
- 	•	The presence of a community supporting the product.
- 	•	Integrations were quite stable, which was seen as a result of the open-source community contributing fixes. If a bug existed, it was likely that someone in the community had already found and fixed it before Lindy would even notice.
- 	•	The ability to look into the source code to understand how it worked, which was helpful during the initial integration layer development.
-
- • Commercial Agreement Model: Lindy entered into an agreement with n8n, paying a fixed annual amount for a couple of years. This agreement primarily covered a level of support, such as potentially prioritising the development of a new integration. This model differed from Zapier’s projected pricing based on tasks executed. Lindy self-hosted the open-source product.
+Here is why they did it (based on Tegus transcripts, summary by NotebookLLM):
+- Scaling Costs: One of the most important considerations was the potential associated cost with scaling their product to a large number of users. The Former Senior Engineering Manager stated that with Zapier, their cost would grow in a linear way based on the number of users or task executions. In contrast, n8n had a potentially higher upfront cost, but they would not charge Lindy for execution (e.g., per single API request). This fixed-cost model was more favourable for projected rapid scaling.
+- Performance and Latency: Using n8n, which was embedded as an NPM package on Lindy’s own server, resulted in zero latency overhead. Executing a workflow felt like a direct internal call. With Zapier, there would be extra latency involved in calling Zapier servers, which would then execute the ‘zap’ and potentially contact the third-party integrator.
+- Open Source Benefits: The open-source nature of n8n contributed to the decision. Specific benefits mentioned included:
+  - The presence of a community supporting the product.
+  - Integrations were quite stable, which was seen as a result of the open-source community contributing fixes. If a bug existed, it was likely that someone in the community had already found and fixed it before Lindy would even notice.
+  - The ability to look into the source code to understand how it worked, which was helpful during the initial integration layer development.
+- Commercial Agreement Model: Lindy entered into an agreement with n8n, paying a fixed annual amount for a couple of years. This agreement primarily covered a level of support, such as potentially prioritising the development of a new integration. This model differed from Zapier’s projected pricing based on tasks executed. Lindy self-hosted the open-source product.
 
 While Zapier was acknowledged as having significantly more integrations (around 1600 compared to n8n’s approximately 600 at the time), both were considered “champions” among the vendors they researched, having the most horizontal integrations.
 
@@ -95,9 +91,9 @@ Let’s look at the three ways n8n positioned itself differently:
 Zapier charges per task. This gets expensive fast if you’re running high-volume automations. In contrast, n8n offers workflow-based pricing and self-hosting options.
 
 Could Zapier ship this? Sure, technically. But think about what would happen if they offered flat pricing or self-hosted plans tomorrow:
-	•	Their cloud margins would tank
-	•	Their product would become way more complex for their core non-technical users
-	•	They’d lose control over their ecosystem and usage data
+  - Their cloud margins would tank
+  - Their product would become way more complex for their core non-technical users
+  - They’d lose control over their ecosystem and usage data
 
 That’s exactly the kind of trap counter-positioning creates. Zapier can see what n8n is doing, but copying it would hurt their existing business.
 
@@ -106,9 +102,9 @@ That’s exactly the kind of trap counter-positioning creates. Zapier can see wh
 Zapier built for marketers and ops people who want simple drag-and-drop automation. Meanwhile, n8n went after developers who want custom JavaScript, CLI tools, and extensibility.
 
 If Zapier suddenly pivoted to serve developers with scripting capabilities and complex APIs:
-	•	They’d confuse their non-technical user base
-	•	They’d need to completely rethink their support and sales approach
-	•	Their simple, friendly brand would get muddied
+  - They’d confuse their non-technical user base
+  - They’d need to completely rethink their support and sales approach
+  - Their simple, friendly brand would get muddied
 
 Again, the cost of following n8n is too high.
 
@@ -117,9 +113,9 @@ Again, the cost of following n8n is too high.
 This is the big one. Zapier is a closed platform with proprietary integrations. N8N is open source, enabling self-hosting, community contributions, and custom nodes.
 
 For Zapier to go open source would mean:
-	•	Commoditizing their core IP
-	•	Losing leverage over their partner ecosystem
-	•	Breaking their pay-per-task flywheel
+  - Commoditizing their core IP
+  - Losing leverage over their partner ecosystem
+  - Breaking their pay-per-task flywheel
 
 Never going to happen.
 
