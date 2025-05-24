@@ -3,7 +3,7 @@ layout: post
 title:  "Don't copy TBPN"
 ---
 
-I saw Kunal Bahl tweet we should build the TBPN for India. As someone who's followed TBPN from day one, let me be clear: you can't build TBPN. It's an N-of-1 product.
+I saw someone tweet we should build the TBPN for India. As someone who's followed TBPN from day one, let me be clear: you can't build TBPN. It's an N-of-1 product.
 
 This reminds me of when the 'Derek Guy' was blowing up on Twitter. People said: "If you want to grow fast today, just do what this menswear guy is doing." However, the problem is: you're not him. You didn't grow up obsessed with men's fashion since you were a teenager. You didn't spend a decade watching, learning, critiquing, and fighting with people online. You will never have his deep knowledge of menswear, his biting tone, and years of immersion in fashion.
 
