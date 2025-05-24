@@ -1,0 +1,135 @@
+---
+layout: post
+title:  "How n8n counter positioned its way into Zapier's market"
+---
+
+ I was reading about Lindy and noticed they chose to build on top of n8n instead of Zapier.
+
+ Here is why they did it (based on Tegus transcripts, summary by NotebookLLM):
+
+ • Scaling Costs: One of the most important considerations was the potential associated cost with scaling their product to a large number of users. The Former Senior Engineering Manager stated that with Zapier, their cost would grow in a linear way based on the number of users or task executions. In contrast, n8n had a potentially higher upfront cost, but they would not charge Lindy for execution (e.g., per single API request). This fixed-cost model was more favourable for projected rapid scaling.
+
+ • Performance and Latency: Using n8n, which was embedded as an NPM package on Lindy’s own server, resulted in zero latency overhead. Executing a workflow felt like a direct internal call. With Zapier, there would be extra latency involved in calling Zapier servers, which would then execute the ‘zap’ and potentially contact the third-party integrator.
+
+ • Open Source Benefits: The open-source nature of n8n contributed to the decision. Specific benefits mentioned included:
+ 	•	The presence of a community supporting the product.
+ 	•	Integrations were quite stable, which was seen as a result of the open-source community contributing fixes. If a bug existed, it was likely that someone in the community had already found and fixed it before Lindy would even notice.
+ 	•	The ability to look into the source code to understand how it worked, which was helpful during the initial integration layer development.
+
+ • Commercial Agreement Model: Lindy entered into an agreement with n8n, paying a fixed annual amount for a couple of years. This agreement primarily covered a level of support, such as potentially prioritising the development of a new integration. This model differed from Zapier’s projected pricing based on tasks executed. Lindy self-hosted the open-source product.
+
+While Zapier was acknowledged as having significantly more integrations (around 1600 compared to n8n’s approximately 600 at the time), both were considered “champions” among the vendors they researched, having the most horizontal integrations.
+
+It is worth noting that the initial technical integration with n8n was considered a “con” compared to Zapier, requiring about two weeks of engineering time to build a specific adaptation layer. Additionally, n8n had less support for federated OAuth compared to Zapier at the time, which was another downside Lindy experienced later. However, despite these points, the advantages in terms of scaling cost, performance, and open-source benefits led Lindy to choose n8n.
+
+---
+
+That got me curious. I’ve been seeing more and more n8n tutorials pop up on Twitter and YouTube lately. A lot of people already know about n8n, but I think this is a good opportunity to look at how n8n carved out a niche against a dominant incumbent like Zapier.
+
+(I know Zapier has since changed their pricing model, they also want to grow in the age of AI, but this post is not about the current state, it’s about how n8n was able to counter position and grow over the years.)
+
+Here is how n8n counter positioned its way into Zapier's market.
+
+Zapier was the unquestioned king in workflow automation. For over a decade, it defined the category of no code automation, enabling millions of marketers, founders, and small teams to automate workflows between thousands of apps.
+
+It was slick, simple, and built for non-technical users.
+
+So how did n8n, an open source, developer first tool launched years later, manage to carve out a fast growing niche in Zapier’s backyard?
+
+It’s a classic case of counter positioning. They offered a fundamentally different product for a different audience, and in doing so, changed the rules of the game.
+
+Zapier was built in the early 2010s for the exploding world of SaaS tools. Its pitch was elegant: “Connect your apps and automate workflows.” Whether you wanted to add Gmail leads to a spreadsheet or send a Slack message every time a new Stripe payment came through, Zapier had you covered. No coding required.
+
+But as the years went by, Zapier grew into a closed ecosystem. Its monetization was usage-based, charging per task or per integration. While this worked well for lightweight use cases, it became increasingly expensive and restrictive for complex or high-volume automations.
+
+At the same time, developers were left behind. Zapier was never built for teams who wanted to write custom code, build loops, or integrate with complex APIs. It was simple, and that simplicity became a constraint.
+
+Enter n8n (node automation), a tool that looked similar at first glance with drag-and-drop workflows, but was fundamentally different under the hood.
+
+n8n was open-source. Anyone could self-host it, inspect the logic, and extend it.
+
+Unlike Zapier, which charged per integration or task, n8n adopted a workflow based model, focusing on orchestration rather than atomic triggers. This unlocked more ambitious use cases without punishing users for high volume usage.
+
+You could write JavaScript directly inside nodes. This meant developers weren’t boxed into pre built connectors. They could manipulate data, build conditionals, and integrate with APIs flexibly.
+
+For companies dealing with sensitive data, being able to run their automation on their own infrastructure was key.
+
+This wasn’t just an alternative to Zapier. It was a reframing of what automation could be.
+
+n8n didn’t try to outdo Zapier at being Zapier. Instead, it positioned itself for a different worldview. Zapier targeted non technical users with a closed, cloud only, task based billing model with very limited customization. n8n went after developers, data and infrastructure teams with an open source, self hostable, workflow-based model where you could code if you wanted to.
+
+Rather than attacking Zapier head on, n8n flanked it by targeting the technical community who wanted power and customization, not just convenience.
+
+And it worked. Today, n8n powers internal automation at companies from startups to enterprises. It’s used to orchestrate entire internal data flows, build data lakes, and even replace lightweight ETL pipelines. From a user experience that looks simple on the surface to what’s under the hood, it’s all about developer level control.
+
+The n8n vs Zapier story is a blueprint for any startup looking to enter a mature category.
+
+Don’t copy the incumbent, change the frame. n8n didn’t say “we’re like Zapier but cheaper.” It said “you can own your automation stack, customize everything, and run it wherever you like.”
+
+Start with underserved users. Zapier wasn’t bad, it just wasn’t built for developers. n8n won by focusing on the power users who needed more control.
+
+Monetize differently. Zapier’s per task model made large scale workflows expensive. n8n’s workflow based and open core model let users scale affordably.
+
+Open source isn’t just a feature, it’s a distribution strategy. By being open source, n8n invited contributions, drove word of mouth, and lowered barriers to adoption. It spread like infrastructure tools often do: organically, from dev to dev.
+
+Zapier is still a great product. But n8n showed that even in a mature market, there’s room to challenge the default if you’re willing to think differently about pricing, audience, and product philosophy.
+
+Most people try to build a better version of what already exists. The smart move is to build something fundamentally different for people who have been ignored by the market leader.
+
+Is this real counter positioning?
+
+It’s a fair question. Everyone loves throwing around strategy terms, but most of the time they’re using them wrong.
+
+What is Counter-Positioning?
+
+Hamilton Helmer defines it pretty clearly in 7 Powers: A newcomer adopts a business model or operating model that the incumbent could technically adopt, but doesn’t because doing so would mess up their existing business.
+
+The key insight is that the incumbent can’t easily fight back without shooting themselves in the foot. The newcomer gets a temporary advantage because they’re operating under a better model for their target segment, while the big player is stuck.
+
+So does n8n fit this?
+
+Let’s look at the three ways n8n positioned itself differently:
+
+1. Business Model Flip
+
+Zapier charges per task. This gets expensive fast if you’re running high-volume automations. In contrast, n8n offers workflow-based pricing and self-hosting options.
+
+Could Zapier ship this? Sure, technically. But think about what would happen if they offered flat pricing or self-hosted plans tomorrow:
+	•	Their cloud margins would tank
+	•	Their product would become way more complex for their core non-technical users
+	•	They’d lose control over their ecosystem and usage data
+
+That’s exactly the kind of trap counter-positioning creates. Zapier can see what n8n is doing, but copying it would hurt their existing business.
+
+2. Audience Shift
+
+Zapier built for marketers and ops people who want simple drag-and-drop automation. Meanwhile, n8n went after developers who want custom JavaScript, CLI tools, and extensibility.
+
+If Zapier suddenly pivoted to serve developers with scripting capabilities and complex APIs:
+	•	They’d confuse their non-technical user base
+	•	They’d need to completely rethink their support and sales approach
+	•	Their simple, friendly brand would get muddied
+
+Again, the cost of following n8n is too high.
+
+3. Open Source vs. Closed Platform
+
+This is the big one. Zapier is a closed platform with proprietary integrations. N8N is open source, enabling self-hosting, community contributions, and custom nodes.
+
+For Zapier to go open source would mean:
+	•	Commoditizing their core IP
+	•	Losing leverage over their partner ecosystem
+	•	Breaking their pay-per-task flywheel
+
+Never going to happen.
+
+But is it perfect counter-positioning?
+
+Not quite. n8n didn’t flip Zapier’s profit formula as dramatically as, say, Netflix did to Blockbuster (rental fees to subscriptions) or Tesla did to traditional automakers (dealer network to direct sales).
+
+n8n is still fundamentally an automation tool. They repackaged the value proposition around developer control and self-hosting, but it’s more of a technical re-segmentation than a complete business model revolution.
+
+They flipped three strategic levers that Zapier can’t easily follow without significant pain.
+
+The real test is this:
+Can Zapier easily neutralize n8n’s advantage? The answer is no, not without messing up their core business. And that’s what makes it counter-positioning.
