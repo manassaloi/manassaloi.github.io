@@ -16,7 +16,7 @@ Where LLMs truly shine for me is in high level thinking. Today I was analysing t
 Same with technical projects. I've used it to understand complex workflows, even set it up to question me until my thinking got clearer. That kind of Socratic prompting has been huge for improving how I reason through architecture and implementation. 
 I'm probably getting dumber at the basics though.
 
-I barely type anymore. Everything is a thought dump through voice to text. I rely on GPTs to rewrite things so much that even this reflection you're reading? It passed through Claude for cleanup. My default writing muscles are slowly decaying. Sometimes I wonder if I can even write a simple email without AI assistance anymore.
+I barely type anymore. Everything is a thought dump through voice to text. I rely on LLMs to rewrite things so much that even this reflection you're reading is rewritten by a Editor GPT and then passed through Claude Opus for another round of editing. My default writing muscles are slowly decaying. Sometimes I wonder if I can even write a simple email without AI assistance anymore.
 
 There's this weird polarity happening. At the high end, I'm getting sharper than ever. My ability to synthesise complex information, spot patterns across industries, and build mental models has improved dramatically. But on the low end, I'm delegating so much that I might forget how to write a basic text like a normal human.  Even my basic whatsapp messages are now being rewritten by ChatGPT.
 
