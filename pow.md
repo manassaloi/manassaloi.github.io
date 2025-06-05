@@ -3,9 +3,20 @@ layout: page
 title: POW
 permalink: /proofofwork/
 ---
-(Last updated: 04 April 2025)
+(Last updated: 05 June 2025)
 
 (Proof of Work)
+
+### Angel investor & Advisor (~3.5 years)
+
+- Invested early in:
+  - SuperK
+  - Kolo
+  - Binks
+  - Rigi
+  - Airblack.
+
+Advising another half a dozen startups for fun ;)
 
 ### Gojek (6.5 years) ###
 
