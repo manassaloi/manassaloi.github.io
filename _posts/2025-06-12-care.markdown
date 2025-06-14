@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Care"
+---
+
+People talk a lot about taste nowadays. They talk about agency too.
+
+But the more I see people who’ve done something mind blowing vs and people who haven’t, the difference often comes down to one underrated thing: just caring more about their craft.
+
+And I don’t mean performative care. I mean actually caring. Deeply. Stubbornly. Quietly.
+About the thing you’re making.
+
+I’ve always cared about outcomes. I care if the product works. I care if it drives results. But when it comes to the process, I’ve always optimised for speed and efficiency. For meeting my KRs.
+
+For a long time, that worked. Still works, to some extent.
+
+I’ve proudly said in the past: you should copy the ‘industry standard’ flows, while differentiating on a few game changing features that really matter, and move on.  
+
+I have written 2 posts about it in the past that you can check out in my blog: ‘On copying’ and 'You should copy your competitors.’
+
+I’m starting to think that era might slowly ending.
+
+The people who truly stand out today are the ones who care. Not just about the outcome. But about every single part of it, even the ones no one notices.
+
+Take Gawx, for example.
+
+He makes videos. Both long (Gawx Art) and short videos (Gawx 2). They’re basically cinema. Every shot, every transition, every frame is crafted to perfection. And he’s been doing this since high school.
+
+He does not have the budget of fancy studios. He just cares a lot. He puts a lot of care in how the shot is framed. Care in the timing. Care in the pacing. Stuff no AI tool can replicate, not because it’s technically hard, but because it’s irrational to put so much effort into something that most people would not even notice.
+
+  I watched a video ‘How Gawx Recreates Hollywood in His Bedroom’. I recommend watching it even if you have no interest in being a Youtuber.
+
+The host asks him the same question ‘Why do you care?’
+
+AI can generate clips. Veo3 already does a great job. It can even mimic the style of some film makers.
+
+But it won’t want to get the shot just right.  AI can’t obsess over the details that no one asked for. That’s still will be Gawx’ edge. Caring more than the average human about each frame of a video.
+
+I was telling a friend the other day, when Sarvam told me they were releasing their translation model, I cooked up an ad on Figma to announce it in a tweet. Took me under an hour.  
+
+I would have taken me even less. I spent more time thinking about the copy of the ad than polishing the design.
+ And honestly, it was……fine.
+
+I got a few thousand views, a few hundred likes.
+
+  This was the same with my writing. I took pride in never reviewing what I posted online. 
+
+I did not check for grammar. For typos. I falsely claimed that it helped me ship faster. Yes, it was probably true. You can’t obsess about perfection if you want to post everyday online.  
+
+Honest truth? Editing would not have taken hours, but mere minutes. I just did not care.
+
+  I still am lazy. I still don’t have Grammarly. I just Claude to edit now.
+
+I keep thinking: what if I had spent a day on it? What if I had gone deep, instead of just optimising for raw speed?
+
+I don’t know if it would’ve changed the outcome. Probably most people would not have cared. But I would have probably felt better knowing I put in the max effort I could. I could have cared more. 
+
+That’s the thing with care is that it’s not always efficient. It doesn’t always make sense.
+
+ And with no KR to chase, it is easier for me to care even less.
+
+But as AI levels the playing field for the fast and the functional, the people who obsess, those who grind out the details, who love the process, who care even when most people probably would not even notice the details, these are the people who will start to stand out more and more.
