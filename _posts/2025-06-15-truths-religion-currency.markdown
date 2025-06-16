@@ -24,10 +24,7 @@ We will talk about 2 ideas in this post:
 * Museum and News channels.
 * Truth vs Religion vs Currency (That I discovered thanks to the Crunchbase CEO who discussed Crunchbase's moat in a recent podcast appearance.)
 
-There are really two kinds of data businesses.
-
-Museums (with a constant collection that does not add more art).
-& News channels.   
+There are really two kinds of data businesses: Museums (with a constant collection that does not add more art) & News channels.   
 
 They just preserve old artefacts.
 
@@ -61,6 +58,7 @@ Here's what makes data alive:
 * Users need it fresh, not just accurate
 
 Facts or truths aren't truly defensible long term, especially with AI eating the world.  
+
 Yes, you can have some unique data, that competition does not have, but competitors can often automate similar pipelines or license the same sources. Without barriers such as exclusive capture rights, strong network effects, or switching costs, truths (stale or live) by itself may not sustain a price premium.
 
 Now coming to Truths vs Religion vs Currency.
