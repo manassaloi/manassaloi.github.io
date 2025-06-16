@@ -3,6 +3,8 @@ layout: post
 title:  "VC investment theses"
 ---
 
+[Last update: 16 Jun]
+
 Investment theses and ideas:
 
 - New Zealand - [Andrew Wilkinson](https://twitter.com/awilkinson/status/1216459257085743104?lang=en)
@@ -53,3 +55,4 @@ Investment theses and ideas:
 - Ability to get to product/market fit, ability to build a team to scale without the wheels coming off, ability to build an organization that can prosecute many products and markets in parallel - [Marc Andreessen](https://mobile.twitter.com/pmarca/status/1494888502047113216)
 - 7Cs - [Lorimer Ventures](https://wire.insiderfinance.io/the-7-cs-of-venture-investing-95da2411c26a)
 - Pop Culture Fit, Scalable Growth, New Habits, Founder's Unique Insight - [Jeremy Liew, Lightspeed](https://www.youtube.com/watch?v=Wl9PobLeUXo)
+- Where are the eval scores rising most quickly? Will this be disrupted by the model in the future? - [Victor Lazarte, Benchmark](https://manassaloi.com/2025/06/13/victor-ai-investing-benchmark.html)
