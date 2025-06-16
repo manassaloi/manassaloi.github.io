@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Truths, Religion & Currency"
+title:  "Truths, Religion, and Currency"
 ---
 
 I was talking to a designer friend yesterday.
