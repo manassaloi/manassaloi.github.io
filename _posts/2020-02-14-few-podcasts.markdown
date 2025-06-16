@@ -20,5 +20,3 @@ A few good podcast links if you are looking for things to listen to this weekend
 - [Notation Capital And Hunter Walk, Homebrew](https://soundcloud.com/notation-capital/origins-episode-13-notation-capital-and-hunter-walk-homebrew)
 
 - [Jason Fried — How to Live Life on Your Own Terms](https://tim.blog/2018/07/23/jason-fried/)
-
-[You can check the list of podcasts I listen to here](https://manassaloi.com/links/) 
