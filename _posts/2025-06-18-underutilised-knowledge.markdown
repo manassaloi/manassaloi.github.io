@@ -3,18 +3,22 @@ layout: post
 title:  "Underutilised knowledge is the new underutilised asset"
 ---
 
-A lot of VCs are excited seeing Scale’s outcome.Accel just made 2.5B as an early investor on Meta’s Scale AI deal.
+A lot of VCs are excited seeing Scale’s outcome. Accel just made 2.5B as an early investor on Meta’s Scale AI deal.
 Everyone is talking about Scale AI's and other labeller’s insane success, including their revenue growth, but misses the real story.
 
 It's not about being a better Mechanical Turk. It's about timing the supply waves perfectly.
 
-Wave 1 of labelling marketplace supply: generic labour Wave 2: the COVID talent surplusWave 3: the underutilised idle specialists
+3 waves of labelling marketplace supply:
+- Wave 1: generic labour. 
+- Wave 2: the COVID talent surplus.
+- Wave 3: the underutilised idle specialists.
+
 Just like idle cars and homes created Uber and Airbnb, idle expertise (cultural, legal, financial) will now fuel a new supply wave in data labeling.
 
-—————————————————————————————————————————————————————-
 Like Uber or Airbnb, data labeling operates as a two-sided marketplace.
-Demand: AI labs, product companies (co pilot for X)
-Supply: Human labellers/evaluators, starting with freelancers from India, Africa, Philippines, LatAm, etc to domain experts who have PhDs.
+- Demand: AI labs, product companies (co pilot for X).
+- Supply: Human labellers/evaluators, starting with freelancers from India, Africa, Philippines, LatAm, etc to domain experts who have PhDs.
+
 Samasource, was one of the earliest players that worked with these foundational models, and they positioned themselves as the “ethical” player in this space, sourcing labellers in Africa, focusing on both ‘impact’.
 
 Scale is the one that grew to massive ‘scale’.
@@ -42,9 +46,9 @@ For specialised tasks you need domain experts.
 Domain experts (supply) need a reason to come to your platform.
 
 This is why we need to understand not just the demand side, but also supply.
-This is one of the best time to start a data labelling company if you can figure out how to gather differentiated supply.
 
-And assuming demand from the big labs persist.
+I think it is the best time to start a data labelling company if you can figure out how to gather differentiated supply. And assuming demand from the big labs persist.
+
 The best marketplaces grow during economic crises. Not because they're predatory, but because that's when skilled supply becomes available. The 2008 recession gave us Airbnb and Uber. People needed money. They had idle assets (homes, cars).
 
 Refer to [Kevin Kwok’s underutilised fixed assets essay](https://kwokchain.com/2020/01/23/underutilized-fixed-assets/).
@@ -77,12 +81,11 @@ One might ask: If AI is displacing knowledge workers and creating a surplus of d
 
 The answer lies in how AI companies optimise for revenue per employee. They aim to minimise operational overhead and avoid adding non core roles to their payroll.
 
-If a "Copilot for legal" company employed hundreds of lawyers, it would raise doubts about whether the company is truly leveraging AI to perform legal tasks. This scenario leads to satirical commentary such as the notion of Builder AI hiring thousands of Indians instead of having any real “AI” and the phrase "AI" standing for "Artificial Indians."
-Ultimately, this means operationally heavy tasks will always be outsourced to trusted, high quality marketplaces rather than handled in house.
+If a "Copilot for legal" company employed hundreds of lawyers, it would raise doubts about whether the company is truly leveraging AI to perform legal tasks. This scenario leads to satirical commentary such as the notion of Builder AI hiring thousands of Indians instead of having any real “AI” and the phrase "AI" standing for "Artificial Indians." Ultimately, this means operationally heavy tasks will always be outsourced to trusted, high quality marketplaces rather than handled in house.
 
-In Tegus, I have seen examples of labs paying 1000$ for labelling tasks.
+While reading Tegus interviews, I have come across examples of labs paying 1000$ for labelling tasks.
 
-Not just foundational model labs, even companies like Apple might go to and ask Mercor for 50-100 MDs to help train their health data. [Something mentioned in a Tegus interview.] 
+Not just foundational model labs, even companies like Apple might go to and ask Mercor for 50-100 MDs to help train their health data.
 
 A Co-pilot for legal doesn't need 10,000 random people telling it about law. It needs 100 lawyers who can spot when its legal reasoning is flawed. A Gujarati literature professor is more valuable for cultural alignment than 1,000 Gujarati mechanical annotators. 
 
@@ -102,6 +105,4 @@ AI will be simultaneously destroying jobs while creating new ones: knowledge wor
 
 Note 1: I’m using ‘labeling’ as a catch all. In practice these firms ship full data-ops stacks: APIs, Python SDKs, in platform QA, and RLHF/SFT workflows and it is not easy to recreate all of this. I still think there are opportunities in this space and Mercor is a prime example of a new kind of player who can enter late and capture significant revenue, even though players like Scale exists.
 
-Note 2: One Underutilised Supply Source: Retirees. Retired Doctors. Retired Lawyers.
-Many retirees feel lonely and seek purpose. They don’t want full time jobs, making them an ideal supply source for marketplaces needing specialised skills.  Gig work on typical on demand marketplaces tends to be low status and doesn’t use their specialised knowledge.
-Leveraging retirees in roles aligned with their expertise offers a much better alternative. This supply will not be as high intent as a specialised worker out of work. You can operate a marketplace with fewer but highly dedicated freelancers, almost acting as full-time employees, working longer hours and achieving higher utilisation or you can choose to have a larger pool of freelancers working fewer hours with moderate utilisation. This will be the later.
+Note 2: One Underutilised Supply Source: Retirees. Retired Doctors. Retired Lawyers. Many retirees feel lonely and seek purpose. They don’t want full time jobs, making them an ideal supply source for marketplaces needing specialised skills.  Gig work on typical on demand marketplaces tends to be low status and doesn’t use their specialised knowledge. Leveraging retirees in roles aligned with their expertise offers a much better alternative. This supply will not be as high intent as a specialised worker out of work. You can operate a marketplace with fewer but highly dedicated freelancers, almost acting as full-time employees, working longer hours and achieving higher utilisation or you can choose to have a larger pool of freelancers working fewer hours with moderate utilisation. This will be the later.
