@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "AI remix"
+---
+
+If everything is a remix, then how do you remix well:
+- I like using Mobbin for inspiration. I take screenshots of designs I like, then use ChatGPT to remix various images and styles. Once I’m happy with the output, I ask ChatGPT to break it down into layers, like separate out each component, and then continue designing in Figma.
+- I use Gemini 2.5 Pro for its multimodal context capabilities. Claude can’t process video, and for most animations or screen transitions, video is key to conveying how something works. So I start with Gemini 2.5 Pro in AI Studio to build that video context, then use it to craft a more informed prompt for Claude Opus, which helps me create the final output.
