@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Underutilised knowledge is the new underutilised asset."
+title:  "Underutilised knowledge is the new underutilised asset"
 ---
 
 A lot of VCs are excited seeing Scale’s outcome.Accel just made 2.5B as an early investor on Meta’s Scale AI deal.
