@@ -6,4 +6,4 @@ layout: home
 ---
 ![Home page hero image](/assets/img/homepage.png)
 
-[Twitter](https://x.com/manasjsaloi). [Linkedin](https://www.linkedin.com/in/manassaloi/). [Github](https://github.com/manassaloi). [Goodreads](https://www.goodreads.com/user/show/9698257-manas-saloi). [Photos](https://www.flickr.com/photos/196894903@N06/). [Credentials](https://manassaloi.com/proofofwork/).
+[Twitter](https://x.com/manasjsaloi). [Linkedin](https://www.linkedin.com/in/manasjsaloi/). [Github](https://github.com/manassaloi). [Goodreads](https://www.goodreads.com/user/show/9698257-manas-saloi). [Photos](https://www.flickr.com/photos/196894903@N06/). [Credentials](https://manassaloi.com/proofofwork/).
