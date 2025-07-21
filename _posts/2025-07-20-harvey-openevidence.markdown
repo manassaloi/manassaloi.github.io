@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Openevidence vs Harvey"
+title:  "OpenEvidence vs Harvey"
 ---
 
 Frontier reasoning models managed to commodify the legal space.
