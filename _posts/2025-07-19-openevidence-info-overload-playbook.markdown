@@ -3,7 +3,7 @@ layout: post
 title:  "The OpenEvidence playbook"
 ---
 
-OpenEvidence captured the attention and trust of over 350,000 doctors within two years by solving a fundamental issue: medical knowledge is expanding faster than any human can keep up with. Two new medical papers appear every minute, doubling the corpus of medical research every 73 days. It’s humanly impossible for doctors to read everything relevant.
+OpenEvidence acquired over 350,000 doctors within two years by solving a fundamental issue: medical knowledge is expanding faster than any human can keep up with. Two new medical papers appear every minute, doubling the corpus of medical research every 73 days. It’s humanly impossible for doctors to read everything relevant.
 
 Instead of training a model on the entire public internet, OpenEvidence focused on smaller, specialised models trained exclusively on a trusted corpus: over 35 million peer-reviewed medical publications, with exclusive access to top-tier journals like The New England Journal of Medicine. It’s not some generalist chatbot, it's a decision support tool that gives doctors evidence backed answers.
 
