@@ -33,6 +33,7 @@ The browser thesis wasn't just about data accessibility, it was about collaborat
 So the AI era question shouldn't just be about cheap intelligence. It should capture how work fundamentally reorganizes when intelligence is embedded everywhere.
 
 "What happens when the atomic unit of software shifts from features to entire workflows that complete themselves without user input?"
+
 “What new value emerges when software can both decide and act in real time, across every context at near zero marginal cost?”
 
 What Mamoon understood about Web 2.0 and what applies even more strongly to AI is that platform shifts compound.
