@@ -43,6 +43,6 @@ With AI, this compounding is happening even faster. Every workflow automated cre
 
 This framework for identifying platform shifts has positioned Mamoon and Kleiner perfectly for the AI wave.
 
-Recent investments in Glean (enterprise search powered by AI), Harvey (AI for legal work), and Ambience Healthcare (AI medical scribe) all follow the same pattern: they're not adding AI features to existing interfaces, they are rebuilding entire categories with AI at the core.
+Kleiner's investments in Glean (enterprise search powered by AI), Harvey (AI for legal work), and Ambience Healthcare (AI medical scribe) all follow the same pattern: they're not adding AI features to existing interfaces, they are rebuilding entire categories with AI at the core.
 
 [Edited using Claude. Any errors in interpretation are my own.]
