@@ -16,9 +16,9 @@ He believed a browser delivered, cloud hosted experience would beat desktop soft
 [To hear him discuss this in more detail, listen to his appearance on Jack Altman’s podcast.]
 
 Mamoon’s framework to spot fundamental platform shifts was simple. He looked for three key indicators:
-1. A new interface paradigm - The browser democratized access to software.
-2. A shift in data location - From local to cloud, from siloed to shared.
-3. A change in user behavior - From individual productivity to collaborative workflows.
+1. New interface paradigm - The browser democratized access to software.
+2. Shift in data location - From local to cloud, from siloed to shared.
+3. Change in user behavior - From individual productivity to collaborative workflows.
 
 Just as the browser replaced desktop applications, natural language is replacing graphical interfaces. Why navigate through fifteen menus when you can just ask for what you want?  Why navigate fifteen dropdown menus when you can type "show me deals closing this quarter that need attention"?
 
