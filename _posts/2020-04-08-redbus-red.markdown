@@ -6,7 +6,7 @@ title: "Why RedBus is Red"
 
 I remember someone asking Phanindra Sama, founder of Redbus, why they named their product RedBus during a talk he was giving us at BITS. As far as remember, his reply was that names associated with color or number have a high recall factor. When I posted this on Twitter, someone shared this.
 
-![Redbus red](/assets/img/redbus_red.png)
+{% include webp-image.html img="redbus_red.png" alt="Redbus red" %}
 
 -- Excerpt From The Startup Diaries: Ordinary Entrepreneurs, Extraordinary Journeys by Neeti Jain.
 

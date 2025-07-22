@@ -12,8 +12,8 @@ Here is my note on [learning Football which I turned into a blogpost](https://ma
 
 If you see the below images, you will see the 2 notes I created while learning Poker in 2019.
 
-![Poker learnings](/assets/img/poker_learnings.png)
-![Daily Poker](/assets/img/daily_poker.png)
+{% include webp-image.html img="poker_learnings.png" alt="Poker learnings" %}
+{% include webp-image.html img="daily_poker.png" alt="Daily Poker" %}
 
 1. First note is called Poker learnings; This includes Notes from my own learning, notes from a couple of Masterclasses I did on Poker, books I read, Twitch videos of Poker Pros.
 2. Second note is called Daily poker; Every time I went out in a tournament, I would write how it happened. What decision led to my downfall and things I should avoid in the future.

@@ -5,7 +5,7 @@ title: "Swiggy vs Tinyowl vs FoodPanda"
 ---
 Yesterday, during a discussion on moats, I got asked an interesting question.
 
-![Swiggy vs Tinyowl](/assets/img/Swiggy_Tinyowl.png)
+{% include webp-image.html img="Swiggy_Tinyowl.png" alt="Swiggy vs Tinyowl" %}
 
 I wrote a long [twitter thread in reply](https://twitter.com/manas_saloi). Turning it into a blogpost (with some minor edits) because threads on twitter also suck.
 

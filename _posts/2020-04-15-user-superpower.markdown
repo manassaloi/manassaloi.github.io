@@ -4,7 +4,7 @@ title: "Give your users a superpower"
 image: 'https://manassaloi.com/assets/img/no_filter.png'
 ---
 
-![No filter excerpt](/assets/img/no_filter.png)
+{% include webp-image.html img="no_filter.png" alt="No filter excerpt" %}
 
 In this excerpt from the book [No Filter: The Inside Story of Instagram](https://www.goodreads.com/book/show/50772888-no-filter), Kevin Systorm explains to Ashton Kutcher why Instagram blew up. It was not because of network effects. There were no network effects on day 1. It was not because of celebrity users. It was not because they rode on Twitter and Facebook graph of users. All of these happened later. Like most B2C products, it started as a single player use case: How to make your photos more beautiful, and shareable.
 

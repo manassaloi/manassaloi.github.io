@@ -14,7 +14,7 @@ Just because WhatsApp Pay is not available for everyone in a group, they have to
 
 Lets take the workflow in our football group as example. Every week, someone plans for the upcoming game. Pay for the ground on some third party platform. Share details of how much to pay. People who have confirmed their availability, go to Whatsapp and transfers their share of payment to the one who made the booking. Then after they share the payment success screenshot as proof of pay, their place is reserved.
 
-![Whatsapp Pay](/assets/img/whatsapp_pay.png)
+{% include webp-image.html img="whatsapp_pay.png" alt="Whatsapp Pay" %}
 
 So many steps!
 

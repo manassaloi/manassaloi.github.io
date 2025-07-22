@@ -35,17 +35,17 @@ The last point in the Quality Service Compass is integration. Integration means 
 
 + Wants are less obvious. They suggest a customer’s deeper purpose. Many of Walt Disney World’s guests want more than a simple vacation; they also want long-lived memories of a fun-filled family experience. BMW’s customer may want the status of a high-performance car. As you begin to uncover wants, the contours of the customer profile take shape, which may cut across demographics, geographies, and other traditional marketing approaches
 
-![Needs vs Wants](/assets/img/needs_wants.png)
+{% include webp-image.html img="needs_wants.png" alt="Needs vs Wants" %}
 
 + Stereotypes are those preconceived notions that every customer has of your business or industry. Guests come to Disney’s parks expecting the cast members to treat them a certain way. At the BMW dealership, customers will expect the technicians to treat them a certain way. As you identify guest stereotypes, you obtain valuable clues about their expectations. These clues help us fill in the features of the guest portrait
 
 + Finally, emotions are the feelings that customers experience throughout their contact with your organization. At Walt Disney World, guests are likely to have a wide range of emotions during their visit. Some are positive, such as the excitement of riding the Rock ’n’ Roller Coaster, and some are negative, such as impatience with long lines. At BMW, car buyers experience a similar range of emotions. They may feel proud and excited driving off in their new cars and apprehensive returning for their first service visits. The goal of both businesses is to create a positive emotional connection even when customers are actually deducting the cost of their purchase from their bank accounts. (How many of your customers still say “wow” after making payment?) Identifying the changing emotional state of customers completes the coloration of the profile
 
-![Stereotypes vs Emotions](/assets/img/stereotype_emotion.png)
+{% include webp-image.html img="stereotype_emotion.png" alt="Stereotypes vs Emotions" %}
 
 + Disney’s common purpose declares a goal (to create happiness), states how that goal is to be accomplished (by providing the finest in entertainment), and defines a customer base (people of all ages, everywhere)
 
-![volution of Disney common purpose image](/assets/img/disney_purpose.png)
+{% include webp-image.html img="disney_purpose.png" alt="volution of Disney common purpose image" %}
 
 + Dick’s four quality standards elements were Safety, Courtesy, Show, and Capacity (which was later relabeled Efficiency), and today, they are still the quality standards for the Disney parks and resorts business. They represent how the common purpose is fulfilled and offer a set of filters that help Disney employees to judge and prioritize the actions that contribute to the guest experience
 
@@ -157,7 +157,7 @@ When service processes work smoothly, their key combustion points are controlled
 + Make the Integration Matrix
 part of your organizational toolbox. The Integration matrix is an expanded tic-tac-toe board that combines service standards and delivery systems. Use it to analyze and manage the design and development of Quality Service
 
-![Star guest program integration matrix](/assets/img/starguest_matrix.png)
+{% include webp-image.html img="starguest_matrix.png" alt="Star guest program integration matrix" %}
 
 + Manage every service moment. on the Integration matrix, each combination of a service standard and a delivery system represents a service moment of truth. each should be fully considered and developed to deliver a magical service moment
 

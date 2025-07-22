@@ -7,7 +7,7 @@ I wrote a thread recently on whether moving the Uber Eats hook/entry point to th
 
 **/threadstarts**
 
-![UberEats in bottom nav bar](/assets/img/uber_eats.png)
+{% include webp-image.html img="uber_eats.png" alt="UberEats in bottom nav bar" %}
 
 
 **There are 4 kinds of problems which prohibits the usage of a feature/product.**

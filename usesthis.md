@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Uses This
-image: 'https://manassaloi.com/assets/img/usesthis.png'
+image: 'https://manassaloi.com/usesthis.webp'
 permalink: /usesthis/
 ---
 (Last updated: 1 Jan 2025)
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
-![Home gym](/assets/img/homegym.png)
+{% include webp-image.html img="homegym.png" alt="Home gym" %}
 
-![Uses this](/assets/img/usesthis.png)
+{% include webp-image.html img="usesthis.png" alt="Uses this" %}
 
 ## Hardware
 

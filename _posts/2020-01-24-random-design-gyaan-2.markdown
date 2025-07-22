@@ -18,7 +18,7 @@ ICICI designer 2: sath mein CTA button background mein chupa dete hain...alag ma
 
 ICICI designer 1: done.
 
-![Hidden CTA](/assets/img/icici_cta_hidden.png)
+{% include webp-image.html img="icici_cta_hidden.png" alt="Hidden CTA" %}
 
 ## Why I continue to rant online about how bad bank websites are
 
@@ -28,7 +28,7 @@ I am not kidding about above. We will spend the next 6 months iterating on our F
 
 Below is a screenshot of the spec I wrote on revamping our notification system last quarter.
 
-![Rider Anxiety](/assets/img/rider_anxiety.png)
+{% include webp-image.html img="rider_anxiety.png" alt="Rider Anxiety" %}
 
 Hence I get super mad when I see stupid things like hidden CTA buttons.
 

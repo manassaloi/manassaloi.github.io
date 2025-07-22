@@ -7,4 +7,4 @@ One of my earliest memories is lying on a mat outside my house with my family. T
 
 I tried with DALL·E. Yup, it is the first image. It is crazy how far AI has come. I would rather pay 8$ per month for nostalgia than for Twitter.
 
-![Dall-e nostalgia](/assets/img/nostalgia.png)
+{% include webp-image.html img="nostalgia.png" alt="Dall-e nostalgia" %}

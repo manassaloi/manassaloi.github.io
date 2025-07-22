@@ -17,7 +17,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - But I could have mentioned how I was one of the earliest members of Redbus' team in North East and single handedly doubled their partnerships in the 2 months I was interning with them.
 
-![Subho](/assets/img/subho.png)
+{% include webp-image.html img="subho.png" alt="Subho" %}
 
 - There was a time when I seriously considered Sales and Marketing as my full time career.
 
@@ -67,7 +67,7 @@ Recently wrote a thread on the PM role. Turning it into a blogpost (with some mi
 
 - As you can see I also have folders for everything I read and liked.
 
-![Bookmarks folder](/assets/img/bookmarks_folder_mj.png)
+{% include webp-image.html img="bookmarks_folder_mj.png" alt="Bookmarks folder" %}
 
 - Things I read for each job I held. And also each vertical inside Product Management.
 

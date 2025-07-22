@@ -153,11 +153,11 @@ categories: booksummaries
   - Explicitly list the types of analysis and related data that the team will and will not pursue (at least at that stage in the project life cycle).
   - Revisit this list if the hypotheses are modified.
 
-![Process Map](/assets/img/process_map.png)
+{% include webp-image.html img="process_map.png" alt="Process Map" %}
 
-![Content Map](/assets/img/content_map.png)
+{% include webp-image.html img="content_map.png" alt="Content Map" %}
 
-![Story Line](/assets/img/story_line.png)
+{% include webp-image.html img="story_line.png" alt="Story Line" %}
 
 - When it comes to the interview itself, one of the most common problems is that the interview is poorly conducted, and as a result is ineffective. The following three tips can help ensure that your team conducts meaningful interviews: Before the interview. The quality of the interview is likely to be determined well before the interview even takes place. The two key steps are (1) identify the right people to interview (who has unique knowledge about this topic, who can respond to the hypotheses, and who will be involved with implementation or subsequent efforts?) and (2) develop and share an interview guide (what are the three key topics to cover?). During the interview. A common mistake in interviews is to get carried away with trying to gather as much information as possible. A better strategy is to spend the time very carefully—for example, on insights and reactions to a hypothesis—and to build a positive relationship that would allow for comfortable follow-up conversations. After the interview. While a "thank-you" e-mail, letter, or card is certainly a good idea, the real recommendation I have for you is to document, document, and document. Within 24 hours, the consultant must document the key takeaways from the interview, including quotes and references to additional material. Also, share your interview notes with the other members of your team to keep them in the loop on your research. McKinsey utilizes a template form and provides training in interview notes documentation.
 

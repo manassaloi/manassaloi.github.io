@@ -178,7 +178,7 @@ Create Your Own “Profile” as a Leader. Know the ultimate requirements for yo
  1. People (and usually senior leaders) have the best interests of you and the company at heart.
  2. You will tend to regret any negative or rebuking answers you make when you are under emotional siege.
 
-![Evaluation for pushing back diagram](/assets/img/pushing_back.png)
+{% include webp-image.html img="pushing_back.png" alt="Evaluation for pushing back diagram" %}
 
 - Using shorter sentences can also present you as a more mature leader.
 
@@ -187,8 +187,8 @@ Create Your Own “Profile” as a Leader. Know the ultimate requirements for yo
 - By concentrating on convincing people faster and with fewer words, you are building a unique skill. It’s like you are becoming the expert anchorman of a well-scripted TV news program. Aim for 30 minutes first and then try saying the same message in half that time (but not through learning to talk faster). Purposely set a time and weigh that against the amount of content delivered. At the same time, see the level of excitement you have generated.
 
 
-![agenda](/assets/img/agenda.png)
+{% include webp-image.html img="agenda.png" alt="agenda" %}
 
-![to dos boxes](/assets/img/to_dos_boxes.png)
+{% include webp-image.html img="to_dos_boxes.png" alt="to dos boxes" %}
 
-![peripheral activities](/assets/img/peripheral_activities.png)
+{% include webp-image.html img="peripheral_activities.png" alt="peripheral activities" %}

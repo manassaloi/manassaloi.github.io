@@ -4,7 +4,7 @@ title:  "[Product Spec] Emoji Reactions on Twitter Messages"
 
 ---
 
-![Product Spec request](/assets/img/request_product_spec.png)
+{% include webp-image.html img="request_product_spec.png" alt="Product Spec request" %}
 
 I keep getting Twitter DMs like these regularly.
 

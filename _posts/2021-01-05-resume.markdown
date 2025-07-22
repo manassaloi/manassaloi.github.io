@@ -20,8 +20,8 @@ Here is how you can do better:
 9. Don't lie on your resume. There are always reference calls that happen post the final interview.
 10. No one cares about the Bharatnatyam certification from 5th grade. Remove it.
 
-![cv1](/assets/img/cv1.png)
-![cv](/assets/img/cv.png)
+{% include webp-image.html img="cv1.png" alt="cv1" %}
+{% include webp-image.html img="cv.png" alt="cv" %}
 
 ^ Screenshots of my resume which I used to apply for jobs 2 years back. I have deleted my phone number, linkedin, and emailid. You can add those on the left-hand side.
 

@@ -9,9 +9,9 @@ Some people feel that sharing your goals lead to a feeling of accomplishment and
 
 Without further ado, here are the Objectives I set for myself this year and progress on each of the KRs
 
-![Personal OKRs 2019 part 1](/assets/img/OKRs1_2019.png)
+{% include webp-image.html img="OKRs1_2019.png" alt="Personal OKRs 2019 part 1" %}
 
-![Personal OKRs 2019 part 2](/assets/img/OKRs2_2019.png)
+{% include webp-image.html img="OKRs2_2019.png" alt="Personal OKRs 2019 part 2" %}
 If you want to learn more about OKRs, here is a post which might help: [Summary of Measure What Matters](https://manassaloi.com/booksummaries/2016/03/02/measure-what-matters-doerr.html)
 
 Next time someone asks for an OKR template I will just link them to this post :)

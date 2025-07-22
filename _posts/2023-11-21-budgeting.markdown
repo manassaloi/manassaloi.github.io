@@ -10,7 +10,7 @@ I never tracked my UPI transactions. One off gifts. Even travel.
 
 When I did the calculation on a spreadsheet, I realised I was spending 2/3X of what I was thinking.
 
-![Budget](/assets/img/budget.png)
+{% include webp-image.html img="budget.png" alt="Budget" %}
 
 Why the big gap?
 

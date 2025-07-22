@@ -90,7 +90,7 @@ Talented people don’t need to work for you; they have plenty of options. You s
 
 + The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing. Every employee’s one thing was unique, and everyone knew I would evaluate him only on that one thing. I had started doing this just to simplify the task of managing people. But then I noticed a deeper result: defining roles reduced conflict. Most fights inside a company happen when colleagues compete for the same responsibilities. Startups face an especially high risk of this since job roles are fluid at the early stages. Eliminating competition makes it easier for everyone to build the kinds of long-term relationships that transcend mere professionalism. More than that, internal peace is what enables a startup to survive at all. When a startup fails, we often imagine it succumbing to predatory rivals in a competitive ecosystem. But every company is also its own ecosystem, and factional strife makes it vulnerable to outside threats. Internal conflict is like an autoimmune disease: the technical cause of death may be pneumonia, but the real cause remains hidden from plain view
 
-![Sales vs Marketing](/assets/img/sales_marketing_thiel.png)
+{% include webp-image.html img="sales_marketing_thiel.png" alt="Sales vs Marketing" %}
 
 + Superior sales and distribution by itself can create a monopoly, even with no product differentiation. The converse is not true. No matter how strong your product—even if it easily fits into already established habits and anybody who tries it likes it immediately—you must still support it with a strong distribution plan
 

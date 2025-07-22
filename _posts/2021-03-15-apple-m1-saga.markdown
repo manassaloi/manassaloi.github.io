@@ -11,7 +11,7 @@ I get the Mac M1 after months of going through 100+ YouTube videos + dozens of R
 
 A couple of days later the problem starts. I start getting a random restart popup. It is hard to reproduce but appears erratically - sometimes a dozen times a day, and sometimes just a couple of times.
 
-![Random restart](/assets/img/randomrestart.png)
+{% include webp-image.html img="randomrestart.png" alt="Random restart" %}
 
 I reach out to Apple support. And from here the Kafkaesque nightmare begins.
 
@@ -54,7 +54,7 @@ I am planning to get the laptop back. It has been more than 2 months since I bou
 
 **Final update:** Got my Laptop back. PlanetCare refused to accept that there is an issue with the laptop and told me to come and take the laptop home. They had kept the laptop for 10 days and apparently they could not replicate the restart popup issue. I take possession of the laptop. Turn it back from sleep. This is what I see.
 
-![Planet proof](/assets/img/planetproof.png)
+{% include webp-image.html img="planetproof.png" alt="Planet proof" %}
 
 Note: They had claimed that they could not reproduce the pop up inspite of keeping my laptop for 10 days. Instead of fighting more, I just decided to cut my losses and come back home.
 
@@ -68,7 +68,7 @@ Note: They had claimed that they could not reproduce the pop up inspite of keepi
 7. Don't buy first generation software without reading enough reviews.
 8. Based on recommendation from a few reddit users I also mailed Tim Apple. Twice. I am yet to hear back from him.
 
-![Tim Apple](/assets/img/timapple.png)
+{% include webp-image.html img="timapple.png" alt="Tim Apple" %}
 
 **Update on 8th April 2021:** I got a call from from Tim Cook's executive liason. He offered to own the case and helped me get the Topcase replaced. Since I have visited the service center 4 times and don't want to go again for the 5th time, that too at a time when there might be more stringent Covid restrictions coming. I've decided to just keep the laptop as it is for now. I have disabled touchid that was causing the issue and will be replacing the top case in a few months when the Covid situation gets better. I am surprised that emailing the CEO approach actually worked. There is some good left in this world :)
 

@@ -5,7 +5,7 @@ title:  "Sell your work"
 
 My biggest contribution to the Indian startup ecosystem is to get female PMs to get over their fear of selling their work.
 
-![Selling your work](/assets/img/sell_yourself.png)
+{% include webp-image.html img="sell_yourself.png" alt="Selling your work" %}
 
 This is just one conversation. 3 out of 4 PMs in my team are female. I have lost count of how many times I have had similiar conversations with them. And this is the most common advice during my mentorship sessions I conduct too.
 

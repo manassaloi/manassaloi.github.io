@@ -42,9 +42,9 @@ Companies spend a lot of time trying to hire good candidates and if they mark yo
 - **Prepare super well**
 I had like 100+ pages in the google doc I created while preparing for my last job search.
 
-![priolog0](/assets/img/priolog0.png)
-![priolog1](/assets/img/priolog1.png)
-![designpractice](/assets/img/designpractice.png)
+{% include webp-image.html img="priolog0.png" alt="priolog0" %}
+{% include webp-image.html img="priolog1.png" alt="priolog1" %}
+{% include webp-image.html img="designpractice.png" alt="designpractice" %}
 
 I am using the same docs for the PM coaching program I am running currently.
 
@@ -60,7 +60,7 @@ And finally if you don't get the role/offer you want, be polite and stand your g
 
 Here is a reply I had sent once.
 
-![rejection](/assets/img/rejection.png)
+{% include webp-image.html img="rejection.png" alt="rejection" %}
 
 **Note:** I never got emotional. I mentioned why I can't accept the offer on its current terms. I gave them a call to action: See recommendations from my past Hiring Managers. I was even willing to connect them with the TA/HR if they wanted.
 

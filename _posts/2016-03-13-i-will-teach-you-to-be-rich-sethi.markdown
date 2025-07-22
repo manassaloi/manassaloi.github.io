@@ -12,7 +12,7 @@ categories: booksummaries
 
 + There are two main components to credit (also known as your credit history): the credit report and the credit score
 
-![Credit Score and Credit Report](/assets/img/credit_score_credit_report.png)
+{% include webp-image.html img="credit_score_credit_report.png" alt="Credit Score and Credit Report" %}
 
 + Your credit report gives potential lenders—the people who are considering lending you money for a car or home—basic information about you, your accounts, and your payment history. In general, it tracks all credit-related activities, although recent activities are given higher weight
 
@@ -64,7 +64,7 @@ categories: booksummaries
 
 + A Conscious Spending Plan involves four major buckets where your money will go: Fixed Costs, Investments, Savings, and Guilt-free Spending Money
 
-![Categories of spending diagram](/assets/img/spending_categories.png)
+{% include webp-image.html img="spending_categories.png" alt="Categories of spending diagram" %}
 
 + **The Envelope System**:
    1. Decide how much you want to spend in major categories each month. (Not sure? Start with one: Eating out.)
@@ -73,10 +73,10 @@ categories: booksummaries
 
 + To find your annual salary, just take your hourly rate, double it, and add three zeros to the end. If you make $20/hour, you make approximately $40,000/year. If you make $30/hour, you make approximately $60,000/year.This also works in reverse. To find your hourly rate, divide your salary by two and drop the three zeros. So $50,000/year becomes approximately $25/hour.This is based on a general forty-hour workweek and doesn’t include taxes
 
-![Where the money flows bank accounts](/assets/img/where_money_flows.png)
+{% include webp-image.html img="where_money_flows.png" alt="Where the money flows bank accounts" %}
 
-![When the money flows](/assets/img/when_money_flows.png)
+{% include webp-image.html img="when_money_flows.png" alt="When the money flows" %}
 
-![Automating your money](/assets/img/automating_money.png)
+{% include webp-image.html img="automating_money.png" alt="Automating your money" %}
 
-![Swensen model of asset allocation](/assets/img/asset_allocation_model.png)
+{% include webp-image.html img="asset_allocation_model.png" alt="Swensen model of asset allocation" %}

@@ -11,11 +11,11 @@ Here are a few couple of examples.
 
 Here is a 2*2 matrix I drew for the area I live in.
 
-![Frequency vs Coverage](/assets/img/frequency_coverage.png)
+{% include webp-image.html img="frequency_coverage.png" alt="Frequency vs Coverage" %}
 
 - I listened to a [podcast](https://player.fm/series/venture-stories/the-art-of-great-management-with-alex-maccaw) recently where the author spoke about an interesting thing about hiring.
 
-![Alex's Hiring Insights](/assets/img/hiring_alex.png)
+{% include webp-image.html img="hiring_alex.png" alt="Alex's Hiring Insights" %}
 
 He said Most founders think they are doing C and D, while the reality is A and B.
 
@@ -27,6 +27,6 @@ It is by making people move to a Premium category.
 
 How do you create a Premium category?
 
-![Premium Category](/assets/img/premium_category.png)
+{% include webp-image.html img="premium_category.png" alt="Premium Category" %}
 
 Now that I think more on this, maybe Average Car quality and Good Drivers can become a Budget category.

@@ -17,7 +17,7 @@ Now comes the parts where I think Dunzo can improve.
 Currently they let you multi select the tipping amount, which frankly does not make sense to me. I was super confused which tipping amount would be charged to me: 10, 20, 50 or 80 (sum of all the amounts I selected).
 
 
-![Tipping 1](/assets/img/tipping1.png)
+{% include webp-image.html img="tipping1.png" alt="Tipping 1" %}
 
 **Improvement 1:** It should turned into a single choice selection.
 
@@ -29,13 +29,13 @@ Note: Tipping the driver should have nothing to do with rating the place he deli
 
 Once I pressed 'Done', I got a push notification from Dunzo which thanked me for tipping, and told me that the tip amount would be added to my next bill. But it was still not clear how much was did I actually tip.
 
-![Tipping 2](/assets/img/tipping2.png)
+{% include webp-image.html img="tipping2.png" alt="Tipping 2" %}
 
 **Improvement 3:** Add the amount tipped in the body of the notification. This can be feedback to the customer regarding amount deducted while tipping.
 
 The notification took me to a screen which was my last order details. It did not show me any info regarding the tip.
 
-![Tipping 3](/assets/img/tipping3.png)
+{% include webp-image.html img="tipping3.png" alt="Tipping 3" %}
 
 **Improvement 4:** Maybe add an item around tip somewhere here so that there is some fresh info in this page.
 

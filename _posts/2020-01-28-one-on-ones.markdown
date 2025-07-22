@@ -35,7 +35,7 @@ Tasks I gave him:
 
 I got this message from him a couple of days back. Needless to say the 1-1 went well.
 
-![One on one](/assets/img/one_on_one.png)
+{% include webp-image.html img="one_on_one.png" alt="One on one" %}
 
 There are a bunch of resources on how to do an 1-1 already:
 - [Managers, Take Your 1:1s to the Next Level with These 6 Must Reads](https://firstround.com/review/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)
@@ -62,7 +62,7 @@ If you have read the posts, you know by now that there is no singular way to do 
 - Good and bad things since the last 1-1
 - Your performance and if there is improvement needed in anything
 
-![One on one](/assets/img/last_one_on_one.png)
+{% include webp-image.html img="last_one_on_one.png" alt="One on one" %}
 
 ^ Notes from my last 1-1 with my manager. As you can see the agenda items are listed at the top, first mine followed my manager. Then there are action items/feedback on topics listed on the agenda section.
 

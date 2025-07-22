@@ -3,10 +3,10 @@ layout: post
 title:  "2020 OKRs Update"
 ---
 
-![OKR 2020 1](/assets/img/okr201.png)
-![OKR 2020 2](/assets/img/okr202.png)
-![OKR 2020 3](/assets/img/okr203.png)
-![OKR 2020 4](/assets/img/okr204.png)
+{% include webp-image.html img="okr201.png" alt="OKR 2020 1" %}
+{% include webp-image.html img="okr202.png" alt="OKR 2020 2" %}
+{% include webp-image.html img="okr203.png" alt="OKR 2020 3" %}
+{% include webp-image.html img="okr204.png" alt="OKR 2020 4" %}
 
 My personal OKRs remain more or less the same throughout the year. You can compare these with the [OKRs I had set in January 2020.](https://manassaloi.com/2020/01/15/personal-OKRs-2020.html)
 

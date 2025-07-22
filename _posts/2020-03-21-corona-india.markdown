@@ -37,7 +37,7 @@ Lets start
 
 - Quick quiz: If you got this as a Whatsapp forward, will you forward this to your friends?
 
-![Coronavirus](/assets/img/coronavirus.png)
+{% include webp-image.html img="coronavirus.png" alt="Coronavirus" %}
 
 If your chest swelled with pride and you said 'Proud of my PM', then congrats. You are an idiot.
 

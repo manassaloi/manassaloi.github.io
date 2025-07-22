@@ -29,17 +29,17 @@ I was obsessed with Zynga Poker when I was in college. Every morning I would wak
 
 - If you are a beginner you need to track your performances and see how you are faring. Here are 3 sheets I maintained.
 
-![Deposit details](/assets/img/pl_1.png)
+{% include webp-image.html img="pl_1.png" alt="Deposit details" %}
 
-![Cash strategy](/assets/img/pl_2.png)
+{% include webp-image.html img="pl_2.png" alt="Cash strategy" %}
 
-![Tournament details](/assets/img/pl_3.png)
+{% include webp-image.html img="pl_3.png" alt="Tournament details" %}
 
 Once I improved, I did stop measuring at this level. But this is something you need to do for the first few months for sure.
 
 - After each bad beat, each hand where I learned something new, I added to this note.
 
-![Poker learnings](/assets/img/pl_5.png)
+{% include webp-image.html img="pl_5.png" alt="Poker learnings" %}
 
 I learn everything the same way. Doing. Measuring. Iterating.
 
@@ -47,19 +47,19 @@ Also making tons of mistakes :)
 
 - I also had a note with how I went out in all the tournaments I played so that I don't keep making the same mistakes.
 
-![Tournament exits](/assets/img/pl_4.png)
+{% include webp-image.html img="pl_4.png" alt="Tournament exits" %}
 
 - Take loads of notes. Taking notes, and learning through a tight feedback loop is how I learn most things. You can see notes taken from various books, as well as blogs I read on Poker below.
 
-![Learnings 6](/assets/img/pl_6.png)
+{% include webp-image.html img="pl_6.png" alt="Learnings 6" %}
 
-![Learnings 7](/assets/img/pl_7.png)
+{% include webp-image.html img="pl_7.png" alt="Learnings 7" %}
 
-![Learnings 8](/assets/img/pl_8.png)
+{% include webp-image.html img="pl_8.png" alt="Learnings 8" %}
 
-![Learnings 9](/assets/img/pl_9.png)
+{% include webp-image.html img="pl_9.png" alt="Learnings 9" %}
 
-![Learnings 10](/assets/img/pl_10.png)
+{% include webp-image.html img="pl_10.png" alt="Learnings 10" %}
 
 - Apart from things mentioned above, I also watched 100s of hours of Twitch streams, 100s of hours of Youtube videos of tournament play, as I had decided to focus more on Tournaments instead of Cash games. The entire recommended section on my Youtube Home was Poker videos.
 

@@ -1,0 +1,56 @@
+name: Optimize Images
+
+on:
+  push:
+    paths:
+      - '**.png'
+      - '**.jpg'
+      - '**.jpeg'
+  workflow_dispatch:
+
+jobs:
+  optimize-images:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Install WebP tools
+      run: sudo apt-get update && sudo apt-get install -y webp
+      
+    - name: Convert new images to WebP
+      run: |
+        # Convert PNG files
+        find . -name "*.png" -not -path "./.*" | while read img; do
+          webp="${img%.png}.webp"
+          if [ ! -f "$webp" ] || [ "$img" -nt "$webp" ]; then
+            echo "Converting: $img"
+            cwebp -q 85 "$img" -o "$webp"
+          fi
+        done
+        
+        # Convert JPG/JPEG files  
+        find . \( -name "*.jpg" -o -name "*.jpeg" \) -not -path "./.*" | while read img; do
+          webp="${img%.*}.webp"
+          if [ ! -f "$webp" ] || [ "$img" -nt "$webp" ]; then
+            echo "Converting: $img"
+            cwebp -q 85 "$img" -o "$webp"
+          fi
+        done
+    
+    - name: Commit optimized images
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.webp
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-optimize images to WebP format
+
+          🤖 Generated with [Claude Code](https://claude.ai/code)
+          
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+        fi

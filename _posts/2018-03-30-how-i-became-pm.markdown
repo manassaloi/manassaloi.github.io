@@ -46,11 +46,11 @@ I got into RedBus thanks to something I learnt quite early in my life: there are
 
 My only experience till 3rd year of college was a summer internship at IOCL and a failed attempt at starting up. Inspired by my friend, I decided to send out as many applications as possible, no matter how many rejections I got. Thankfully the first email itself worked.
 
-![redbusmail](/assets/img/redbusmail.png)
+{% include webp-image.html img="redbusmail.png" alt="redbusmail" %}
 
 By leadership positions I meant a position at the Student Council as an elected representative from my hostel and being a co-founder of NGOSphere (which I will talk about later in this post). I still got an interview. Showing up something is the only thing you need to do, even if you might thing you are not there yet.
 
-![shankar reply](/assets/img/shankar.png)
+{% include webp-image.html img="shankar.png" alt="shankar reply" %}
 
 Shankar Prasad, the COO, told me that RedBus was exploring expansion in the North East. They had started operations almost a year before, but they had very few tie ups and hence wanted someone to go there. My work was to convince bus operators & travel agencies to partner with RedBus, scale up RedBus’s operations and run a few marketing projects. I don’t know why they felt that I was the guy who could do that, but I was still thankful and jumped at the opportunity.
 
@@ -66,7 +66,7 @@ Shankar Prasad, the COO, told me that RedBus was exploring expansion in the Nort
 
 **NGOSphere**
 
-![This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.](/assets/img/ngosphereannouncement.png)*This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.*
+{% include webp-image.html img="ngosphereannouncement.png" alt="This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried." %}*This was our announcement post on Facebook. We were happy to have our own startup. We were vain. And naive. But we tried.*
 
 During my 2nd year of college I got fascinated with the world of startups. This was the beginning of the startup boom in India. Everywhere I turned, I could see people starting up. Also maybe, I was reading too much TechCrunch.
 
@@ -116,7 +116,7 @@ I realised that even though I could continue at Kore, working as a developer, I 
 
 I told my manager that I was quitting and put in my papers. I had a 2 months notice period and in the worst case I was willing to go back to being a dev. Or maybe I could just join a startup as a Product Management intern? I was willing to take the risk. I had been thinking about the switch for a long time and I knew I would just keep thinking about it and not do anything if I was not pushing myself hard enough and showed enough intent. And what is the best way to show intent than quitting your safe job without a new job offer!
 
-![The time capsule which changed my life. Literally.](/assets/img/timecapsule.png)*The time capsule which changed my life. Literally.*
+{% include webp-image.html img="timecapsule.png" alt="The time capsule which changed my life. Literally." %}*The time capsule which changed my life. Literally.*
 
 Instead of writing on how I prepared for Product Management interviews in particular I am linking some really good resources here:
 
@@ -130,17 +130,17 @@ You can also go through all the Product School videos. Also read [Crack the PM I
 
 I had connected with Sameer, the CEO of CouponDunia on Angellist and I sent my pitch to him.
 
-![CouponDunia pitch](/assets/img/couponduniapitch.png)*CouponDunia pitch*
+{% include webp-image.html img="couponduniapitch.png" alt="CouponDunia pitch" %}*CouponDunia pitch*
 
 The answer to why I wanted to move to a Product role:
 
-![Why Product manager?](/assets/img/whyproductmanager.png)*Why Product manager?*
+{% include webp-image.html img="whyproductmanager.png" alt="Why Product manager?" %}*Why Product manager?*
 
 I wrote a long product critique of the app as well as the website. I even found broken links. I had seen how people apply at companies without even using their products. I wanted to show that I cared about the company. I had invested enough time to understand the market as well as the existing products. All I wanted now was a chance.
 
-![Product Critique of the CD app and website](/assets/img/productcritiquecd.png)*Product Critique of the CD app and website*
+{% include webp-image.html img="productcritiquecd.png" alt="Product Critique of the CD app and website" %}*Product Critique of the CD app and website*
 
-![More ideas to grow the usage](/assets/img/howtogrowcd.png)*More ideas to grow the usage*
+{% include webp-image.html img="howtogrowcd.png" alt="More ideas to grow the usage" %}*More ideas to grow the usage*
 
 **Learnings:**
 
@@ -164,7 +164,7 @@ It was during that time Craftsvilla reached out to me. It was supposed to be a r
 
 I talked about ways to demonstrate value earlier. Even before I officially joined Craftsvilla, I started working on growth. Thinking about how to make Craftsvilla the next unicorn was all I could think of.
 
-![Always be ready to contribute and demonstrate value as early as possible.](/assets/img/craftsvillamail.png)*Always be ready to contribute and demonstrate value as early as possible*
+{% include webp-image.html img="craftsvillamail.png" alt="Always be ready to contribute and demonstrate value as early as possible." %}*Always be ready to contribute and demonstrate value as early as possible*
 
 **Learnings:**
 
@@ -186,13 +186,13 @@ So I decided to apply to the only two companies in India working on Chat: Hike a
 
 **Fun fact:** When I say I hope this somehow lands in your inbox I meant it literally. I normally don’t go through the typical HR route and just reach out to the Hiring manager/Head of Product/ CEO with a value proposition mail. And I sure as hope it lands on their Inbox and not the spam folder.
 
-![first part of the mail/pitch](/assets/img/directimail1.png)*first part of the mail/pitch*
+{% include webp-image.html img="directimail1.png" alt="first part of the mail/pitch" %}*first part of the mail/pitch*
 
-![a bunch of product ideas](/assets/img/directimail2.png)*a bunch of product ideas*
+{% include webp-image.html img="directimail2.png" alt="a bunch of product ideas" %}*a bunch of product ideas*
 
-![invoking wechat spirit](/assets/img/directimail3.png)*invoking wechat spirit*
+{% include webp-image.html img="directimail3.png" alt="invoking wechat spirit" %}*invoking wechat spirit*
 
-![Always explain the ‘why’](/assets/img/directimail4.png)*Always explain the ‘why’*
+{% include webp-image.html img="directimail4.png" alt="Always explain the ‘why’" %}*Always explain the ‘why’*
 
 I managed to get into Directi and join their Apps team. I have been working on exactly the same things I mentioned in the mail. There have been pros as well as cons but there won’t be a retrospective section for Directi for now.
 

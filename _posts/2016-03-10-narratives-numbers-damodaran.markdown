@@ -22,7 +22,7 @@ categories: booksummaries
 
 + The lines between the possible, plausible, and probable are not always easy to draw, but one simple technique I have found useful is to think about the distinction between impossible, implausible, and improbable. Impossible and improbable are quantifiable, the first because you are assigning a zero probability to an event happening and the latter because you are attaching a probability (albeit a low one) that an event will happen. Implausible lies in the muddled middle, since proving that it cannot happen is not feasible and attaching a probability judgment to it is just as difficult
 
-![Possible vs plausible vs probable](/assets/img/prabable_plausible_possible.png)
+{% include webp-image.html img="prabable_plausible_possible.png" alt="Possible vs plausible vs probable" %}
 
 + Any perpetual growth rate that exceeds the nominal growth rate of the economy is impossible.
 
@@ -30,23 +30,23 @@ categories: booksummaries
 
 + Assume you are telling your story about a company that operates in a very competitive sector, and in your story, you see the company capturing a higher market share of this market. That is a plausible story, but not if you also claim that the company will be able to simultaneously raise prices on its products and have higher profit margins. After all, in a competitive product market, if you raise prices, you will lose market share, not gain it. With almost every part of your narrative, you have to think through how others will react and whether your results will continue to hold, given their reactions. If your narrative is built around cutting employee wages and benefits, and thus increasing profits, it will work only if employees will continue to work for you at the reduced compensation
 
-![Narrative Drivers](/assets/img/narrative_drivers.png)
+{% include webp-image.html img="narrative_drivers.png" alt="Narrative Drivers" %}
 
-![Lyft Valuation](/assets/img/lyft_valuation.png)
+{% include webp-image.html img="lyft_valuation.png" alt="Lyft Valuation" %}
 
 + It is natural to want to hold onto your narrative and to keep it unchanged, even in the face of contradictions. Rather than let hubris keep you wedded to your old story, you should think about how your narrative is altered by events, small and large
 
-![Narrative challenges](/assets/img/narrative_challenges.png)
+{% include webp-image.html img="narrative_challenges.png" alt="Narrative challenges" %}
 
-![Managerial challenges](/assets/img/managerial_challenges.png)
+{% include webp-image.html img="managerial_challenges.png" alt="Managerial challenges" %}
 
 + The process of building up a macro narrative shares some features with the company narrative process that we described in earlier chapters and deviates from others. It starts with an identification and understanding of the macro variable in question (commodity, cyclicality, or country) and it has to be followed by an assessment of how the company you are trying to value is affected by movements in the macro variable. The final step is a judgment you have to make as to how much you want your valuation to rest on your forecasts of the macro variable and how you plan to build that linkage into your numbers
 
 + The macro variables that you can build corporate stories around are many, but the three that are most used are commodity, cyclicality, and country. In the first (commodity), you build a story around a commodity-driven company, with the commodity price being the central variable and the company’s expected response to commodity price changes determining value. In the second (cyclicality), the valuation is of a company, and the primary driver of operating numbers is the overall health or lack thereof of the economy. Thus, your story starts with the economy, with the company woven into it, and requires that you link your company’s prospects to how well or badly the economy does. In the third (country), the driver of value for the company is the country in which it is incorporated and where much of its operations are centered, with your views on the country having a much bigger impact on your value than your views on the company
 
-![Corporate Lifecycle](/assets/img/corporate_lifecycle.png)
+{% include webp-image.html img="corporate_lifecycle.png" alt="Corporate Lifecycle" %}
 
-![Investor Challenges](/assets/img/investor_challenges_across_stages.png)
+{% include webp-image.html img="investor_challenges_across_stages.png" alt="Investor Challenges" %}
 
 + While the challenges that management faces can vary across the life cycle, there are some constants that emerge from looking at successful businesses and their leaders over time.
   1. Control the story: Managing is not just about delivering numbers and meeting analyst expectations. It is about telling a story about the business that allows investors to understand not only its history but where you (as the leader) plan to take it in the future. If top managers do not craft a credible story about the company, investors and analysts will step into the vacuum and craft their own stories, leaving the company playing a game that is not of its own choosing.

@@ -7,7 +7,7 @@ categories: booksummaries
 ---
 **Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
-![Six forces](/assets/img/six_business_forces.png)
+{% include webp-image.html img="six_business_forces.png" alt="Six forces" %}
 
 + A very large change in one of these six forces a “10X” change
 
@@ -15,11 +15,11 @@ categories: booksummaries
 
 + To manage a business in the face of a “10X” change is very, very difficult
 
-![Strategic inflection points](/assets/img/strategic_inflection_points.png)
+{% include webp-image.html img="strategic_inflection_points.png" alt="Strategic inflection points" %}
 
 + A strategic inflection point is when the balance of forces shifts from the old structure, from the old ways of doing business and the old ways of competing, to the new
 
-![Vertical to Horizontal](/assets/img/vertical_horizontal.png)
+{% include webp-image.html img="vertical_horizontal.png" alt="Vertical to Horizontal" %}
 
 + A company competed in this industry as one vertical proprietary block against all other computer companies’ vertical proprietary blocks
 

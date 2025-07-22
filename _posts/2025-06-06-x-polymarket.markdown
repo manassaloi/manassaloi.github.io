@@ -7,4 +7,4 @@ Today: [X names Polymarket as its official prediction market partner](https://te
 
 From last year.
 
-![X- Polymarket](/assets/img/xpolymarket.png)
+{% include webp-image.html img="xpolymarket.png" alt="X- Polymarket" %}

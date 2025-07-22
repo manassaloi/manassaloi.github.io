@@ -9,7 +9,7 @@ See what happens when you type "dad", "mom" on Google Pay. Now compare with Phon
 
 Here is me searching for my brother on both Google Pay, and PhonePe.
 
-![Google Pay vs Phonpe](/assets/img/gpay_phonepe.png)
+{% include webp-image.html img="gpay_phonepe.png" alt="Google Pay vs Phonpe" %}
 
 My brother's nickname is Captain, if that is not clear. See how PhonePe searches for the keyword "Captain" returns the result, and even shows the real name as confirmation, while Google Pay search fails.
 

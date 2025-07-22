@@ -3,7 +3,7 @@ layout: post
 title:  "JTBD forces: Cred Mint"
 ---
 
-![cred mint](/assets/img/credmint.png)
+{% include webp-image.html img="credmint.png" alt="cred mint" %}
 
 I had quickly made this and shared this to someone from Cred who wanted my feedback on the onboarding of their product - Cred Mint.
 

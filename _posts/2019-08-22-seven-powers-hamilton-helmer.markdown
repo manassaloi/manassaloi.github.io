@@ -21,7 +21,7 @@ categories: booksummaries
 
 + Value refers to absolute fundamental shareholder value —the ongoing enterprise value shareholders attribute to the strategically separate business of an individual firm. The best proxy for this is the net present value (NPV) of expected future free cash flow (FCF) of that activity
 
-![Fundamental Equation of Strategy](/assets/img/fundamental_equation_strategy.png)
+{% include webp-image.html img="fundamental_equation_strategy.png" alt="Fundamental Equation of Strategy" %}
 
 + The product of M0 and g reflect market scale over time; hence they capture the “significant markets” component of this definition. The impact of competitive arbitrage is expressed in margins and market share simultaneously, so the maintenance or increase of s market share, while maintaining a positive and material long-term differential margin, provides the numerical expression of Power. In other words, put another way:
 
@@ -473,6 +473,6 @@ Value = M0 g s m
   7. The Power Progression
     + Commentary: Different Power types present the opportunity for first establishing a Barrier at different times in the development of your business. Knowing when this window is open and when it shuts is valuable in recognizing and seizing the opportunity. The break between takeoff and stability is when unit growth falls below about 30%–40% per year. “This is a business stage framework and should not be confused with the product stages of Introduction/Growth/Maturity/Decline of the Product Life Cycle which have dramatically different points of phase separation. Origination can include pre-product periods which are not covered in the Life Cycle model, and the Growth stage in the Life Cycle model includes takeoff and parts of stability in the Power Progression. These differences really matter in assessing the availability of Power
 
-![Power Dynamics Glossary](/assets/img/power_dynamics_glossary.png)
+{% include webp-image.html img="power_dynamics_glossary.png" alt="Power Dynamics Glossary" %}
 
-![Power Dynamics Glossary 2](/assets/img/power_dynamics_glossary_2.png)
+{% include webp-image.html img="power_dynamics_glossary_2.png" alt="Power Dynamics Glossary 2" %}

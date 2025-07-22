@@ -60,13 +60,13 @@ one, based on which customers and needs are to be served. McDonald’s is a winn
 
 - Competition to be unique reflects a different mind-set and a different way of thinking about the nature of competition. Here, companies pursue distinctive ways of competing aimed at serving different sets of needs and customers. The focus, in other words, is on creating superior value for the chosen customers, not on imitating and matching rivals. Here, because customers have real choices, price is only one competitive variable. Some competitors, such as Vanguard or IKEA, will have strategies emphasizing low price. Others, such as BMW, Apple, or Four Seasons, will command a premium price by offering different features or service levels. Customers will pay more (or less) depending on how they perceive the value that’s offered to them
 
-![Right mindset](/assets/img/right_mindset.png)
+{% include webp-image.html img="right_mindset.png" alt="Right mindset" %}
 
 - The real point of competition is not to beat your rivals. It’s not about winning a sale. The point is to earn profits. Competing for profits is more complex. It’s a struggle involving multiple players, not just rivals, over who will capture the value an industry creates. It’s true, of course, that companies compete for profits with their rivals. But they are also engaged in a struggle for profits with their customers, who would always be happier to pay less and get more. They compete with their suppliers, who would always be happier to be paid more and deliver less. They compete with producers who make products that could, in a pinch, be substituted for their own. And they compete with potential rivals as well as existing ones, because even the threat of new entrants places limits on how much they can charge their customers
 
 - **The real point of competition is not to beat your rivals. It’s to earn profits**
 
-![Five forces](/assets/img/5_forces.png)
+{% include webp-image.html img="5_forces.png" alt="Five forces" %}
 
 - The five forces framework zeroes in on the competition you face and gives you the baseline for measuring superior performance. It explains the industry’s average prices and costs, and therefore the average industry profitability you are trying to beat. Before you can make sense of your own performance (current and potential), you need insight into the industry’s fundamental economics
 
@@ -84,7 +84,7 @@ one, based on which customers and needs are to be served. McDonald’s is a winn
 
 - Within a given industry, the relative strength of the five forces and their specific configuration determine the industry’s profit potential because they directly impact the industry’s prices and its costs. Here’s how each force works:
 
-![Force Impact Why](/assets/img/force_impact_why.png)
+{% include webp-image.html img="force_impact_why.png" alt="Force Impact Why" %}
 
 
 - Any successful company has positioned itself favorably in relation to the forces that matter most in its industry. But let me stress that one of the great clarifying disciplines of Porter’s approach is to force you to think clearly about your industry’s structure. Start there. Then you can focus on your own and rivals’ relative positions within the industry
@@ -168,7 +168,7 @@ one, based on which customers and needs are to be served. McDonald’s is a winn
   - Managers often mistakenly assume that a high-growth industry will be an attractive one. But growth is no guarantee that the industry will be profitable. For example, growth might put suppliers in the driver’s seat, or, combined with low entry barriers, growth might attract new rivals. Growth alone says nothing about the power of customers or the availability of substitutes. The untested assumption that a fast-growing industry is a “good” industry, Porter warns, often leads to bad strategy decisions
   - Finally, complements are sometimes proposed as a “sixth force.” Complements are products and services used together with an industry’s products—for example, computer hardware and software. Complements can affect the demand for an industry’s product (would you buy an electric car if you had no place to plug it in?), but like the other factors under discussion—growth, government, technology—they affect industry profitability through their impact on the five forces
 
-![Five forces impact on profitability](/assets/img/forces_profitability.png)
+{% include webp-image.html img="forces_profitability.png" alt="Five forces impact on profitability" %}
 
 ## Typical Steps in Industry Analysis:
 
@@ -235,7 +235,7 @@ Competing to be unique, meeting different needs or serving different customers, 
 
 - A company’s performance has two sources: Relative price and Relative cost
 
-![Industry structure and relative position](/assets/img/industry_structure_relative_position.png)
+{% include webp-image.html img="industry_structure_relative_position.png" alt="Industry structure and relative position" %}
 
 - If a company has a COMPETITIVE ADVANTAGE, it can sustain higher relative prices and/or lower relative costs than its rivals in an industry
 
@@ -280,7 +280,7 @@ The same is true in a small but growing corner of the food business. Why are con
 
 1. Start by laying out the industry value chain. Every established industry has one or more dominant approaches. These reflect the scope and sequence of activities that most of the companies in that industry perform, and this is as true for nonprofits as for any business
 
-![Value chain diagram](/assets/img/value_chain.png)
+{% include webp-image.html img="value_chain.png" alt="Value chain diagram" %}
 
 - The industry’s value chain is effectively its prevailing business model, the way it creates value
   - How far upstream or downstream do the industry’s activities extend?
@@ -312,7 +312,7 @@ The same is true in a small but growing corner of the food business. Why are con
 
 - Whirlwind’s configuration of activities produces a different kind of value with a different cost profile. Looking at competing value chains side by side highlights those differences. If your value chain looks like everyone else’s, then you are engaged in competition to be the best
 
-![Value chain of donated wheelchair](/assets/img/donated_wheelchair.png)
+{% include webp-image.html img="donated_wheelchair.png" alt="Value chain of donated wheelchair" %}
 
 3. Zero in on price drivers, those activities that have a high current or potential impact on differentiation. Do you or could you create superior value for your customers by performing activities in a distinctive way or by performing activities that competitors don’t perform? Can you create that value without incurring commensurate costs? Buyer value can arise throughout the value chain. It can come from product design, for example, as it does for Whirlwind Wheelchair. It can come from choices in the inputs used or the production process itself, both of which are key to the success of In-N-Out Burger, a chain of over 230 hamburger restaurants that uses only the freshest ingredients and prepares its limited menu on-site. It can be created by the selling experience, as any visitor to an Apple Store will tell you. Or, it can arise from after-sales support activities. Every Apple Store, for example, has a Genius Bar where customers can go for free help with technical questions. Whirlwind’s spare parts policy is another example. Whether the customer is a company or a household, examining how your activities are part of the whole value system is the key to understanding buyer value
 
@@ -344,7 +344,7 @@ These basic economic relationships underlie company performance and strategy. St
  
 - Complete definition of competitive advantage: a difference in relative price or relative costs that arises because of differences in the activities being performed
 
-![Competitive advantage arises from the activities in a company’s value chain](/assets/img/competitive_advantage.png)
+{% include webp-image.html img="competitive_advantage.png" alt="Competitive advantage arises from the activities in a company’s value chain" %}
 
 - Wherever a company has achieved competitive advantage, there must be differences in activities. But those differences can take two distinct forms. A company can be better at performing the same configuration of activities, or it can choose a different configuration of activities. By now, of course, you recognize that the first approach is competition to be the best. And by now, we are in a better position to understand why this approach is unlikely to produce a competitive advantage
 
@@ -382,7 +382,7 @@ These basic economic relationships underlie company performance and strategy. St
 
 - Value proposition answers these questions:
 
-![Value proposition answers these questions](/assets/img/value_proposition_answers.png)
+{% include webp-image.html img="value_proposition_answers.png" alt="Value proposition answers these questions" %}
 
 ## Which customers?
 
@@ -398,7 +398,7 @@ These basic economic relationships underlie company performance and strategy. St
 
 - Enterprise Rent-A-Car is the market leader in car rental services in North America, where it is bigger than the once-dominant players, Hertz and Avis. Enterprise has also been dramatically more profitable. It is the only major company in the industry that has enjoyed sustained superior profitability, because for decades it pursued a distinctive strategy. The Enterprise value proposition is based on a simple insight: renting a car meets different needs at different times. Hertz and its followers in the industry built their business around travelers, people away from home on business or on vacation. Enterprise recognized that a sizeable minority of rentals, roughly 40 to 45 percent, occur in the renter’s home city. If your car is stolen, for example, or damaged in an accident, you’ll need a rental. In such cases, your insurance company might cover the cost, usually with contractual limits on the price it will pay. About a third of Enterprise’s revenues come from insurers. Other occasions prompt home-city rentals as well—for example, when a car has a mechanical failure or when a child is home from school on vacation. In all of these uses, home-city car renters tend to be more price sensitive than business or vacation travelers. Enterprise crafted a unique value proposition to meet these needs: reasonably priced, convenient, home-city rentals. Compared with Hertz and Avis, Enterprise has chosen to serve a different need at a different relative price. It is not that Enterprise is the best car rental company. Nor is the market it serves inherently better. But starting with the specific need it serves, Enterprise has made a different choice about the value proposition triangle. Enterprise’s customer base would confound traditional market segmentation by demographic characteristics. Zipcar, started in Cambridge, Massachusetts, in 2000, is pursuing a different path to uniqueness in home-city car rentals. Its value proposition targets yet another kind of customer with a different kind of need. Zipsters, as the company’s members are called, are often people who choose not to own a car, but who occasionally need to use one. Zipcar allows them to rent a car for time periods as short as an hour
 
-![Zipcar positioning map](/assets/img/zipcar_positioning.png)
+{% include webp-image.html img="zipcar_positioning.png" alt="Zipcar positioning map" %}
 
 - Zipcar offers an interesting and complex mix of value: extreme convenience in vehicle pickup and drop-off; extreme flexibility in the rental period; clear, all-inclusive pricing that includes insurance and gas; and the intangible “cool” factor associated with this fast-growing brand. I should add that because this company is an early work-in-progress, it will undoubtedly continue to test the boundaries of its value proposition and to make adjustments to it as it learns
 
@@ -453,7 +453,7 @@ These are just some of the cost drivers underpinning Southwest’s competitive a
 
 - When a company focuses on delivering a different kind of value to a different set of customers—for Porter, the essence of strategic positioning—the list of value chain differences can be extensive
 
-![Each value proposition is best delivered by a tailored value chain Hertz, Zipcar, Enterprise](/assets/img/car_rental_value_chain.png)
+{% include webp-image.html img="car_rental_value_chain.png" alt="Each value proposition is best delivered by a tailored value chain Hertz, Zipcar, Enterprise" %}
 
 
 - Choices in the value proposition that limit what a company will do are essential to strategy because they create the opportunity to tailor activities in a way that best delivers that kind of value. Tailoring is possible only if there are limits, only if you are not trying to be all things to all people. In other words, limits make it possible to develop a value chain that is different from that of rivals who have chosen to offer a different kind of value
@@ -562,7 +562,7 @@ This blistering pace is possible because Zara controls its value chain from end 
 
 - Porter has created a tool he calls an “activity system map” to chart a company’s significant activities, their relationship to the value proposition, and to each other. You can start by identifying the core elements of the value proposition. For IKEA, I would highlight three: distinctive design, low prices, and immediate use. You then identify the most salient activities performed in the business, those most responsible for creating customer value or those that generate significant cost. Try to list the unique activity choices at each step. This makes contrasts between the company and its competitors more obvious. For instance, even a cursory glance at IKEA’s value chain compared with that of a traditional furniture store would highlight its unique configuration of in-store service and delivery. Next, place activities on the map. Draw lines wherever there is fit—where an activity contributes to the value proposition and where two activities affect each other. On the IKEA map, flat packs contribute to low prices and immediate use. They affect self-delivery by customers. And so on. Were you to fully map IKEA’s activities, you’d end up with an extremely dense and tangled web. For strategy, this is a good thing. Conversely, a map with sparse connections likely signals that the strategy is weak
 
-![IKEA activity map](/assets/img/ikea_activity_map.png)
+{% include webp-image.html img="ikea_activity_map.png" alt="IKEA activity map" %}
 
 - An activity map can help you see how well each activity supports the overall positioning—the customers served, the needs met, the relative price. For each activity, ask how it could be better linked to the overall strategy, even activities such as order processing or logistics that might seem to be largely generic in character. In most organizations, Porter observes, there are activities whose alignment has been ignored because they were not seen as part of strategy.
 An activity map can help you identify ways to strengthen fit. Managers responsible for each activity can usually tell you whether their performance is impaired by other activities. They may also have ideas about how to improve the fit across activities. Look beyond basic consistency. Can you find new ways in which activities can reinforce each other or where one activity can substitute for others? An activity map might also spur creativity about how to make a strategy more sustainable. Can you find new activities, or enhancements to what you already do, whose cost or effectiveness is improved by your existing activity system? Are there services, features, or product varieties that you can offer (and rivals cannot) because of the other things that you already do? Extensions like these will be the hardest for rivals to imitate
@@ -582,7 +582,7 @@ The initial outsourcing decision almost always results in short-term cost saving
   - First, rivals will have a hard time figuring out what they have to match. If you wanted to copy Zara, what exactly would you copy? Its approach to product design? The store configurations? Its manufacturing operations? Its fleet of trucks? Basic consistency may be readily discerned by rivals, but the more a company’s positioning rests on complex fit, the harder it is for rivals to know exactly what it is they are trying to copy. Unless you’re an insider, it’s very difficult to untangle what’s going on
   - Second, even if rivals can identify the relevant interconnections, they will have a hard time replicating all of them because fit is organizationally challenging. It’s one thing to copy product features or a particular sales-force approach. It’s another to match a whole system of activities, something that typically requires the integration of decisions and actions across work groups, departments, and functions. By throwing multiple obstacles in the path of would-be imitators, fit lowers the odds that a strategy can be copied. To make this concrete, Porter uses a simple mathematical argument. Let’s assume you have a 90 percent probability of matching any one activity. If you then have to match a system with two activities, your probability of success is 81 percent (0.9 × 0.9). If there are four activities, your probability of success drops to 66 percent (0.9 × 0.9 × 0.9 × 0.9). And so on. Now think about how likely it is that someone can successfully copy IKEA or Zara. Once you see strategy as a system of interconnected choices, you can grasp how quickly the probabilities compound to make a good strategy sustainable. Moreover, as fit lowers the probability of successful imitation, it raises the penalty for failure precisely because the activities are interconnected. A small shortfall in one can produce ripple effects elsewhere, as we saw with British Airway’s failed low-cost carrier, Go
 
-![Zara’s interconnected choices](/assets/img/zara_interconnected_choices.png)
+{% include webp-image.html img="zara_interconnected_choices.png" alt="Zara’s interconnected choices" %}
 
 
 - There is a subtle corollary to this last point. Porter observes that companies with strong fit are typically superior in both strategy and execution, and thus they are less likely to attract imitators in the first place. Why? When activities affect each other, flaws in one will impair overall performance. This tends to shine a spotlight on weaknesses, making it more likely they will be addressed. It also means there is more upside in addressing operational shortfalls, and often more pressure to do so. The resulting strength of companies like these is another deterrent to imitation
@@ -661,7 +661,7 @@ Put in human terms, it is easier to change when you know who you are and what yo
   - Flexibility in the face of uncertainty may sound like a good idea, but it means that your organization will never stand for anything or become good at anything. Too much change can be just as disastrous for strategy as too little
   - Committing to a strategy does not require heroic predictions about the future. Making that commitment actually improves your ability to innovate and to adapt to turbulence
 
-![Five tests of a good strategy](/assets/img/five_tests.png)
+{% include webp-image.html img="five_tests.png" alt="Five tests of a good strategy" %}
 
 
 

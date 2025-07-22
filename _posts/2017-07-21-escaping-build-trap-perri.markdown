@@ -40,7 +40,7 @@ This is why the concept of product management—and that of having product manag
 
 - Product-led companies optimize for their business outcomes, align their product strategy to these goals, and then prioritize the most effective projects that will help develop those products into sustainable drivers of growth. To become product-led, you need to take a look at the roles, the strategy, the process, and the organization itself
 
-![Known Unknown](/assets/img/known_unknown.png)
+{% include webp-image.html img="known_unknown.png" alt="Known Unknown" %}
 
 - Product development is full of uncertainty. It’s important to separate out the facts from the things that we need to learn. To do this, we explore the knowns and unknowns of our situation. When kicking off a project, it’s best to begin by identifying what you know to be true about the situation—your  known knowns. These are facts that you gather from data or critical requirements from customers. Now not all perceived requirements are necessary, but some of them are. These could be mandated by government regulations, or they could be basic needs that are required to do the job. You need to separate these items out as facts and to label those that you are unsure about as our  known unknowns. Known unknowns are clarified enough that you know which question to ask. They are assumptions that you want to test, data points that you can investigate, or problems that you can identify and explore. You use discovery methods and experimentation to clarify these, turn them into facts, and build to satisfy those facts. Unknown knowns are those moments when you say, “I feel like this is the right thing to do.” This is intuition from years of experience. Although we should all listen to our intuition, you should also be cautious because this is often where bias thrives. It’s imperative to check and experiment to see whether your intuition is right. The  unknown unknowns are the things that you don’t know you don’t know. You don’t know enough to ask the right questions or identify the knowledge gaps. These are the moments of surprise that need to be discovered. They happen when you are out talking to customers or you are analyzing seemingly unre-lated data. They pop up during research. You need to be open to these discoveries and follow through on pursuing them because they could change the shape of your company
 
@@ -91,7 +91,7 @@ To do that, a product manager must be humble enough in their approach to learn a
 
 - Tactical work for a product manager focuses on the shorter-term actions of building features and getting them out the door. It includes the daily activities of breaking down and scoping out work with the developers and designers, in addition to crunching the data to determine what to do next. Strategic work is about positioning the product and the company to win in the market and achieve goals. It looks at the future state of the product and the company and what it will take to get there. Operational work is about tying the strategy back to the tactical work. Here is where product managers create a roadmap that connects the current state of the product to the future state and that aligns the teams around the work
 
-![PM growth](/assets/img/pm_growth.png)
+{% include webp-image.html img="pm_growth.png" alt="PM growth" %}
 
 - Often teams are organized around specific features. A lot of teams do this to get  coverage—ownership over every part of the product. Although this is good if you are literally starting from scratch and do not have a product organization set up, but, over time, it promotes a very output-oriented mindset. Instead of working toward a goal and saying no to anything that doesn’t get us there, we tend to look for ways to develop more things related to our little slice of the product. If we take a step back and align the work of these teams to the overall vision of the product and strategy, we find that much of that work really shouldn’t have been prioritized. When features are stable, we should monitor them but then move on to the more important work needed to support our strategy. But, you might be asking: don’t you want teams to own all features so that you have a way to make sure someone is looking after them? Yes and no. To organize teams effectively, you need to balance the coverage and scope of teams with the goals you are trying to achieve
 
@@ -139,15 +139,15 @@ These teams, meanwhile, had been talking to customers and knew that these soluti
 
 - Strategies are interconnecting stories told throughout the organization that explain the objective and outcomes, tailored to a specific time frame. We call this act of communicating and aligning those narratives strategy deployment
 
-![Strategy deployment](/assets/img/strategy_deployment.png)
+{% include webp-image.html img="strategy_deployment.png" alt="Strategy deployment" %}
 
 - Strategy deployment levels: The first two are at the company level, whereas the last two are specific to the products or services of the company. Strategy deployment and strategy creation, though, are two different things. A significant amount of work goes into defining what each of these should be, coordinating them across product lines and teams and then communicating them upward and downward for buy in
 
-![Planning and execute phase](/assets/img/planning_execution.png)
+{% include webp-image.html img="planning_execution.png" alt="Planning and execute phase" %}
 
 - Strategy creation is the process of figuring out which direction the company should act upon and of developing the framework in which people make decisions. Strategies are created at each level and then deployed across the organization. Strategy is about how you take the organization from where you currently are and reach the vision. For strategy to be created, you must first understand the vision, or where you want to go. Then we can identify problems or obstacles standing in our way of getting there and experiment around tackling them. We repeatedly do this until we reach the vision. If you are in the C-Suite, getting this right should be your top priority—or you’ll be setting up your hundreds or thousands of employees for failure
 
-![Product kata](/assets/img/product_kata.png)
+{% include webp-image.html img="product_kata.png" alt="Product kata" %}
 
 - To understand the direction, you are looking at either the vision, strategic intent, or product initiative, depending on which level you are starting on. The current state is related to where you stand in relation to your vision. It also reflects the current state of the outcomes, including the current measurement of those outcomes.
 Option goals are our next level of goals from the team. These are the outcomes you need to achieve in order to make progress toward your initiative or intent. Then you conduct your product process to experiment around systematically tackling problems to reach your goal

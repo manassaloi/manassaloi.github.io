@@ -567,7 +567,7 @@ only want to hire, but want to hire over and over again. There’s a reason succ
 in this level of detail that organizations create long-term competitive advantage because this is how customers decide what
 products are better than other products.
 
-![JTBD innovation](/assets/img/JTBD_innovation.png)
+{% include webp-image.html img="JTBD_innovation.png" alt="JTBD innovation" %}
 
 - IKEA is one of the most profitable companies in the world and has been so for decades. Its owner,
 Ingvar Kamprad, is one of the wealthiest men in the world. How did he make so much money selling nondescript furniture that

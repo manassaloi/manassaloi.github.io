@@ -11,7 +11,7 @@ Template link: [Product Update Email](https://docs.google.com/document/d/1ATci-G
 - I ran with this advice and created [3 different templates for sending Product updates](https://docs.google.com/document/d/1ATci-GiUkTZFCVTQliKr1t3zco_aUJmlvY8jMYmR-80/edit).
 - The update I wrote is around [Emoji reactions going live](https://docs.google.com/document/d/1sUX-sm5qZ474PCQQUpvdi3lvvmWPluqHOyfXz3xKL2M/edit).
 
-![Twitter emojis](/assets/img/twitter_emojis.png)
+{% include webp-image.html img="twitter_emojis.png" alt="Twitter emojis" %}
 
 - Like most things in life I did not spend a lot of time trying to be original, and just copied the best practices I saw being followed  in my current company.
 - You can use these as release notes too :)

@@ -10,7 +10,7 @@ I like writing rules for myself. My goal is to have rules for everything like [t
 
 - Whenever I get more repeated questions on the same topic, I write a blogpost so that I don't have to reply the same thing again and again.
 
-![Why delete tweets](/assets/img/why_delete.png)
+{% include webp-image.html img="why_delete.png" alt="Why delete tweets" %}
 
 - [I am a hypocrite.](https://manassaloi.com/2021/11/14/hypocrite.html)
 - I change my opinions often. If you had access to all my tweets over the last 10 years, you will find me contradicting myself a lot.
@@ -30,7 +30,7 @@ I like writing rules for myself. My goal is to have rules for everything like [t
 - I don't reply to Hi/Hello messages that don't have any context attached.
 - [I make people work for the help they seek.](https://feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html). 50% of these people don't even acknowledge my message because it involves an ask from me. But I get pleasantly surprised when someone actually reads the posts mentioned in the link and comes back with follow up questions.
 
-![Twitter help request reply](/assets/img/twitter_help.png)
+{% include webp-image.html img="twitter_help.png" alt="Twitter help request reply" %}
 
 - I don't tie my ego to my Twitter profile. Or the number of followers, likes, retweets and other vanity metrics.
  - Story time: Long back when I used to be a minor Quora celeb (wow Manas, stop with the Quora stories already. we get that you were popular) it used to make me super happy seeing my answers get thousands of upvotes, hundred thousand+ page views. I used to track these numbers obsessively, and get super happy with myself. Way back when I was on Twiter, I used to check who follow me. Then I got depressed if I saw a famous follower unfollow me. "Oh, maybe they got upset at something I posted. Should I remove my last tweet?" I used to have these thoughts all the time. My friend used to work at Crowdfire. He told me how to track my unfollowers. And I did. It made me depressed. Then one day I stopped. I don't even use my actual account to use Twitter. I have an Alt. I just post my rants using main and then log out.

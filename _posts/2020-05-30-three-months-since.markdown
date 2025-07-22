@@ -38,7 +38,7 @@ Additional thoughts:
 
 Here is a post which a Linkedin connection had shared which sums up my views on Twitter.
 
-![Twitter comment](/assets/img/twitter_comment.png)
+{% include webp-image.html img="twitter_comment.png" alt="Twitter comment" %}
 
 I don't think I will take an extreme stance like deleting my account like this person, but I will surely be careful about how I spend my time: [Playing long term games with long term people](https://nav.al/long-term)
 

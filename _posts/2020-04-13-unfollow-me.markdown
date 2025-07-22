@@ -11,7 +11,7 @@ I know that a lot people here might feel the same about me.
 
 Hence I keep recommending people to unfollow me.
 
-![Unfollow me](/assets/img/unfollow_me.png)
+{% include webp-image.html img="unfollow_me.png" alt="Unfollow me" %}
 
 This is not me flexing. I have never understood following people, then rage commenting on his posts about something he posted.
 

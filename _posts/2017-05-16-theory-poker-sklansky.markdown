@@ -994,6 +994,6 @@ less favored play
 
 + There are endless kinds of mistakes you can detect in your opponents' play, and when you detect them, there is always a way to take advantage of them. Following is a list of the most common mistakes poker players make, accompanied by the best strategies to use to take advantage of the mistakes:
 
-![Poker Mistakes 1](/assets/img/poker_mistakes_1.png)
-![Poker Mistakes 2](/assets/img/poker_mistakes_2.png)
-![Poker Mistakes 3](/assets/img/poker_mistakes_3.png)
+{% include webp-image.html img="poker_mistakes_1.png" alt="Poker Mistakes 1" %}
+{% include webp-image.html img="poker_mistakes_2.png" alt="Poker Mistakes 2" %}
+{% include webp-image.html img="poker_mistakes_3.png" alt="Poker Mistakes 3" %}

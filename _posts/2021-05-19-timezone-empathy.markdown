@@ -3,7 +3,7 @@ layout: post
 title:  "Timezone empathy"
 ---
 
-![Calling at 3AM](/assets/img/gokulrajaram.png)
+{% include webp-image.html img="gokulrajaram.png" alt="Calling at 3AM" %}
 
 Gokul Rajaram is an incredibly smart operator + VC and I have learned tons from him on Twitter, but I don't think this is the right take. No Indian founder is going to say no to a 3AM call from a big name US VC. It is upto the VC to realise this and come up with a reasonable meeting slot.
 

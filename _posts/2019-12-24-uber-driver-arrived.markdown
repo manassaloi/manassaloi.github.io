@@ -7,7 +7,7 @@ I wrote a thread recently on the Driver has Arrived Notification of Uber and how
 
 /threadstarts
 
-![Uber driver arrived](/assets/img/uber_arrived.png)
+{% include webp-image.html img="uber_arrived.png" alt="Uber driver arrived" %}
 
 
 **When you design you have to think about jobs for each component of your UI.**

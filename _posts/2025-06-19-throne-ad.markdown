@@ -15,8 +15,8 @@ Throne brands itself as the Whoop for your poop. Imagine Apple designing a toile
 The founder had shared their slide deck yesterday, so I tried out a few ad ideas.
 The numbers are from their deck.
 
-![Throne ad 1](/assets/img/thronead1.png)
+{% include webp-image.html img="thronead1.png" alt="Throne ad 1" %}
 
-![Throne ad 2](/assets/img/thronead2.png)
+{% include webp-image.html img="thronead2.png" alt="Throne ad 2" %}
 
 I tried 2 formats with slightly different copy and alignment. These exercises are part of my effort to improve my skills in design and marketing.

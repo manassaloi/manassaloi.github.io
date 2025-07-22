@@ -4,7 +4,7 @@ title:  "Download button on Google Podcast"
 
 ---
 
-![Google Podcast](/assets/img/google_podcast.png)
+{% include webp-image.html img="google_podcast.png" alt="Google Podcast" %}
 
 Google Podcast app changes the download button icon to filled from line once download happens. The best would have been to just replace the download icon with a check one.
 

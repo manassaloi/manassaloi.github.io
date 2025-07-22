@@ -79,7 +79,7 @@ Hence I was super excited to see this on Twitter mobile web for the first time.
 I saw this a few months back and was assuming they have made some big plans for topics.
 
 
-![Twitter menu page](/assets/img/twittermenu.png)
+{% include webp-image.html img="twittermenu.png" alt="Twitter menu page" %}
 
 The page was empty for the longest time.
 
@@ -109,7 +109,7 @@ next day some random korean boi bands.
 
 **after x days:** they decided to show me a topic called "startups" which I followed and it starting showing up in the topics section.
 
-![Explore page](/assets/img/explorepage.png)
+{% include webp-image.html img="explorepage.png" alt="Explore page" %}
 
 It has 5 fucking tweets!
 
@@ -120,7 +120,7 @@ Neeche section hai "startups" which apparently I am "following".
 
 Agar follow/unfollow Wala ux rakhna hai upar daal na.
 
-![Topic overflow page](/assets/img/topicoverflow.png)
+{% include webp-image.html img="topicoverflow.png" alt="Topic overflow page" %}
 
 Overflow menu Mei "unfollow topic" and "hide" daalke wapas neeche again "follow/unfollow" sab.
 
@@ -146,7 +146,7 @@ But that is something I could have done from explore Section too.
 
 Maybe Topics ka PM ka Search/Explore Section PM ke saath bhi jhagra hai. So redirect karne nahi de rahe waha se.
 
-![Topic page](/assets/img/topicpage.png)
+{% include webp-image.html img="topicpage.png" alt="Topic page" %}
 
 - **Why can't the topics page be my home for**
   - exploring new topics

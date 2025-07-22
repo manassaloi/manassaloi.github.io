@@ -3,11 +3,11 @@ layout: post
 title:  "Honest career advice for early PMs"
 ---
 
-![Honest career framework](/assets/img/honest_career_framework.png)
+{% include webp-image.html img="honest_career_framework.png" alt="Honest career framework" %}
 
-![Honest career note](/assets/img/honest_career_note.png)
+{% include webp-image.html img="honest_career_note.png" alt="Honest career note" %}
 
-![Honest career note 2](/assets/img/honst_career_note_2.png)
+{% include webp-image.html img="honst_career_note_2.png" alt="Honest career note 2" %}
 
 **Inspired by:**
 - [How Marc Lore hires people](https://youtu.be/3NfcPxFct-s?t=900)

@@ -3,6 +3,6 @@ layout: post
 title:  "Mahabharata game"
 ---
 
-![Mahabharata game 1](/assets/img/mahabharata_game1.png)
+{% include webp-image.html img="mahabharata_game1.png" alt="Mahabharata game 1" %}
 
-![Mahabharata game 2](/assets/img/mahabharata_game2.png)
+{% include webp-image.html img="mahabharata_game2.png" alt="Mahabharata game 2" %}

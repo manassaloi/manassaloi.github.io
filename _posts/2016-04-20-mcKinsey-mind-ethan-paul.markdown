@@ -8,7 +8,7 @@ categories: booksummaries
 
 **This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
 
-![Strategic problem solving model diagram](/assets/img/problem_solving_model.png)
+{% include webp-image.html img="problem_solving_model.png" alt="Strategic problem solving model diagram" %}
 
 - MECE (Mutually Exclusive, Collectively Exhaustive) in the context of problem solving means separating your problem into distinct, nonoverlapping issues while making sure that no issues relevant to your problem have been overlooked
 
@@ -31,7 +31,7 @@ categories: booksummaries
 
 - The answer to each of these questions lies in several more questions. You will have to answer those in turn before you can come up with a final yes or no. As you take each question down one or more levels, your analysis road map will begin to take shape
 
-![Acme widgets issue tree](/assets/img/issue_tree.png)
+{% include webp-image.html img="issue_tree.png" alt="Acme widgets issue tree" %}
 
 - The issue "Can we implement the necessary changes?" throws off numerous subsidiary questions. Some of them came out in the initial brainstorming, while others will arise when you spend more time thinking specifically about the issue. Just as you did for the main issue, you need to figure out the logical progression of these questions. For the sake of this exercise, let’s say there are two top-line questions for this issue: (1) Does the new, shorter process require special facilities that we don’t have? (2) Does it require special skills that we don’t have? For both of these questions, the ideal answer, "no," shuts down any further inquiry. If, however, the answer to either of these questions is yes, the hypothesis is not immediately invalidated. Rather, this answer raises additional questions that must be answered. For example, in the case of facilities, you would ask, "Can we build or buy them?" If the answers to these questions lower down the tree turn out to be no, then your hypothesis is indeed in jeopardy
 
@@ -55,7 +55,7 @@ Sometimes you have to let the solution come to you. Every set of rules has excep
   - The person responsible for each end product (you or a member of your team)
   - The due date for each end product
 
-![Work plan for issue tree](/assets/img/work_plan.png)
+{% include webp-image.html img="work_plan.png" alt="Work plan for issue tree" %}
 
 - When it comes time to prove your initial hypothesis, efficient analysis design will help you hit the ground running. You and your team will know what you have to do, where to get the information to do it, and when to get it done. The work-planning process also serves as a useful reality check to the sometimes intellectualized pursuit of the initial hypothesis
 

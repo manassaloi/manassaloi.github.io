@@ -3,7 +3,7 @@ layout: post
 title:  "The tragedy of midwits"
 ---
 
-![Midwit tragedy](/assets/img/midwit_tragedy.png)
+{% include webp-image.html img="midwit_tragedy.png" alt="Midwit tragedy" %}
 
 Let's face it, you are probably a midwit.
 

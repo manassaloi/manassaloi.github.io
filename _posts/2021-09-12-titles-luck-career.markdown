@@ -55,7 +55,7 @@ When I wrote this as a tread on Twitter I was just dumping random thoughts that 
 
 Also, I joined as an IC in the Transport org of Gojek, became a Product Lead and now manage half of the product team. So I'm definitely not complaining my own growth. Also, my manager has supported me in my growth. This is what he sent me on Whatsapp when we were discussing titles.
 
-![manas title](/assets/img/manas_title.png)
+{% include webp-image.html img="manas_title.png" alt="manas title" %}
 
 To leaders in the startup ecosytem: I would just request you to keep an open mind. Don't assume you know everything. Just ask your reports. Track how many people are leaving your company because you are being inflexible in your views. I know of enough companies that thought they were perfect and did not need to change and then the floodgates opened and employees started quitting en masse.
 
@@ -67,7 +67,7 @@ Check out [Madhur's thread](https://twitter.com/madhurchadha/status/143659576791
 
 Here is private DM from another senior person in the ecosystem who was a senior leader in a decacorn.
 
-![private dm](/assets/img/titlesmatter.png)
+{% include webp-image.html img="titlesmatter.png" alt="private dm" %}
 
 The strongest counterargument to this was given by another senior leader who shared data points on various companies and argued that giving title did not also lead to better retention or company growth. He gave example of a company where there were 80 VPs at one point of time. And it only led to chaos.
 
@@ -77,6 +77,6 @@ Another argument is: Wow. You care about titles then. Does work not matter?
 
 I sent this as a reply to someone yesterday. I also sent the same to my manager when he was joking why I have not left Gojek if I want more money/ better title.
 
-![work matters](/assets/img/workmatters.png)
+{% include webp-image.html img="workmatters.png" alt="work matters" %}
 
 I know this might come off as too strong. I hate hedging my words. And if you have followed me on Twitter till now you know that I have no filter.

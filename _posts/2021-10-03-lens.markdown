@@ -12,8 +12,8 @@ Lens is a framework to identify metrics that can help answer the following quest
 
 Here is Lens being used for Urban Company, a top home services provided marketplace in India. I have done it for both demand and supply side.
 
-![customer lens](/assets/img/customerlens.png)
+{% include webp-image.html img="customerlens.png" alt="customer lens" %}
 
-![supply lens](/assets/img/supplylens.png)
+{% include webp-image.html img="supplylens.png" alt="supply lens" %}
 
 Master post: [Frameworks to think about growth](https://manassaloi.com/2021/09/25/think-growth.html)

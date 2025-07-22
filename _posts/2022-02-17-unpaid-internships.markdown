@@ -19,7 +19,7 @@ Why? Proximity. That's why.
 
 But most people won't grasp this idea because we are too indoctrined with dumb Linkedin style gyaan about what internships mean. I took a pay of 8K/ month from Redbus and worked as their Sales, Marketing, BD person in the north east as a 3rd year intern. I knew that in the long run I would not be a dev, so I tried to learn everything that was complimentary.
 
-![Redbus intern sales message](/assets/img/redbus_intern.png)
+{% include webp-image.html img="redbus_intern.png" alt="Redbus intern sales message" %}
 (Proof of work above.)
 
 My other CS batchmates were making at least triple the amount. I was underpaid. Maybe. But why would anyone give a 3rd year student the responsibilities that I got? I had no prior experience in these domains. And other interns who worked on the same things were IIM interns. I outworked everyone. As an intern. Slogged my ass off in the summer heat and doubled the number of partnerships that Redbus had in the region. In just 2.5 months. I think they had 5 agencies they worked with, I added another 5 by the end of it. The screenshot is the GM for East zone sending an email to the CEO of Redbus. I knew I was good at something. After getting C/Ds in my Computer Science undergrad courses, I got a chance to redeem myself. If I wanted I could have got a full time job. If I wanted funding for my startup, I could have mailed the CEO Phani. I had access to his email now. And got access to other people through his network. (I never built a relationship with Phani though. That mail was my only interaction. Think he sold Redbus soon after.)

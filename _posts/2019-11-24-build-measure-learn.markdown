@@ -40,7 +40,7 @@ Lets move on to the other lists.
 
 All the screw ups I made as a PM/ employee.
 
-![Shame list](/assets/img/shame_list.png)
+{% include webp-image.html img="shame_list.png" alt="Shame list" %}
 
 This is the Shame List from my CouponDunia days. The number of fuckups and misses run pages. Years later I still cringe at how bad I was at my job. But I learned from my mistakes and improved as a PM over years.
 
@@ -50,13 +50,13 @@ Now think of such a list for every place I have worked at.
 
  I turn my shame into learnings.
 
- ![Learnings list](/assets/img/craftsvilla_learnings.png)
+ {% include webp-image.html img="craftsvilla_learnings.png" alt="Learnings list" %}
 
  + **FEEDBACK LIST**
 
 List of feedbacks I have got during my 1-1s as well as performance evaluation sessions.
 
-![Feedback list](/assets/img/feedback_list.png)
+{% include webp-image.html img="feedback_list.png" alt="Feedback list" %}
 
 This is one example of feedback I got from a developer during our 1-1. I learned that instead of focussing more on the product I was doing release/project management. Instead of focusing on the bigger picture I was getting to much into technical implementations.
 
@@ -66,7 +66,7 @@ This is one example of feedback I got from a developer during our 1-1. I learned
 
 I know it is egoistic to call a list 2.0 of yourself. But it is a list of all the things I have learned + want to do in the future.
 
-![Manas 2.0](/assets/img/manas2.png)
+{% include webp-image.html img="manas2.png" alt="Manas 2.0" %}
 
 This is also a long list. I also had to relearn most of the lessons the hard way.
 
@@ -74,7 +74,7 @@ This is also a long list. I also had to relearn most of the lessons the hard way
 
 Self explanatory. Comes from 1-1s, Performance reviews, my own self evaluation. Things I want to avoid.
 
-![Don't do](/assets/img/dont_do.png)
+{% include webp-image.html img="dont_do.png" alt="Don't do" %}
 
 I try to do weekly self evaluations and reflect on how my life (both professional and personal) is going.
 
@@ -84,7 +84,7 @@ No alt text provided for this image.
 
 A list of all the frameworks and learnings from my own experience + others (blogs/books etc).
 
-![How to build products](/assets/img/how_to_build_products.png)
+{% include webp-image.html img="how_to_build_products.png" alt="How to build products" %}
 
 Check out my frameworks post here: [Product Management Principles & Frameworks](https://manassaloi.com/2020/03/05/pm-frameworks.html).
 
@@ -94,7 +94,7 @@ Once I identify habits I want to acquire or behaviours I want to let go off, I s
 
 I open it every night before I go to sleep and evaluate my day.
 
-![Loop habit tracker](/assets/img/loop_tracker.png)
+{% include webp-image.html img="loop_tracker.png" alt="Loop habit tracker" %}
 
 Apart from all these, I try to read a lot.
 

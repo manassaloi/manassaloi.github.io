@@ -1,0 +1,4 @@
+<picture>
+  <source srcset="{{ '/assets/img/' | append: include.img | replace: '.png', '.webp' | relative_url }}" type="image/webp">
+  <img src="{{ '/assets/img/' | append: include.img | relative_url }}" alt="{{ include.alt | default: '' }}" {{ include.attr }}>
+</picture>

@@ -3,7 +3,7 @@ layout: post
 title:  "Religion and Truth seeking"
 ---
 
-![Agnostic](/assets/img/agnostic.png)
+{% include webp-image.html img="agnostic.png" alt="Agnostic" %}
 
 I have always considered myself an atheist. I was that annoying kid who would look forward to arguments on whether God exists. My dad tried his best to take me to the nearby temple but gave up soon. As I grew up I noticed something, which is best captured in this excerpt from [Chetan Bhagat's The 3 Mistakes of My Life]((https://www.goodreads.com/book/show/3320520-the-3-mistakes-of-my-life)). I remember reading this as a teenager and going "Hmm..I have also noticed the same. The people who are religious do seem peaceful. Maybe it is the belief that there is someone looking out for them."
 
