@@ -9,7 +9,9 @@ While reading Poor Charlie's Almanack I came across this idea of under-appreciat
 
 Munger called this kind of self-reinforcing payoff autocatalysis. In chemistry, a reaction speeds itself up once it starts. In business, a stored asset can suddenly compound when a new distribution channel, technology, or behavior emerges. Disney’s copyrights met the VCR and value snowballed.
 
-The legal world has now got its own “films in the can” story. Since 2000, Barcelona-based vLex has been collecting and digitising case law, statutes, journals, and court filings from more than one hundred countries. It kept licensing new collections, cleaning the text, and adding structured metadata. For years this looked like a niche publishing play.
+The legal world has now got its own “films in the can” story.
+
+Since 2000, Barcelona-based vLex has been collecting and digitising case law, statutes, journals, and court filings from more than one hundred countries. It kept licensing new collections, cleaning the text, and adding structured metadata. For years this looked like a niche publishing play.
 
 The game changed with the rise of large language models. These models crave high-quality, full-text data that is legally cleared for use. Public web crawls rarely include full court opinions or premium law reviews. vLex, on the other hand, held a billion-document archive that was well indexed and citation ready. What once seemed like a quiet reference library turned into prime fuel for legal AI.
 
@@ -20,7 +22,6 @@ The parallel to Disney is striking. Disney’s core asset was its deep library o
 The cost to repurpose the content was minimal in both cases.
 
 So how do you spot one of these sleeping assets? There are a few tests: First, is it durable? Will the asset still matter as technology changes? Great stories last for generations, and authoritative law will always matter in court. Second, is it transferable? Can you move the asset into a new format at a low cost? Films moved from reels to tapes, and structured case law moves easily from a search database into an AI workflow. Finally, do you control the rights? If you don’t own the content, you can’t monetise it when a new format comes along.
-
 
 A Playbook for Unlocking Hidden Assets:
 1. Inventory your vault. List every dataset, archive, and expert annotation your organisation controls.  
