@@ -3,11 +3,13 @@ layout: post
 title:  "The OpenEvidence playbook"
 ---
 
-OpenEvidence acquired over 350,000 doctors within two years by solving a fundamental issue: medical knowledge is expanding faster than any human can keep up with. Two new medical papers appear every minute, doubling the corpus of medical research every 73 days. It’s humanly impossible for doctors to read everything relevant.
+OpenEvidence acquired over 350,000 doctors within two years by solving a fundamental issue: medical knowledge is expanding faster than any human can keep up with. Two new medical papers appear every minute, doubling the corpus of medical research every 73 days.
 
-Instead of training a model on the entire public internet, OpenEvidence focused on smaller, specialised models trained exclusively on a trusted corpus: over 35 million peer-reviewed medical publications, with exclusive access to top-tier journals like The New England Journal of Medicine. It’s not some generalist chatbot, it's a decision support tool that gives doctors evidence backed answers.
+It’s humanly impossible for doctors to read everything relevant.
 
-It can instantly search, summarise, and extract the most critical insights doctors need right at the point of care.
+Instead of training a model on the entire public internet, OpenEvidence focused on smaller, specialised models trained exclusively on a trusted corpus: over 35 million peer-reviewed medical publications, with exclusive access to top-tier journals like The New England Journal of Medicine.
+
+It’s not some generalist chatbot like ChatGPT, it's a decision support tool that gives doctors evidence backed answers. It can instantly search, summarise, and extract the most critical insights doctors need right at the point of care.
 
 But this overload problem isn’t unique to medicine.
 
@@ -19,7 +21,7 @@ Here’s what makes an industry ripe for an “OpenEvidence-for-X” product:
 - The content they rely on has clear, authoritative sources like medical journals for doctors or SEC filings for financial analysts.
 - Professionals need fast, actionable answers embedded directly into their existing workflows, rather than standalone tools.
 
-Let’s walk through a few industries ready for their own OpenEvidence:
+A few industries that ready for their own OpenEvidence:
 - Legal professionals constantly sift through millions of court rulings and regulations. Just missing one new precedent could tank a case. Companies like Harvey.ai and Lexis+ AI have emerged to tackle this.
 - Finance analysts face a relentless barrage: over two million Reuters stories a year, thousands of earnings calls, SEC filings dropping constantly. Time is money in trading.
 - Cybersecurity teams get hit with over 100 new software vulnerabilities per day. Delaying just one security patch might lead to catastrophic breaches.
