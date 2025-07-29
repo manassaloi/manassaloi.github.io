@@ -3,19 +3,25 @@ layout: post
 title:  "OpenEvidence vs Harvey"
 ---
 
-Frontier reasoning models has managed to commodify the legal space.
+While Harvey's specialized legal models still outperform general-purpose LLMs on legal tasks, the margin has dramatically narrowed over the past year.
 
-Almost every major foundational model have beaten Harvey’s in-house legal model on its own BigLaw Bench.
+Seven foundation models now surpass Harvey's originally benchmarked system on BigLaw Bench, a remarkable shift that has fundamentally altered the company's strategy and led to their strategic pivot.
 
-Now Harvey has scraped its vertical model positioning and repositioned itself as an agentic workflow company that chains multiple models and tools together.
+Rather than doubling down on proprietary model development, Harvey has repositioned itself around agentic workflows: complex, multi-step AI processes that chain together different models and tools to handle sophisticated legal tasks like drafting S-1 filings or conducting due diligence.
 
-OpenEvidence took a different approach.
+OpenEvidence, a pioneer in medical AI, has taken the opposite path.
 
-It focused on smaller, specialized models that continued to perform better than foundational models when it comes to being a trusted copilot for medical professionals.
+As foundation models commoditised the basic medical chat, OpenEvidence built smaller models trained exclusively on peer-reviewed medical literature, an approach that earned them the distinction of being the first AI to score above 90% on the USMLE.
 
-So why has Harvey's inhouse models failed while OpenEvidence's have succeeded?
+While Harvey now routes queries to whichever foundational model performs best, OpenEvidence continues to rely on its purpose-built medical models that "outperform much larger models on in-domain tasks."
 
-I think OpenEvidence has won because it has access to locked up data that most frontier foundational models can’t touch.
+Two vertical AI companies.
+
+Two radically different responses to the same challenge: the rapid improvement of general-purpose AI.
+
+One pivoted to orchestration and workflows. The other doubled down on domain expertise.
+
+I think OpenEvidence won through its access to locked up data that most frontier foundational models can’t touch.
 
 It licensed the entire New England Journal of Medicine archive and the JAMA network material, still fenced off behind paywalls and robots files, then tuned an open source model on that corpus and wired in retrieval so every answer is backed by a trusted source.
 
