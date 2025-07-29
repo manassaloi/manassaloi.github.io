@@ -9,7 +9,7 @@ It’s humanly impossible for doctors to read everything relevant.
 
 Instead of training a model on the entire public internet, OpenEvidence focused on smaller, specialised models trained exclusively on a trusted corpus: over 35 million peer-reviewed medical publications, with exclusive access to top-tier journals like The New England Journal of Medicine.
 
-It’s not some generalist chatbot like ChatGPT, it's a decision support tool that gives doctors evidence backed answers. It can instantly search, summarise, and extract the most critical insights doctors need right at the point of care.
+Unlike a generalist chatbot like ChatGPT, it presents itself as a decision support tool that gives doctors evidence backed answers. It can instantly search, summarise, and extract the most critical insights doctors need right at the point of care.
 
 But this overload problem isn’t unique to medicine.
 
@@ -29,7 +29,7 @@ A few industries that ready for their own OpenEvidence:
 - Patents and regulatory documents are similarly daunting. Over 3 million patents were filed worldwide last year alone. A company missing a critical patent could face costly infringement lawsuits.
 - Regulatory professionals overwhelmed by thousands of pages of new rules each month would greatly benefit from a tool that translates complex legislation into actionable briefs and compliance checklists, saving countless hours.
 
-These industries share clear design patterns:
+These industries share the following design patterns:
 - They rely on authoritative sources: court documents from PACER, SEC filings from EDGAR, vulnerabilities from NVD databases.
 - Regulatory or professional duty to “stay current.”
 - They require pinpoint granular semantic indexing, providing exactly the right information down to the paragraph.
@@ -44,4 +44,4 @@ Any industry overwhelmed by growing complexity, facing its own information overl
 
 The best vertical AI software will win by controlling data that the horizontal LLM foundational model giants can’t touch, and when the field punishes outdated information.
 
-If you are scouting for vertical AI opportunities try to nail proprietary hard to find data that you can lock down through exclusive license, focus on retrieval quality and the domain specific UX by seamlessly integrating into your users’ daily workflow.
+If you are scouting for vertical AI opportunities, you need to secure proprietary data through exclusive licenses, prioritize retrieval quality, and focus on domain-specific UX by integrating seamlessly into your users’ daily workflow like OpenEvidence did.
