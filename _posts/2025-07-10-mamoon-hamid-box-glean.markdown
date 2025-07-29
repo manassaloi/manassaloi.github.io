@@ -5,7 +5,9 @@ title:  "Mamoon Hamid: From Box to Glean"
 
 Back in 2005, when Mamoon Hamid joined USVP as a fresh-faced engineer turned investor, the tech world was still figuring out what came after the dot com crash.
 
-When he first met Aaron Levie in 2006, Box was a simple file sharing service competing in a crowded market. But Mamoon saw beyond the product to the underlying shift. Files trapped on individual computers were moving to the cloud. Collaboration was becoming the killer feature. The browser wasn't just an access point, it was enabling an entirely new way of working.
+When he first met Aaron Levie in 2006, Box was a simple file sharing service competing in a crowded market. But Mamoon saw beyond the product to the underlying shift.
+
+Files trapped on individual computers were moving to the cloud. Collaboration was becoming the killer feature. The browser wasn't just an access point, it was enabling an entirely new way of working.
 
 The pattern was clear: move the system of record to the cloud, expose it through the browser, and collaboration comes “for free.” That framing helped Mamoon ride the entire Web 2 wave.
 
