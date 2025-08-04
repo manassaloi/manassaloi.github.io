@@ -1,10 +1,12 @@
-_site
-.sass-cache
+# Jekyll build files
+_site/
+.sass-cache/
 .jekyll-metadata
-.DS_Store
-assets/.DS_Store
-_sass/.DS_Store
-_sass/.DS_Store
 .jekyll-cache/
-assets/img/.DS_Store
+
+# macOS system files
+**/.DS_Store
+.DS_Store
+
+# Build scripts
 convert-new-images.sh
