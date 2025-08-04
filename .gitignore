@@ -5,6 +5,6 @@ _site
 assets/.DS_Store
 _sass/.DS_Store
 _sass/.DS_Store
-/.jekyll-cache/Jekyll
+.jekyll-cache/
 assets/img/.DS_Store
 convert-new-images.sh
