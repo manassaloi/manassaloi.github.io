@@ -63,10 +63,7 @@
     white-space: nowrap;
   }
 
-  .nav-trigger,
-  .menu-icon {
-    display: none;
-  }
+  // Removed unused .nav-trigger and .menu-icon - never used in current design
 
   @media screen and (max-width: $on-medium) {
     position: static;

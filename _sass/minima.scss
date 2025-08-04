@@ -18,9 +18,10 @@ $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
 // Define derived SCSS colors (these need to be before CSS variables)
+@use "sass:color";
 $grey-color:       $base-grey-color !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
+$grey-color-dark:  color.adjust($grey-color, $lightness: -25%) !default;
 $brand-color:      #0E54C5 !default;
 // $orange-color:     #f66a0a !default;
 
@@ -42,6 +43,13 @@ $on-large:         $on-laptop !default;
   --letter-bg: #fafafa;
   --letter-shadow: rgba(0, 0, 0, 0.1);
   --letter-border: rgba(0, 0, 0, 0.05);
+  
+  // Layout and spacing CSS variables
+  --spacing-unit: #{$spacing-unit};
+  --content-width: #{$content-width};
+  --base-font-size: #{$base-font-size};
+  --small-font-size: #{$small-font-size};
+  --base-line-height: #{$base-line-height};
   
   // Syntax highlighting colors for light mode
   --highlight-bg: #fff;
