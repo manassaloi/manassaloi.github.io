@@ -461,8 +461,4 @@
 }
 
 
-// Make sure the body uses CSS variables
-body {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
+// Body styling is handled in minima.scss to avoid duplication
