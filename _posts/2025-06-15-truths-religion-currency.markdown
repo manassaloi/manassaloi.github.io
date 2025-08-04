@@ -3,13 +3,11 @@ layout: post
 title:  "Truths, Religion, and Currency"
 ---
 
-I was talking to a designer friend yesterday.
-
 I was wondering whether I should get a Mobbin subscription.
 
 I had one when I was working at my last company. I was not sure if it made sense to buy a subscription when I am neither a designer, nor someone who will be using it regularly.
 
-And I saw quite a few cheaper alternatives. So I asked my friend if I should just go for a knock off of Mobbin.
+And I saw quite a few cheaper alternatives. So I asked a designer friend if I should just go for a knock off of Mobbin.
 
 I also asked him why his company pays a premium for it when cheaper alternatives exist. His answer was that if existing apps change their UI, Mobbin will the updated UI soon. The cheaper alternatives will still be showing the same old design six months from now.
 
