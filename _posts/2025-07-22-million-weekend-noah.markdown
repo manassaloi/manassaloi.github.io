@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Animation at Work - Rachel Nabors"
+title:  "Million Dollar Weekend - Noah Kagan"
 tags: booksummaries
 categories: booksummaries
 
