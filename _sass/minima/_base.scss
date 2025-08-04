@@ -198,6 +198,23 @@ pre {
 
 
 /**
+ * Links - Restored from original minima gem
+ */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+
+  &:visited {
+    color: var(--link-color);
+  }
+
+  &:hover {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+}
+
+/**
  * Tables
  */
 table {

@@ -91,18 +91,7 @@ body {
   transition: none !important;
 }
 
-a {
-  color: var(--link-color);
-  text-decoration: none;
-  &:visited {
-    color: var(--link-color);
-    text-decoration: none;
-  }
-  &:hover {
-    color: var(--link-color);
-    text-decoration: underline;
-  }
-}
+// Link styles moved to _base.scss to avoid duplication
 
 .site-header {
   background-color: var(--background-color);
