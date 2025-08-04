@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: calc(var(--spacing-unit) / 4);
+  margin-bottom: $spacing-unit / 4;
 }
 
 
@@ -79,7 +79,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: calc(var(--spacing-unit) / 2);
+  margin-left: $spacing-unit / 2;
 }
 
 li {
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: calc(var(--spacing-unit) / 2);
+  padding-left: $spacing-unit / 2;
   @include relative-font-size(0.9);
   letter-spacing: -1px;
   font-style: italic;
@@ -152,8 +152,8 @@ pre {
   max-width:         calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  padding-right: calc(var(--spacing-unit) / 2);
-  padding-left: calc(var(--spacing-unit) / 2);
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
@@ -198,46 +198,29 @@ pre {
 
 
 /**
- * Links - Restored from original minima gem
- */
-a {
-  color: var(--link-color);
-  text-decoration: none;
-
-  &:visited {
-    color: var(--link-color);
-  }
-
-  &:hover {
-    color: var(--link-color);
-    text-decoration: underline;
-  }
-}
-
-/**
  * Tables
  */
 table {
-  margin-bottom: var(--spacing-unit);
+  margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: var(--text-color);
+  color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid var(--grey-color-light);
+  border: 1px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: var(--grey-color-light);
+      background-color: lighten($grey-color-light, 6%);
     }
   }
   th, td {
-    padding: calc(var(--spacing-unit) / 3) calc(var(--spacing-unit) / 2);
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: var(--grey-color-light);
-    border: 1px solid var(--grey-color-light);
-    border-bottom-color: var(--grey-color-dark);
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
-    border: 1px solid var(--grey-color-light);
+    border: 1px solid $grey-color-light;
   }
 }

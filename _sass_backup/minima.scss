@@ -18,10 +18,9 @@ $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
 // Define derived SCSS colors (these need to be before CSS variables)
-@use "sass:color";
 $grey-color:       $base-grey-color !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
-$grey-color-dark:  color.adjust($grey-color, $lightness: -25%) !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
 $brand-color:      #0E54C5 !default;
 // $orange-color:     #f66a0a !default;
 
@@ -43,31 +42,6 @@ $on-large:         $on-laptop !default;
   --letter-bg: #fafafa;
   --letter-shadow: rgba(0, 0, 0, 0.1);
   --letter-border: rgba(0, 0, 0, 0.05);
-  
-  // Layout and spacing CSS variables
-  --spacing-unit: #{$spacing-unit};
-  --content-width: #{$content-width};
-  --base-font-size: #{$base-font-size};
-  --small-font-size: #{$small-font-size};
-  --base-line-height: #{$base-line-height};
-  
-  // Syntax highlighting colors for light mode
-  --highlight-bg: #fff;
-  --highlight-rouge-bg: #eef;
-  --syntax-comment: #998;
-  --syntax-error: #a61717;
-  --syntax-error-bg: #e3d2d2;
-  --syntax-keyword: #000;
-  --syntax-operator: #000;
-  --syntax-number: #099;
-  --syntax-string: #d14;
-  --syntax-name-attr: #008080;
-  --syntax-name-builtin: #0086B3;
-  --syntax-name-class: #458;
-  --syntax-name-function: #900;
-  --syntax-name-namespace: #555;
-  --syntax-name-tag: #000080;
-  --syntax-name-variable: #008080;
 }
 
 [data-theme="dark"] {
@@ -80,23 +54,6 @@ $on-large:         $on-laptop !default;
   --letter-bg: #2a2a2a;
   --letter-shadow: rgba(0, 0, 0, 0.3);
   --letter-border: rgba(255, 255, 255, 0.1);
-  
-  // Syntax highlighting colors for dark mode
-  --highlight-bg: #2a2a2a;
-  --highlight-rouge-bg: #3a3a3a;
-  --syntax-comment: #75715e;
-  --syntax-error: #f92672;
-  --syntax-keyword: #66d9ef;
-  --syntax-operator: #f8f8f2;
-  --syntax-number: #ae81ff;
-  --syntax-string: #e6db74;
-  --syntax-name-attr: #a6e22e;
-  --syntax-name-builtin: #f8f8f2;
-  --syntax-name-class: #a6e22e;
-  --syntax-name-function: #a6e22e;
-  --syntax-name-namespace: #f8f8f2;
-  --syntax-name-tag: #f92672;
-  --syntax-name-variable: #f8f8f2;
 }
 
 // Map theme variables
@@ -134,7 +91,18 @@ body {
   transition: none !important;
 }
 
-// Link styles moved to _base.scss to avoid duplication
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  &:visited {
+    color: var(--link-color);
+    text-decoration: none;
+  }
+  &:hover {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+}
 
 .site-header {
   background-color: var(--background-color);

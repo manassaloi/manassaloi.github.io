@@ -63,10 +63,7 @@
     white-space: nowrap;
   }
 
-  .nav-trigger {
-    display: none;
-  }
-
+  .nav-trigger,
   .menu-icon {
     display: none;
   }
@@ -464,4 +461,8 @@
 }
 
 
-// Body styling is handled in minima.scss to avoid duplication
+// Make sure the body uses CSS variables
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
