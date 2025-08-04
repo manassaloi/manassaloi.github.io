@@ -18,10 +18,9 @@ $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
 // Define derived SCSS colors (these need to be before CSS variables)
-@use "sass:color";
 $grey-color:       $base-grey-color !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
-$grey-color-dark:  color.adjust($grey-color, $lightness: -25%) !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
 $brand-color:      #0E54C5 !default;
 // $orange-color:     #f66a0a !default;
 
