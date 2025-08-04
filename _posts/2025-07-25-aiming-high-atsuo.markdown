@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aiming High: Masayoshi Son, SoftBank, and Disrupting Silicon Valley - Atsuo Inoue"
+title:  "Aiming High - Atsuo Inoue"
 tags: booksummaries
 categories: booksummaries
 
@@ -14,7 +14,7 @@ Over time, Son realised there were three main approaches to inventing things:
 - The third approach was combining pre-existing things. Take a radio and a tape recorder, combine them and voilà: the radio cassette player. Most of the inventions Son came up with in America fell under this third category, as he could systematically come up with things this way.
 
 Son was 19, in his third year at university and in the prime of his youth. Most university students would be busy with their studies, sport or going out on dates. Within the broader scope of a person’s whole life, however, what exactly does it mean to be 19? Son’s guiding principles would be unimaginable for the ordinary person: he already had a 50-year life plan he was intent on following.
- - Phase 1 was to set up a company in his twenties – the exact industry didn’t matter at all. It was all about creating an identity and if he could manage this then all of his youthful ambition would have paid off.
+- Phase 1 was to set up a company in his twenties – the exact industry didn’t matter at all. It was all about creating an identity and if he could manage this then all of his youthful ambition would have paid off.
 - Phase 2 was far more outlandish – delusional even – and that was to amass a war chest of 100 billion yen.
 - Phase 3 – his forties – would involve challenging a big company for market dominance.
 - Phases 4 and 5 – his fifties and sixties – were to be spent ensuring the success of his business and then passing it on to the next chief executive. 
