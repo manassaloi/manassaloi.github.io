@@ -7,6 +7,14 @@ permalink: /proofofwork/
 
 (Proof of Work)
 
+As an engineer turned product person, I've built products used by millions (hundreds of millions?) of people across India and South East Asia.
+
+- Developer (first 50 employees) at Kore.ai: $800 mil company.
+- Product & Growth at CouponDunia: Biggest deals site in India, sold to Times Internet.
+- Product & Growth at Craftsvilla: $200 mil ecommerce site.
+- Product at Directi: $1B+ tech conglomerate.
+- Product & Business at Gojek: Super app based in SE Asia that went public on the Indonesia Stock Exchange at ~$30 billion valuation.
+
 ### Angel investor & Advisor (~3.5 years)
 
 - Invested early in:
