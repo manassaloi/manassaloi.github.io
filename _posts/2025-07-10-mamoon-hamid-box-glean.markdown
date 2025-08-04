@@ -13,39 +13,41 @@ The pattern was clear: move the system of record to the cloud, expose it through
 
 Mamoon Hamid ended up backing Box, Yammer, Slack and Figma long before they were household names.
 
-He believed a browser delivered, cloud hosted experience would beat desktop software and on prem servers for most business workflows. The browser was a better interface. It was a fundamental shift in how software could be delivered and consumed. No more installation CDs. No more version conflicts. Just open a browser and start working.
+He believed a browser delivered cloud hosted experience would beat desktop software and on prem servers for most business workflows.
 
-[To hear him discuss this in more detail, listen to his appearance on Jack Altman’s podcast.]
+The browser was not just a better interface, it was a fundamental shift in how software could be delivered and consumed. No more installation CDs. No more version conflicts. Just open a browser and start working.
 
-Mamoon’s framework to spot fundamental platform shifts was simple. He looked for three key indicators:
+[To hear him discuss this in more detail, listen to his podcast episode with Jack Altman.]
+
+Mamoon’s framework to spot fundamental platform shifts:
 1. New interface paradigm - The browser democratized access to software.
 2. Shift in data location - From local to cloud, from siloed to shared.
 3. Change in user behavior - From individual productivity to collaborative workflows.
 
-Just as the browser replaced desktop applications, natural language is replacing graphical interfaces. Why navigate through fifteen menus when you can just ask for what you want?  Why navigate fifteen dropdown menus when you can type "show me deals closing this quarter that need attention"?
+Just as the browser replaced desktop applications, natural language slowly is replacing graphical interfaces. Why navigate through fifteen menus when you can just ask for what you want?  Why navigate fifteen dropdown menus when you can type "show me deals closing this quarter that need attention"?
 
-Data isn't just moving location, it's transforming entirely. In the cloud era, data was passive. It sat there waiting for you to query it. Now it's active. Your CRM doesn't wait for you to check on leads. It identifies opportunities, drafts outreach emails, and schedules follow-ups before you even ask.
+In the cloud era, data was passive. It sat there waiting for you to query it. In the AI age it's active. Your CRM shouldn't wait for you to check on leads. It should identify opportunities, draft outreach emails, and schedule follow-ups before you even ask.
 
-And user behavior? We're shifting from reactive to proactive tools. Your CRM doesn't wait for you to check on leads. It identifies opportunities and drafts outreach emails, for you to review and send.
+We're shifting from reactive to proactive tools.
 
-The browser era was about a centralised system of record accessed through a point and click GUI. The AI era is about an autonomous system of action, driven by natural language and intent. The insight this time is that the marginal cost of cognition is collapsing. Storing data is table stakes, turning it into action is where value accrues.
+The browser era was about a centralised system of record accessed through a point and click GUI. The AI era is about an autonomous system of action, driven by natural language and intent.
 
-The browser thesis wasn't just about data accessibility, it was about collaboration becoming the atomic unit of work. The killer insight was that when data moved online, work itself transformed from individual tasks to shared workflows.
+The insight this time is that the marginal cost of cognition is collapsing. Storing data is table stakes, turning it into action is where value accrues.
 
-So the AI era question shouldn't just be about cheap intelligence. It should capture how work fundamentally reorganizes when intelligence is embedded everywhere.
+The browser thesis wasn't just about data accessibility from any devide, it was about collaboration becoming the atomic unit of work. The killer insight was that when data moved online, work itself transformed from individual tasks to shared workflows.
+
+The AI era question isn't just about cheap intelligence. It is also about how work fundamentally reorganizes when intelligence is embedded everywhere.
 
 "What happens when the atomic unit of software shifts from features to entire workflows that complete themselves without user input?"
 
 “What new value emerges when software can both decide and act in real time, across every context at near zero marginal cost?”
 
-What Mamoon understood about Web 2.0 and what applies even more strongly to AI is that platform shifts compound.
-
-Box moved file storage to the cloud, paving the way for Figma to let designers collaborate online and for Slack to bring team conversations into the same space.
+What Mamoon understood about Web 2.0 and what applies even more strongly to AI is that platform shifts compound: Box moved file storage to the cloud, paving the way for Figma to let designers collaborate online and for Slack to bring team conversations into the same space.
 
 With AI, this compounding is happening even faster. Every workflow automated creates demand for adjacent automations. Every successful AI product educates users and reduces resistance to the next one.
 
-This framework for identifying platform shifts has positioned Mamoon and Kleiner perfectly for the AI wave.
+With their framework for identifying platform shifts, Mamoon and Kleiner are perfectly positioned for the AI wave.
 
-Kleiner's investments in Glean (enterprise search powered by AI), Harvey (AI for legal work), and Ambience Healthcare (AI medical scribe) all follow the same pattern: they're not adding AI features to existing interfaces, they are rebuilding entire categories with AI at the core.
+Kleiner's investments in Glean (enterprise search powered by AI), Harvey (AI for legal work), and Ambience Healthcare (AI medical scribe) all follow the same pattern: they're not merely adding AI features to existing interfaces, they are rebuilding entire categories with AI at the core.
 
 [Edited using Claude. Any errors in interpretation are my own.]
