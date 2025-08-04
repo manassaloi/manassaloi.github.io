@@ -40,3 +40,5 @@ You can spot these wedges in the wild if you know what to look for.
 4. The data or compliance rails should get stronger with every new user, making it harder for competitors to lure away your customers.
 
 The hero-at-cost strategy works when the customer's pain is acute, the back-end margin is fat and defensible, and the rails, whether data or licenses, connect the two. Aspora's Google-rate remittance play is not charity. They're the on-ramp to a cross-border bank play, starting with NRIs and then immigrants from more nations.
+
+[Edited using Claude.]

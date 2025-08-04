@@ -50,3 +50,5 @@ Vertical AI doesn’t win just because it’s vertical. It wins when it controls
 In short, OpenEvidence bought a moat by licensing proprietary, fast-updating data.
 
 I expect the next OpenEvidence-like breakout to come from a field where journals are locked up and the half-life of truth is measured in days, not months.
+
+[Edited using Claude.]
