@@ -9,13 +9,13 @@ When he first met Aaron Levie in 2006, Box was a simple file sharing service com
 
 Files trapped on individual computers were moving to the cloud. Collaboration was becoming the killer feature. The browser wasn't just an access point, it was enabling an entirely new way of working.
 
-The pattern was clear: move the system of record to the cloud, expose it through the browser, and collaboration comes “for free.” That framing helped Mamoon ride the entire Web 2 wave.
+A pattern was emerging. Move the system of record to the cloud, expose it through the browser, and collaboration comes almost for free.
 
-Mamoon Hamid ended up backing Box, Yammer, Slack and Figma long before they were household names.
+This simple framing helped Mamoon ride the entire Web 2.0 wave, leading him to back Box, Yammer, Slack, and Figma long before they were household names.
 
-He believed a browser delivered cloud hosted experience would beat desktop software and on prem servers for most business workflows.
+He believed a browser-delivered, cloud-hosted experience would beat desktop software and on-premise servers for most business workflows.
 
-The browser was not just a better interface, it was a fundamental shift in how software could be delivered and consumed. No more installation CDs. No more version conflicts. Just open a browser and start working.
+He was right. It wasn't just about a better interface, it was a fundamental change in how software could be delivered and consumed. No more installation CDs. No more version conflicts. You just opened a browser and started working.
 
 [To hear him discuss this in more detail, listen to his podcast episode with Jack Altman.]
 
