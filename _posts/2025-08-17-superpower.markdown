@@ -32,8 +32,6 @@ The marketplace phase is where real money lives, but it only works after users g
 
 Watch a few metrics. True Data Density, how much unique live info you collect per user per day. Advice Utilisation, who actually takes your suggestions. Outcome Delta, whether lives measurably improve. Referral Coefficient, how many users bring friends. And gross margins after advice delivery costs.
 
-The moat isn't just having the data.
-
-It's built in layers. You need the frameworks that map raw inputs to actionable goals. That takes real expertise. You need behavioural history, knowing which nudge style each user actually responds to. That cannot be copied, even if a competitor captures the same data you have. Over time, you can even capture regulatory advantages. Get first-in-class certifications, then lobby to make them table stakes for everyone else. At every step, the moat compounds, but only if you're patient and paranoid about breaking trust.
+The moat isn't just having the data. It's built in layers. You need the frameworks that map raw inputs to actionable goals. That takes real expertise. You need behavioural history, knowing which nudge style each user actually responds to. That cannot be copied, even if a competitor captures the same data you have. Over time, you can even capture regulatory advantages. Get first-in-class certifications, then lobby to make them table stakes for everyone else. At every step, the moat compounds, but only if you're patient and paranoid about breaking trust.
 
 In a world where everyone's drowning in choices and information, the most valuable thing you can offer is a trusted concierge that knows users better than they know themselves. With permission to act on that knowledge, you can build something massive.
