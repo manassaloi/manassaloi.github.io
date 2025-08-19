@@ -20,7 +20,7 @@ They must be
 How do you identify a modern toll booth business opportunity?
 - Find an access point everyone needs, like an API, protocol, or physical node. This ensures steady traffic. A single integration point drives volume, whether it’s routing AI model queries or authenticating logins.
 - Prioritise setups with high switching costs. Deep integrations, regulatory hurdles, or network effects lock users in. Once they’re hooked, they won’t leave without a fight.
-- Chase markets with explosive growth, like AI tokens, EV charging, or satellite data. Big downstream activity means your toll booth collects more over time. It’s like fishing where the fish are biting.
+- Chase markets with explosive growth, like AI tokens, EV charging, or satellite data. Big downstream activity means your toll booth collects more over time. 
 - Focus on asset-light models that won't incur heavy opex. Software or infrastructure that scales without heavy costs turns volume into profit.
 
 In software, toll booth economics show up in several forms:
