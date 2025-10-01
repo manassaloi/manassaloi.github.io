@@ -3,9 +3,11 @@ layout: post
 title:  "Why angel investing is dumb"
 ---
 
-Back in 2020, I hosted a daily poker game. We played for months until we burnt out. We were joined by a new player Akash, a friend of a friend. He came in and crushed everyone. Crushed everyone. He invited me to come and play with his other group of players. So I did it. And I lost ~30K playing in the group. In the space of a month. Then I quit.
+Back in 2020, I hosted a daily poker game. We played for months until we burnt out. We were joined by a new player Akash, a friend of a friend. He came in and crushed everyone. Crushed everyone. He invited me to come and play with his other group of players. So I did it. And I lost ~30K INR playing in the group. In the space of a month. Then I quit.
 
-Akash was kind enough to tell me what it was that went wrong for me: Because my risk appetite and bankroll were too low, it was stupid to play at his table. People at this table would lose $20,000 in an hour, come back the next day, and lose the same amount. Sometimes they ended up making double of that amount. They did not get upset about losing 50K in one night. They survived the dips. And came back. Again and again. They were use to playing at those stakes.
+That time I was mostly playing 1K buyins. So this was a 30 buyins swing.
+
+Akash was kind enough to tell me what it was that went wrong for me: Because my risk appetite and bankroll were too low, it was stupid to play at his table. People at this table would lose 20K INR in an hour, come back the next day, and lose the same amount. Sometimes they ended up making double of that amount. They did not get upset about losing 50K in one night. They survived the dips. And came back. Again and again. They were use to playing at those stakes.
 
 I am [not a bad poker player](https://manassaloi.com/2022/02/25/poker-stats.html). I have made a decent amount of money, if you take into account all the tournaments and cash games I have ever been a part of. But I am not the kind of person who is willing to go all in over and over again until I have doubled up.
 

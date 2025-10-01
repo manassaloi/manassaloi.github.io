@@ -73,7 +73,7 @@ One way to combat this costly tendency to forget is through intensive study of m
 
 - Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome.
 
-- His new investment strategy was built on one all-important insight that he drew from The Intelligent Investor. “Because the future is uncertain, you want to minimize your risk,” says Eveillard
+- His new investment strategy was built on one all-important insight that he drew from The Intelligent Investor. “Because the future is uncertain, you want to minimize your risk,” says Eveillard.
 
 - The mutual fund business can be marvelously profitable. It’s not capital intensive, and it boasts unusually high operating margins. The late Marty Whitman, a renowned investor with a gift for tactless truth-telling, once told me that fund managers are competitive in every way—except when it comes to lowering their fees. The executives who run mutual fund companies have strong incentives to keep gathering assets. They’re not fools or villains. They’re pragmatic businesspeople who focus heavily on sales and marketing. An outperformer such as Eveillard was a prized asset in good times. But in bad times, it was easy to cast him as a zealot whose extremism placed everyone’s bonuses at risk. If credulous investors wanted to buy dot-com stocks, why not give them what they wanted? Why not feed the ducks while they were quacking?
 
