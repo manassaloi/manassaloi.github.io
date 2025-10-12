@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-(Last updated: 20 Apr 2025)
+(Last updated: 12 Oct 2025)
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
 
@@ -122,7 +122,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Understanding Michael Porter: The Essential Guide to Competition and Strategy - Joan Magretta](https://www.goodreads.com/book/show/13263934-understanding-michael-porter)
 + [Start at the End: How to Build Products That Create Change - Matt Wallaert](https://www.goodreads.com/book/show/43607837-start-at-the-end)
 + [Inspired - Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired)
-- [Good Strategy Bad Strategy - Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
++ [Good Strategy Bad Strategy - Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
 
 ### Life, Living & Mindset
 
@@ -208,7 +208,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Mastering the VC Game: A Venture Capital Insider Reveals How to Get from Start-up to IPO on Your Terms - Jeffrey Bussgang](https://www.goodreads.com/book/show/7904927-mastering-the-vc-game)
 + [Venture Deals - Brad Feld](https://www.goodreads.com/book/show/11865558-venture-deals)
 
-### Writing
+### Communication
 
 + [On Writing Well: The Classic Guide to Writing Nonfiction - William Zinsser](https://www.goodreads.com/book/show/53343.On_Writing_Well)
 + [Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation - Lynne Truss](https://www.goodreads.com/book/show/8600.Eats_Shoots_Leaves)
@@ -216,7 +216,8 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
 + [The Elements of Style - William Strunk Jr](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
 + [The Minto Pyramid Principle - Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
-+ [Words Like Loaded Pistols - Sam Leith](https://www.goodreads.com/book/show/12868617-words-like-loaded-pistols)
++ [Words Like Loaded Pistols - Sam Leith](https://www.goodreads.com/book/show/12868617-words-like-loaded-pistols)\
++ [Speak Like Churchill, Stand Like Lincoln - James C. Humes](https://www.goodreads.com/book/show/80318.Speak_Like_Churchill_Stand_Like_Lincoln)
 
 ### UX and Customer development
 
@@ -277,6 +278,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [7 Rules of Power - Jeffrey Pfeffer](https://www.goodreads.com/book/show/60705919-7-rules-of-power)
 + [The Kremlin School of Negotiation - Igor Ryzov](https://www.goodreads.com/book/show/44569846-the-kremlin-school-of-negotiation)
 + [Hardball - Chris Matthews](https://www.goodreads.com/book/show/252908.Hardball)
++ [Asian Godfathers - Joe Studwell](https://www.goodreads.com/book/show/2035572.Asian_Godfathers)
 
 ### Decision Making
 
