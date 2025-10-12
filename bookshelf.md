@@ -259,6 +259,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 ### Meta reads
 
 + [Power: Why Some People Have it and Others Don't - Jeffrey Pfeffer](https://www.goodreads.com/book/show/8562119-power)
++ [The Game - Neil Strauss](https://www.goodreads.com/book/show/900.The_Game)
 + [Moral Mazes: The World of Corporate Managers - Robert Jackall](https://www.goodreads.com/book/show/279812.Moral_Mazes)
 + [Rising to Power: The Journey of Exceptional Executives - Ron A. Carucci](https://www.goodreads.com/book/show/21535014-rising-to-power)
 + [The 50th Law](https://www.goodreads.com/book/show/6043946-the-50th-law)
