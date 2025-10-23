@@ -216,7 +216,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [On Writing: A Memoir of the Craft - Stephen King](https://www.goodreads.com/book/show/10569.On_Writing)
 + [The Elements of Style - William Strunk Jr](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
 + [The Minto Pyramid Principle - Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
-+ [Words Like Loaded Pistols - Sam Leith](https://www.goodreads.com/book/show/12868617-words-like-loaded-pistols)\
++ [Words Like Loaded Pistols - Sam Leith](https://www.goodreads.com/book/show/12868617-words-like-loaded-pistols)
 + [Speak Like Churchill, Stand Like Lincoln - James C. Humes](https://www.goodreads.com/book/show/80318.Speak_Like_Churchill_Stand_Like_Lincoln)
 
 ### UX and Customer development
