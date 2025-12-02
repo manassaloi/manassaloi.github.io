@@ -202,7 +202,9 @@ pre {
  */
 a {
   color: var(--link-color);
-  text-decoration: none;
+  text-decoration: underline;
+  font-weight: bold;
+  text-decoration-thickness: 2px;
 
   &:visited {
     color: var(--link-color);

@@ -176,8 +176,8 @@
 }
 
 .post-list {
-  margin-left: $spacing-unit / 3;
-  list-style: none;
+  margin-left: $spacing-unit;
+  list-style: disc;
 
   > li {
     margin-bottom: $spacing-unit / 3;
@@ -186,7 +186,8 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: var(--grey-color);
+  margin-left: 5px; // Add some spacing between title and date
 }
 
 .post-link {

@@ -35,7 +35,7 @@ $on-large:         $on-laptop !default;
 :root {
   --background-color: #{$base-background-color};
   --text-color: #{$base-text-color};
-  --link-color: #{$base-link-color};
+  --link-color: #{$base-text-color};
   --grey-color: #{$grey-color};
   --grey-color-light: #{$grey-color-light};
   --grey-color-dark: #{$grey-color-dark};
@@ -72,7 +72,7 @@ $on-large:         $on-laptop !default;
 [data-theme="dark"] {
   --background-color: #1a1a1a;
   --text-color: #CECDC3;
-  --link-color: #6EFE50;
+  --link-color: #CECDC3;
   --grey-color: #{$grey-color};
   --grey-color-light: #404040;
   --grey-color-dark: #dfdfdf;
