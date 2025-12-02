@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "0 to 1 design"
+---
+
+The fastest way to get started with a new project, especially if you want to copy an existing product and iterate on top of it:
+
+1. Use the Magicpath Chrome extension
+With this extension, you can select an element on a webpage and copy-paste it into Magicpath. It will automatically generate a React component that you can use. However, there’s a limitation: while you can view the component, you can’t export the code unless you pay for Magicpath. The output is pretty good. Trust me, I’ve tried many vibecoding tools. It’s still hard for them to visit a website and copy either the whole page or the individual components. And yes, I know Cursor can now see your browser, it still doesn’t work.
+
+2. Figma Make -> Figma Design -> Claude Code
+Another approach is to take screenshots of the components you want. Then, go to FigmaMake and ask it to create the component from the screenshot. You can one click export the component from Figma Make to Figma Design.
+If you’re a designer who prefers working in Figma instead of dealing with code, this method gives you more control. You can then refine the component directly within the Figma design environment. Once you’ve finalised the design and are ready to start building, you can use the Figma MCP + Claude Code client to build a working prototype.
