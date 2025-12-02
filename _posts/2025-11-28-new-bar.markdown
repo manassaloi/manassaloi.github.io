@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "The bar is just unfairly high"
+---
+
+Since I started integrating AI deeply into my workflow, my baseline for quality has shifted dramatically.
+
+A few days ago I was iterating on a single UI card. I kept taking screenshots, dropping them into NotebookLM, feeding it references (books, patterns, screenshots), and asking, “What’s missing? What would a good designer point out?” I did the same loop across a few other tools too. My goal was to reach 70-80% of a professional designer's output.
+
+Most models caught things I missed.
+And the more context I gave, the sharper the responses.
+
+Ryo from Cursor recently wrote that in the future, teams will be smaller, with more generalists.
+
+If that is true, then what happens to the average specialist?
+
+If I can generate a better artefact with just a few prompts than what a designer creates, I'm going to be disappointed with that person's output.
+
+The baseline is higher than it has ever been.
+
+AI has fundamentally broken the "average" tier of creative work.  Average design and average landing pages don’t hit the same, because “average” is something a model can do by default.
+
+So, where is the alpha?
+
+I recently saw Alter Magazine's website. The hero section. The typography, all the imagery. The website just had soul.
+
+It felt like it was created by someone who really cared. Yes, AI can generate. It can remix. It can get you to “pretty good” fast. But the real alpha is going beyond what the average model would produce: making choices that are surprising, but clearly intentional.
+
+That is what models can't replicate yet. The alpha is in taste, curiosity, and the ability to craft something that feels human in a sea of AI content.
