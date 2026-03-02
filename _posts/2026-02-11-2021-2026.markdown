@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "2021 vs 2026"
+---
+
+When I talk to candidates, I can see two timelines sitting on top of each other. In one timeline, it’s 2021. In the other timeline, it’s 2026.
+
+Covid was a fever dream. It altered people's perception of reality, and a lot of them haven't woken up yet. They are still living in 2021.
+
+Their expectations, their sense of what a job should look like, what compensation should feel like, how many hours constitute "work”, all of it is calibrated to a moment that no longer exists.
+
+In 2021 SaaS was popping. B2B companies were trading at 30x revenue. VC money was flowing and unicorns were being minted every week. Crypto companies were paying people $200K to tweet "gm" on Twitter.  Salaries doubled every six months for anyone who could use a laptop.
+
+Remote work meant you could watch Netflix at 2pm and nobody would notice, partly because the culture was oriented around pampering people rather than pushing them to deliver. Companies competed on who could offer the best perks, the most flexibility, the least accountability.
+
+And it worked.
+
+For a couple of years.
+
+When capital is abundant, you can afford to carry people. You can afford to have three layers of middle management reviewing each other's work.
+
+But that was just a supply-demand anomaly. There was ample supply of VC capital chasing a limited number of good companies, which meant startups (in all sectors) raised too much money and hired too aggressively. Across the bell curve of employees. For all roles.
+
+And there were more open roles than qualified candidates, which meant candidates had all the leverage. If you didn't like the offer, five other companies were waiting in your inbox.
+
+It is no longer 2021.
+
+AI happened.
+
+The ROI math has changed, and it changed fast.
+
+Most of middle management is dead.
+In the Valley, the culture has shifted to 996.
+ AI companies are working 100 hour weeks, and being explicit about it.  Yes, salaries are still high. But only for tier 1 people. Working in a select few companies. Tech hiring is more like finance hiring now. It follows the power law.
+
+And you can get upset about it. You can call it toxic. You can post on LinkedIn about work-life balance and healthy boundaries. But this isn't a values debate. It's simple supply and demand. Like it was in 2021. That's just how labor markets work.
+
+In India, where I've been talking to a lot of folks, 1 crore salaries had become normalised during Covid. Engineers with 3-4 years of experience were pulling packages that would have been reserved for directors before Covid.
+
+Now? Yes, you can still get that package. But you're expected to deliver a lot for that salary.
+
+Fresher hiring is at its lowest in years.
+
+Team sizes are at their lowest. And this isn't a temporary 2026 blip.
+
+This is the new normal.
+
+For a lot of people they are probably in their final job, they just don’t know it yet.
+
+These are the ones sitting in the “safety” of their current jobs, coasting the way they learned to coast in 2021.
+
+They've internalised a set of habits and expectations from a world that no longer exists. They have not changed themselves for this new world fast enough. They're showing up, doing the minimum, collecting the pay check, and assuming this can continue indefinitely.
+
+It can't. And when they get laid off, which many have, they'll enter a job market that looks nothing like the one they remember.
+
+FAANG used to feel like a dream job. Now you are just a cell in some manager’s Google Sheet, waiting to be deleted when Papa Zuck or Jassy wants to create “efficiency.”
+
+I know this post is an uncomfortable read, but the data is all there. It is upto us whether we want to believe it or not.

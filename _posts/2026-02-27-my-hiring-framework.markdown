@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My hiring framework"
+title:  "Slope, taste, energy, and agency"
 ---
 
 Twitter is still undefeated for hiring.
@@ -33,11 +33,10 @@ The things that used to matter, years of experience in a specific stack, deep fa
 
 So what actually matters now? I keep coming back to three things.
 
-High slope. How fast can you learn? Not what you already know. How quickly can you pick up something new and run with it? The tools are changing every few months. The person who learned React in 2018 and stopped there is less useful than someone who picked up three new frameworks this year just because they were curious.
-High energy. Do you bring the juice? This one sounds soft but it's not. Startups need optimists. There's a lot of shit hitting the fan every day. I need people who walk in and raise the energy in the room. Not fake positivity. Real momentum. The kind of person who sees a problem and gets excited about solving it instead of listing reasons it's hard.
-High taste. Do you know what good looks like? Are you obsessed with craft? Do you have opinions about what makes great software great? Taste is one of those things that's hard to interview for but impossible to miss when someone has it.
-
-And agency.
+- High slope. How fast can you learn? Not what you already know. How quickly can you pick up something new and run with it? The tools are changing every few months. The person who learned React in 2018 and stopped there is less useful than someone who picked up three new frameworks this year just because they were curious.
+- High energy. Do you bring the juice? This one sounds soft but it's not. Startups need optimists. There's a lot of shit hitting the fan every day. I need people who walk in and raise the energy in the room. Not fake positivity. Real momentum. The kind of person who sees a problem and gets excited about solving it instead of listing reasons it's hard.
+- High taste. Do you know what good looks like? Are you obsessed with craft? Do you have opinions about what makes great software great? Taste is one of those things that's hard to interview for but impossible to miss when someone has it.
+- And agency.
 
 We recently hired our founding designer. Here's what stood out.
 
@@ -47,7 +46,7 @@ I give open ended assignments to test people. To him, I gave the task to think t
 
 That alone was impressive. But what sealed it was the follow-up chats.
 
-He'd tried every AI design tool out there. He also follows all my favourite designers. Vercel's team, Linear's team. 
+He'd tried every AI design tool out there. He also follows all my favourite designers. Vercel's team, Linear's team.
 
 Every cool landing page I had bookmarked, he had them in his bookmarks too.
 
