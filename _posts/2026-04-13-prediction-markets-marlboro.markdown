@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prediction Markets' Marlboro Problem"
+title:  "Prediction markets' Marlboro problem"
 ---
 
 Prediction markets do not just have a product problem. They have a branding problem.
