@@ -28,5 +28,3 @@ In a world full of cheap opinions, there is real status in being willing to atta
 That is why the best prediction-market branding will not focus first on regulation, market structure, or financial language. It will focus on self-image. What kind of person uses this product, and what does that say about them?
 
 Marlboro worked because it turned a potential weakness into a strength signal. Prediction markets need to do the same. The breakthrough will come when using one feels less like placing a bet and more like showing that you are willing to stand behind your view.
-
-Until then, the category will keep having the same conversation: insiders will call it forecasting, and everyone else will call it gambling.
