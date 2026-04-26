@@ -8,18 +8,6 @@ There are 2 types of Twitter famous.
 - People know you for your work.
 - People know you as some Twitter character.
 
-Okay, before I start, a small confession: I did not actually go to the YC Startup School thing. I left Bengaluru in December. I am not even sure if the event was held in Bengaluru. But assume it was.
-
-So why did I ragebait?
-
-I had deactivated my Twitter account. A man can only write 1,000 posts on product and strategy before he decides to chase other things in life. The VC startup treadmill being one of them.
-
-But because I deactivated my account, my reach is now at 0. I tweet to like 10 people. So I needed to warm up the account.
-
-Hence the shitpost before my actual hiring post, where I needed distribution.
-
-Anyway, coming back.
-
 There are 2 types of Twitter famous.
 
 I read Will Manidis' Against Cynicism. It was directly addressed to another SF Twitter account that dunks on people every day. Let’s call him Milo. If you scroll Milo’s profile, you mostly see him complaining about how the world is unfair, how everyone is a scammer, how everything is broken. It gets tiring after the first 10 tweets.
