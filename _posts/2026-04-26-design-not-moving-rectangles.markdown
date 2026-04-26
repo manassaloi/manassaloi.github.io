@@ -68,9 +68,7 @@ There is a famous design head in India who apparently says during design reviews
 
 Crude, but accurate. He is talking about the missing element. The thing that separates neat work from great.
 
-Most AI-generated design today has no sex.
-
-Because today’s models mostly generate the highest-probability output. They give you what the internet has already agreed a thing should look like. That is useful when you want speed. When you want a design system. It is not enough when you want wow.
+Most AI-generated design today has no sex. Because today’s models mostly generate the highest-probability output. They give you what the internet has already agreed a thing should look like. That is useful when you want speed. When you want a design system. It is not enough when you want wow.
 
 The wow often comes from breaking away from the obvious output. 
 
