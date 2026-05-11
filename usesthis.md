@@ -6,6 +6,8 @@ permalink: /usesthis/
 ---
 (Last updated: 1 Jan 2025)
 
+Note: This was my setup when I used to live in Bengaluru. I have since moved out and now have far fewer possessions. I don’t intend to maintain this going forward.
+
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
 {% include webp-image.html img="homegym.png" alt="Home gym" %}
