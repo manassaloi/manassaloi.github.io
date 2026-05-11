@@ -41,11 +41,11 @@ Product Feel: Once the known product works, we improve how it feels.
 
 Second stage is complete.
 
-User led invention and iteration: As you are closer to launch, you will learn a lot from alpha users. You will do UTs.  You should watch where users get confused, where they drop off, what they click, what they ignore, what they misunderstand, and what they try to do that we did not design for.
+User led invention and iteration: As you are closer to launch, you will learn a lot from alpha users.
 
-User feedback should improve the product. User behavior matters more than internal opinions.
+3.1 UTs: Do usability testing. Watch where users get confused, where they drop off, what they click, what they ignore, what they misunderstand, and what they try to do that we did not design for. User feedback should improve the product. User behavior matters more than internal opinions.
 
-This stage is also where we solve what others have not solved. But we should not start here.
+3.2 Invent last, not first: Only now do we add genuinely new things. Solve what others have not solved. 
 
 Most teams have all of these things in their heads. What they get wrong is the order. They start with new (invention) because it's exciting. They debate brand before the product works. They skip edge cases because users haven't complained yet. They add motion while basic flows are broken.
 
