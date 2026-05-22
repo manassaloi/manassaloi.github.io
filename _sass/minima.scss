@@ -15,8 +15,8 @@ $base-link-color: #e7dec0 !default;
 $base-grey-color: #a79d7f !default;
 
 // Define other base variables
-$base-font-family: Georgia, "Times New Roman", Times, serif !default;
-$letter-font-family: Georgia, "Times New Roman", Times, serif !default;
+$base-font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif !default;
+$letter-font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -33,7 +33,7 @@ $brand-color:      #e7dec0 !default;
 // $orange-color:     #f66a0a !default;
 
 // Layout variables
-$content-width:    800px !default;
+$content-width:    920px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;

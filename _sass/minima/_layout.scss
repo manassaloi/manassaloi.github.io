@@ -18,20 +18,21 @@
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem 1.5rem;
-  max-width: 1120px;
   padding-top: 0.8rem;
   padding-bottom: 0.8rem;
 }
 
 .site-title {
-  @include relative-font-size(0.86);
+  font-family: "Enchanted Land", Georgia, "Times New Roman", Times, serif;
+  font-size: 1.55rem;
   color: var(--link-color);
-  font-weight: 700;
-  letter-spacing: 0.12em;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1;
   margin: 0;
   min-width: max-content;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: none;
 
   &:visited,
   &:hover {
@@ -48,7 +49,7 @@
   margin-left: auto;
 
   .page-link {
-    @include relative-font-size(0.74);
+    @include relative-font-size(0.78);
     color: var(--link-color);
     font-weight: 700;
     letter-spacing: 0.1em;
@@ -60,11 +61,11 @@
 
     &::before {
       content: "";
-      width: 0.4rem;
-      height: 0.4rem;
+      width: 0.32rem;
+      height: 0.32rem;
       position: absolute;
       left: 50%;
-      bottom: -0.48rem;
+      bottom: -0.32rem;
       background: currentColor;
       opacity: 0;
       transform: translateX(-50%) rotate(45deg);
@@ -79,7 +80,7 @@
 
     &:hover::before,
     &.is-active::before {
-      bottom: -0.38rem;
+      bottom: -0.22rem;
       opacity: 0.9;
     }
   }
