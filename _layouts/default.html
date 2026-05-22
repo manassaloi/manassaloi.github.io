@@ -3,20 +3,31 @@
 
   {%- include head.html -%}
 
-  <body>
+  {%- assign is_home_layout = false -%}
+  {%- if page.layout == "home" -%}
+    {%- assign is_home_layout = true -%}
+  {%- endif -%}
 
-    {%- include header.html -%}
+  <body class="layout-{{ page.layout | default: 'page' }}">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    {%- unless is_home_layout -%}
+      {%- include header.html -%}
+    {%- endunless -%}
+
+    <main class="{% if is_home_layout %}home-content{% else %}page-content{% endif %}" aria-label="Content">
+      {%- if is_home_layout -%}
         {{ content }}
-      </div>
+      {%- else -%}
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      {%- endif -%}
     </main>
 
-    {%- include footer.html -%}
+    {%- unless is_home_layout -%}
+      {%- include footer.html -%}
+    {%- endunless -%}
 
   </body>
-
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 </html>

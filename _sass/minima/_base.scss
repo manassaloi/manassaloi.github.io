@@ -122,9 +122,10 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid var(--letter-border);
   border-radius: 3px;
-  background-color: #eef;
+  background-color: rgba(0, 0, 0, 0.38);
+  color: var(--text-color);
 }
 
 code {
@@ -204,7 +205,8 @@ a {
   color: var(--link-color);
   text-decoration: underline;
   font-weight: bold;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
 
   &:visited {
     color: var(--link-color);

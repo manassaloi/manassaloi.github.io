@@ -2,11 +2,16 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<section class="home-portal" aria-labelledby="home-portal-title">
+  <nav class="home-portal__nav" aria-label="Primary navigation">
+    <a href="{{ "/posts/" | relative_url }}">Posts</a>
+    <a href="{{ "/booksummaries/" | relative_url }}">Book Notes</a>
+    <a href="{{ "/bookshelf/" | relative_url }}">Bookshelf</a>
+    <a href="{{ "/proofofwork/" | relative_url }}">Proof of Work</a>
+    <a href="{{ "/usesthis/" | relative_url }}">Uses This</a>
+    <a href="{{ "/links/" | relative_url }}">Links</a>
+  </nav>
 
-  {{ content }}
-
-</div>
+  <img class="home-portal__figure" src="{{ "/assets/img/home/sleeping-man-cutout.webp" | relative_url }}" alt="An engraved sleeping figure beneath a night sky">
+  <h1 id="home-portal-title" class="home-portal__title">Manas J Saloi</h1>
+</section>
