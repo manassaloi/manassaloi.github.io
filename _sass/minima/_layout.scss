@@ -7,7 +7,7 @@
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(5, 5, 3, 0.86);
+  background: rgba(253, 250, 243, 0.92);
   color: var(--text-color);
   backdrop-filter: blur(7px);
 }
@@ -241,30 +241,14 @@
 }
 
 .letter-paper {
-  background:
-    radial-gradient(circle at 18% 0%, rgba(231, 222, 192, 0.08), transparent 28rem),
-    linear-gradient(180deg, rgba(5, 5, 3, 0.82), rgba(5, 5, 3, 0.68));
   border: 1px solid var(--letter-border);
   border-radius: 4px;
-  box-shadow: 0 22px 90px var(--letter-shadow);
+  box-shadow: 0 12px 40px var(--letter-shadow);
   margin: 0 $spacing-unit;
   max-width: 760px;
-  padding: $spacing-unit * 1.7;
+  padding: $spacing-unit * 1.5;
   position: relative;
   width: 100%;
-
-  &::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(231, 222, 192, 0.05) 1px, transparent 1px),
-      radial-gradient(circle at 1px 1px, rgba(231, 222, 192, 0.1) 1px, transparent 0);
-    background-size: 100% 1.7rem, 22px 22px;
-    border-radius: inherit;
-    opacity: 0.24;
-    pointer-events: none;
-  }
 
   @media screen and (max-width: $on-palm) {
     margin: 0 calc(#{$spacing-unit} / 2);
@@ -319,7 +303,7 @@
     }
 
     blockquote {
-      background: rgba(231, 222, 192, 0.08);
+      background: rgba(0, 0, 0, 0.04);
       border-left: 4px solid var(--grey-color);
       color: var(--ink-faint);
       font-style: italic;
@@ -332,7 +316,7 @@
     }
 
     code {
-      background-color: rgba(231, 222, 192, 0.11);
+      background-color: rgba(0, 0, 0, 0.05);
       border-color: var(--letter-border);
       border-radius: 3px;
       color: var(--text-color);
@@ -341,7 +325,7 @@
     }
 
     pre {
-      background-color: rgba(0, 0, 0, 0.42);
+      background-color: rgba(0, 0, 0, 0.04);
       border: 1px solid var(--letter-border);
       border-radius: 5px;
       margin: calc(#{$spacing-unit} / 2) 0;
@@ -449,14 +433,6 @@
   padding: clamp(1rem, 3vw, 2.5rem);
   position: relative;
 
-  &::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: radial-gradient(circle at 50% 52%, rgba(231, 222, 192, 0.08), transparent 24rem);
-    pointer-events: none;
-    z-index: -1;
-  }
 }
 
 .home-portal__title {
@@ -468,7 +444,6 @@
   line-height: 0.78;
   margin: clamp(0.25rem, 0.8vw, 0.6rem) 0 0;
   text-align: center;
-  text-shadow: 0 0 32px rgba(231, 222, 192, 0.08);
 }
 
 .home-portal__nav {
@@ -486,7 +461,6 @@
     letter-spacing: 0.14em;
     text-decoration: none;
     text-transform: uppercase;
-    text-shadow: 0 0 18px rgba(231, 222, 192, 0.08);
 
     &:visited,
     &:hover {
@@ -503,7 +477,7 @@
 
 .home-portal__figure {
   filter: contrast(1.05) sepia(0.08);
-  mix-blend-mode: screen;
+  mix-blend-mode: multiply;
   max-width: none;
   opacity: 0.96;
   pointer-events: none;

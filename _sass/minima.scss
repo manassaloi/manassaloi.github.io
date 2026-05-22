@@ -9,10 +9,10 @@
 }
 
 // First, define all static SCSS color variables
-$base-text-color: #e7dec0 !default;
-$base-background-color: #050503 !default;
-$base-link-color: #e7dec0 !default;
-$base-grey-color: #a79d7f !default;
+$base-text-color: #1a1a1a !default;
+$base-background-color: #fdfaf3 !default;
+$base-link-color: #1a1a1a !default;
+$base-grey-color: #6b6450 !default;
 
 // Define other base variables
 $base-font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif !default;
@@ -27,9 +27,9 @@ $table-text-align: left !default;
 
 // Define derived SCSS colors (these need to be before CSS variables)
 $grey-color:       $base-grey-color !default;
-$grey-color-light: #f1ead4 !default;
-$grey-color-dark:  #62593e !default;
-$brand-color:      #e7dec0 !default;
+$grey-color-light: rgba(0, 0, 0, 0.08) !default;
+$grey-color-dark:  #3a3a3a !default;
+$brand-color:      #1a1a1a !default;
 // $orange-color:     #f66a0a !default;
 
 // Layout variables
@@ -45,15 +45,15 @@ $on-large:         $on-laptop !default;
   --text-color: #{$base-text-color};
   --link-color: #{$base-link-color};
   --grey-color: #{$grey-color};
-  --grey-color-light: rgba(231, 222, 192, 0.22);
-  --grey-color-dark: #d5c9a9;
-  --letter-bg: rgba(5, 5, 3, 0.74);
-  --letter-shadow: rgba(0, 0, 0, 0.45);
-  --letter-border: rgba(231, 222, 192, 0.2);
-  --ink-muted: #a79d7f;
-  --ink-faint: rgba(231, 222, 192, 0.62);
-  --surface-dark: rgba(5, 5, 3, 0.68);
-  --surface-darker: rgba(0, 0, 0, 0.34);
+  --grey-color-light: rgba(0, 0, 0, 0.08);
+  --grey-color-dark: #3a3a3a;
+  --letter-bg: rgba(253, 250, 243, 0.92);
+  --letter-shadow: rgba(0, 0, 0, 0.08);
+  --letter-border: rgba(0, 0, 0, 0.12);
+  --ink-muted: #6b6450;
+  --ink-faint: rgba(26, 26, 26, 0.6);
+  --surface-dark: transparent;
+  --surface-darker: transparent;
   
   // Layout and spacing CSS variables
   --spacing-unit: #{$spacing-unit};
@@ -63,22 +63,22 @@ $on-large:         $on-laptop !default;
   --base-line-height: #{$base-line-height};
   
   // Syntax highlighting colors
-  --highlight-bg: rgba(5, 5, 3, 0.84);
-  --highlight-rouge-bg: rgba(231, 222, 192, 0.1);
-  --syntax-comment: #75715e;
-  --syntax-error: #f0b7a4;
-  --syntax-error-bg: rgba(240, 183, 164, 0.14);
-  --syntax-keyword: #f0d997;
-  --syntax-operator: #e7dec0;
-  --syntax-number: #d3b679;
-  --syntax-string: #f0d997;
-  --syntax-name-attr: #e0cfa7;
-  --syntax-name-builtin: #e7dec0;
-  --syntax-name-class: #f0d997;
-  --syntax-name-function: #f0d997;
-  --syntax-name-namespace: #a79d7f;
-  --syntax-name-tag: #f0d997;
-  --syntax-name-variable: #e7dec0;
+  --highlight-bg: rgba(0, 0, 0, 0.04);
+  --highlight-rouge-bg: rgba(0, 0, 0, 0.05);
+  --syntax-comment: #78716c;
+  --syntax-error: #b91c1c;
+  --syntax-error-bg: rgba(185, 28, 28, 0.08);
+  --syntax-keyword: #92400e;
+  --syntax-operator: #1a1a1a;
+  --syntax-number: #9a3412;
+  --syntax-string: #166534;
+  --syntax-name-attr: #6b21a8;
+  --syntax-name-builtin: #1a1a1a;
+  --syntax-name-class: #1d4ed8;
+  --syntax-name-function: #1d4ed8;
+  --syntax-name-namespace: #78716c;
+  --syntax-name-tag: #1d4ed8;
+  --syntax-name-variable: #1a1a1a;
 }
 
 // Map theme variables
@@ -107,10 +107,6 @@ $a-color: $base-link-color !default;
 // Theme styles using CSS variables
 html {
   background-color: var(--background-color);
-  background-image: url("/assets/img/home/bg-1.jpg");
-  background-position: top center;
-  background-repeat: repeat;
-  background-size: 200px auto;
 }
 
 body {
