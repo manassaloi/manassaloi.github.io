@@ -266,8 +266,8 @@
 
   .post-title {
     font-family: $letter-font-family;
-    font-weight: 700;
-    letter-spacing: -0.035em;
+    font-weight: 600;
+    letter-spacing: -0.02em;
     margin-bottom: calc(#{$spacing-unit} / 2);
     text-align: left;
   }
@@ -297,7 +297,7 @@
     h5,
     h6 {
       font-family: $letter-font-family;
-      font-weight: 700;
+      font-weight: 600;
       margin-bottom: calc(#{$spacing-unit} / 2);
       margin-top: $spacing-unit;
     }

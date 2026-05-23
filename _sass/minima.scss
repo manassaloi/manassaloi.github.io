@@ -15,9 +15,9 @@ $base-link-color: #1a1a1a !default;
 $base-grey-color: #6b6450 !default;
 
 // Define other base variables
-$base-font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif !default;
-$letter-font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif !default;
 $sans-font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif !default;
+$base-font-family: $sans-font-family !default;
+$letter-font-family: $sans-font-family !default;
 $base-font-size:   20px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
