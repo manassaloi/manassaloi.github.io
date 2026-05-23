@@ -3,15 +3,52 @@ layout: default
 ---
 
 <section class="home-portal" aria-labelledby="home-portal-title">
-  <nav class="home-portal__nav" aria-label="Primary navigation">
-    <a href="{{ "/posts/" | relative_url }}">Posts</a>
-    <a href="{{ "/booksummaries/" | relative_url }}">Book Notes</a>
-    <a href="{{ "/bookshelf/" | relative_url }}">Bookshelf</a>
-    <a href="{{ "/proofofwork/" | relative_url }}">Proof of Work</a>
-    <a href="{{ "/usesthis/" | relative_url }}">Uses This</a>
-    <a href="{{ "/links/" | relative_url }}">Links</a>
-  </nav>
+  <h1 id="home-portal-title" class="visually-hidden">Manas J Saloi</h1>
 
-  <img class="home-portal__figure" src="{{ "/assets/img/home/sleeping-man-cutout.webp" | relative_url }}" alt="An engraved sleeping figure beneath a night sky">
-  <h1 id="home-portal-title" class="home-portal__title">Manas J Saloi</h1>
+  <span class="home-portal__edge home-portal__edge--left" aria-hidden="true">Manas</span>
+  <span class="home-portal__edge home-portal__edge--right" aria-hidden="true">Saloi</span>
+
+  <div class="home-portal__grid">
+    <a class="home-cell" href="{{ "/posts/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/posts.png" | relative_url }}" alt="" loading="eager">
+      </span>
+      <span class="home-cell__caption">Posts</span>
+    </a>
+
+    <a class="home-cell" href="{{ "/booksummaries/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/book-notes.png" | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="home-cell__caption">Book Notes</span>
+    </a>
+
+    <a class="home-cell" href="{{ "/bookshelf/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/bookshelf.png" | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="home-cell__caption">Bookshelf</span>
+    </a>
+
+    <a class="home-cell" href="{{ "/proofofwork/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/proof-of-work.png" | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="home-cell__caption">Proof of Work</span>
+    </a>
+
+    <a class="home-cell" href="{{ "/usesthis/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/uses-this.png" | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="home-cell__caption">Uses This</span>
+    </a>
+
+    <a class="home-cell" href="{{ "/links/" | relative_url }}">
+      <span class="home-cell__media">
+        <img src="{{ "/assets/img/home/links.png" | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="home-cell__caption">Links</span>
+    </a>
+  </div>
 </section>
