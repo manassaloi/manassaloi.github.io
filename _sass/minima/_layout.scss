@@ -54,34 +54,24 @@
     font-weight: 500;
     letter-spacing: 0;
     line-height: 1.4;
-    position: relative;
     text-decoration: none;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.35em;
     text-transform: none;
     white-space: nowrap;
+    transition: text-decoration-color 160ms ease;
 
-    &::before {
-      content: "";
-      width: 0.32rem;
-      height: 0.32rem;
-      position: absolute;
-      left: 50%;
-      bottom: -0.32rem;
-      background: currentColor;
-      opacity: 0;
-      transform: translateX(-50%) rotate(45deg);
-      transition: opacity 160ms ease, bottom 160ms ease;
+    &:visited {
+      color: var(--link-color);
     }
 
-    &:visited,
     &:hover {
       color: var(--link-color);
-      text-decoration: none;
+      text-decoration-line: underline;
     }
 
-    &:hover::before,
-    &.is-active::before {
-      bottom: -0.22rem;
-      opacity: 0.9;
+    &.is-active {
+      text-decoration-line: underline;
     }
   }
 }
