@@ -10,7 +10,7 @@
 
 // First, define all static SCSS color variables
 $base-text-color: #1a1a1a !default;
-$base-background-color: #fdfaf3 !default;
+$base-background-color: #fff !default;
 $base-link-color: #1a1a1a !default;
 $base-grey-color: #6b6450 !default;
 
@@ -47,7 +47,7 @@ $on-large:         $on-laptop !default;
   --grey-color: #{$grey-color};
   --grey-color-light: rgba(0, 0, 0, 0.08);
   --grey-color-dark: #3a3a3a;
-  --letter-bg: rgba(253, 250, 243, 0.92);
+  --letter-bg: rgba(255, 255, 255, 0.92);
   --letter-shadow: rgba(0, 0, 0, 0.08);
   --letter-border: rgba(0, 0, 0, 0.12);
   --ink-muted: #6b6450;

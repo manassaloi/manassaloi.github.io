@@ -7,7 +7,7 @@
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(253, 250, 243, 0.92);
+  background: var(--letter-bg);
   color: var(--text-color);
   backdrop-filter: blur(7px);
 }
@@ -447,31 +447,6 @@
   width: 100%;
 }
 
-.home-portal__edge {
-  color: var(--text-color);
-  font-family: "Enchanted Land", Georgia, "Times New Roman", Times, serif;
-  font-size: clamp(4rem, 8.5vw, 9.5rem);
-  font-weight: 400;
-  letter-spacing: -0.025em;
-  line-height: 1;
-  opacity: 0.85;
-  pointer-events: none;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  user-select: none;
-  white-space: nowrap;
-  z-index: 1;
-
-  &--left {
-    left: clamp(1rem, 2vw, 2rem);
-  }
-
-  &--right {
-    right: clamp(1rem, 2vw, 2rem);
-  }
-}
-
 .home-portal__grid {
   align-content: center;
   box-sizing: border-box;
@@ -595,10 +570,6 @@
     row-gap: clamp(1rem, 2vw, 1.75rem);
   }
 
-  .home-portal__edge {
-    font-size: clamp(4rem, 14vw, 7rem);
-    opacity: 0.65;
-  }
 }
 
 @media screen and (max-width: $on-palm) {
@@ -618,24 +589,6 @@
     overflow-x: hidden;
     overflow-y: visible;
     padding: 1.25rem 0.75rem 2rem;
-  }
-
-  .home-portal__edge {
-    font-size: clamp(2.75rem, 13vw, 4.5rem);
-    opacity: 0.55;
-  }
-
-  .home-portal__edge--left {
-    left: 1rem;
-    top: 1rem;
-    transform: none;
-  }
-
-  .home-portal__edge--right {
-    bottom: 1rem;
-    right: 1rem;
-    top: auto;
-    transform: none;
   }
 
   .home-portal__grid {
