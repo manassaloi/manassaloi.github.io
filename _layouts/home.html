@@ -3,15 +3,17 @@ layout: default
 ---
 
 <section class="home-portal" aria-labelledby="home-portal-title">
-  <header class="home-portal__head">
-    <h1 id="home-portal-title" class="home-portal__title">Manas J Saloi</h1>
-    <nav class="home-portal__nav home-portal__nav--top" aria-label="Primary">
+  <h1 id="home-portal-title" class="home-portal__title">Manas J Saloi</h1>
+  <nav class="home-portal__nav home-portal__nav--top" aria-label="Primary">
+    <div class="home-portal__nav-col">
       <a href="{{ "/posts/" | relative_url }}">Posts</a>
       <a href="{{ "/bookshelf/" | relative_url }}">Shelf</a>
+    </div>
+    <div class="home-portal__nav-col">
       <a href="{{ "/booksummaries/" | relative_url }}">Notes</a>
       <a href="{{ "/proofofwork/" | relative_url }}">POW</a>
-    </nav>
-  </header>
+    </div>
+  </nav>
 
   <div class="home-portal__grid" aria-hidden="true">
     <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-1.webp" | relative_url }}" alt="" loading="eager"></div>
