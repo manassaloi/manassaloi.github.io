@@ -524,7 +524,9 @@
     padding: 0.75rem 0.9rem;
   }
 
-  .home-portal__grid {
+  .home-portal__grid,
+  .home-portal__nav,
+  .home-portal__title {
     width: 100%;
   }
 }
