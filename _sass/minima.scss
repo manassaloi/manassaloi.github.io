@@ -8,6 +8,22 @@
   src: url("/assets/fonts/EnchantedLand.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "Open Sauce One";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/fontsource/fonts/open-sauce-one@latest/latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sauce One";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/fontsource/fonts/open-sauce-one@latest/latin-500-normal.woff2") format("woff2");
+}
+
 // First, define all static SCSS color variables
 $base-text-color: #1a1a1a !default;
 $base-background-color: #fff !default;

@@ -158,6 +158,10 @@
 .page-content {
   flex: 1 0 auto;
   padding: $spacing-unit * 1.5 0;
+
+  @media screen and (max-width: $on-palm) {
+    padding: 0;
+  }
 }
 
 .page-heading {
@@ -184,6 +188,39 @@
     border-bottom: 1px solid var(--letter-border);
     margin-bottom: 0;
     padding: 0.72rem 0;
+  }
+
+  @media screen and (max-width: $on-palm) {
+    > li {
+      padding: 0.55rem 0;
+    }
+
+    .post-link {
+      font-family: "Open Sauce One", #{$base-font-family};
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 1.35;
+    }
+
+    .post-meta {
+      font-family: "Open Sauce One", #{$base-font-family};
+      font-size: 13px;
+      line-height: 1.35;
+    }
+  }
+}
+
+.booksummaries {
+  font-family: "Open Sauce One", #{$base-font-family};
+
+  @media screen and (max-width: $on-palm) {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+
+    > p {
+      margin-bottom: 14px;
+    }
   }
 }
 
@@ -223,7 +260,8 @@
   padding: $spacing-unit 0;
 
   @media screen and (max-width: $on-palm) {
-    padding: calc(#{$spacing-unit} / 2) 0;
+    padding: 0;
+    min-height: 0;
   }
 }
 
@@ -238,13 +276,16 @@
   width: 100%;
 
   @media screen and (max-width: $on-palm) {
-    margin: 0 calc(#{$spacing-unit} / 2);
-    padding: $spacing-unit;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0;
+    padding: 18px 16px 32px;
   }
 
   @media screen and (max-width: 480px) {
-    margin: 0 calc(#{$spacing-unit} / 4);
-    padding: $spacing-unit * 0.75;
+    margin: 0;
+    padding: 16px 14px 28px;
   }
 
   .post {
@@ -274,6 +315,7 @@
 
   .post-content {
     font-size: $base-font-size;
+    font-family: "Open Sauce One", #{$base-font-family};
 
     p {
       margin-bottom: $spacing-unit * 0.8;
@@ -290,6 +332,43 @@
       font-weight: 600;
       margin-bottom: calc(#{$spacing-unit} / 2);
       margin-top: $spacing-unit;
+    }
+
+    @media screen and (max-width: $on-palm) {
+      font-size: 15px;
+      line-height: 22px;
+      font-weight: 500;
+      text-wrap: pretty;
+      hyphens: manual;
+      orphans: 2;
+      widows: 2;
+
+      p {
+        margin-bottom: 14px;
+      }
+
+      ul,
+      ol {
+        margin-bottom: 14px;
+        padding-left: 1.25em;
+        margin-left: 0;
+      }
+
+      li {
+        margin-bottom: 6px;
+        line-height: 21px;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        margin-top: 22px;
+        margin-bottom: 8px;
+        line-height: 1.25;
+      }
     }
 
     blockquote {
@@ -344,14 +423,19 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  font-family: "Open Sauce One", #{$base-font-family};
 
   ul,
   ol {
     margin-bottom: calc(#{$spacing-unit} / 2);
+    margin-left: 0;
+    padding-left: 1.5em;
+    list-style-position: outside;
   }
 
   li {
     margin-bottom: 0.25rem;
+    padding-left: 0.25em;
   }
 
   h2 {
@@ -364,6 +448,40 @@
 
   h4 {
     @include relative-font-size(1.125);
+  }
+
+  @media screen and (max-width: $on-palm) {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+    text-wrap: pretty;
+    hyphens: manual;
+    orphans: 2;
+    widows: 2;
+
+    p {
+      margin-bottom: 14px;
+    }
+
+    ul,
+    ol {
+      margin-bottom: 14px;
+      padding-left: 1.25em;
+    }
+
+    li {
+      margin-bottom: 6px;
+      padding-left: 0.15em;
+      line-height: 21px;
+    }
+
+    h2,
+    h3,
+    h4 {
+      margin-top: 22px;
+      margin-bottom: 8px;
+      line-height: 1.25;
+    }
   }
 }
 
