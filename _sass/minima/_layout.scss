@@ -164,6 +164,12 @@
   }
 }
 
+body:not(.layout-post) .page-content {
+  @media screen and (max-width: $on-palm) {
+    padding-top: 18px;
+  }
+}
+
 .page-heading {
   font-family: $sans-font-family;
   @include relative-font-size(1.8);
