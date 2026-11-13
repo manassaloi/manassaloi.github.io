@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Jensen the ultimate Girardian scapegoat?"
+title:  "We are all gamblers in this economy"
 ---
 
 We’re all gamblers in this economy.
