@@ -66,7 +66,7 @@ A list of books I've found useful. Other books I have read: [GoodReads.](https:/
 + [Be Our Guest: Perfecting the art of customer service - Walt Disney Company](https://www.goodreads.com/book/show/205979.Be_Our_Guest)
 + [Always Day One: How the Tech Titans Plan to Stay on Top Forever - Alex Kantrowitz](https://www.goodreads.com/book/show/52027218-always-day-one)
 + [Playing to Win: How Strategy Really Works - A.G. Lafley](https://www.goodreads.com/book/show/13586928-playing-to-win)
-+ [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
++ [No Rules Rules: Netflix and the Culture of Reinvention - Erin Meyer and Reed Hastings](https://www.goodreads.com/book/show/49099937-no-rules-rules)
 + [Invent and Wander: The Collected Writings of Jeff Bezos - Jeff Bezos, Walter Isaacson](https://www.goodreads.com/book/show/54505323-invent-and-wander)
 + [Working Backwards - Colin Bryar, Bill Carr](https://www.goodreads.com/book/show/53138083-working-backwards)
 + [$100M Offers - Alex Hormozi](https://www.goodreads.com/book/show/58612786-100m-offers)
