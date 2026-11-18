@@ -7,7 +7,7 @@
     {{ content }}
     <div class="fade" aria-hidden="true"></div>
     {%- include footer.html -%}
-    <script src="{{ "/assets/js/site.js" | relative_url }}" defer></script>
+    <script src="{{ "/assets/js/site.js" | relative_url }}?v={{ site.time | date: "%s" }}" defer></script>
   </body>
 
 </html>
