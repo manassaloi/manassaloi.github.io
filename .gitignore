@@ -10,3 +10,7 @@ _site/
 
 # Build scripts
 convert-new-images.sh
+
+# Redesign mockup output (regenerate with _redesign/README.md)
+_redesign/site/
+_redesign/posts.jsonl
