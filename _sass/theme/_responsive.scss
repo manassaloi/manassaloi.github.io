@@ -99,17 +99,19 @@
   .foot-band { height: calc(96px + env(safe-area-inset-bottom, 0px)); }
   .page { padding-bottom: calc(180px + env(safe-area-inset-bottom, 0px)); }
 
-  // Two rows of three. Each link fills its whole cell, so the target is a third of the width
-  // and 44px tall (Apple's recommended touch size), with no overlap between rows.
+  // Two rows of three. Every link is left-aligned, so each column has one straight left edge across
+  // both rows. Columns are as wide as their longest label, with the spare width shared between them,
+  // so the outer columns sit on the page margins and long labels never run into the next column.
+  // Each link fills its cell: at least as wide as its label and 44px tall (Apple's touch size).
   .foot {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+    justify-content: space-between;
+    column-gap: 8px;
     row-gap: 0;
     bottom: calc(2px + env(safe-area-inset-bottom, 0px));
 
-    a { display: block; padding: 12px 0; margin: 0; }
-    a:nth-child(3n + 2) { text-align: center; }
-    a:nth-child(3n) { text-align: right; }
+    a { display: block; padding: 12px 0; margin: 0; white-space: nowrap; }
   }
 }
 
