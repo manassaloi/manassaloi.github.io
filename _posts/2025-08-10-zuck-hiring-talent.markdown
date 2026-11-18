@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zuck paying 100 million dollars for talent"
+title:  "Zuck's $100M for talent"
 ---
 
 'Zuck reportedly spent $200 million  hiring the former head of AI research at Apple — triple Tim Cook’s salary. Apple didn’t match it, so he just hired him.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How n8n counter positioned its way into Zapier's market"
+title:  "How n8n counter-positioned into Zapier"
 ---
 
 I was reading about Lindy and noticed they chose to build on top of n8n instead of Zapier.

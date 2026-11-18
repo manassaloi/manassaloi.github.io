@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What living in India feels like currently"
+title:  "What living in India feels like"
 
 ---
 

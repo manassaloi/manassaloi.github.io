@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hedge funds are not supposed to be hedged"
+title:  "Hedge funds aren't hedged"
 ---
 
 A lot of people on Twitter are dunking on Leopold right now.

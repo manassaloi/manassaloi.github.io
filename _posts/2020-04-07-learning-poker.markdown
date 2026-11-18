@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want to learn Poker?"
+title:  "Learning poker"
 image: 'https://manassaloi.com/assets/img/pl_aa.png'
 ---
 (I posted this in April 2020, but my phase of non stop tournament poker I talk about in this post was in 2019.)

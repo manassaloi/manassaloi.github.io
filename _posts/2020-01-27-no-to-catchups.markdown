@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I will say NO to your request to catch up"
+title:  "Saying no to catch-ups"
 
 ---
 

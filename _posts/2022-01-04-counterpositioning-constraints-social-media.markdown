@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Counter-positioning and self-imposed constraints on Twitter"
+title:  "Counter-positioning and constraints on Twitter"
 ---
 
 1. Does not follow anyone, except wife. Did the same with another social network where he was slightly popular.

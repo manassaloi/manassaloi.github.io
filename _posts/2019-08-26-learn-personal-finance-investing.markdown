@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want to learn personal finance and investing?"
+title:  "Learning personal finance and investing"
 
 ---
 

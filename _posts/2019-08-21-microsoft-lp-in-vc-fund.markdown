@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to win the cloud war? Become a LP in a VC fund"
+title:  "Win the cloud war: become a VC LP"
 
 ---
 

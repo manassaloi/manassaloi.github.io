@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why starting up in India is so hard right now"
+title:  "Why starting up in India is so hard"
 ---
 
 I have been talking to friends who have started companies, I am an unpaid intern in half a dozen of these companies, and I also meet quite a few VCs thanks to "lets exchange notes" catchups, and I can see a stark difference in how VCs used to evaluate founders and markets now compared to a few years back. Previously in SaaS, people would assume that because in India, the team sizes would be lower and costs would be lower, you could price your software lower. This would enable you to compete with foreign SaaS players, capture significant Indian market share, and grow. Maybe you could even compete in the US like Freshworks did.

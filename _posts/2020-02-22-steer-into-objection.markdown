@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steer into the Objection style of presentation"
+title: "Steer into the objection"
 
 ---
 

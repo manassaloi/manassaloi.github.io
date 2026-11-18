@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What separates good managers from the rest"
+title:  "What separates good managers"
 
 ---
 

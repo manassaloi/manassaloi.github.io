@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The bar is just unfairly high"
+title:  "The bar is unfairly high"
 ---
 
 Since I started integrating AI deeply into my workflow, my baseline for quality has shifted dramatically.

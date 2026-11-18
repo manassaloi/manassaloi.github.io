@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My favourite posts on designing a new feature"
+title:  "Favourite posts on feature design"
 ---
 (Last updated: 29 Mar 2024)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chamath called his shot and got there"
+title:  "Chamath called his shot"
 ---
 
 "There are about 150 people who run the world. Anybody who wants to go into politics, they’re all puppets. Okay? There are 150, and they’re all men, who run the world. Period. Full stop.

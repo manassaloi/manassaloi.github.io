@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear Start Ups : Stop Chasing Vanity Metrics"
+title:  "Startups, stop chasing vanity metrics"
 
 ---
 

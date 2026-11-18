@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hard times ahead for the average PM & PM Manager"
+title:  "Hard times ahead for the average PM"
 ---
 
 In recent years, career progression was timely. Promotions and pay rises have been predictable.

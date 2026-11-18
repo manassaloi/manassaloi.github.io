@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Online grocery industry through the lens of Porter's 5 forces"
+title:  "Online grocery through Porter's 5 forces"
 ---
 
 A friend recently asked me if online grocery delivery can ever become profitable, and I explained to him why grocery delivery is facing a tough time using Porter's 5 forces.

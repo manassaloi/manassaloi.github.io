@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Tools for every Mobile Product Manager"
+title:  "10 tools for mobile PMs"
 
 ---
 

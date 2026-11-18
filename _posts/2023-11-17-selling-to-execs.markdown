@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You don't present to execs, you sell to execs"
+title:  "You sell to execs, not present to them"
 ---
 
 You don't present to execs, you sell to execs. Something a mentor told me once.

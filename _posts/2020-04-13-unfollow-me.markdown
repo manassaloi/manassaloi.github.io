@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why you should unfollow me on Twitter"
+title: "Why you should unfollow me"
 image: 'https://manassaloi.com/assets/img/unfollow_me.png'
 
 ---

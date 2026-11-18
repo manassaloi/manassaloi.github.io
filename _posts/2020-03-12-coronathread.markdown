@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Coronavirus WFH Reading List - 100 of the best"
+title: "Coronavirus WFH reading list"
 
 ---
 

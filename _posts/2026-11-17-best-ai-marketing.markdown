@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The best AI marketing: unlimited credits and get out of the way"
+title:  "AI marketing: get out of the way"
 ---
 
 The best marketing for an AI tool: give a great creator unlimited credits and get out of the way.

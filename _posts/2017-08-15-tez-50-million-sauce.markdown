@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Tez's 50 million installs secret sauce"
+title:  "Google Tez's 50M installs secret"
 
 ---
 

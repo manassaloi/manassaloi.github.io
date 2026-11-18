@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Status signaling as a driver for growth"
+title:  "Status signaling drives growth"
 ---
 
 The high-status individuals dictate the communication platform. And what it means for your growth as a consumer app.

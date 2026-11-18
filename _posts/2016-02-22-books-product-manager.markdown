@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "19 books every PM should read in 2016"
+title:  "19 books every PM should read"
 
 ---
 

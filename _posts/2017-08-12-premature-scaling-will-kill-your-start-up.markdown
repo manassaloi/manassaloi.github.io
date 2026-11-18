@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Premature scaling will kill your Start-up"
+title:  "Premature scaling will kill your startup"
 
 ---
 

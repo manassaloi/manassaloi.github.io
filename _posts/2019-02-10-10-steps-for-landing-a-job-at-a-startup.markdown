@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Steps for Landing a Job at a Startup"
+title:  "10 steps to land a startup job"
 
 ---
 

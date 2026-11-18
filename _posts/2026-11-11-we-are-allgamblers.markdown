@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We are all gamblers in this economy"
+title:  "We're all gamblers now"
 ---
 
 We’re all gamblers in this economy.

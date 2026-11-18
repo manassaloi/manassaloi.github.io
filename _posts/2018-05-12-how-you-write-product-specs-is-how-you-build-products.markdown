@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How you write Product Specs is how you build products"
+title:  "How you write specs is how you build"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6 Proven Tips to Boost your App’s Downloads"
+title:  "6 tips to boost app downloads"
 
 ---
 

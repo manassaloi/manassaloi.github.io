@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Online courses I recommend for aspiring PMs"
+title:  "Online courses for aspiring PMs"
 ---
 
 Online courses I recommend for aspiring PMs:

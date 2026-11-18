@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Jensen the ultimate Girardian scapegoat?"
+title:  "Jensen, the Girardian scapegoat"
 ---
 
 Disclaimer: I am not saying Jensen did nothing. The affairs are real. What I want to write about is how the crowd reacted, because I think René Girard explains this week better than any of the hot takes on Twitter.

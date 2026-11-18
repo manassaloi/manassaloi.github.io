@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Do I need to understand gradient descent as a PM?"
+title:  "Does a PM need gradient descent?"
 ---
 
 I was having this interesting debate with a friend recently about whether product folks need to go deep into the AI weeds. His argument was pretty straightforward: the fundamentals of product management - understanding users, driving activation, figuring out monetization, running experiments - remain the same whether you're building web2, web3, or AI products. Why not just focus on what we're good at?

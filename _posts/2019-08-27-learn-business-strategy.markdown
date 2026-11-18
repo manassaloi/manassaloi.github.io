@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want to learn Business Strategy?"
+title:  "Learning business strategy"
 
 ---
 

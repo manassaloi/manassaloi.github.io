@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7 Hacks to get 5-Star reviews on Play Store"
+title:  "7 hacks for 5-star Play Store reviews"
 
 ---
 

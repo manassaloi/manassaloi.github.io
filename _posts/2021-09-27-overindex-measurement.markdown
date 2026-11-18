@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Overindexing on measurement of engineering output"
+title:  "Overindexing on engineering output"
 ---
 
 One naive mistake I see a lot of people make is trying to optimise for output metric like jira story points. Even worse: try to measure very hard to measure metrics like lead and cycle time of projects.

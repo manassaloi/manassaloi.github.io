@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happiness is just a year away & other thoughts"
+title:  "Happiness is just a year away"
 ---
 
 Last year during the 2nd covid wave, a lot of my friends left the country. I was also confused and was exploring my options. Then my friend Brijesh told me to think about what I want out of life, unbundle my life, see what I am not getting here, and then evaluate if moving to Europe/ SE Asia will get me those. Not get swayed by the current emotions. Yes, a lot of my friends left. Does it mean that me moving to the US will make my life better?

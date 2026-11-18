@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hidden Assets: Disney’s film vault and vLex’s global law library"
+title:  "Hidden assets: Disney's vault, vLex's library"
 ---
 
 “Disney's a perfectly marvellous company, but it's also very high-priced. Part of what it does is make ordinary movies, which is not a business that attracts me at all. However, part of what Disney has is better than a great gold mine. I mean, those videocassettes... Disney is an amazing example of autocatalysis." They had all those movies in the can. They owned the copyright. And just as Coke could prosper when refrigeration came, when the videocassette was invented, Disney didn't have to invent anything or do anything except take the thing out of the can and stick it on the cassette. And every parent and grandparent wanted his descendants to sit around and watch that stuff at home on videocassette. So Disney got this enormous tailwind....” - Excerpt from Poor Charlie's Almanack.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "19 lessons I learned as a beginner Product Manager"
+title:  "19 lessons from my first PM year"
 
 ---
 

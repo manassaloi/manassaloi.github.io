@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Zomato will go big on lending, eventually"
+title:  "Why Zomato will go big on lending"
 ---
 
 At some point, every executive has to ask what is holding back their growth.

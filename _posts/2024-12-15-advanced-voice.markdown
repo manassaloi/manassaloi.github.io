@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GPT Advanced voice needs to be a true Assistant"
+title:  "GPT Advanced Voice should be an assistant"
 ---
 
 I have been using advanced voice AI a lot lately. Like everyone else, I am fascinated by how natural the conversations feel. But there is this weird UX problem that keeps bothering me.

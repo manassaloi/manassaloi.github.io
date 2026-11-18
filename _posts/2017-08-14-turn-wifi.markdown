@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Please tell me when you turn on your wifi"
+title:  "Tell me when you turn on wifi"
 
 ---
 
