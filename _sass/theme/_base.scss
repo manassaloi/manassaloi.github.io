@@ -1,0 +1,144 @@
+// Tokens, fonts, reset, and the pieces on every page: wordmark, live date, footer nav.
+
+@font-face {
+  font-family: "Gambarino";
+  src: url("/assets/fonts/gambarino.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Zero-padded highlight numbers in book notes: 001, 002…
+@counter-style pad3 {
+  system: extends decimal;
+  pad: 3 "0";
+}
+
+:root {
+  --bg: #0a0a0a;
+  --fg: #e5dece;
+  --muted: #7f7a6e;
+  --line: #1f1d1a;
+  --red: #ff0000;
+  --display: "Gambarino", ui-serif, Georgia, serif;
+  --mono: "Lilex", ui-monospace, "SF Mono", Menlo, monospace;
+  --edge: 32px;
+  --col: 53.333vw;
+  --date-room: 262px;
+  color-scheme: dark;
+}
+
+@media (max-width: 1199px) {
+  :root { --col: 42vw; }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--mono);
+  font-size: 14px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:focus-visible {
+  outline: 1px solid var(--red);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--red);
+  color: var(--bg);
+}
+
+// ---------- wordmark ----------
+
+.mark {
+  display: block;
+  width: max-content;
+  font-family: var(--display);
+  font-weight: 400;
+  color: var(--red);
+  letter-spacing: -0.05em;
+  line-height: 0.77;
+
+  span { display: block; white-space: nowrap; }
+  i { font-style: italic; }
+  b { font-weight: 400; display: inline-block; }
+}
+
+.mark--big {
+  position: fixed;
+  z-index: 3;
+  font-size: 96px;
+  top: calc(var(--edge) - 15px + env(safe-area-inset-top, 0px));
+  left: max(var(--edge), env(safe-area-inset-left, 0px));
+
+  // Letters rise in one after another; assets/js/site.js wraps each in a <b>.
+  b { animation: rise 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+}
+
+.mark--small {
+  font-size: 40px;
+  margin-top: -5px;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(0.25em); }
+  to { opacity: 1; transform: none; }
+}
+
+// ---------- live date ----------
+
+.now {
+  color: var(--red);
+  white-space: nowrap;
+}
+
+.now--fixed {
+  position: fixed;
+  z-index: 3;
+  top: calc(var(--edge) + env(safe-area-inset-top, 0px));
+  right: max(var(--edge), env(safe-area-inset-right, 0px));
+}
+
+// ---------- footer nav ----------
+
+.fade {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 120px;
+  z-index: 2;
+  pointer-events: none;
+  background: linear-gradient(to top, var(--bg) 55%, transparent);
+}
+
+.foot {
+  position: fixed;
+  z-index: 3;
+  left: 0;
+  right: 0;
+  bottom: calc(var(--edge) - 15px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(var(--edge), env(safe-area-inset-left, 0px));
+  padding-right: max(var(--edge), env(safe-area-inset-right, 0px));
+  display: flex;
+  justify-content: space-between;
+
+  a { transition: color 0.12s ease; }
+
+  a:hover,
+  a:focus-visible,
+  a[aria-current="page"] { color: var(--red); }
+}

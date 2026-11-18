@@ -1,23 +1,16 @@
-{%- assign is_book_notes = false -%}
-{%- if page.url contains "/booksummaries/" or page.tags contains "booksummaries" or page.categories contains "booksummaries" -%}
-  {%- assign is_book_notes = true -%}
-{%- endif -%}
-{%- assign is_regular_post = false -%}
-{%- if page.layout == "post" and is_book_notes != true -%}
-  {%- assign is_regular_post = true -%}
-{%- endif -%}
-
-<header class="site-header">
-  <div class="wrapper site-header__inner">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    <nav class="site-nav" aria-label="Primary navigation">
-      <a class="page-link{% if page.url == "/posts/" or is_regular_post %} is-active{% endif %}" href="{{ "/posts/" | relative_url }}"{% if page.url == "/posts/" or is_regular_post %} aria-current="page"{% endif %}>Posts</a>
-      <a class="page-link{% if page.url == "/booksummaries/" or is_book_notes %} is-active{% endif %}" href="{{ "/booksummaries/" | relative_url }}"{% if page.url == "/booksummaries/" or is_book_notes %} aria-current="page"{% endif %}>Book Notes</a>
-      <a class="page-link{% if page.url == "/bookshelf/" %} is-active{% endif %}" href="{{ "/bookshelf/" | relative_url }}"{% if page.url == "/bookshelf/" %} aria-current="page"{% endif %}>Bookshelf</a>
-      <a class="page-link{% if page.url == "/proofofwork/" %} is-active{% endif %}" href="{{ "/proofofwork/" | relative_url }}"{% if page.url == "/proofofwork/" %} aria-current="page"{% endif %}>Proof of Work</a>
-      <a class="page-link{% if page.url == "/usesthis/" %} is-active{% endif %}" href="{{ "/usesthis/" | relative_url }}"{% if page.url == "/usesthis/" %} aria-current="page"{% endif %}>Uses This</a>
-      <a class="page-link{% if page.url == "/links/" %} is-active{% endif %}" href="{{ "/links/" | relative_url }}"{% if page.url == "/links/" %} aria-current="page"{% endif %}>Links</a>
-    </nav>
-  </div>
+{%- comment -%}
+  Two modes.
+  big=true: the big fixed wordmark and fixed date, for index pages (home, posts, book notes).
+  Otherwise: the small-wordmark header. `mid` fills the middle column (neighbouring posts, or the
+  page's name and intro); `mid_class` adds a class to it.
+{%- endcomment -%}
+{%- if include.big -%}
+<a class="mark mark--big" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home"><span>manas</span><span><i>saloi</i>.</span></a>
+<div class="now now--fixed" data-now></div>
+{%- else -%}
+<header class="top">
+  <a class="mark mark--small" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home"><span>manas</span><span><i>saloi</i>.</span></a>
+  <div class="top-mid {{ include.mid_class }}">{{ include.mid }}</div>
+  <div class="now" data-now></div>
 </header>
+{%- endif -%}

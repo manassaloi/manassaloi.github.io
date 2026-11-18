@@ -1,0 +1,103 @@
+// Narrow screens. Loaded last so it overrides the component rules above.
+
+// ---------- tablet: inner pages go single column ----------
+
+@media (max-width: 900px) {
+  .top {
+    grid-template-columns: auto 1fr;
+    row-gap: 28px;
+
+    .now { grid-column: 2; grid-row: 1; justify-self: end; }
+  }
+
+  .top-mid { grid-column: 1 / -1; grid-row: 2; padding-right: 0; }
+  .top-mid.neighbours { display: none; }
+  .page { padding-top: 48px; }
+
+  .split { grid-template-columns: minmax(0, 1fr); }
+  .split > .left { position: static; padding-right: 0; margin-bottom: 24px; }
+
+  .meta { flex-direction: row; flex-wrap: wrap; gap: 6px 18px; }
+  .meta .gap { display: none; }
+  .sec-label h2 { max-width: none; }
+
+  .clips { --gutter: 40px; margin-left: 40px; }
+}
+
+// ---------- phone ----------
+
+@media (max-width: 760px) {
+  :root { --edge: 16px; }
+
+  .mark--big {
+    position: static;
+    font-size: 64px;
+    padding: calc(16px + env(safe-area-inset-top, 0px)) 0 0 max(16px, env(safe-area-inset-left, 0px));
+  }
+
+  .now--fixed {
+    position: static;
+    display: block;
+    margin-top: 14px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+  }
+
+  .aside {
+    position: static;
+    width: auto;
+    max-width: none;
+    margin: 20px 0 0;
+    padding: 0 max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px));
+  }
+
+  .index {
+    margin-left: 0;
+    padding-top: 32px;
+    padding-bottom: 140px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+  }
+
+  .index .row { padding: 3px 0; }
+
+  .layout-home { overflow: auto; height: auto; }
+
+  .stage {
+    position: relative;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+    height: 56vh;
+    margin: 28px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px));
+  }
+
+  .post h1, .note h1 { font-size: 44px; }
+  .prose { font-size: 14px; }
+  .clips { --gutter: 34px; margin-left: 34px; font-size: 14px; }
+
+  .sec-label h2 { font-size: 36px; }
+  .sec + .sec { margin-top: 64px; }
+  .gear { grid-template-columns: minmax(0, 1fr); }
+  .career { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .career .what { margin-bottom: 8px; }
+  .ship, .intro ul { columns: 1; }
+  .lede { font-size: 28px; }
+
+  .fade { height: 130px; }
+
+  .foot {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 8px;
+    bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+
+    a:nth-child(3n + 2) { text-align: center; }
+    a:nth-child(3n) { text-align: right; }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mark--big b { animation: none; }
+  * { transition: none !important; }
+}

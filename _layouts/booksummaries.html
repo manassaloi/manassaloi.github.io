@@ -1,20 +1,14 @@
 ---
 layout: default
 ---
-<div class="booksummaries">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
- {{ content }}
-  {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-       {% if post.tags contains "booksummaries" %}
-        <li> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span></li>
-       {% endif %}
-     {%- endfor -%}
-    </ul>
-  {%- endif -%}
-
+{%- include header.html big=true -%}
+{%- assign books = site.posts | where: "is_book", true -%}
+<div class="aside">
+  {{ content }}
+  <p>{{ books.size }} books{% if page.updated %} · updated {{ page.updated }}{% endif %}</p>
 </div>
+<main class="index" aria-label="Book notes">
+  {%- for post in books -%}
+    {%- include row.html url=post.url date=post.date_mash title=post.book_title author=post.book_author -%}
+  {%- endfor -%}
+</main>

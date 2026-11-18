@@ -1,0 +1,118 @@
+// Page frames: list rows, the index layout, the small-wordmark header, and the left/right split.
+
+// ---------- rows: date + title (posts, book notes, links, neighbours) ----------
+
+.row {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  padding: 1px 0;
+  transition: color 0.12s ease;
+
+  time {
+    flex: 0 0 auto;
+    width: 8.4ch;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.12s ease;
+  }
+
+  .t { min-width: 0; }
+
+  // Author after a book title: stays on one line when it fits, wraps only when longer than a line.
+  .a {
+    color: var(--muted);
+    margin-left: 0.6em;
+    display: inline-block;
+    max-width: 100%;
+    transition: color 0.12s ease;
+  }
+}
+
+a.row:hover,
+a.row:hover time,
+a.row:hover .a,
+.row[aria-current="page"],
+.row[aria-current="page"] time { color: var(--red); }
+
+.row--clip .t {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+// ---------- index layout: big wordmark, list on the right ----------
+
+.index {
+  margin-left: var(--col);
+  padding-top: calc(var(--edge) + env(safe-area-inset-top, 0px));
+  padding-bottom: 160px;
+  padding-right: max(calc(var(--edge) + var(--date-room)), env(safe-area-inset-right, 0px));
+}
+
+.aside {
+  position: fixed;
+  z-index: 2;
+  width: calc(var(--col) - var(--edge) - 64px);
+  max-width: 34ch;
+  left: max(var(--edge), env(safe-area-inset-left, 0px));
+  top: 220px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+
+  p { margin: 0 0 10px; }
+  a { color: var(--fg); }
+  a:hover { color: var(--red); }
+}
+
+// ---------- small-wordmark header (every other page) ----------
+
+.top {
+  display: grid;
+  grid-template-columns: calc(var(--col) - var(--edge)) minmax(0, 1fr) auto;
+  align-items: start;
+  padding-top: calc(var(--edge) + env(safe-area-inset-top, 0px));
+  padding-left: max(var(--edge), env(safe-area-inset-left, 0px));
+  padding-right: max(var(--edge), env(safe-area-inset-right, 0px));
+}
+
+.top-mid {
+  padding-right: 48px;
+  min-width: 0;
+
+  p { margin: 0 0 8px; max-width: 58ch; }
+  .dim { color: var(--muted); }
+
+  a {
+    border-bottom: 1px solid var(--muted);
+    &:hover { color: var(--red); border-color: var(--red); }
+  }
+
+  // Neighbour rows are links themselves; no underline.
+  a.row { border-bottom: 0; }
+}
+
+.page {
+  padding-top: 88px;
+  padding-bottom: 180px;
+  padding-left: max(var(--edge), env(safe-area-inset-left, 0px));
+  padding-right: max(var(--edge), env(safe-area-inset-right, 0px));
+}
+
+// Left column / right column, used by reading pages and section pages.
+.split {
+  display: grid;
+  grid-template-columns: calc(var(--col) - var(--edge)) minmax(0, 1fr);
+
+  > .left {
+    position: sticky;
+    top: var(--edge);
+    align-self: start;
+    padding-right: 48px;
+  }
+
+  > .right { min-width: 0; }
+}

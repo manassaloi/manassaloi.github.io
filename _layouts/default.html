@@ -3,27 +3,11 @@
 
   {%- include head.html -%}
 
-  {%- assign is_home_layout = false -%}
-  {%- if page.layout == "home" -%}
-    {%- assign is_home_layout = true -%}
-  {%- endif -%}
-
-  <body class="layout-{{ page.layout | default: 'page' }}">
-
-    {%- unless is_home_layout -%}
-      {%- include header.html -%}
-    {%- endunless -%}
-
-    <main class="{% if is_home_layout %}home-content{% else %}page-content{% endif %}" aria-label="Content">
-      {%- if is_home_layout -%}
-        {{ content }}
-      {%- else -%}
-        <div class="wrapper">
-          {{ content }}
-        </div>
-      {%- endif -%}
-    </main>
-
+  <body class="layout-{{ page.layout | default: "page" }}">
+    {{ content }}
+    <div class="fade" aria-hidden="true"></div>
+    {%- include footer.html -%}
+    <script src="{{ "/assets/js/site.js" | relative_url }}" defer></script>
   </body>
 
 </html>
