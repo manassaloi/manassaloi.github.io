@@ -6,12 +6,6 @@
       "runtimeExecutable": "bundle",
       "runtimeArgs": ["exec", "jekyll", "serve", "--port", "4015", "--no-watch", "--skip-initial-build"],
       "port": 4015
-    },
-    {
-      "name": "mockup",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "4016", "--bind", "127.0.0.1", "--directory", "_redesign/site"],
-      "port": 4016
     }
   ]
 }

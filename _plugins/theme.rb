@@ -4,8 +4,9 @@
 # book-note titles and authors, mashed dates, each post's neighbours and older/newer links,
 # highlight counts, and the sections of Bookshelf, Proof of Work, Uses This and Links.
 #
-# The checklist of what this must produce is in _redesign/README.md ("Production checklist").
-# Reading time is plain Liquid in _layouts/post.html.
+# Nothing here is typed in by hand, so new and edited content stays correct on every build.
+# Reading time is plain Liquid in _layouts/post.html. The design reference this was ported from
+# (the _redesign/ mockup and its checklist) is in git history, in commit 8ed31e2.
 
 require "cgi"
 
