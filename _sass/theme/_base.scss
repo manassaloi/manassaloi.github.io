@@ -109,16 +109,17 @@ a:focus-visible {
 
 // ---------- footer nav ----------
 
-// The band behind the footer. It takes clicks, so half-hidden links scrolling underneath
-// can't be clicked by accident; pages pad their bottom so everything can scroll clear of it.
-.fade {
+// A plain band behind the footer, the page colour with a hard edge (no fade). It covers the footer
+// links' click targets and takes clicks, so links scrolling underneath can't be clicked by accident.
+// Pages pad their bottom so everything can scroll clear of it.
+.foot-band {
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
-  height: 120px;
+  height: 80px;
   z-index: 2;
-  background: linear-gradient(to top, var(--bg) 55%, transparent);
+  background: var(--bg);
 }
 
 .foot {

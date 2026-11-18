@@ -4,7 +4,7 @@
     {
       "name": "jekyll",
       "runtimeExecutable": "bundle",
-      "runtimeArgs": ["exec", "jekyll", "serve", "--port", "4015", "--no-watch", "--skip-initial-build"],
+      "runtimeArgs": ["exec", "jekyll", "serve", "--port", "4015", "--livereload"],
       "port": 4015
     }
   ]

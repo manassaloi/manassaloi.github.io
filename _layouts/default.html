@@ -5,7 +5,7 @@
 
   <body class="layout-{{ page.layout | default: "page" }}">
     {{ content }}
-    <div class="fade" aria-hidden="true"></div>
+    <div class="foot-band" aria-hidden="true"></div>
     {%- include footer.html -%}
     <script src="{{ "/assets/js/site.js" | relative_url }}?v={{ site.time | date: "%s" }}" defer></script>
   </body>
