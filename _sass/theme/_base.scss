@@ -1,12 +1,7 @@
-// Tokens, fonts, reset, and the pieces on every page: wordmark, live date, footer nav.
+// Tokens, reset, and the pieces on every page: wordmark, live date, footer nav.
+// The fonts are declared in assets/css/style.scss, which builds them into the stylesheet.
 
-@font-face {
-  font-family: "Gambarino";
-  src: url("/assets/fonts/gambarino.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
+@use "hover" as *;
 
 :root {
   --bg: #0a0a0a;
@@ -28,7 +23,15 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html {
+  // Paint the page colour before anything else loads (body's background only arrives with it).
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+  // Phones draw a grey box over a tapped link; it flashed over the footer on every tap.
+  -webkit-tap-highlight-color: transparent;
+  // Taps fire at once: no wait to see whether a second tap makes a double-tap zoom. Pinch zoom stays.
+  touch-action: manipulation;
+}
 
 body {
   margin: 0;
@@ -89,9 +92,12 @@ a:focus-visible {
 
 // ---------- live date ----------
 
+// The date is written in by a script right after this element (in _includes/header.html), before
+// the first paint. The reserved line keeps the page from moving even if that script is late.
 .now {
   color: var(--red);
   white-space: nowrap;
+  min-height: 1.4em;
 }
 
 .now--fixed {
@@ -126,18 +132,27 @@ a:focus-visible {
   padding-right: max(var(--edge), env(safe-area-inset-right, 0px));
   display: flex;
   justify-content: space-between;
+  // Nav labels are controls, not text to copy: a long press shouldn't start a text selection.
+  -webkit-user-select: none;
+  user-select: none;
 
   // Big click targets: padding grows each link to fill most of the band above it,
   // and the matching negative margin keeps the text exactly where it was.
   a {
     padding: 40px 16px 14px;
     margin: -40px -16px -14px;
-    transition: color 0.12s ease;
   }
 
-  a:hover,
+  // :active is the press on a phone: red the moment a finger lands, with no fade, matching the
+  // red the next page shows for its own link. (site.js adds the touch listener iOS needs for it.)
+  a:active,
   a:focus-visible,
   a[aria-current="page"] { color: var(--red); }
+
+  @include hover {
+    a { transition: color 0.12s ease; }
+    a:hover { color: var(--red); }
+  }
 
   a:focus-visible { outline-offset: -8px; }
 }

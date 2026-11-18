@@ -15,3 +15,16 @@
   <div class="now" data-now></div>
 </header>
 {%- endif -%}
+{%- comment -%}
+  Live date, day before month: "Wednesday, 18 Nov 2026". It runs right here, as the page is read,
+  so the date is in place for the first paint; filled in later, it pushed the page down on phones.
+  The order is set here; en-US only supplies the names (three-letter months, "Sep" not "Sept").
+{%- endcomment %}
+<script>
+  (() => {
+    const d = new Date();
+    const text = d.toLocaleDateString("en-US", { weekday: "long" }) + ", " + d.getDate() + " " +
+      d.toLocaleDateString("en-US", { month: "short" }) + " " + d.getFullYear();
+    document.querySelectorAll("[data-now]").forEach(el => (el.textContent = text));
+  })();
+</script>

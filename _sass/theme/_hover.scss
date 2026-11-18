@@ -1,0 +1,9 @@
+// Hover styles apply only to a precise pointer that can hover, like a mouse or trackpad.
+// A tap on a phone fakes a hover and leaves it stuck until the next tap, so ungated :hover rules
+// made links turn red (and fade) on the way out of every page. Usage:
+//   @include hover { a:hover { color: var(--red); } }
+@mixin hover {
+  @media (hover: hover) and (pointer: fine) {
+    @content;
+  }
+}

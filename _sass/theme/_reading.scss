@@ -1,6 +1,8 @@
 // Reading pages: blog posts and book notes share one type setting (Lilex at 14.5px, open leading,
 // about 62 characters a line).
 
+@use "hover" as *;
+
 // ---------- left column meta ----------
 
 .meta {
@@ -12,7 +14,7 @@
 
   time { letter-spacing: 0.08em; font-variant-numeric: tabular-nums; }
   a { color: var(--fg); }
-  a:hover { color: var(--red); }
+  @include hover { a:hover { color: var(--red); } }
   .gap { height: 10px; }
 }
 
@@ -63,7 +65,7 @@
   a {
     border-bottom: 1px solid var(--muted);
     transition: color 0.12s ease, border-color 0.12s ease;
-    &:hover { color: var(--red); border-color: var(--red); }
+    @include hover { &:hover { color: var(--red); border-color: var(--red); } }
   }
 
   strong { font-weight: 400; color: #fff; }
@@ -142,6 +144,6 @@
 
   a { color: var(--muted); max-width: 48%; }
   a span { color: var(--fg); display: block; margin-top: 2px; }
-  a:hover, a:hover span { color: var(--red); }
+  @include hover { a:hover, a:hover span { color: var(--red); } }
   .next { text-align: right; margin-left: auto; }
 }

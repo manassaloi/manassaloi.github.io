@@ -2,12 +2,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  {%- comment -%} Dark from the very first frame: the browser paints a dark canvas (and tints its own bars) before the stylesheet arrives, so a slow load never flashes white. {%- endcomment %}
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0a0a0a">
   {%- seo -%}
-  <link rel="preload" href="{{ "/assets/fonts/gambarino.woff2" | relative_url }}" as="font" type="font/woff2" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lilex:wght@400&display=swap">
-  {%- comment -%} ?v= is the build time, so each deploy gets a fresh link and browsers never pair a new page with cached old styles. {%- endcomment %}
+  {%- comment -%} The stylesheet carries both fonts (see assets/css/style.scss), so there are no font requests to wait on. ?v= is the build time, so each deploy gets a fresh link and browsers never pair a new page with cached old styles. {%- endcomment %}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}?v={{ site.time | date: "%s" }}">
   <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
   {%- feed_meta -%}

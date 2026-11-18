@@ -1,6 +1,8 @@
 // Page-specific pieces: the home sketch stage and the section pages
 // (Bookshelf, Proof of Work, Uses This, Links), where each section's name is pinned on the left.
 
+@use "hover" as *;
+
 // ---------- home ----------
 
 .layout-home {
@@ -86,7 +88,7 @@
     transition: color 0.12s ease;
   }
 
-  &:hover, &:hover .a { color: var(--red); }
+  @include hover { &:hover, &:hover .a { color: var(--red); } }
 }
 
 // ---------- uses this ----------
@@ -110,7 +112,7 @@
 
   &:last-child { border-bottom: 1px solid var(--line); }
   a { transition: color 0.12s ease; }
-  a:hover { color: var(--red); }
+  @include hover { a:hover { color: var(--red); } }
   .why { color: var(--muted); }
   .why a { border-bottom: 1px solid var(--muted); }
 }
@@ -147,7 +149,7 @@
 .role .desc a,
 .intro a {
   border-bottom: 1px solid var(--muted);
-  &:hover { color: var(--red); border-color: var(--red); }
+  @include hover { &:hover { color: var(--red); border-color: var(--red); } }
 }
 
 .ship {
@@ -161,7 +163,7 @@
   li { break-inside: avoid; padding: 2px 0 2px 14px; position: relative; }
   li::before { content: "·"; position: absolute; left: 2px; color: var(--muted); }
   a { color: var(--muted); font-size: 11px; margin-left: 4px; }
-  a:hover { color: var(--red); }
+  @include hover { a:hover { color: var(--red); } }
 }
 
 .intro {
@@ -191,5 +193,5 @@
 
   > * { margin: 0 0 1.15em; }
   a { border-bottom: 1px solid var(--muted); }
-  a:hover { color: var(--red); border-color: var(--red); }
+  @include hover { a:hover { color: var(--red); border-color: var(--red); } }
 }

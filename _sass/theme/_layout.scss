@@ -1,5 +1,7 @@
 // Page frames: list rows, the index layout, the small-wordmark header, and the left/right split.
 
+@use "hover" as *;
+
 // ---------- rows: date + title (posts, book notes, links, neighbours) ----------
 
 .row {
@@ -31,11 +33,14 @@
   }
 }
 
-a.row:hover,
-a.row:hover time,
-a.row:hover .a,
 .row[aria-current="page"],
 .row[aria-current="page"] time { color: var(--red); }
+
+@include hover {
+  a.row:hover,
+  a.row:hover time,
+  a.row:hover .a { color: var(--red); }
+}
 
 .row--clip .t {
   white-space: nowrap;
@@ -65,7 +70,7 @@ a.row:hover .a,
 
   p { margin: 0 0 10px; }
   a { color: var(--fg); }
-  a:hover { color: var(--red); }
+  @include hover { a:hover { color: var(--red); } }
 }
 
 // ---------- small-wordmark header (every other page) ----------
@@ -88,7 +93,7 @@ a.row:hover .a,
 
   a {
     border-bottom: 1px solid var(--muted);
-    &:hover { color: var(--red); border-color: var(--red); }
+    @include hover { &:hover { color: var(--red); border-color: var(--red); } }
   }
 
   // Neighbour rows are links themselves; no underline.

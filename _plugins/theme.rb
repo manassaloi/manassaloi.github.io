@@ -300,6 +300,14 @@ module ManasTheme
     def note_body(html)
       html.to_s.sub(PREFACE, "")
     end
+
+    # A woff2 file in the repo as a data URI, so assets/css/style.scss can carry the site's two
+    # fonts inside the stylesheet. Usage: {{ "assets/fonts/lilex.woff2" | font_data_uri }}
+    def font_data_uri(path)
+      site = @context.registers[:site]
+      file = File.join(site.source, path.to_s)
+      "data:font/woff2;base64,#{[File.binread(file)].pack('m0')}"
+    end
   end
 end
 
