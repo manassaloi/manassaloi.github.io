@@ -63,7 +63,7 @@
   .index {
     margin-left: 0;
     padding-top: 32px;
-    padding-bottom: 140px;
+    padding-bottom: calc(140px + env(safe-area-inset-bottom, 0px));
     padding-left: max(16px, env(safe-area-inset-left, 0px));
     padding-right: max(16px, env(safe-area-inset-right, 0px));
   }
@@ -93,7 +93,11 @@
   .career .what { margin-bottom: 8px; }
   .ship, .intro ul { columns: 1; }
 
-  .foot-band { height: 96px; }
+  // The band grows by the bottom safe area, the same amount the footer is lifted by, so it still
+  // covers both rows when iOS Safari collapses its toolbar. Desktop device emulation reports a zero
+  // inset, so the gap only shows on a real phone. Pages pad by the same amount to scroll clear of it.
+  .foot-band { height: calc(96px + env(safe-area-inset-bottom, 0px)); }
+  .page { padding-bottom: calc(180px + env(safe-area-inset-bottom, 0px)); }
 
   // Two rows of three. Each link fills its whole cell, so the target is a third of the width
   // and 44px tall (Apple's recommended touch size), with no overlap between rows.
