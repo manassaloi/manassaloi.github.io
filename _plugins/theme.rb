@@ -2,7 +2,7 @@
 
 # Works out everything the theme shows that isn't typed in by hand, on every build:
 # book-note titles and authors, mashed dates, each post's neighbours and older/newer links,
-# highlight counts, and the sections of Bookshelf, Proof of Work, Uses This and Links.
+# and the sections of Bookshelf, Proof of Work, Uses This and Links.
 #
 # Nothing here is typed in by hand, so new and edited content stays correct on every build.
 # Reading time is plain Liquid in _layouts/post.html. The design reference this was ported from
@@ -289,11 +289,9 @@ module ManasTheme
     end
   end
 
-  # Book-note filters. A highlight is a top-level paragraph, or a bullet directly inside a top-level list,
-  # matching how _sass/theme/_reading.scss numbers them.
+  # Book-note filters: pull the opening "**Note:** …" paragraph out as a preface.
   module Filters
     PREFACE = %r{\A\s*<p>(<strong>Note:?</strong>.*?)</p>}m.freeze
-    VOID = %w[area br col embed hr img input link meta param source track wbr].freeze
 
     def note_preface(html)
       html.to_s[PREFACE, 1]
@@ -301,26 +299,6 @@ module ManasTheme
 
     def note_body(html)
       html.to_s.sub(PREFACE, "")
-    end
-
-    def highlight_count(html)
-      stack = []
-      count = 0
-      html.to_s.scan(%r{<(/?)([a-zA-Z][a-zA-Z0-9]*)\b[^>]*?(/?)>}) do |closing, tag, self_closing|
-        tag = tag.downcase
-        next if VOID.include?(tag) || self_closing == "/"
-
-        if closing == "/"
-          index = stack.rindex(tag)
-          stack = stack[0...index] if index
-        else
-          top_paragraph = tag == "p" && stack.empty?
-          top_bullet = tag == "li" && stack.size == 1 && %w[ul ol].include?(stack.first)
-          count += 1 if top_paragraph || top_bullet
-          stack << tag
-        end
-      end
-      count
     end
   end
 end

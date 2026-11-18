@@ -1,5 +1,5 @@
 // Reading pages: blog posts and book notes share one type setting (Lilex at 14.5px, open leading,
-// about 62 characters a line). Book notes add numbered highlights in the margin.
+// about 62 characters a line).
 
 // ---------- left column meta ----------
 
@@ -112,43 +112,16 @@
 
 // ---------- book note highlights ----------
 // A highlight is a plain paragraph or a top-level bullet, depending on how the note was written.
-// Both get the same number in the margin. --gutter sets how far the number sits outside the text.
+// Both read as plain paragraphs: the top-level bullets lose their markers.
 
 .clips {
-  --gutter: 56px;
-  counter-reset: hl;
-
   > ul, > ol { list-style: none; padding-left: 0; }
-
-  > p,
-  > ul > li,
-  > ol > li {
-    position: relative;
-    counter-increment: hl;
-  }
 
   > ul > li,
   > ol > li { margin: 0 0 1.15em; }
 
   > ul > li:last-child,
   > ol > li:last-child { margin-bottom: 0; }
-
-  > p::before,
-  > ul > li::before,
-  > ol > li::before {
-    content: counter(hl, pad3);
-    position: absolute;
-    left: calc(-1 * var(--gutter));
-    top: 0.3em;
-    font-size: 10.5px;
-    letter-spacing: 0.08em;
-    color: var(--muted);
-    font-variant-numeric: tabular-nums;
-  }
-
-  > p:hover::before,
-  > ul > li:hover::before,
-  > ol > li:hover::before { color: var(--red); }
 
   // A real list inside a highlight keeps small dots.
   li ul, li ol { list-style: disc; padding-left: 1.2em; margin: 0.6em 0; }

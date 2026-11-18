@@ -8,12 +8,6 @@
   font-display: swap;
 }
 
-// Zero-padded highlight numbers in book notes: 001, 002…
-@counter-style pad3 {
-  system: extends decimal;
-  pad: 3 "0";
-}
-
 :root {
   --bg: #0a0a0a;
   --fg: #e5dece;

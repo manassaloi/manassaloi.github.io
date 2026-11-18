@@ -20,8 +20,6 @@
   .meta { flex-direction: row; flex-wrap: wrap; gap: 6px 18px; }
   .meta .gap { display: none; }
   .sec-label h2 { max-width: none; }
-
-  .clips { --gutter: 40px; margin-left: 40px; }
 }
 
 // ---------- phone ----------
@@ -86,7 +84,7 @@
 
   .post h1, .note h1 { font-size: 44px; }
   .prose { font-size: 14px; }
-  .clips { --gutter: 34px; margin-left: 34px; font-size: 14px; }
+  .clips { font-size: 14px; }
 
   .sec-label h2 { font-size: 36px; }
   .sec + .sec { margin-top: 64px; }

@@ -3,7 +3,7 @@ layout: default
 ---
 {%- comment -%}
   Blog posts and book notes. Neighbours, older/newer, the book title split and date_mash come from
-  _plugins/theme.rb. Book notes number their highlights in the margin (_sass/theme/_reading.scss).
+  _plugins/theme.rb.
 {%- endcomment -%}
 {%- capture neighbours -%}
   {%- for n in page.neighbours -%}
@@ -29,7 +29,6 @@ layout: default
         {%- if page.book_author != "" %}
         <span>{{ page.book_author | escape }}</span>
         {%- endif %}
-        <span>{{ body | highlight_count }} highlights</span>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_mash }}</time>
         <span class="gap"></span>
         <a href="{{ "/booksummaries/" | relative_url }}">← All book notes</a>
