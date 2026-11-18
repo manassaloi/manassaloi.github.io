@@ -136,24 +136,27 @@ a.row:hover,a.row:hover time,a.row:hover .a,.row[aria-current="page"],.row[aria-
   font-size:64px;line-height:.95;letter-spacing:-.035em;margin:-6px 0 48px;
   max-width:13em;text-wrap:balance;
 }
-.prose{font-family:var(--display);font-size:21px;line-height:1.5;max-width:30em;color:var(--fg)}
-.prose > *{margin:0 0 .85em}
+/* Post body uses the same type as book notes: Lilex at 14.5px, open leading, ~62 characters a line. */
+.prose{font-family:var(--mono);font-size:14.5px;line-height:1.72;max-width:62ch;color:var(--fg)}
+.prose > *{margin:0 0 1.15em}
 .prose a{border-bottom:1px solid var(--muted);transition:color .12s ease,border-color .12s ease}
 .prose a:hover{color:var(--red);border-color:var(--red)}
-.prose strong{font-weight:400;color:#fff;font-synthesis:none;text-decoration:underline;text-decoration-color:var(--muted);text-underline-offset:4px}
+.prose strong{font-weight:400;color:#fff}
 .prose em{font-style:italic}
 .prose ul,.prose ol{padding-left:0;list-style:none}
-.prose li{position:relative;padding-left:1.6em;margin-bottom:.55em}
+.prose li{position:relative;padding-left:3ch;margin-bottom:.8em}
 .prose ul > li::before{content:"—";position:absolute;left:0;color:var(--muted)}
 .prose ol{counter-reset:li}
 .prose ol > li{counter-increment:li}
-.prose ol > li::before{content:counter(li);position:absolute;left:0;color:var(--muted);font-family:var(--mono);font-size:12px;top:.45em}
-.prose li ul,.prose li ol{margin-top:.55em}
-.prose h2,.prose h3,.prose h4{font-family:var(--mono);font-weight:400;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:2.2em 0 .9em}
-.prose blockquote{margin-left:0;padding-left:1em;border-left:1px solid var(--red);color:var(--fg);font-style:italic}
+.prose ol > li::before{content:counter(li) ".";position:absolute;left:0;color:var(--muted)}
+.prose li ul,.prose li ol{margin-top:.8em}
+.prose li > p{margin:0 0 .8em}
+.prose li > p:last-child{margin-bottom:0}
+.prose h2,.prose h3,.prose h4{font-family:var(--mono);font-weight:400;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--red);margin:2.6em 0 1em}
+.prose blockquote{margin-left:0;padding-left:1em;border-left:1px solid var(--red);color:var(--fg)}
 .prose img{display:block;max-width:100%;height:auto;margin:1.4em 0}
 .prose picture{display:block}
-.prose code{font-family:var(--mono);font-size:.7em;color:var(--fg);background:var(--line);padding:.1em .35em}
+.prose code{font-family:var(--mono);font-size:.95em;color:var(--fg);background:var(--line);padding:.1em .35em}
 .prose pre{font-family:var(--mono);font-size:13px;line-height:1.5;background:var(--line);padding:16px;overflow-x:auto}
 .prose pre code{background:none;padding:0;font-size:inherit}
 .prose table{border-collapse:collapse;font-family:var(--mono);font-size:13px;display:block;overflow-x:auto}
@@ -292,7 +295,7 @@ a.row:hover,a.row:hover time,a.row:hover .a,.row[aria-current="page"],.row[aria-
   .home{overflow:auto;height:auto}
   .stage{position:relative;left:auto;right:auto;top:auto;bottom:auto;height:56vh;margin:28px max(16px,env(safe-area-inset-right,0px)) 0 max(16px,env(safe-area-inset-left,0px))}
   .post h1,.note h1{font-size:44px}
-  .prose{font-size:19px}
+  .prose{font-size:14px}
   .sec-label h2{font-size:36px}
   .sec + .sec{margin-top:64px}
   .gear{grid-template-columns:minmax(0,1fr)}
