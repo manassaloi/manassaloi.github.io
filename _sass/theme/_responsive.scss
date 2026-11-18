@@ -86,12 +86,15 @@
 
   .fade { height: 130px; }
 
+  // Two rows of three. Each link fills its whole cell, so the target is a third of the width
+  // and 44px tall (Apple's recommended touch size), with no overlap between rows.
   .foot {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    row-gap: 8px;
-    bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+    row-gap: 0;
+    bottom: calc(2px + env(safe-area-inset-bottom, 0px));
 
+    a { display: block; padding: 12px 0; margin: 0; }
     a:nth-child(3n + 2) { text-align: center; }
     a:nth-child(3n) { text-align: right; }
   }
