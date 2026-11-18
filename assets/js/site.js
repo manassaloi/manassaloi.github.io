@@ -1,21 +1,3 @@
-// Big wordmark: letters rise in one after another (index pages only).
-(() => {
-  let n = 0;
-  document.querySelectorAll(".mark--big span, .mark--big i").forEach(el => {
-    [...el.childNodes].forEach(node => {
-      if (node.nodeType !== 3) return;
-      const frag = document.createDocumentFragment();
-      for (const ch of node.textContent) {
-        const b = document.createElement("b");
-        b.textContent = ch;
-        b.style.animationDelay = (n++ * 35) + "ms";
-        frag.appendChild(b);
-      }
-      node.replaceWith(frag);
-    });
-  });
-})();
-
 // Live date, top right.
 (() => {
   const d = new Date();

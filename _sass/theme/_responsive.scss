@@ -29,11 +29,23 @@
 @media (max-width: 760px) {
   :root { --edge: 16px; }
 
-  .mark--big {
+  // Same size on every page here too: 64px, as on the home page.
+  .mark { font-size: 64px; --mark-lift: 0px; }
+
+  .mark--fixed {
     position: static;
-    font-size: 64px;
     padding: calc(16px + env(safe-area-inset-top, 0px)) 0 0 max(16px, env(safe-area-inset-left, 0px));
   }
+
+  // Inner pages: date under the name, as on the index pages, then the page's own intro.
+  .top {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0;
+
+    .now { grid-column: 1; grid-row: 2; justify-self: start; margin-top: 14px; }
+  }
+
+  .top-mid { grid-row: 3; margin-top: 28px; }
 
   .now--fixed {
     position: static;
@@ -101,6 +113,5 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .mark--big b { animation: none; }
   * { transition: none !important; }
 }

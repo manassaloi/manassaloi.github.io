@@ -1,15 +1,16 @@
 {%- comment -%}
-  Two modes.
-  big=true: the big fixed wordmark and fixed date, for index pages (home, posts, book notes).
-  Otherwise: the small-wordmark header. `mid` fills the middle column (neighbouring posts, or the
+  Two modes. The wordmark is the same size in both.
+  big=true: the wordmark and date stay fixed while the list scrolls, for index pages (home, posts, book notes).
+  Otherwise: a header that scrolls with the page. `mid` fills the middle column (neighbouring posts, or the
   page's name and intro); `mid_class` adds a class to it.
 {%- endcomment -%}
+{%- capture wordmark -%}<span>manas j</span><span><i>saloi</i>.</span>{%- endcapture -%}
 {%- if include.big -%}
-<a class="mark mark--big" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home"><span>manas</span><span><i>saloi</i>.</span></a>
+<a class="mark mark--fixed" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home">{{ wordmark }}</a>
 <div class="now now--fixed" data-now></div>
 {%- else -%}
 <header class="top">
-  <a class="mark mark--small" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home"><span>manas</span><span><i>saloi</i>.</span></a>
+  <a class="mark mark--header" href="{{ "/" | relative_url }}" aria-label="{{ site.title | escape }}, home">{{ wordmark }}</a>
   <div class="top-mid {{ include.mid_class }}">{{ include.mid }}</div>
   <div class="now" data-now></div>
 </header>
