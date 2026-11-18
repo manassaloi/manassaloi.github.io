@@ -1,31 +1,77 @@
 ---
 layout: default
 ---
-<div class="letter-container">
-  <div class="letter-paper">
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+{%- comment -%}
+  Blog posts and book notes. Neighbours, older/newer, the book title split and date_mash come from
+  _plugins/theme.rb. Book notes number their highlights in the margin (_sass/theme/_reading.scss).
+{%- endcomment -%}
+{%- capture neighbours -%}
+  {%- for n in page.neighbours -%}
+    {%- include row.html url=n.url date=n.date title=n.title author=n.author current=n.current clip=true -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include header.html mid=neighbours mid_class="neighbours" -%}
 
-      <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-meta">
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ page.date | date: date_format }}
-          </time>
-          {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-          {%- endif -%}</p>
-      </header>
+{%- if page.is_book -%}
+  {%- assign body = content | note_body -%}
+  {%- assign preface = content | note_preface -%}
+{%- else -%}
+  {%- assign words = content | strip_html | number_of_words -%}
+  {%- assign minutes = words | plus: 115 | divided_by: 230 | at_least: 1 -%}
+{%- endif -%}
 
-      <div class="post-content e-content" itemprop="articleBody">
-        {{ content }}
+<main class="page">
+  <div class="split">
+    <div class="left">
+      <div class="meta">
+        {%- if page.is_book %}
+        <span>Book notes</span>
+        {%- if page.book_author != "" %}
+        <span>{{ page.book_author | escape }}</span>
+        {%- endif %}
+        <span>{{ body | highlight_count }} highlights</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_mash }}</time>
+        <span class="gap"></span>
+        <a href="{{ "/booksummaries/" | relative_url }}">← All book notes</a>
+        {%- else %}
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_mash }}</time>
+        <span>{{ minutes }} min read</span>
+        <span class="gap"></span>
+        <a href="{{ "/posts/" | relative_url }}">← All posts</a>
+        {%- endif %}
       </div>
+    </div>
 
-      {%- if site.disqus.shortname -%}
-        {%- include disqus_comments.html -%}
-      {%- endif -%}
+    <div class="right">
+      <article class="{% if page.is_book %}note{% else %}post{% endif %} h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        {%- if page.is_book %}
+        <h1 class="p-name" itemprop="name headline">{{ page.book_title | escape }}</h1>
+        {%- if page.book_author != "" %}
+        <p class="by">{{ page.book_author | escape }}</p>
+        {%- endif %}
+        {%- if preface %}
+        <p class="preface">{{ preface }}</p>
+        {%- endif %}
+        <div class="clips e-content" itemprop="articleBody">{{ body }}</div>
+        {%- else %}
+        <h1 class="p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <div class="prose e-content" itemprop="articleBody">{{ content }}</div>
+        {%- endif %}
 
-      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-    </article>
+        {%- if site.disqus.shortname -%}
+          {%- include disqus_comments.html -%}
+        {%- endif %}
+
+        <nav class="pager" aria-label="More">
+          {%- if page.older %}
+          <a class="prev" href="{{ page.older.url | relative_url }}">← Older<span>{{ page.older.title | escape }}</span></a>
+          {%- endif %}
+          {%- if page.newer %}
+          <a class="next" href="{{ page.newer.url | relative_url }}">Newer →<span>{{ page.newer.title | escape }}</span></a>
+          {%- endif %}
+        </nav>
+        <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+      </article>
+    </div>
   </div>
-</div>
+</main>

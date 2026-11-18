@@ -1,11 +1,13 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="footer-heading">Powered by <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/jekyll/minima">Minima</a>. © Manas J Saloi.</p>
-      </div>
-    </div>
-  </div>
-</footer>
+{%- comment -%}
+  Footer nav, pinned to the bottom of every page. Links come from `nav` in _config.yml.
+  Posts and book notes count as their section. On the home page each link carries its sketch.
+{%- endcomment -%}
+{%- assign here = page.url -%}
+{%- if page.layout == "post" -%}
+  {%- if page.is_book -%}{%- assign here = "/booksummaries/" -%}{%- else -%}{%- assign here = "/posts/" -%}{%- endif -%}
+{%- endif -%}
+<nav class="foot" aria-label="Site">
+  {%- for item in site.nav %}
+  <a href="{{ item.url | relative_url }}"{% if item.url == here %} aria-current="page"{% endif %}{% if page.layout == "home" %} data-sketch="{{ item.sketch }}"{% endif %}>{{ item.label }}</a>
+  {%- endfor %}
+</nav>

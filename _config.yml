@@ -17,7 +17,9 @@ title: Manas J. Saloi
 # email: your-email@example.com
 description: Hi, I am Manas J Saloi. As an engineer turned product manager and now head of product, I've built products used by millions of people across South East Asia. I am based out of Bengaluru.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Set explicitly: the GitHub Actions build does not fill it in the way the old Pages build did,
+# and the RSS feed, sitemap and social previews need full links. `jekyll serve` uses localhost instead.
+url: "https://manassaloi.com"
 twitter_username: manasjsaloi
 github_username:  manassaloi
 
@@ -31,14 +33,22 @@ twitter:
   username: manas_saloi
   card: summary_large_image
 
+# Footer nav, on every page. `sketch` is the home-page drawing in assets/img/home/ shown on hover.
+nav:
+  - { label: "Posts", url: "/posts/", sketch: "tile-1" }
+  - { label: "Book Notes", url: "/booksummaries/", sketch: "tile-4" }
+  - { label: "Bookshelf", url: "/bookshelf/", sketch: "tile-2" }
+  - { label: "Proof of Work", url: "/proofofwork/", sketch: "tile-6" }
+  - { label: "Uses This", url: "/usesthis/", sketch: "tile-3" }
+  - { label: "Links", url: "/links/", sketch: "tile-5" }
+
 # Build settings
+# Built by GitHub Actions (.github/workflows/pages.yml), so _plugins/ runs in production too.
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -52,16 +62,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-
-incremental: true
 liquid:
   error_mode: strict
   strict_filters: true

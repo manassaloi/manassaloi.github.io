@@ -19,12 +19,7 @@ categories: booksummaries
 
 **NEGOTIATE	STYLE	AND	STRUCTURE,	NOT	JUST	THE	SUBSTANCE**
 
-+ The	breakthrough	came	when	we	noticed	a	flaw	in	how	we	were	going	about	the	discussion:	we
-were	stuck	negotiating	royalty	rates	in	one	dimension	( over	time),	 when	 our	 differing	 perspectives
-made	clear	that	two	dimensions	were	in	play:	the	passage	of	 time	and	the	quantity	of	 sales.	 Maybe
-we	 could	 leverage	 this	 to	 create	 a	 royalty	 schedule	 that	 went	 both	 up	 and	 down.	 If	 the	 other	 side
-needed	to	show	rates	going	down	over	time,	perhaps	we	could	accommodate	this	and	still	safeguard
-our	financial	interests	when	the	product	sold	more.
++ The	breakthrough	came	when	we	noticed	a	flaw	in	how	we	were	going	about	the	discussion:	we were	stuck	negotiating	royalty	rates	in	one	dimension	( over	time),	 when	 our	 differing	 perspectives made	clear	that	two	dimensions	were	in	play:	the	passage	of	 time	and	the	quantity	of	 sales.	 Maybe we	 could	 leverage	 this	 to	 create	 a	 royalty	 schedule	 that	 went	 both	 up	 and	 down.	 If	 the	 other	 side needed	to	show	rates	going	down	over	time,	perhaps	we	could	accommodate	this	and	still	safeguard our	financial	interests	when	the	product	sold	more.
 
 **PAY	ATTENTION	TO	THE	OPTICS	OF	THE	DEAL**
 
@@ -55,13 +50,9 @@ our	financial	interests	when	the	product	sold	more.
 + Don’t	let	any	single	issue	become	too	prominent.	Educate	your	audiences	about	how	to
  measure	success,	and	limit	the	amount	of	attention	given	to	any	one	issue.
 
-+ There	is	another	strategy	for	avoiding	a	win/lose	outcome:	split	the	one	issue	into	two
-or	more.	This	is	what	the	NFL	negotiators	did	by	splitting	one	revenue	number	into	three	separate	revenue
-“buckets.
++ There	is	another	strategy	for	avoiding	a	win/lose	outcome:	split	the	one	issue	into	two or	more.	This	is	what	the	NFL	negotiators	did	by	splitting	one	revenue	number	into	three	separate	revenue “buckets.
 
-+ It	may	be	possible	for	both	sides	to	meet	their	underlying	interests	(getting	a	higher
-raise,	staying	within	budget),	but	this	will	only	happen	if	they	stop	arguing	about	“what	they	want,”
-and	 start	 discussing	 their	 motivations	 for	 “why	 they	 want	 it.”	 This	 is	 referred	 to	 as	 shifting	 from
++ It	may	be	possible	for	both	sides	to	meet	their	underlying	interests	(getting	a	higher raise,	staying	within	budget),	but	this	will	only	happen	if	they	stop	arguing	about	“what	they	want,” and	 start	 discussing	 their	 motivations	 for	 “why	 they	 want	 it.”	 This	 is	 referred	 to	 as	 shifting	 from
  positions	 (what	 people	 want)	 to	  interests	 (why	 they	 want	 it).
 
 + Be	as	firm	as	needed	on	substance;	be	as	flexible	as	possible	on	style	and	structure.
@@ -81,9 +72,7 @@ and	 start	 discussing	 their	 motivations	 for	 “why	 they	 want	 it
 
 + Present	your	proposal	as	the	default	option	to	boost	its	appropriateness.
 
-+ There	 is	 a	 clear	 advantage	 to	 being	 the	 party	 who	 presents	 the	 initial draft	or	whose	standard	contract	will	be	used	as	the	template	for	the	deal.	In	my	experience,	many	items
-that	reside	in	boilerplates—even	some	important	provisions	that	have	a	substantive	impact	on	the	value	of
-the	 deal—often	 go	 unchallenged	 or,	 because	 they	 are	 included	 in	 the	 standard	 contract,	 are	 not	 haggled over	as	aggressively	as	they	would	be	had	they	only	been	proposed	orally	by	the	other	side.
++ There	 is	 a	 clear	 advantage	 to	 being	 the	 party	 who	 presents	 the	 initial draft	or	whose	standard	contract	will	be	used	as	the	template	for	the	deal.	In	my	experience,	many	items that	reside	in	boilerplates—even	some	important	provisions	that	have	a	substantive	impact	on	the	value	of the	 deal—often	 go	 unchallenged	 or,	 because	 they	 are	 included	 in	 the	 standard	 contract,	 are	 not	 haggled over	as	aggressively	as	they	would	be	had	they	only	been	proposed	orally	by	the	other	side.
 
 + As	with	other	factors that	 influence	 framing,	 the	 longer	 a	 default	 persists,	 the	 harder	 it	 is	 to	 change.	 
 
@@ -123,8 +112,7 @@ the	 deal—often	 go	 unchallenged	 or,	 because	 they	 are	 included	�
   * If	the	negotiations	end	in	no	deal,	when	and	how	might	parties	reengage?
   * Who	are	the	parties	that	need	to	ratify	the	deal,	and	how	much	support	is	sufficient	for	passage?
   * In most	 negotiations,	 some	 or	 many	 of	 these	 factors	 will	 be	 predetermined,	 or	 there	 may	 be	 a
-default	 process	 in	 place	 due	 to	 precedent	 or	 the	 actions	 of	 other	 parties.	 But	 as	 we	 have	 seen,
-defaults need	not	be	blindly	accepted—they	can	be	reset	to	great	advantage.
+default	 process	 in	 place	 due	 to	 precedent	 or	 the	 actions	 of	 other	 parties.	 But	 as	 we	 have	 seen, defaults need	not	be	blindly	accepted—they	can	be	reset	to	great	advantage.
   * Have	a	process	strategy:	how	will	you	get	from	where	you	are	today	to	where	you	want to	 be? Consider	 the	 factors	 that	 influence	 whether,	 when,	 and	 how	 substantive negotiations	will	occur.
 
 + A	 process	 strategy	 for	 deal	 making	 is	 not	 enough—you	 also	 have	 to	 strategize	the implementation	process.	What	will	be	required	for	successful	implementation?
@@ -143,8 +131,7 @@ defaults need	not	be	blindly	accepted—they	can	be	reset	to	great	advantage.
 
 + The	risk	of	reneging	is	lower	when	commitments	are	personal,	explicit,	unambiguous, and	public.
 
-+ These	 are	 five	 very	 important	 elements	 to	 consider	 before	 disengaging	 on	 the	 basis	 of	 process
-conflict:
++ These	 are	 five	 very	 important	 elements	 to	 consider	 before	 disengaging	 on	 the	 basis	 of	 process conflict:
   * Can	we	be	sure	it	was	a	breach,	or	does	the	other	side	have	reasons	to	see	things	differently?
   * Do	we	bring	sufficient	value	to	the	table,	and	does	the	other	party	understand	this?
   * Can	we	justify	our	actions	on	the	basis	of	acceptable	principles?
@@ -218,12 +205,7 @@ conflict:
 
 + What	 is	 not	 negotiable	 today	 may	 be	 negotiable	 tomorrow.	 Think	 about	 how	 to	 shape incentives	 and	 options	 for	 all	 sides	 to	 make	 future	 attempts	 at	 negotiation	 more successful.
 
-+ Ibn	 Saud	 decided	 that	 the	 only	 way	 to	 tackle	 religiously	 expressed	 objections	 would	 be	  through
-religion	itself,	not	by	going	around	it.	So,	he	invited	a	group	of	religious	leaders	to	the	palace	and	asked
-one	to	hold	a	microphone	while	another	was	asked	to	stand	at	the	receiving	end	of	the	technology.	He	then
-asked	the	first	to	read	a	passage	from	the	Quran,	the	Muslim	holy	book.	As	the	voice	was	carried	over	to
-the	speaker	on	the	other	end,	Ibn	Saud	made	the	argument	that	would	win	the	debate:	if	this	machine	were
-the	work	of	the	devil,	how	could	it	possibly	carry	the	words	of	the	Quran?
++ Ibn	 Saud	 decided	 that	 the	 only	 way	 to	 tackle	 religiously	 expressed	 objections	 would	 be	  through religion	itself,	not	by	going	around	it.	So,	he	invited	a	group	of	religious	leaders	to	the	palace	and	asked one	to	hold	a	microphone	while	another	was	asked	to	stand	at	the	receiving	end	of	the	technology.	He	then asked	the	first	to	read	a	passage	from	the	Quran,	the	Muslim	holy	book.	As	the	voice	was	carried	over	to the	speaker	on	the	other	end,	Ibn	Saud	made	the	argument	that	would	win	the	debate:	if	this	machine	were the	work	of	the	devil,	how	could	it	possibly	carry	the	words	of	the	Quran?
 
 + Sometimes	the	best	response	to	a	deep-rooted	perspective	is	to	yield	to	it:	understand	it, adopt	it,	and	repurpose	it	to	advance	your	position.
 
@@ -244,27 +226,15 @@ the	work	of	the	devil,	how	could	it	possibly	carry	the	words	of	the	Quran?
 
 **ICAP	ANALYSIS:	INTERESTS,	CONSTRAINTS,	ALTERNATIVES,	AND	PERSPECTIVE**
 
-+ **Interests:**	What	do	the	other	parties	value?	What	do	they	want	and	why?	What	are	their	relative
-priorities?	Why	are	they	doing	this	deal?	Why	now	rather	than	last	month	or	next	year?	What	do	they
-worry	 about?	 What	 objectives	 are	 they	 trying	 to	 achieve	 with	 this	 negotiation?	 Are	 their	 interests
-likely	to	change	over	time?	If	so,	how?  
++ **Interests:**	What	do	the	other	parties	value?	What	do	they	want	and	why?	What	are	their	relative priorities?	Why	are	they	doing	this	deal?	Why	now	rather	than	last	month	or	next	year?	What	do	they worry	 about?	 What	 objectives	 are	 they	 trying	 to	 achieve	 with	 this	 negotiation?	 Are	 their	 interests likely	to	change	over	time?	If	so,	how?  
 
-+ **Constraints:**	What	are	the	things	they	can	and	cannot	do?	On	which	issues	do	they	have	more	or
-less	 flexibility?	 On	 which	 issues	 are	 their	 hands	 completely	 tied?	 What	 is	 causing	 them	 to	 be
-constrained?	How	might	their	constraints	change	over	time?	Are	there	other	parties	with	whom	we
-might	negotiate	on	their	side	who	would	be	less	constrained?  
++ **Constraints:**	What	are	the	things	they	can	and	cannot	do?	On	which	issues	do	they	have	more	or less	 flexibility?	 On	 which	 issues	 are	 their	 hands	 completely	 tied?	 What	 is	 causing	 them	 to	 be constrained?	How	might	their	constraints	change	over	time?	Are	there	other	parties	with	whom	we might	negotiate	on	their	side	who	would	be	less	constrained?  
 
-+ **Alternatives:**	What	happens	to	them	if	there	is	no	deal?	Are	their	outside	options	strong	or	weak?
-Are	 their	 alternatives	 likely	 to	 improve	 or	 deteriorate	 over	 time?	 How	 might	 their	 alternatives	 be
-shaped?  
++ **Alternatives:**	What	happens	to	them	if	there	is	no	deal?	Are	their	outside	options	strong	or	weak? Are	 their	 alternatives	 likely	 to	 improve	 or	 deteriorate	 over	 time?	 How	 might	 their	 alternatives	 be shaped?  
 
-+ **Perspective:**	How	are	they	seeing	this	deal?	What	is	their	mind-set?	Where	does	this	negotiation
-fit	into	the	portfolio	of	deals	they	are	doing?	Is	this	a	high	or	low	priority	for	them?	Are	they	thinking
-strategically	 or	 tactically?	 Long-term	 or	 short-term?	 Is	 this	 negotiation	 occupying	 a	 large	 or	 small
-portion	of	their	organization’s	attention?
++ **Perspective:**	How	are	they	seeing	this	deal?	What	is	their	mind-set?	Where	does	this	negotiation fit	into	the	portfolio	of	deals	they	are	doing?	Is	this	a	high	or	low	priority	for	them?	Are	they	thinking strategically	 or	 tactically?	 Long-term	 or	 short-term?	 Is	 this	 negotiation	 occupying	 a	 large	 or	 small portion	of	their	organization’s	attention?
 
-+ When	 it	 comes	 to	 evaluating	 the	 action	 away	 from	 the	 table	 and	 how	 it	 can	 influence	 the
-negotiation,	there	are	three	assessments	worth	making:
++ When	 it	 comes	 to	 evaluating	 the	 action	 away	 from	 the	 table	 and	 how	 it	 can	 influence	 the negotiation,	there	are	three	assessments	worth	making:
   * Static	Assessment:	How	does	the	 existence	of	third	parties	influence	the	interests,	constraints,	alternatives,	and	perspectives	of	all parties	in	the	negotiation?
   * Dynamic	Assessment:	 How	 is	 third-party	 influence	  changing	 over	 time?	 That	 is,	 are	 the	 other	 side’s	 alternatives	 improving	 or worsening?	Are	constraints	tightening	or	loosening?	Are	interests	evolving?
   * Strategic	Assessment:	How	might	we	engage	with	third	parties	to	 influence	the	negotiation?	Might	they	be	willing	to	put	pressure on	 the	 other	 side?	 Might	 they	 agree	 to	 subsidize	 the	 deal?	 Would	 doing	 a	 deal	 with	 a	 third	 party	 change	 the	 power	 dynamics	 in	 our favor?
@@ -291,7 +261,4 @@ negotiation,	there	are	three	assessments	worth	making:
 
 **SUMMARY**  
 
-Control	the frame, be	 mindful	 of	 the	 optics help	 the	 other	 side	 save	 face,	 have	 a	 process	 strategy,	 negotiate
-process	 before	 substance,	 normalise	 the	 process,	 lower	 the	 bar	 for	 progress,	 stay	 at	 the	 table,
-empathise,	 create	 slack,	 work	 the	 whole	 body,	 map	 out	 the	 negotiation	 space,	 seek	 greater
-understanding,	create	value,	and	so	on
+Control	the frame, be	 mindful	 of	 the	 optics help	 the	 other	 side	 save	 face,	 have	 a	 process	 strategy,	 negotiate process	 before	 substance,	 normalise	 the	 process,	 lower	 the	 bar	 for	 progress,	 stay	 at	 the	 table, empathise,	 create	 slack,	 work	 the	 whole	 body,	 map	 out	 the	 negotiation	 space,	 seek	 greater understanding,	create	value,	and	so	on

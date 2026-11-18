@@ -51,11 +51,9 @@ categories: booksummaries
 
 	Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector.
 
-Oh la la, one is intended to merrily note, is Nelson Mandela really an eight-hundred-year-old demigod and a dildo collector?
-Oh la la, I note, even if one sets a series comma, as in: Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod, and a dildo collector.
+Oh la la, one is intended to merrily note, is Nelson Mandela really an eight-hundred-year-old demigod and a dildo collector? Oh la la, I note, even if one sets a series comma, as in: Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod, and a dildo collector.
 
-Mandela can still be an eight-hundred-year-old demigod.
-Some sentences don’t need to be repunctuated; they need to be rewritten.
+Mandela can still be an eight-hundred-year-old demigod. Some sentences don’t need to be repunctuated; they need to be rewritten.
 
 - Exception to the rule: An ampersand in a series rather than an “and”—this sort of thing tends to turn up in book or film titles, the names of law firms (and other companies that want to invest themselves with the cachet of law firms), and nowhere else, but it’s a thing to know—negates the necessity of a series comma, mostly because the result would be unsightly. Thus, oh, say:
 
@@ -70,8 +68,7 @@ Eats, Shoots, & Leaves
 
 In June Truman’s secretary of state flew to Moscow.
 
-Lest you want your reader wondering who June Truman is and what precisely got into her secretary of state.
-Or take note of the sentence above I initially composed as beginning, “On arrival at Random House I was informed,” which might set you, if only for a millisecond, to speculating about Random House II and Random House III
+Lest you want your reader wondering who June Truman is and what precisely got into her secretary of state. Or take note of the sentence above I initially composed as beginning, “On arrival at Random House I was informed,” which might set you, if only for a millisecond, to speculating about Random House II and Random House III
 
 - Sometimes a comma makes no sense at all.
 
@@ -86,8 +83,7 @@ Makes it all rather less sudden, doesn’t it.
 
 She did look helpless, I almost didn’t blame him for smiling at her that special way.
 
-As a rule you should avoid comma splicing, though exceptions can be and frequently are made when the individual sentences are reasonably short and intimately connected: “He came, he saw, he conquered” or “Your strengths are your weaknesses, your weaknesses are your strengths.” Another exception arises in fiction or fictionlike writing in which such a splice may be effective in linking closely related thoughts or expressing hurried action and even a semicolon—more on the glorious semicolon below—is more pause than is desired.
-Another thin-air example, from Walter Baxter’s undeservedly obscure 1951 novel Look Down in Mercy:
+As a rule you should avoid comma splicing, though exceptions can be and frequently are made when the individual sentences are reasonably short and intimately connected: “He came, he saw, he conquered” or “Your strengths are your weaknesses, your weaknesses are your strengths.” Another exception arises in fiction or fictionlike writing in which such a splice may be effective in linking closely related thoughts or expressing hurried action and even a semicolon—more on the glorious semicolon below—is more pause than is desired. Another thin-air example, from Walter Baxter’s undeservedly obscure 1951 novel Look Down in Mercy:
 
 He had never noticed [the sunset] before, it seemed fantastically beautiful.
 
@@ -99,8 +95,7 @@ over
 
 I’ll meet you in the bar, Charlie.
 
-Right?
-And so it goes with “Good afternoon, Mabel,” “I live to obey, Your Majesty,” “Please don’t toss me into the hoosegow, Your Honor,” and “I’ll get you, my pretty, and your little dog too.”
+Right? And so it goes with “Good afternoon, Mabel,” “I live to obey, Your Majesty,” “Please don’t toss me into the hoosegow, Your Honor,” and “I’ll get you, my pretty, and your little dog too.”
 
 
 - We were all thoroughly indoctrinated in grade school to precede or follow dialogue with a comma in constructions like
@@ -129,8 +124,7 @@ a copy editor will, if the fact is not already known to the copy editor, query i
 
 AU: Only daughter? If so, comma.
 
-Thus the comma I choose to refer to—since I am perpetually confused by the grammar terms “restrictive” and “nonrestrictive” and can never remember which is meant to be which—as the “only” comma.
-“Only” commas (except at the very ends of sentences, they travel in pairs) are used to set off nouns that are, indeed, the only one of their kind in the vicinity, as in, say,
+Thus the comma I choose to refer to—since I am perpetually confused by the grammar terms “restrictive” and “nonrestrictive” and can never remember which is meant to be which—as the “only” comma. “Only” commas (except at the very ends of sentences, they travel in pairs) are used to set off nouns that are, indeed, the only one of their kind in the vicinity, as in, say,
 
 Abraham Lincoln’s eldest son, Robert, was born on August 1, 1843.
 
@@ -145,8 +139,7 @@ The Pulitzer Prize–winning novelist, Edith Wharton, was born in New York City.
 Because Mrs. Wharton is merely one of many winners of the Pulitzer, there should be no “only” comma.
 
  
-Best Illustration of the Necessity of the “Only” Comma I’ve Ever Managed to Rustle Up:
-Elizabeth Taylor’s second marriage, to Michael Wilding
+Best Illustration of the Necessity of the “Only” Comma I’ve Ever Managed to Rustle Up: Elizabeth Taylor’s second marriage, to Michael Wilding
 
 Vs
 
@@ -155,13 +148,11 @@ Elizabeth Taylor’s second marriage to Richard Burton
 
 
 
-- The “only” comma rule is also helpful in differentiating between “that” and “which,” if differentiating between “that” and “which” is your bag.
-If you’re about to offer a piece of information that’s crucial to your sentence, offer it up without a comma and with a “that”:
+- The “only” comma rule is also helpful in differentiating between “that” and “which,” if differentiating between “that” and “which” is your bag. If you’re about to offer a piece of information that’s crucial to your sentence, offer it up without a comma and with a “that”:
 
 Please fetch me the Bible that’s on the table.
 
-Which is to say: Fetch me the Bible that is on the table rather than the Bible that’s under the couch or the Bible that’s poised picturesquely on the window seat.
-If you’re offering a piece of information that’s perhaps interesting amplification but might well be deleted without harm, offer it up with a comma and a “which”:
+Which is to say: Fetch me the Bible that is on the table rather than the Bible that’s under the couch or the Bible that’s poised picturesquely on the window seat. If you’re offering a piece of information that’s perhaps interesting amplification but might well be deleted without harm, offer it up with a comma and a “which”:
 
 Please fetch me the Bible, which is on the table.
 
@@ -176,22 +167,16 @@ It’s that comma after “population” I’m wanting you to keep a good eye on
 
 - Colons are not merely introductory but presentational. They say: Here comes something! Think of colons as little trumpet blasts, attention-getting and ear-catching. Also loud. So don’t use so many of them that you give your reader a headache
 
-- If what follows a colon is a full sentence, begin that full sentence with a capital letter, which signals to your reader: What’s about to commence includes a subject, a verb, the works, and should be read as such.
-Post-colon lists of things or fragmentary phrases should begin with a lowercase letter: items on a grocery list, the novels of a particular author, etc.
+- If what follows a colon is a full sentence, begin that full sentence with a capital letter, which signals to your reader: What’s about to commence includes a subject, a verb, the works, and should be read as such. Post-colon lists of things or fragmentary phrases should begin with a lowercase letter: items on a grocery list, the novels of a particular author, etc.
 
-- Q. Is it “farmer’s market” or “farmers’ market” or “farmers market”?
-A. I’m presuming there’s more than one farmer, so out goes “farmer’s market.”
-As to the other two, is it a market belonging to farmers or a market made up of farmers?
-I say the latter, so:
+- Q. Is it “farmer’s market” or “farmers’ market” or “farmers market”? A. I’m presuming there’s more than one farmer, so out goes “farmer’s market.” As to the other two, is it a market belonging to farmers or a market made up of farmers? I say the latter, so:
 
 farmers market
 
 
 - I love semicolons like I love pizza; fried pork dumplings; Venice, Italy; and the operas of Puccini.
 
-Why does the sentence above include semicolons?
-Because the most basic use of semicolons is to divide the items in a list any of whose individual elements mandate a comma—in this case, Venice, Italy.
-Now, I might certainly have avoided semicolons by reordering the elements in the list, thus:
+Why does the sentence above include semicolons? Because the most basic use of semicolons is to divide the items in a list any of whose individual elements mandate a comma—in this case, Venice, Italy. Now, I might certainly have avoided semicolons by reordering the elements in the list, thus:
 
 I love semicolons like I love pizza, fried pork dumplings, the operas of Puccini, and Venice, Italy.
 
@@ -206,8 +191,7 @@ Lucy’s favorite novels are Raise High the Roof Beam, Carpenters, Farewell, My 
 Well, how many novels is that, anyway? Three? Five?
 
 
-- A midsentence parenthetical aside (like this one) begins with a lowercase letter and concludes (unless it’s a question or even an exclamation!) without terminal punctuation.
-When a fragmentary parenthetical aside comes at the very end of a sentence, make sure that the period stays outside the aside (as here).
+- A midsentence parenthetical aside (like this one) begins with a lowercase letter and concludes (unless it’s a question or even an exclamation!) without terminal punctuation. When a fragmentary parenthetical aside comes at the very end of a sentence, make sure that the period stays outside the aside (as here).
 
 (Only a freestanding parenthetical aside, like this one, begins with a capital letter and concludes with an appropriate bit of terminal punctuation inside the final parenthesis.)
 
@@ -224,26 +208,19 @@ And now, more often than not, you’ll simply see:
 What is to become of me? Estelle thought.
 
 
-- Consider the difference between, say, “a man eating shark” and “a man-eating shark,” where the hyphen is crucial in clarifying who is eating whom, and “a cat related drama,” which presupposes an articulate cat with a penchant for talking about the theater, and “a cat-related drama,” which is what you meant in the first place.
-I recall, for instance, my puzzlement upon encountering this sentence:
+- Consider the difference between, say, “a man eating shark” and “a man-eating shark,” where the hyphen is crucial in clarifying who is eating whom, and “a cat related drama,” which presupposes an articulate cat with a penchant for talking about the theater, and “a cat-related drama,” which is what you meant in the first place. I recall, for instance, my puzzlement upon encountering this sentence:
 
 Touch averse people who don’t want to be hugged are not rude.
 
-What on earth, I wondered, are “averse people,” and why on earth are you telling me to touch them if they don’t want to be hugged, but wait, what—?
-Then the light dawned: People who don’t like to be touched and who resist your attempts to hug them are not rude. Got it
+What on earth, I wondered, are “averse people,” and why on earth are you telling me to touch them if they don’t want to be hugged, but wait, what—? Then the light dawned: People who don’t like to be touched and who resist your attempts to hug them are not rude. Got it
 
-- Dashes come in two flavors: em and en. Em dashes (which most people simply refer to as dashes) are so called because they were traditionally the width of a capital M in any particular typeface (nowadays they tend to be a touch wider); en dashes are the width of a lowercase n.
-This is an em dash: —
-This, just a touch shorter yet still longer than a hyphen, is an en dash: –
-Likely you don’t need much advice from me on how to use em dashes, because you all seem to use an awful lot of them.
-They’re useful for interruption of dialogue, either midsentence from within:
+- Dashes come in two flavors: em and en. Em dashes (which most people simply refer to as dashes) are so called because they were traditionally the width of a capital M in any particular typeface (nowadays they tend to be a touch wider); en dashes are the width of a lowercase n. This is an em dash: — This, just a touch shorter yet still longer than a hyphen, is an en dash: – Likely you don’t need much advice from me on how to use em dashes, because you all seem to use an awful lot of them. They’re useful for interruption of dialogue, either midsentence from within:
 
 “Once upon a time—yes, I know you’ve heard this story before—there lived a princess named Snow White.”
 
 or to convey interruption from without:
 
-“The murderer,” she intoned, “is someone in this—”
-A shot rang out.
+“The murderer,” she intoned, “is someone in this—” A shot rang out.
 
 And they nicely set off a bit of text in standard narration when commas—because that bit of text is rather on the parenthetical side, like this one, but one doesn’t want to use parentheses—won’t do the trick:
 
@@ -251,10 +228,7 @@ He packed his bag with all the things he thought he’d need for the weekend—a
 
 - An en dash is used to hold words together instead of your standard hyphen, which usually does the trick just fine, when one is connecting a multiword proper noun to another multiword proper noun or to pretty much anything else. What the heck does that mean? It means this:
 
-a Meryl Streep–Robert De Niro comedy
-a New York–to–Chicago flight
-a World War II–era plane
-a Pulitzer Prize–winning play
+a Meryl Streep–Robert De Niro comedy a New York–to–Chicago flight a World War II–era plane a Pulitzer Prize–winning play
 
 Basically, that which you’re connecting needs a smidgen more connecting than can be accomplished with a hyphen
 
@@ -265,9 +239,7 @@ Basically, that which you’re connecting needs a smidgen more connecting than c
 
 - Sentences beginning with “I wonder” are not questions—they’re simply pondering declarations—and do not conclude with question marks.
 
-I wonder who’s kissing her now.
-I wonder what the king is doing tonight.
-I wonder, wonder who—who-oo-oo-oo—who wrote the book of love.
+I wonder who’s kissing her now. I wonder what the king is doing tonight. I wonder, wonder who—who-oo-oo-oo—who wrote the book of love.
 
 - Neither are sentences beginning with “Guess who” or “Guess what” questions. If anything, they’re imperatives.
 

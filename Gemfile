@@ -3,9 +3,6 @@ source "https://rubygems.org"
 # Jekyll version
 gem "jekyll", "~> 4.3.1"
 
-# Theme
-gem "minima", "~> 2.5"
-
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
@@ -29,6 +26,3 @@ gem "wdm", "~> 0.1.1", platforms: [:mingw, :x64_mingw, :mswin]
 
 # JRuby-specific gem
 gem "http_parser.rb", "~> 0.6.0", platforms: [:jruby]
-
-# Uncomment the following line if you want to use GitHub Pages
-# gem "github-pages", group: :jekyll_plugins

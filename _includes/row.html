@@ -1,0 +1,6 @@
+{%- comment -%}
+  One list row: mashed date, then title, then an optional dim author.
+  Used by Posts, Book Notes, Links and the neighbour list on posts.
+  Params: url, date, title, author, current (marks this page), clip (one line, ellipsis), external.
+{%- endcomment -%}
+<a class="row{% if include.clip %} row--clip{% endif %}" href="{{ include.url | relative_url }}"{% if include.current %} aria-current="page"{% endif %}{% if include.external %} target="_blank" rel="noopener"{% endif %}><time>{{ include.date }}</time><span class="t">{{ include.title | escape }}{% if include.author and include.author != "" %}<span class="a">{{ include.author | escape }}</span>{% endif %}</span></a>

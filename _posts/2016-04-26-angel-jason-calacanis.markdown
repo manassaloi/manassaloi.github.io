@@ -8,11 +8,7 @@ categories: booksummaries
 
 **This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
 
-* The best angels in the world have four qualities, giving them the ability to
-(1) write a check (money),
-(2) jam out with the founders over important issues (time),
-(3) provide meaningful customer and investor introductions (network), and
-(4) give actionable advice that saves the founders time and money—or keeps them from making mistakes (expertise).
+* The best angels in the world have four qualities, giving them the ability to (1) write a check (money), (2) jam out with the founders over important issues (time), (3) provide meaningful customer and investor introductions (network), and (4) give actionable advice that saves the founders time and money—or keeps them from making mistakes (expertise).
 
 * In simple terms, there are five kinds of people on a cap table: founders, employees, advisors, angels, and VCs
 

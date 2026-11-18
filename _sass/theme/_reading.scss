@@ -1,0 +1,174 @@
+// Reading pages: blog posts and book notes share one type setting (Lilex at 14.5px, open leading,
+// about 62 characters a line). Book notes add numbered highlights in the margin.
+
+// ---------- left column meta ----------
+
+.meta {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 12px;
+
+  time { letter-spacing: 0.08em; font-variant-numeric: tabular-nums; }
+  a { color: var(--fg); }
+  a:hover { color: var(--red); }
+  .gap { height: 10px; }
+}
+
+// ---------- titles ----------
+
+.post h1,
+.note h1 {
+  font-family: var(--display);
+  font-weight: 400;
+  color: var(--fg);
+  font-size: 64px;
+  line-height: 0.95;
+  letter-spacing: -0.035em;
+  max-width: 13em;
+  text-wrap: balance;
+}
+
+.post h1 { margin: -6px 0 48px; }
+.note h1 { margin: -6px 0 14px; }
+
+.note .by {
+  color: var(--muted);
+  margin: 0 0 40px;
+}
+
+.note .preface {
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.6;
+  max-width: 62ch;
+  margin: 0 0 48px;
+  padding-left: 14px;
+  border-left: 1px solid var(--line);
+}
+
+// ---------- body text, shared by posts (.prose) and book notes (.clips) ----------
+
+.prose,
+.clips {
+  font-family: var(--mono);
+  font-size: 14.5px;
+  line-height: 1.72;
+  max-width: 62ch;
+  color: var(--fg);
+
+  > * { margin: 0 0 1.15em; }
+
+  a {
+    border-bottom: 1px solid var(--muted);
+    transition: color 0.12s ease, border-color 0.12s ease;
+    &:hover { color: var(--red); border-color: var(--red); }
+  }
+
+  strong { font-weight: 400; color: #fff; }
+  em { font-style: italic; }
+
+  h2, h3, h4 {
+    font-family: var(--mono);
+    font-weight: 400;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin: 2.6em 0 1em;
+  }
+
+  blockquote {
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: 1px solid var(--red);
+  }
+
+  img { display: block; max-width: 100%; height: auto; margin: 1.4em 0; }
+  picture { display: block; }
+  li > p { margin: 0 0 0.8em; }
+  li > p:last-child { margin-bottom: 0; }
+}
+
+// ---------- post lists: em dash and number markers ----------
+
+.prose {
+  ul, ol { padding-left: 0; list-style: none; }
+  li { position: relative; padding-left: 3ch; margin-bottom: 0.8em; }
+  ul > li::before { content: "—"; position: absolute; left: 0; color: var(--muted); }
+  ol { counter-reset: li; }
+  ol > li { counter-increment: li; }
+  ol > li::before { content: counter(li) "."; position: absolute; left: 0; color: var(--muted); }
+  li ul, li ol { margin-top: 0.8em; }
+
+  code { font-family: var(--mono); font-size: 0.95em; background: var(--line); padding: 0.1em 0.35em; }
+  pre { font-size: 13px; line-height: 1.5; background: var(--line); padding: 16px; overflow-x: auto; }
+  pre code { background: none; padding: 0; font-size: inherit; }
+  table { border-collapse: collapse; font-size: 13px; display: block; overflow-x: auto; }
+  td, th { border-bottom: 1px solid var(--line); padding: 6px 12px 6px 0; text-align: left; }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
+}
+
+// ---------- book note highlights ----------
+// A highlight is a plain paragraph or a top-level bullet, depending on how the note was written.
+// Both get the same number in the margin. --gutter sets how far the number sits outside the text.
+
+.clips {
+  --gutter: 56px;
+  counter-reset: hl;
+
+  > ul, > ol { list-style: none; padding-left: 0; }
+
+  > p,
+  > ul > li,
+  > ol > li {
+    position: relative;
+    counter-increment: hl;
+  }
+
+  > ul > li,
+  > ol > li { margin: 0 0 1.15em; }
+
+  > ul > li:last-child,
+  > ol > li:last-child { margin-bottom: 0; }
+
+  > p::before,
+  > ul > li::before,
+  > ol > li::before {
+    content: counter(hl, pad3);
+    position: absolute;
+    left: calc(-1 * var(--gutter));
+    top: 0.3em;
+    font-size: 10.5px;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  > p:hover::before,
+  > ul > li:hover::before,
+  > ol > li:hover::before { color: var(--red); }
+
+  // A real list inside a highlight keeps small dots.
+  li ul, li ol { list-style: disc; padding-left: 1.2em; margin: 0.6em 0; }
+  li ol { list-style: decimal; }
+  li li { margin-bottom: 0.3em; }
+  li li::marker { color: var(--muted); }
+}
+
+// ---------- older / newer ----------
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 72px;
+  max-width: 640px;
+  font-size: 13px;
+
+  a { color: var(--muted); max-width: 48%; }
+  a span { color: var(--fg); display: block; margin-top: 2px; }
+  a:hover, a:hover span { color: var(--red); }
+  .next { text-align: right; margin-left: auto; }
+}

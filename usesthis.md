@@ -10,11 +10,9 @@ Note: This was my setup when I used to live in Bengaluru. I have since moved out
 
 Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniques I'm using to get things done.
 
-{% include webp-image.html img="homegym.png" alt="Home gym" %}
+## Hardware
 
 {% include webp-image.html img="usesthis.png" alt="Uses this" %}
-
-## Hardware
 
 + [MacBook Pro M4 48GB 1 TB (13-inch, 2024)](https://www.apple.com/in/mac/compare/): New personal laptop.
 
@@ -187,6 +185,8 @@ Inspired by [Uses This](https://usesthis.com/), the tools, services, and techniq
 
 
 ## Health
+
+{% include webp-image.html img="homegym.png" alt="Home gym" %}
 
 ### Home gym
 

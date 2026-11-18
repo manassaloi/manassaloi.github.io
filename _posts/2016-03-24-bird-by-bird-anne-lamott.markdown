@@ -30,8 +30,7 @@ She said that sometimes she uses a formula when writing a short story, which goe
 
 You begin with action that is compelling enough to draw us in, make us want to know more. Background is where you let us see and know who these people are, how they’ve come to be together, what was going on before the opening of the story. Then you develop these people, so that we learn what they care most about. The plot—the drama, the actions, the tension—will grow out of that. You move them along until everything comes together in the climax, after which things are different for the main characters, different in some real way. And then there is the ending: what is our sense of who these people are now, what are they left with, what happened, and what did it mean?
 
-Almost all good writing begins with terrible first efforts. You need to start somewhere. Start by getting something— anything—down on paper. A friend of mine says that the first draft is the down draft—you just get it down.
-The second draft is the up draft—you fix it up. You try to say what you have to say more accurately. And the third draft is the dental draft, where you check every tooth, to see if it’s loose or cramped or decayed, or even, God help us, healthy
+Almost all good writing begins with terrible first efforts. You need to start somewhere. Start by getting something— anything—down on paper. A friend of mine says that the first draft is the down draft—you just get it down. The second draft is the up draft—you fix it up. You try to say what you have to say more accurately. And the third draft is the dental draft, where you check every tooth, to see if it’s loose or cramped or decayed, or even, God help us, healthy
 
 If you are a writer, or want to be a writer, this is how you spend your days—listening, observing, storing things away, making your isolation pay off. You take home all you’ve taken in, all that you’ve overheard, and you turn it into gold. (Or at least you try.)
 

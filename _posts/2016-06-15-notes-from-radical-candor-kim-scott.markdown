@@ -10,8 +10,7 @@ I recently completed Kim Scott’s ‘[Radical Candor: Be a Kickass Boss Without
 
 Before reading this book you might want to check out these 2 blogposts which led to this book:
 
-[Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
-[On Receiving (and Truly Hearing) Radical Candor](http://firstround.com/review/on-receiving-and-truly-hearing-radical-candor/)
+[Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) [On Receiving (and Truly Hearing) Radical Candor](http://firstround.com/review/on-receiving-and-truly-hearing-radical-candor/)
 
 I am sharing my favourite parts from the book here.
 
@@ -63,8 +62,7 @@ I am sharing my favourite parts from the book here.
 
 * Expecting others to execute on a decision without being persuaded that it’s the right thing to do is a recipe for terrible results. And don’t imagine that you can step in and simply tell everyone to get in line behind a decision, whether you have made it or somebody else has. Even explaining the decision is not enough, because that addresses only the logic; you have to address your listener’s emotions as well. And you must establish that the decider, whether that’s you or somebody else on your team, has credibility if you expect others to execute on the decision
 
-* Credibility is one of those things that is hard to articulate but you know it when you see it. Part of it is obviously knowing your subject and demonstrating a track record of sound decisions. But it also requires a third component — humility — which is sometimes in short supply.
-The good news is that you learned the secret to sharing your logic in high school math class: show your work. When Steve Jobs had an idea, he wouldn’t just describe the idea; he’d share how he got to it. He showed his work. This signaled that if there was a flaw in his reasoning, he wanted to know about it. And if there wasn’t, people would be more likely to accept his idea. Showing his work was what strengthened his logic and ultimately made him not only persuasive but “always getting it right”
+* Credibility is one of those things that is hard to articulate but you know it when you see it. Part of it is obviously knowing your subject and demonstrating a track record of sound decisions. But it also requires a third component — humility — which is sometimes in short supply. The good news is that you learned the secret to sharing your logic in high school math class: show your work. When Steve Jobs had an idea, he wouldn’t just describe the idea; he’d share how he got to it. He showed his work. This signaled that if there was a flaw in his reasoning, he wanted to know about it. And if there wasn’t, people would be more likely to accept his idea. Showing his work was what strengthened his logic and ultimately made him not only persuasive but “always getting it right”
 
 * **Block time to execute**
 

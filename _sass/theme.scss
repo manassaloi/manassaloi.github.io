@@ -1,0 +1,14 @@
+// manassaloi.com theme.
+//
+// Frame: 32px edge on every side. The content axis sits at --col, 53.33% of the width,
+// where esmuygood's list starts. Two header modes:
+//   - index pages (home, posts, book notes): big fixed wordmark, list on the right
+//   - every other page: small wordmark header, content below
+//
+// Colours and fonts are CSS custom properties in theme/_base, so nothing here needs Sass variables.
+
+@use "theme/base";
+@use "theme/layout";
+@use "theme/reading";
+@use "theme/pages";
+@use "theme/responsive";

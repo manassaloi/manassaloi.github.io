@@ -194,8 +194,7 @@ categories: booksummaries
   + What unique superpower(s) does your team have? When you’re at your best, how are you creating value? What would it look like for your team to be twice as good? Five times as good?
   + If you had to create a quick litmus test that anyone could use to assess whether your team was doing a poor job, a mediocre job, or a kick-ass job, what would that litmus test be?
 
-+ To create a shared vision of what’s important, ask yourself two things. The first is, What are the biggest priorities right now for our team? Then, talk about those with your reports and discuss how they might play a role.
-Ask yourself the second question: Are we aligned in how we think about people, purpose, and process?
++ To create a shared vision of what’s important, ask yourself two things. The first is, What are the biggest priorities right now for our team? Then, talk about those with your reports and discuss how they might play a role. Ask yourself the second question: Are we aligned in how we think about people, purpose, and process?
 
 + The rule of thumb for delegation goes like this: spend your time and energy on the intersection of
   + what’s most important to the organization

@@ -149,8 +149,7 @@ But, here is the key: An opportunity to take the bet repeatedly, on the other ha
 
 **Valuation depends on your time horizon**. **Evaluation period is not the same as the investor’s planning horizon.** An investor may be saving for retirement thirty years from now, but if she evaluates her portfolio (or more accurately, experiences the utility of the gains and losses) annually or quarterly, she is acting as if she has a short-term planning horizon.
 
-We separate mutual funds into four types based on portfolio-turnover rate.
-**The data consistently show that the low- turnover funds (which imply two-year-plus investor holding periods) perform best over three-, five-, ten-, and fifteen-year time frames.**
+We separate mutual funds into four types based on portfolio-turnover rate. **The data consistently show that the low- turnover funds (which imply two-year-plus investor holding periods) perform best over three-, five-, ten-, and fifteen-year time frames.**
 
 ## Portfolio Managers and stress
 

@@ -8,19 +8,11 @@ categories: booksummaries
 
 **This blogpost is not an exhaustive summary of the book. Just contains the notes I took**  
 
-1. Build a concierge MVP. Try to do things manually/validate assumptions without even building the product
-Example. How Airbnb checked impact of professional photos
+1. Build a concierge MVP. Try to do things manually/validate assumptions without even building the product Example. How Airbnb checked impact of professional photos
 
-1. Learn about
-Qualilative vs Quantitative
-Vanity vs Real (active users vs % active users)
-Exploratory vs Reporting Metrics
-Leading vs Lagging metric
+1. Learn about Qualilative vs Quantitative Vanity vs Real (active users vs % active users) Exploratory vs Reporting Metrics Leading vs Lagging metric
 
-1. Leading metrics are more important. Example. Sales prospects in the pipeline
-Understand difference between Correlated vs causal metrics
-Ice cream consumption and drowning can be both correlated. Both happen in summer. But they are not causal.
-Drinking and accident are causal
+1. Leading metrics are more important. Example. Sales prospects in the pipeline Understand difference between Correlated vs causal metrics Ice cream consumption and drowning can be both correlated. Both happen in summer. But they are not causal. Drinking and accident are causal
 
 1. Moving targets are common in the early stages
 
@@ -41,8 +33,7 @@ Drinking and accident are causal
 
 1. Focus on whales (paid consumers who want to pay extra for privileges)
 
-1. Five stages of lean analytics:
-Empathy, Stickiness, Virality, Revenue, Scale
+1. Five stages of lean analytics: Empathy, Stickiness, Virality, Revenue, Scale
 
 1. Top down analysis: Taking a big number and breaking it into smaller parts. Bottom up analysis is reverse of that. Do both
 

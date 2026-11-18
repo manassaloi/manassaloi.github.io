@@ -1,14 +1,130 @@
 ---
 layout: default
 ---
-<article class="post">
+{%- comment -%}
+  Bookshelf, Proof of Work, Uses This and Links: each section's name pinned on the left, its items on
+  the right. page.kind and the section data come from _plugins/theme.rb. Any other page falls back to
+  plain content in the right column.
+{%- endcomment -%}
+{%- assign name = page.title -%}
+{%- for item in site.nav -%}
+  {%- if item.url == page.url -%}{%- assign name = item.label -%}{%- endif -%}
+{%- endfor -%}
 
-  <header class="post-header">
-  <h1 class="page-heading">{{ page.title }}</h1>
-  </header>
+{%- capture mid -%}
+  <p>{{ name }}</p>
+  {%- case page.kind -%}
+    {%- when "bookshelf" -%}
+      <div class="dim">{{ page.intro_html }}</div>
+      <p class="dim">{{ page.total }} books on {{ page.shelves.size }} shelves · updated {{ page.updated }}</p>
+    {%- when "uses" -%}
+      <div class="dim">{{ page.intro_html }}</div>
+      <p class="dim">Updated {{ page.updated }}</p>
+    {%- when "pow", "links" -%}
+      <p class="dim">Updated {{ page.updated }}</p>
+  {%- endcase -%}
+{%- endcapture -%}
+{%- include header.html mid=mid -%}
 
-  <div class="post-content">
-    {{ content }}
+<main class="page">
+{%- case page.kind -%}
+
+{%- when "bookshelf" -%}
+  {%- for shelf in page.shelves %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>{{ shelf.name }}</h2><span class="count">{{ shelf.books.size }} books</span></div>
+    <div class="right">
+      {%- for book in shelf.books %}
+      <a class="book" href="{{ book.url }}" target="_blank" rel="noopener" title="{{ book.full | escape }}"><span>{{ book.title | escape }}</span>{% if book.author != "" %}<span class="a">{{ book.author | escape }}</span>{% endif %}</a>
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+
+{%- when "pow" %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>Summary</h2></div>
+    <div class="right">
+      <p class="lede">{{ page.lede_html }}</p>
+      <div class="career">
+        {%- for job in page.career %}
+        <span>{{ job.company }}</span><span class="what">{{ job.role }} · {{ job.what }}</span>
+        {%- endfor %}
+      </div>
+    </div>
+  </section>
+  {%- for company in page.companies %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>{{ company.name }}</h2><span class="count">{{ company.meta }}</span></div>
+    <div class="right">
+      {%- if company.intro.size > 0 %}
+      <div class="intro">
+        {%- for block in company.intro -%}
+          {%- if block.kind == "item" -%}
+            <p>{{ block.html }}</p>
+            {%- if block.kids.size > 0 -%}<ul>{%- for kid in block.kids -%}<li>{{ kid }}</li>{%- endfor -%}</ul>{%- endif -%}
+          {%- else -%}
+            <p class="dim">{{ block.html }}</p>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+      {%- endif %}
+      {%- if company.roles.size > 0 %}
+      <div class="roles">
+        {%- for role in company.roles %}
+        <div class="role">
+          <div class="when">{{ role.when }}</div>
+          <p class="title">{{ role.title }}</p>
+          {%- for line in role.desc %}<p class="desc">{{ line }}</p>{%- endfor -%}
+          {%- if role.ship.size > 0 -%}<ul class="ship">{%- for item in role.ship -%}<li>{{ item }}</li>{%- endfor -%}</ul>{%- endif %}
+        </div>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </div>
+  </section>
+  {%- endfor %}
+
+{%- when "uses" -%}
+  {%- for section in page.sections %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>{{ section.name }}</h2><span class="count">{{ section.count }} things</span></div>
+    <div class="right">
+      {%- if section.photo %}
+      <img class="photo{% if section.photo.portrait %} photo--portrait{% endif %}" src="{{ section.photo.src | relative_url }}" alt="{{ section.photo.alt | escape }}"{% if section.photo.width %} width="{{ section.photo.width }}" height="{{ section.photo.height }}"{% endif %}{% unless forloop.first %} loading="lazy"{% endunless %}>
+      {%- endif %}
+      {%- for group in section.groups %}
+        {%- if group.label != "" %}<p class="sub">{{ group.label }}</p>{%- endif %}
+        <div class="gears">
+          {%- for item in group.items %}
+          <div class="gear">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}<span>{{ item.name }}</span>{% endif %}<span class="why">{{ item.why }}</span></div>
+          {%- endfor %}
+        </div>
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+
+{%- when "links" -%}
+  {%- for group in page.groups %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>{{ group.name }}</h2></div>
+    <div class="right">
+      {%- for entry in group.entries -%}
+        {%- case entry.kind -%}
+          {%- when "say" -%}<p class="say">{{ entry.html }}</p>
+          {%- when "post" -%}{%- include row.html url=entry.url date=entry.date title=entry.text -%}
+          {%- else -%}{%- include row.html url=entry.url date="↗" title=entry.text external=true -%}
+        {%- endcase -%}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+
+{%- else %}
+  <div class="split">
+    <div class="left"></div>
+    <div class="right plain">{{ content }}</div>
   </div>
-
-</article>
+{%- endcase %}
+</main>

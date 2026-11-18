@@ -1,0 +1,199 @@
+// Page-specific pieces: the home sketch stage and the section pages
+// (Bookshelf, Proof of Work, Uses This, Links), where each section's name is pinned on the left.
+
+// ---------- home ----------
+
+.layout-home {
+  overflow: hidden;
+  height: 100%;
+}
+
+.stage {
+  position: fixed;
+  z-index: 1;
+  pointer-events: none;
+  // Blend the whole layer with the page, so the inverted paper melts into the background.
+  mix-blend-mode: lighten;
+  left: var(--col);
+  right: max(var(--edge), env(safe-area-inset-right, 0px));
+  top: calc(var(--edge) + 44px + env(safe-area-inset-top, 0px));
+  bottom: calc(84px + env(safe-area-inset-bottom, 0px));
+
+  img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    // Paper goes black, ink goes cream.
+    filter: invert(1) sepia(0.35) brightness(0.9);
+    // Soften the scan's edges.
+    -webkit-mask-image:
+      linear-gradient(to right, transparent, #000 7%, #000 93%, transparent),
+      linear-gradient(to bottom, transparent, #000 7%, #000 93%, transparent);
+    -webkit-mask-composite: source-in;
+    mask-image:
+      linear-gradient(to right, transparent, #000 7%, #000 93%, transparent),
+      linear-gradient(to bottom, transparent, #000 7%, #000 93%, transparent);
+    mask-composite: intersect;
+    opacity: 0;
+    transition: opacity 0.22s ease;
+  }
+
+  img.on { opacity: 0.92; }
+}
+
+// ---------- section pages ----------
+
+.sec + .sec { margin-top: 96px; }
+
+.sec-label {
+  h2 {
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    margin: -5px 0 12px;
+    color: var(--fg);
+    text-wrap: balance;
+    max-width: 9em;
+  }
+
+  .count { color: var(--muted); font-size: 12px; }
+}
+
+.sub {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 32px 0 10px;
+
+  &:first-child { margin-top: 0; }
+}
+
+// ---------- bookshelf ----------
+
+.book {
+  display: block;
+  padding: 1px 0;
+  transition: color 0.12s ease;
+
+  .a {
+    color: var(--muted);
+    margin-left: 0.6em;
+    display: inline-block;
+    max-width: 100%;
+    transition: color 0.12s ease;
+  }
+
+  &:hover, &:hover .a { color: var(--red); }
+}
+
+// ---------- uses this ----------
+
+.photo {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  margin: 0 0 36px;
+}
+
+.photo--portrait { max-width: 420px; }
+
+.gear {
+  display: grid;
+  grid-template-columns: minmax(0, 15em) minmax(0, 1fr);
+  gap: 4px 28px;
+  padding: 7px 0;
+  border-top: 1px solid var(--line);
+
+  &:last-child { border-bottom: 1px solid var(--line); }
+  a { transition: color 0.12s ease; }
+  a:hover { color: var(--red); }
+  .why { color: var(--muted); }
+  .why a { border-bottom: 1px solid var(--muted); }
+}
+
+// ---------- proof of work ----------
+
+.lede {
+  font-family: var(--display);
+  font-size: 34px;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  max-width: 17em;
+  margin: 0 0 32px;
+  text-wrap: balance;
+}
+
+.career {
+  display: grid;
+  grid-template-columns: minmax(0, 9em) minmax(0, 1fr);
+  gap: 4px 24px;
+
+  .what { color: var(--muted); }
+}
+
+.roles { margin-top: 28px; }
+.roles:first-child { margin-top: 0; }
+
+.role {
+  padding: 20px 0 22px;
+  border-top: 1px solid var(--line);
+
+  &:last-child { border-bottom: 1px solid var(--line); }
+  .when { color: var(--red); font-size: 12px; letter-spacing: 0.04em; margin-bottom: 6px; }
+  .title { font-size: 15px; margin: 0 0 6px; max-width: 60ch; }
+  .desc { color: var(--muted); margin: 0 0 6px; max-width: 62ch; }
+}
+
+.role .desc a,
+.intro a {
+  border-bottom: 1px solid var(--muted);
+  &:hover { color: var(--red); border-color: var(--red); }
+}
+
+.ship {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 0;
+  columns: 2;
+  column-gap: 28px;
+  font-size: 13px;
+
+  li { break-inside: avoid; padding: 2px 0 2px 14px; position: relative; }
+  li::before { content: "·"; position: absolute; left: 2px; color: var(--muted); }
+  a { color: var(--muted); font-size: 11px; margin-left: 4px; }
+  a:hover { color: var(--red); }
+}
+
+.intro {
+  max-width: 62ch;
+
+  p { margin: 0 0 10px; }
+  ul { list-style: none; padding: 0; margin: 0 0 12px; columns: 2; column-gap: 28px; }
+  li { padding: 2px 0 2px 14px; position: relative; break-inside: avoid; }
+  li::before { content: "·"; position: absolute; left: 2px; color: var(--muted); }
+  .dim { color: var(--muted); }
+}
+
+// ---------- links ----------
+
+.say {
+  color: var(--muted);
+  margin: 0 0 12px;
+  max-width: 58ch;
+}
+
+// ---------- plain pages (404 and any page without sections) ----------
+
+.plain {
+  font-size: 14.5px;
+  line-height: 1.72;
+  max-width: 62ch;
+
+  > * { margin: 0 0 1.15em; }
+  a { border-bottom: 1px solid var(--muted); }
+  a:hover { color: var(--red); border-color: var(--red); }
+}

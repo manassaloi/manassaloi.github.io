@@ -41,9 +41,7 @@ categories: booksummaries
 
 + Considering the elegant design of iPod, it was a radical approach for Apple not to show the product at all in their ads. Especially when most of its other ads did nothing but show the product. Instead of asking you to buy this device, Apple was asking you to buy the emotion. Since iPod was all about music and joy, each ad simply conveyed the idea that someone was loving their iPod—without any need to show who that person was. These were incredibly human commercials, yet they never showed a human face.
 
-+ The technology that drives Apple devices is incredibly complex. One with technical expertise could write dissertations describing how these “simple” devices do what they do. But Apple never will. It prefers to speak in more human terms.
-Apple didn’t describe the original iPod as a 6.5-ounce music player with a five-gigabyte drive. It simply said, “1,000 songs in your pocket.” This is the way human beings communicate, so this is the way Apple communicates.
-Human-speak is a hallmark of Simplicity. It’s the recognition that the best way to connect with people is to put things in human terms and use the words that people use in everyday conversation.
++ The technology that drives Apple devices is incredibly complex. One with technical expertise could write dissertations describing how these “simple” devices do what they do. But Apple never will. It prefers to speak in more human terms. Apple didn’t describe the original iPod as a 6.5-ounce music player with a five-gigabyte drive. It simply said, “1,000 songs in your pocket.” This is the way human beings communicate, so this is the way Apple communicates. Human-speak is a hallmark of Simplicity. It’s the recognition that the best way to connect with people is to put things in human terms and use the words that people use in everyday conversation.
 
 + Simplicity calls for a clear strategy, followed by consistent messaging.
 

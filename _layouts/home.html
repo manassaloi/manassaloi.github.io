@@ -1,31 +1,6 @@
 ---
 layout: default
 ---
-
-<section class="home-portal" aria-labelledby="home-portal-title">
-  <h1 id="home-portal-title" class="home-portal__title">Manas J Saloi</h1>
-  <nav class="home-portal__nav home-portal__nav--top" aria-label="Primary">
-    <div class="home-portal__nav-col">
-      <a href="{{ "/posts/" | relative_url }}">Posts</a>
-      <a href="{{ "/bookshelf/" | relative_url }}">Shelf</a>
-    </div>
-    <div class="home-portal__nav-col">
-      <a href="{{ "/booksummaries/" | relative_url }}">Notes</a>
-      <a href="{{ "/proofofwork/" | relative_url }}">POW</a>
-    </div>
-  </nav>
-
-  <div class="home-portal__grid" aria-hidden="true">
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-1.webp" | relative_url }}" alt="" loading="eager"></div>
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-2.webp" | relative_url }}" alt="" loading="eager"></div>
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-3.webp" | relative_url }}" alt="" loading="eager"></div>
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-4.webp" | relative_url }}" alt="" loading="eager"></div>
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-5.webp" | relative_url }}" alt="" loading="eager"></div>
-    <div class="home-portal__tile"><img src="{{ "/assets/img/home/tile-6.webp" | relative_url }}" alt="" loading="eager"></div>
-  </div>
-
-  <nav class="home-portal__nav home-portal__nav--bottom" aria-label="Secondary">
-    <a href="{{ "/usesthis/" | relative_url }}">Uses this</a>
-    <a href="{{ "/links/" | relative_url }}">Links</a>
-  </nav>
-</section>
+{%- comment -%} The sketches are added by assets/js/site.js from the footer links' data-sketch. {%- endcomment -%}
+{%- include header.html big=true -%}
+<div class="stage" id="stage" aria-hidden="true"></div>

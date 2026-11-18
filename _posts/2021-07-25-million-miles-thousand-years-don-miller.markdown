@@ -26,8 +26,7 @@ categories: booksummaries
 
 - ONCE I UNDERSTOOD the power of story in my personal life, I wanted to know more about how to create a good one. I was getting up a little earlier, and interestingly enough, I was going to fewer movies. In a way, I’d started a new story about trying to find a story, and so I didn’t need to escape my boring life anymore. I was a character who wanted something, and, well, that’s half the battle. And I kept learning more about story. I learned that not just any character can work to create a good story. It takes a specific kind of character. And not just any ambition would define a good story. It took a specific kind of ambition. The elements of story were conditional, in other words. These conditions were fixed principles too, and every good screenwriter knows them the way a musician knows his scales.
 
-- Steve nodded in agreement. “But how do we show his anger on the screen? How do we tell the audience he’s angry?” he asked.
-“We just say it,” I said. “We can’t say it, Don. It’s not a book; it’s a movie. We have to show it. A character is what he does.”
+- Steve nodded in agreement. “But how do we show his anger on the screen? How do we tell the audience he’s angry?” he asked. “We just say it,” I said. “We can’t say it, Don. It’s not a book; it’s a movie. We have to show it. A character is what he does.”
 
 - I didn’t know getting lost in daydreams was odd until a couple of years ago when I asked an old girlfriend what she daydreamed about. She answered, “Nothing.” How does a person daydream about nothing? I wondered. But she explained she lived in the now and worked with whatever was really happening. In the room where I’m writing today, nothing is happening. And later there will be laundry happening, which is nothing to daydream about. I can’t deal with reality.
 
