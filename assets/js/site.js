@@ -37,9 +37,13 @@
   const rest = links[Math.floor(Math.random() * links.length)].dataset.sketch;
   const show = key => Object.entries(imgs).forEach(([k, img]) => img.classList.toggle("on", k === key));
   show(rest);
+  // Only a real mouse hover or keyboard focus swaps the sketch. A tap on a phone fires the same
+  // mouseenter and focus as a hover, just before the click, so the drawing used to change before
+  // the next page loaded (and stayed changed when going back). Pointer events say what the
+  // pointer is, and :focus-visible is true for Tab but not for a tap.
   links.forEach(a => {
-    a.addEventListener("mouseenter", () => show(a.dataset.sketch));
-    a.addEventListener("focus", () => show(a.dataset.sketch));
+    a.addEventListener("pointerenter", e => { if (e.pointerType === "mouse") show(a.dataset.sketch); });
+    a.addEventListener("focus", () => { if (a.matches(":focus-visible")) show(a.dataset.sketch); });
   });
-  document.querySelector(".foot").addEventListener("mouseleave", () => show(rest));
+  document.querySelector(".foot").addEventListener("pointerleave", e => { if (e.pointerType === "mouse") show(rest); });
 })();
