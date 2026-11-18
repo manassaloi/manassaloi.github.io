@@ -1,9 +1,10 @@
-// Live date, top right.
+// Live date, top right, day before month: "Wednesday, 18 Nov 2026".
+// The order is set here; en-US only supplies the names (three-letter months, "Sep" not "Sept").
 (() => {
   const d = new Date();
   const text =
     d.toLocaleDateString("en-US", { weekday: "long" }) + ", " +
-    d.toLocaleDateString("en-US", { month: "short" }) + " " + d.getDate() + " " + d.getFullYear();
+    d.getDate() + " " + d.toLocaleDateString("en-US", { month: "short" }) + " " + d.getFullYear();
   document.querySelectorAll("[data-now]").forEach(el => (el.textContent = text));
 })();
 

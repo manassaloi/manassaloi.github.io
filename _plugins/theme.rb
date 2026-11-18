@@ -29,9 +29,9 @@ module ManasTheme
     (Array(doc.data["tags"]) + Array(doc.data["categories"])).include?(BOOK_TAG)
   end
 
-  # 11182026, the epilepsywarning-style date.
+  # 18112026: day, month, year run together (epilepsywarning style, Indian order).
   def mash(date)
-    date.strftime("%m%d%Y")
+    date.strftime("%d%m%Y")
   end
 
   # "The Untethered Soul - Michael Alan Singer" -> ["The Untethered Soul", "Michael Alan Singer"]
@@ -163,7 +163,7 @@ module ManasTheme
           line.scan(/\[([^\]]+)\]\((\S+?)\)/).each do |text, url|
             url = ManasTheme.local(url)
             if (d = url.match(%r{\A/(\d{4})/(\d{2})/(\d{2})/}))
-              entries << { "kind" => "post", "url" => url, "date" => "#{d[2]}#{d[3]}#{d[1]}", "text" => text }
+              entries << { "kind" => "post", "url" => url, "date" => "#{d[3]}#{d[2]}#{d[1]}", "text" => text }
             else
               entries << { "kind" => "external", "url" => url, "text" => text }
             end
