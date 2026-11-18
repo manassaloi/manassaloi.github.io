@@ -24,18 +24,13 @@ categories: booksummaries
 
 - My advice to play tight is still absolutely the way to go at the lower stakes. But you also need to play aggressively in the right spots as well though. This is why I recommend a style of play at these limits that is known as “TAG.” This stands for tight and aggressive. What does this actually mean in practice? At a 6max poker table (6 players) I suggest playing the top: 20% of hands that are dealt to you. At a full ring poker table (9 players) I suggest playing the top 15% of hands that are dealt to you.
 
-- If you are in early position (EP) or the blinds (SB and BB), then the range of hands that you play should be
-tighter than normal. This is because you will have to act first on every single street after the flop which is a
-huge disadvantage.
+- If you are in early position (EP) or the blinds (SB and BB), then the range of hands that you play should be tighter than normal. This is because you will have to act first on every single street after the flop which is a huge disadvantage.
 
-- However, if you have a better position at the table such as middle position (MP), the cutoff (CO) or the button
-(BUT), then the range of hands that you play should be wider than normal. This is because you get to act last
-on every single street after the flop which is a huge advantage.
+- However, if you have a better position at the table such as middle position (MP), the cutoff (CO) or the button (BUT), then the range of hands that you play should be wider than normal. This is because you get to act last on every single street after the flop which is a huge advantage.
 
 - Look who have raised before you. If SB, BB has raised then be very concerned as they generally have a much tighter range.
 
-- I would suggest making your 3Bet 3x the original raise if you are in position (IP) and 4x the original raise if you
-are out of position (OOP).
+- I would suggest making your 3Bet 3x the original raise if you are in position (IP) and 4x the original raise if you are out of position (OOP).
 
 - You should  just flat call with several non-premium speculative hands as well like:
   - Small and Mid Pocket Pairs (22-99)
@@ -46,9 +41,7 @@ are out of position (OOP).
 
 - When somebody 4Bets you, I would recommend only continuing if you have the nuts yourself.
 
-- Well one of the things that you need to know about the lower stakes is that almost everybody plays really
-passively. This means that when they 4Bet you, they are very unlikely to be bluffing. They very often have a
-huge hand. And by huge hand I mean AA, KK, AK or QQ.
+- Well one of the things that you need to know about the lower stakes is that almost everybody plays really passively. This means that when they 4Bet you, they are very unlikely to be bluffing. They very often have a huge hand. And by huge hand I mean AA, KK, AK or QQ.
 
 - You should CBet the flop roughly 2/3 of the time versus one player.
 
@@ -56,8 +49,7 @@ huge hand. And by huge hand I mean AA, KK, AK or QQ.
 
 - Against a single opponent you should make a CBet if you connect with the board in any way. This means any pair and any draw. You should also be CBetting quite frequently versus a single opponent with ace high, king high, queen high and sometimes even worse especially if you are IP.
 
-- I would suggest not making a CBet if you are OOP with nothing and you don’t think that the chances are very
-good that your opponent will fold.
+- I would suggest not making a CBet if you are OOP with nothing and you don’t think that the chances are very good that your opponent will fold.
 
 - There are two main reasons why your opponent will not fold:
   - He/she is a calling station

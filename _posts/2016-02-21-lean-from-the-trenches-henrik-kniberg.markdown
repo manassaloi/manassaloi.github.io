@@ -21,8 +21,7 @@ What does done means?
 
 Always have dev stories and user stories
 
-Have a bugs list.
-If there is a blocker address immediately. Don't wait for the next planning meeting
+Have a bugs list. If there is a blocker address immediately. Don't wait for the next planning meeting
 
 If there is a new bug, check if they are in top 30 bugs you want to tackle. If not then don't put in the Bugs list
 
@@ -34,17 +33,9 @@ Processes should be discovered and not designed forcefully
 
 Have story points and cycle time (time to release features)
 
-Draw the branches: individual, team, trunk
-If code unit tested move to team. Need not be complete. Complete feature move to trunk
-System test branch is another branch where system test (if all features are working together) is done.
-Automated regression testing is done  on team branch before merging to trunk
-On system branch mostly do manual testing + specific scenario testing
-If there is a bug on system branch send a hotfix to system branch and merge the fix down to trunk
+Draw the branches: individual, team, trunk If code unit tested move to team. Need not be complete. Complete feature move to trunk System test branch is another branch where system test (if all features are working together) is done. Automated regression testing is done  on team branch before merging to trunk On system branch mostly do manual testing + specific scenario testing If there is a bug on system branch send a hotfix to system branch and merge the fix down to trunk
 
-List out test cases
-Sort test cases by risk, how expensive to do manually and by auto
-Sort in terms of priority
-Automate a few. Then iterate
+List out test cases Sort test cases by risk, how expensive to do manually and by auto Sort in terms of priority Automate a few. Then iterate
 
 Solve problems not symptoms. In case of fire don't open window, get smoke out. Find out what caused the fire and install alarms
 

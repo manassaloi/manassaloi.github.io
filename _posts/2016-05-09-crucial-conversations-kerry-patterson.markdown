@@ -81,12 +81,9 @@ When others move to silence or violence, step out of the conversation and Make I
 
 + Am I pretending not to notice my role in the problem?
 + When I found out that Louis was holding project meetings without me, I felt like I should ask him about why I wasn’t included. I believed that if I did, I could open a dialogue that would help us work better together. But then I didn’t, and as my resentment grew, I was even less interested in broaching the subject.”
-+ Why would a reasonable, rational, and decent person do what Louis is doing?
-“He really cares about producing good-quality work. Maybe he doesn’t realize that I’m as committed to the success of the project as he is.”
-+ What do I really want?
-“I want a respectful relationship with Louis. And I want recognition for the work I do.”
-+ What would I do right now if I really wanted these results?
-“I’d make an appointment to sit down with Louis and talk about how we work together.”
++ Why would a reasonable, rational, and decent person do what Louis is doing? “He really cares about producing good-quality work. Maybe he doesn’t realize that I’m as committed to the success of the project as he is.”
++ What do I really want? “I want a respectful relationship with Louis. And I want recognition for the work I do.”
++ What would I do right now if I really wanted these results? “I’d make an appointment to sit down with Louis and talk about how we work together.”
 + As we tell the rest of the story, we free ourselves from the poisoning effects of unhealthy emotions.
 + I have also found tentative statements to be effective. Instead of saying, “Are you upset with me? What did I do?” I now say, “I’m beginning to feel that you are upset with me. Did I do something to make you angry?” Her response to this question opens the door to the real issue at hand.
 
@@ -128,9 +125,7 @@ Once you’ve worked on yourself to create the right conditions for dialogue, yo
 + BRIAN: I’m not sure that you’re intending to send this message, but I’m beginning to wonder if you don’t trust me. Maybe you think I’m not up to the job or that I’ll get you into trouble. Is that what’s going on? [The possible story]
 + FERNANDO: Really, I was merely trying to give you a chance to get my input before you got too far down the path on a project. The last guy I worked with was constantly taking his project to near completion only to learn that he’d left out a key element. I’m trying to avoid surprises
 
-Too soft: “It’s probably my fault, but…”
-Too hard: “You wouldn’t trust your own mother to make a one-minute egg!”
-Just right: “I’m starting to feel like you don’t trust me. Is that what’s going on here? If so, I’d like to know what I did to lose your trust.”
+Too soft: “It’s probably my fault, but…” Too hard: “You wouldn’t trust your own mother to make a one-minute egg!” Just right: “I’m starting to feel like you don’t trust me. Is that what’s going on here? If so, I’d like to know what I did to lose your trust.”
 
 **State my Path**
 
@@ -154,8 +149,7 @@ Whenever you notice safety is at risk, you should step out of the conversation a
 **[Ask]**
 + WENDY: (Sounding angry) It’s no big deal. You’re the parent, right?
 + YOU: From the way you say that, it sounds like it is a big deal.  
-**[Mirror]**
-I really would like to hear what makes you think I’m trying to control your life.  
+**[Mirror]** I really would like to hear what makes you think I’m trying to control your life.  
 **[Ask]**
 + WENDY: What, so you can tell me more ways that I’m screwed up? I’ve finally got one friend who accepts me, and you’re trying to chase him away!
 + YOU: So you feel like I don’t approve of you, and your friend is one person who does?  
@@ -166,15 +160,13 @@ I really would like to hear what makes you think I’m trying to control your li
 + WENDY: Then how could you embarrass me like that?!
 + YOU: Honey, I’d like to take a stab at something here. I wonder if part of the reason you’ve started dressing differently and hanging out with different friends is because you’re not feeling cared about and valued by boys, by your parents, and by others right now. Is that part of it?  
 **[Prime]**
-+ WENDY: (Sits quietly for a long time) Why am I so ugly? I really work on how I look but…
-From here, the conversation goes to the real issues, parent and daughter discuss what’s really going on, and both come to a better understanding of each other.
++ WENDY: (Sits quietly for a long time) Why am I so ugly? I really work on how I look but… From here, the conversation goes to the real issues, parent and daughter discuss what’s really going on, and both come to a better understanding of each other.
 
 **Think of your ABCs. Agree when you agree. Build when others leave out key pieces. Compare when you differ.**
 
 **Recap**
 
-+ To encourage the free flow of meaning and help others leave silence or violence behind, explore their Paths to Action. Start with an attitude of curiosity and patience. This helps restore safety.
-Then, use four powerful listening skills to retrace the other person’s Path to Action to its origins.
++ To encourage the free flow of meaning and help others leave silence or violence behind, explore their Paths to Action. Start with an attitude of curiosity and patience. This helps restore safety. Then, use four powerful listening skills to retrace the other person’s Path to Action to its origins.
 + Ask. Start by simply expressing interest in the other person’s views.
 + Mirror. Increase safety by respectfully acknowledging the emotions people appear to be feeling.
 + Paraphrase. As others begin to share part of their story, restate what you’ve heard to show not just that you understand, but also that it’s safe for them to share what they’re thinking.

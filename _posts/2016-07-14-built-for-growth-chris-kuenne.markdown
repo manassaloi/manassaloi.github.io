@@ -12,8 +12,7 @@ categories: booksummaries
 
 **Driver: Relentless, Commercially Focused, and Highly Confident**
 
-Entrepreneurship is almost hardwired into their very identity. They are supremely confident individuals, relentless in pursuing commercial success based on their uncanny anticipation of what markets and customers are looking for.
-They eschew rules and bureaucracy, seeing them as tools to focus the average person, yet often confine the truly gifted, independent-thinking actor. Drivers are willing to do whatever it takes to realize the commercial success inherent in what they believe is their unbounded potential, in fact their destiny.
+Entrepreneurship is almost hardwired into their very identity. They are supremely confident individuals, relentless in pursuing commercial success based on their uncanny anticipation of what markets and customers are looking for. They eschew rules and bureaucracy, seeing them as tools to focus the average person, yet often confine the truly gifted, independent-thinking actor. Drivers are willing to do whatever it takes to realize the commercial success inherent in what they believe is their unbounded potential, in fact their destiny.
 
 **The Explorer: Curious, Systems-Centric, and Dispassionate**
 
@@ -23,8 +22,7 @@ Once hooked by the problem, they fixate on execution, at least until the next in
 
 **The Crusader: Audacious, Mission-Inspired, and Compassionate**
 
-Crusaders are primarily motivated by an intense desire to make the world a better place—by solving problems that matter to markets and society. Anchored in a deep-seated ability to empathize with others, Crusaders create mission-based companies with bold, long-range vision.
-They have a clear mission, and appreciate—indeed, even look forward to—the opportunity to invite others to help bring it to life. In that sense, Crusaders have an unusual mixture of both sensitivity and humility, combined with a confidence in their animating vision for their business.
+Crusaders are primarily motivated by an intense desire to make the world a better place—by solving problems that matter to markets and society. Anchored in a deep-seated ability to empathize with others, Crusaders create mission-based companies with bold, long-range vision. They have a clear mission, and appreciate—indeed, even look forward to—the opportunity to invite others to help bring it to life. In that sense, Crusaders have an unusual mixture of both sensitivity and humility, combined with a confidence in their animating vision for their business.
 
 Crusaders are guided by their founding mission; however, they can struggle with tough people issues. While they are quite effective in attracting dedicated followers inspired by the company’s mission, they frequently avoid conflict, allowing devoted underperformers to languish rather than removing them from the business. On the operational side, Crusaders often find themselves out of their element and don’t always provide the clear direction that other Builder Types do.
 

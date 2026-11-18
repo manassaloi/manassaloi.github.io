@@ -8,8 +8,7 @@ categories: booksummaries
 
 **Note:** While reading a book whenever I come across something interesting, I highlight it on my Kindle. Later I turn those highlights into a blogpost. It is not a complete summary of the book. These are my notes which I intend to go back to later. Let's start!
 
-+ Magic is a common word in the executive suites at The Walt Disney Company.
-“Our guests want to be amazed, delighted, and entertained,” says Bob Iger. “They are looking for the kind of magic that will transport them from their everyday lives into worlds that can only be created by Disney.”
++ Magic is a common word in the executive suites at The Walt Disney Company. “Our guests want to be amazed, delighted, and entertained,” says Bob Iger. “They are looking for the kind of magic that will transport them from their everyday lives into worlds that can only be created by Disney.”
 
 + Exceeding guests’ expectations is Disney’s service strategy, and paying attention to every detail is the tactic by which it is accomplished
 
@@ -51,8 +50,7 @@ The last point in the Quality Service Compass is integration. Integration means 
 
 + The Disney parks and resorts have prioritized their quality standards: safety > courtesy > show >  efficiency. Once you know these priorities, the solution to the problem becomes clear. The cast member immediately knows to put the safety of a guest with disabilities ahead of the efficiency of the loading process, the continuity of the show, and even the courteous treatment of another guest. Prioritized quality standards act as the guiding signals in the pursuit of exceeding guest expectation
 
-+ With guestology and quality standards to guide us, it is time to start exploring the delivery of Quality Service. At Disney, as
-in all organizations, there are three major service-delivery systems. These systems are the methods by which Quality Service is implemented, and they are cast, setting, and process
++ With guestology and quality standards to guide us, it is time to start exploring the delivery of Quality Service. At Disney, as in all organizations, there are three major service-delivery systems. These systems are the methods by which Quality Service is implemented, and they are cast, setting, and process
 
 + Training for new cast members involve 4 tiers:
   + The first tier is a global orientation, which is conducted at Disney University and teaches concepts and behaviors that are common to every cast member throughout the organization
@@ -73,9 +71,7 @@ in all organizations, there are three major service-delivery systems. These syst
   + Start and end every guest contact and communication with direct eye contact and a sincere smile
   + Greet and Welcome Each and Every Guest
   + Extend the appropriate greeting to every guest with whom you come into contact.
-“Good morning/afternoon/evening!”
-“Welcome!”/“Have a good day!”
-“May I help you?”
+“Good morning/afternoon/evening!” “Welcome!”/“Have a good day!” “May I help you?”
   + Make guests feel welcome by providing a special differentiated greeting in each area.
   + Seek Out Guest Contact
   + It is the responsibility of every cast member to seek out guests who need help or assistance.
@@ -112,8 +108,7 @@ in all organizations, there are three major service-delivery systems. These syst
   + Establish a set of basic performance guidelines: The guidelines are a set of behaviors that ensure that employees know how to act courteously and respect the individuality of each guest. They form the baseline for delivering and measuring Quality Service performance
   + Build a performance culture: performance cultures are sets of location-specific behaviors, mannerisms, terms, and values that direct and enhance an employee’s role in a specific business unit. They use shared values, visions, and missions to help the workforce optimize and customize service delivery
 
-+ Disneyland is like Alice stepping through the Looking Glass; to step through the portals of Disneyland will be like entering another world.
-—Walt Disney
++ Disneyland is like Alice stepping through the Looking Glass; to step through the portals of Disneyland will be like entering another world. —Walt Disney
 
 + Setting is the environment in which service is delivered to customers, all of the objects within that environment, and the procedures used to enhance and maintain the service environment and objects. It is a critical point on the Quality Service Compass, and it is vital that settings be designed and managed to effectively communicate and deliver service to customers
 
@@ -133,8 +128,7 @@ in all organizations, there are three major service-delivery systems. These syst
 
 + All organizations can be thought of as a collection of processes
 
-+ Process is the engine of Quality Service. Engines are driven by combustion. A diesel or gasoline engine is powered by internal combustion. The fuel is fired inside the engine; it explodes and moves the pistons. In a steam engine, the combustion takes place outside the engine in a boiler that creates pressurized steam that in turn moves the pistons. Service processes are more like a steam engine. The combustion is externally produced— by guests. It derives from their satisfaction and repeat business and recommendations. For the purposes of Quality Service, guest-produced combustion is the best kind. When guests are powering the engine, we know that the process is focused properly on their needs.
-When service processes work smoothly, their key combustion points are controlled. Quality Service is delivered without a hiccup and everyone wins. However, when combustion points are out of control, service processes misfire. Guests are inconvenienced, and unless their problems are solved, combustion points can easily turn into explosions. Identifying and controlling combustion points are an important part of delivering service through process
++ Process is the engine of Quality Service. Engines are driven by combustion. A diesel or gasoline engine is powered by internal combustion. The fuel is fired inside the engine; it explodes and moves the pistons. In a steam engine, the combustion takes place outside the engine in a boiler that creates pressurized steam that in turn moves the pistons. Service processes are more like a steam engine. The combustion is externally produced— by guests. It derives from their satisfaction and repeat business and recommendations. For the purposes of Quality Service, guest-produced combustion is the best kind. When guests are powering the engine, we know that the process is focused properly on their needs. When service processes work smoothly, their key combustion points are controlled. Quality Service is delivered without a hiccup and everyone wins. However, when combustion points are out of control, service processes misfire. Guests are inconvenienced, and unless their problems are solved, combustion points can easily turn into explosions. Identifying and controlling combustion points are an important part of delivering service through process
 
 + The best way to identify key combustion points is to study your customers. What do they complain about? Where do they get stuck during the service experience? What are the common problems they face when interacting with your organization? The answers to these questions are combustion statements. Combustion statements are important clues to the process issues you need to address in order to deliver magical service
 
@@ -154,8 +148,7 @@ When service processes work smoothly, their key combustion points are controlled
 
 + Meet guest expectations with headliners; then plus the experience to exceed expectations. headliners are those combinations of standards and delivery systems that are natural matches. at the Disney parks and resorts, they are cast and courtesy, setting and show, and process and efficiency. The remaining combinations can be used to distribute service standards in unexpected ways to surprise and delight guests
 
-+ Make the Integration Matrix
-part of your organizational toolbox. The Integration matrix is an expanded tic-tac-toe board that combines service standards and delivery systems. Use it to analyze and manage the design and development of Quality Service
++ Make the Integration Matrix part of your organizational toolbox. The Integration matrix is an expanded tic-tac-toe board that combines service standards and delivery systems. Use it to analyze and manage the design and development of Quality Service
 
 {% include webp-image.html img="starguest_matrix.png" alt="Star guest program integration matrix" %}
 

@@ -12,8 +12,7 @@ M: Understand, my student. When you place yourself into a role, you can only see
 
 M: I will begin with this: Do not roam among the haggard and the meek. Do not fight for scraps of food that are moist with stagnant rains. Do not enter the crucible of egoistic men who compete over dime and dollar. Rise, my student. And insist First upon the glory of Freedom. So that no arena can contain you. And no man can equal you. For your journey is unlike any other man in the field.
 
-S: Then tell me this, Master. What precisely is the freedom that not caring grants you?
-M: The freedom from Need.
+S: Then tell me this, Master. What precisely is the freedom that not caring grants you? M: The freedom from Need.
 
 M: Understand, my student, that even the most casual meetings of men exist within an undercurrent of competitiveness. Each attempting subtle and clever ways to display verbiage and mannerisms in order to quell their inner feelings of ineptitude.
 

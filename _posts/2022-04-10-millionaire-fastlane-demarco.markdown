@@ -253,8 +253,7 @@ categories: booksummaries
 
 - There is a difference between “good” money and “big” money. Hitchhikers can make good money while Fastlaners make big money. Sometimes legendary money.
 
-- In a driver/hitchhiker relationship, the driver always retains control and the hitchhiker is at the mercy of the driver.
-Hitchhikers are party to someone else's Fastlane plan. Make the world your habitat of play in an organization you control.
+- In a driver/hitchhiker relationship, the driver always retains control and the hitchhiker is at the mercy of the driver. Hitchhikers are party to someone else's Fastlane plan. Make the world your habitat of play in an organization you control.
 
 - Network marketing has little to do with entrepreneurship but more to do with sales, networking, training, and motivation. Network marketing fails both the Commandments of Control and Entry, and sometimes, Need. Network marketers are soldiers in a Fastlaner's army. Network marketing is a powerful distribution system. As a Fastlaner, seek to own one, not join one.
    
@@ -314,8 +313,7 @@ Hitchhikers are party to someone else's Fastlane plan. Make the world your habit
 
 - Poorly met needs are open roads when they often appear closed. Successful businesses take existing ideas, services, and products and simply make them better, or spin them in new directions.
 
-- Opportunities are rarely about inventing breakthroughs, but about performance gaps, small inconveniences, and pain points.
-Competition should not impede your road. Competition is everywhere, and your objective should be to “do it better.”
+- Opportunities are rarely about inventing breakthroughs, but about performance gaps, small inconveniences, and pain points. Competition should not impede your road. Competition is everywhere, and your objective should be to “do it better.”
 
 - Fastlane success resides in execution, not in the idea.
 

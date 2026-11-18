@@ -20,10 +20,7 @@ Make sure you have time in your schedule for this book. It is also good to take 
 
 Here the book postulates a 4 step process:
 
-a) set measurable goals which are the most important for you
-b) act on leading measures
-c) keep a scorecard
-d) create a cadence for accountability.
+a) set measurable goals which are the most important for you b) act on leading measures c) keep a scorecard d) create a cadence for accountability.
 
 Example: You want to get started on writing. A measurable goal could be publishing 2 posts on Medium every month. Leading measure can be putting 1 hour for writing in your schedule every day. Scorecard is to track if you are being able to follow on leading measures and actually publishing 2 posts every month. For accountability tell a friend to keep asking you about it.
 

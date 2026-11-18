@@ -108,24 +108,17 @@ If you’re thinking, Dang, I don’t know ten people who can buy this, then maa
 **First, Listen.** Your job is to get customers talking about their problem.Here are three questions that will help you in this process:
 - What’s the most frustrating thing about what’s currently going on?
 - How would having X make your life better?
-- What do you think that X should cost?
-Finish with summarizing what the person said. For example, Daniel would say, “So you want an easier way to learn how to use your computer.”
-**PRO TIP:** Use what or how questions to encourage a more open dialogue versus why or yes/no questions, which can limit your learning.It’s crucial to really listen and write down their problems, because you’re looking for the pain they’re feeling and how valuable it would be for them to give you money.The bigger the pain, the bigger the opportunity!
-**Next, Options.** Now that you’ve uncovered the problem, it’s time to suggest options that can solve their problems—and what they’d pay for it. Here are some examples from Daniel:
+- What do you think that X should cost? Finish with summarizing what the person said. For example, Daniel would say, “So you want an easier way to learn how to use your computer.” **PRO TIP:** Use what or how questions to encourage a more open dialogue versus why or yes/no questions, which can limit your learning.It’s crucial to really listen and write down their problems, because you’re looking for the pain they’re feeling and how valuable it would be for them to give you money.The bigger the pain, the bigger the opportunity! **Next, Options.** Now that you’ve uncovered the problem, it’s time to suggest options that can solve their problems—and what they’d pay for it. Here are some examples from Daniel:
 - I’ll sell you a digital course on how to fix your computer.
-- What if I came over and fixed your computer myself?
-You’re looking for excitement and a willingness to pay. Eye rolls and lower energy from your prospective customer are indicators of low interest.
-**Transition.** You know their problem and you know an option to fix it that they are excited about. Now it’s time to transition to the sell.“So you like the idea of me coming over and fixing your computer problem. For $50, I can do it today. Sound good?”
+- What if I came over and fixed your computer myself? You’re looking for excitement and a willingness to pay. Eye rolls and lower energy from your prospective customer are indicators of low interest. **Transition.** You know their problem and you know an option to fix it that they are excited about. Now it’s time to transition to the sell.“So you like the idea of me coming over and fixing your computer problem. For $50, I can do it today. Sound good?”
 
 If they pay you, that’s Validation success. Often you can distill your offer down to three parts: Price + Benefit + Time. Strung together, they form an offer sentence.Other examples:
 - For $25, I will teach you how to save an hour a day on your Mac, in just twenty minutes.
 - For $69, I will teach you how to write better in two hours.
 - For $10, I will send you a PDF with ten mind hacks that will change the way you think in ten minutes.
-- For $180, I will provide six months of tasty jerky to your office this week.
-**PRO TIP:** Presenting your offer as a comparison can make it easier for your customer to understand. “We are like X but Y.” For example, we are like your competitor but twice as cheap. Research shows we better understand the world when something is presented as a contrast with something else.
+- For $180, I will provide six months of tasty jerky to your office this week. **PRO TIP:** Presenting your offer as a comparison can make it easier for your customer to understand. “We are like X but Y.” For example, we are like your competitor but twice as cheap. Research shows we better understand the world when something is presented as a contrast with something else.
 
-There’s a big difference between what people say and what people do. Everyone’s “interested” until they have to pay.That’s why you don’t ask, “Would you be interested?” when you’re validating. I’ve had a lot of people say they’re interested and then not pay.No, you ask for money and ask people to pay immediately.Now a warning: When you validate, you have to get comfortable with potentially selling a product before you’ve actually made it. Clearly explain when it will be delivered. Because people are fine with giving you money in advance, as long as you set clear expectations.Here’s my favorite way to ask for money:“Sign up now while it’s still at a discounted price, x percent of y dollars [and you’ll be grandfathered in at that price forever]. This offer is only good today.”
-**PRO TIP:** Always follow up by sending an email to your first customers asking for feedback. Feedback is a gift you can continually use to improve yourself and your business.
+There’s a big difference between what people say and what people do. Everyone’s “interested” until they have to pay.That’s why you don’t ask, “Would you be interested?” when you’re validating. I’ve had a lot of people say they’re interested and then not pay.No, you ask for money and ask people to pay immediately.Now a warning: When you validate, you have to get comfortable with potentially selling a product before you’ve actually made it. Clearly explain when it will be delivered. Because people are fine with giving you money in advance, as long as you set clear expectations.Here’s my favorite way to ask for money:“Sign up now while it’s still at a discounted price, x percent of y dollars [and you’ll be grandfathered in at that price forever]. This offer is only good today.” **PRO TIP:** Always follow up by sending an email to your first customers asking for feedback. Feedback is a gift you can continually use to improve yourself and your business.
 
 When I get shot down while validating, I have a simple four-question script that flips the no into new knowledge, new ideas, and maybe even new customers.
 - “Why not?” It’s really easy to get scared from attacking this one head-on, because what happens if their criticism is right? But that’s exactly what you want to know!
@@ -143,17 +136,6 @@ Andrew Chen is one of the most well-known executives in Silicon Valley, a VC par
 When he got a new list of people to meet, Andrew would send an intro email with three key points:
 - Short blurb about himself
 - Value he could provide (that is to say, what’s in it for them?)
-- Why he was excited to meet them
-He’d send this to everyone he was introduced to—personalizing to the entrepreneur or VIP he wanted to meet. And you can do the same.Telling someone why you are interesting, how you can help, and why you want to meet works like gangbusters. If you fail to include these points for the person you’re reaching out to, expect to be ignored.
+- Why he was excited to meet them He’d send this to everyone he was introduced to—personalizing to the entrepreneur or VIP he wanted to meet. And you can do the same.Telling someone why you are interesting, how you can help, and why you want to meet works like gangbusters. If you fail to include these points for the person you’re reaching out to, expect to be ignored.
 
-SUBJECT: Steve Smith told me about you [your subject line needs to grab the reader with your strongest hook, in this case a mutual connection]
-Hi Bob,
-Hope you’re doing awesome this Tuesday morning!
-My good friend Steve Smith said you’re his # 1 pick of someone I should meet next.
-Plus, I love your blog—especially the article on how to make it big in SF [be detailed to elevate the compliment]. I’ve been experimenting with Meetup.com events thanks to your inspiration. [must be a truthful statement]
-Love to talk with you about how to do marketing for your business. [your “gift”]
-How’s next Tuesday at 10 am at Coupa cafe for you? Or whatever is most convenient for you. [The more specific your call to action, the better]
-I’d also be happy to feature you in an upcoming blog post on my site, which has about 2,000 monthly readers. [more value for the person]
-Thanks,
-Andrew
-P.S. About me: Just moved to SF, recently hung out with Marc Andreessen, Mitch Kapor, and more. [social proof]
+SUBJECT: Steve Smith told me about you [your subject line needs to grab the reader with your strongest hook, in this case a mutual connection] Hi Bob, Hope you’re doing awesome this Tuesday morning! My good friend Steve Smith said you’re his # 1 pick of someone I should meet next. Plus, I love your blog—especially the article on how to make it big in SF [be detailed to elevate the compliment]. I’ve been experimenting with Meetup.com events thanks to your inspiration. [must be a truthful statement] Love to talk with you about how to do marketing for your business. [your “gift”] How’s next Tuesday at 10 am at Coupa cafe for you? Or whatever is most convenient for you. [The more specific your call to action, the better] I’d also be happy to feature you in an upcoming blog post on my site, which has about 2,000 monthly readers. [more value for the person] Thanks, Andrew P.S. About me: Just moved to SF, recently hung out with Marc Andreessen, Mitch Kapor, and more. [social proof]

@@ -110,8 +110,7 @@ categories: booksummaries
   + Why do some businesses create easy decisions for entrepreneurs and investors? A significant part of the answer lies in microeconomics: if there’s no significant barrier to entry that creates a sustainable competitive advantage, inevitable competition will cause the return on investment for that business to drop to opportunity cost and there will be no economic profit for the producer. The analogy they use at Berkshire is that the business itself should be viewed as the equivalent of a castle and the value of that castle will be determined by the strength of the protective moat.
   + Whether a business has a durable moat is without question the most important attribute for an investor like Munger
 
-+ Proper allocation of capital is an investor’s number one job.
-—CHARLIE MUNGER, POOR CHARLIE’S ALMANACK, 2005
++ Proper allocation of capital is an investor’s number one job. —CHARLIE MUNGER, POOR CHARLIE’S ALMANACK, 2005
 
   + The only duty of a corporate executive is to widen the moat. We must make it wider. Every day is to widen the moat. We gave you a competitive advantage, and you must leave us the moat. There are times when it’s too tough. But duty should be to widen the moat. I can see instance after instance where that isn’t what people do in business. One must keep their eye on the ball of widening the moat, to be a steward of the competitive advantage that came to you. A General in England said, “Get you the sons your fathers got, and God will save the Queen.” At Hewlett Packard, your responsibility is to train and deliver a subordinate who can succeed you. It’s not all that complicated—all that mumbo jumbo. We make bricks in Texas which use the same process as in Mesopotamia
 —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2008
@@ -132,8 +131,7 @@ If a company’s average costs fall when more of a product or service is produce
 
 Regarding the impact of supply-side economies of scale, Munger has pointed out:
 
-In some businesses, the very nature of things cascades toward the overwhelming dominance of one firm. It tends to cascade to a winner-take-all result. And these advantages of scale are so great, for example, that when Jack Welch came into General Electric, he just said, “to hell with it. We’re either going to be number one or two in every field we’re in or we’re going to be out.” That was a very tough-minded thing to do, but I think it was a correct decision if you’re thinking about maximizing shareholder wealth.
-—CHARLIE MUNGER, USC BUSINESS SCHOOL, 1994
+In some businesses, the very nature of things cascades toward the overwhelming dominance of one firm. It tends to cascade to a winner-take-all result. And these advantages of scale are so great, for example, that when Jack Welch came into General Electric, he just said, “to hell with it. We’re either going to be number one or two in every field we’re in or we’re going to be out.” That was a very tough-minded thing to do, but I think it was a correct decision if you’re thinking about maximizing shareholder wealth. —CHARLIE MUNGER, USC BUSINESS SCHOOL, 1994
 
 If it is cost efficient for a company to produce several different products or services, a company can also benefit from supply-side economies of scope. To benefit from economies of scope, a business must share resources across markets while keeping the amount of those resources largely fixed. Businesses that desire to benefit from economies of scope must avoid running as isolated units.
 
@@ -145,15 +143,13 @@ Demand-side economies of scale (also known as “network effects”) result when
 
 See’s Candies is also a great side-by-side test of brand power. To illustrate, if you grew up in a home that bought See’s Candies (mostly on the West Coast, especially in California,) and your experiences around that candy have very favorable associations, you will pay more for a box bearing the See’s Candies brand. By contrast, someone who grew up on the East Coast of the United States will not attribute much value to that brand because they do not have those same experiences. For this reason, See’s Candies has found it hard to expand regionally and has done so very slowly. What See’s Candies sells is not just food, but rather an experience
 
-Take See’s Candies. You cannot destroy the brand of See’s Candies. Only See’s can do that. You have to look at the brand as a promise to the customer that we are going to offer the quality and service that is expected. We link the product with happiness. You don’t see See’s Candies sponsoring the local funeral home. We are at the Thanksgiving Day parades though.
-—WARREN BUFFETT, NOTES FROM UNIVERSITY OF GEORGIA VISIT, 2007
+Take See’s Candies. You cannot destroy the brand of See’s Candies. Only See’s can do that. You have to look at the brand as a promise to the customer that we are going to offer the quality and service that is expected. We link the product with happiness. You don’t see See’s Candies sponsoring the local funeral home. We are at the Thanksgiving Day parades though. —WARREN BUFFETT, NOTES FROM UNIVERSITY OF GEORGIA VISIT, 2007
 
 A very important test for Buffett and Munger in determining the strength of a brand-based moat is whether a competitor can replicate or weaken the moat with a massive checkbook
 
 + **Regulation**
 
-Certain businesses have created a competence with regard to regulation that is so strong that the regulation itself actually serves as a moat. Regulations can often end up protecting existing entrenched producers rather than helping consumers. For example, some people believe banks have created such a powerful layer of regulatory expertise that the regulators have become captured by the industry they regulate
-For Berkshire, the regulation-driven moat that Moody’s possessed in the bond rating business was a big attraction. To issue bonds, regulators actually require that the issuer get an opinion from a very small number of bond rating firms, which means that rating firms like Moody’s, S&P, and Fitch have a moat
+Certain businesses have created a competence with regard to regulation that is so strong that the regulation itself actually serves as a moat. Regulations can often end up protecting existing entrenched producers rather than helping consumers. For example, some people believe banks have created such a powerful layer of regulatory expertise that the regulators have become captured by the industry they regulate For Berkshire, the regulation-driven moat that Moody’s possessed in the bond rating business was a big attraction. To issue bonds, regulators actually require that the issuer get an opinion from a very small number of bond rating firms, which means that rating firms like Moody’s, S&P, and Fitch have a moat
 
 + **Patents and Intellectual Property**
 

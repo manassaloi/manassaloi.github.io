@@ -52,10 +52,7 @@ The Rubik’s Cube made being smart cool overnight. Cube owners weren’t just p
 
 **PEOPLE DON’T BUY FEATURES; THEY BUY PROMISES**
 
-We get stuck at the ‘telling people what it does’ part.
-But here’s the thing: deep down most people don’t care about what the features enable them to do. Why not?
-Because people don’t want to do; they want to be. They want to be less busy and more productive, less alone and more connected, less fearful and more safe.
-People don’t buy features—they buy promises.
+We get stuck at the ‘telling people what it does’ part. But here’s the thing: deep down most people don’t care about what the features enable them to do. Why not? Because people don’t want to do; they want to be. They want to be less busy and more productive, less alone and more connected, less fearful and more safe. People don’t buy features—they buy promises.
 
 By making earphones ‘accessory white’, Apple gave iPod owners a way to be noticed and to belong.
 
@@ -71,8 +68,7 @@ We assume that the most valuable data is static and lives on graphs and in sprea
 
 Principles are fundamental truths, cornerstones and guiding lights.
 
-Principles can be divided into three categories: the truth about you, the truth about the industry or the market, and the truth about the people you want to matter to.
-Dollar Shave Club was founded on the premise that men were sick of paying for shave tech they didn’t need.
+Principles can be divided into three categories: the truth about you, the truth about the industry or the market, and the truth about the people you want to matter to. Dollar Shave Club was founded on the premise that men were sick of paying for shave tech they didn’t need.
 
 What’s the truth about the reality your prospective customers are living with? What do they believe? How do those beliefs influence how they behave today, and how might they change what they do tomorrow? What problems do they want you to solve? What might they need? What are their unexpressed desires?
 
@@ -86,15 +82,6 @@ How you make your customers feel about themselves in the presence of your brand 
 
 What do people believe? What would we like them to believe about us and about themselves in the presence of our product?
 
-What do your customers believe about you?
-What would you like them to believe and say about your brand?
-What would you have to do to get them to do and say that?
+What do your customers believe about you? What would you like them to believe and say about your brand? What would you have to do to get them to do and say that?
 
-Great stuff, the things we give a damn about, have the heart left in them.
-What do I mean by ‘heart’? The empathy and emotion. The feeling, and yes, vulnerability. Yours, not the marketing department’s.
-Good products work. Great products become part of our story.
-A good speaker leaves us with food for thought. A great speaker leaves his heart on the podium.
-Good marketing tells the story. Great marketing is the story.
-We don’t just notice or respond to difference; most of the time we can’t even explain it.
-We simply feel it. We just know.
-And that’s what makes it matter.
+Great stuff, the things we give a damn about, have the heart left in them. What do I mean by ‘heart’? The empathy and emotion. The feeling, and yes, vulnerability. Yours, not the marketing department’s. Good products work. Great products become part of our story. A good speaker leaves us with food for thought. A great speaker leaves his heart on the podium. Good marketing tells the story. Great marketing is the story. We don’t just notice or respond to difference; most of the time we can’t even explain it. We simply feel it. We just know. And that’s what makes it matter.
