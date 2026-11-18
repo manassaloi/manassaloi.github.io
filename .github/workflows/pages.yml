@@ -23,6 +23,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
+        # Install the generic (source) build of every gem. The precompiled Linux build of
+        # sass-embedded needs Ruby 3.2+, but this site's lockfile (Bundler 2.1.2) and the
+        # local Mac setup are on Ruby 3.1. The generic sass-embedded supports 3.1.
+        env:
+          BUNDLE_FORCE_RUBY_PLATFORM: "true"
         with:
           ruby-version: "3.1"
           bundler-cache: true
