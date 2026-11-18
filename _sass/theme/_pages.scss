@@ -117,14 +117,10 @@
 
 // ---------- proof of work ----------
 
+// The intro sentence is body text: same type as the rest of the page. The serif is for headings only.
 .lede {
-  font-family: var(--display);
-  font-size: 34px;
-  line-height: 1.08;
-  letter-spacing: -0.02em;
-  max-width: 17em;
-  margin: 0 0 32px;
-  text-wrap: balance;
+  max-width: 62ch;
+  margin: 0 0 24px;
 }
 
 .career {
