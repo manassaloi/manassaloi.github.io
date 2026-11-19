@@ -168,10 +168,6 @@ Advising another half a dozen startups for fun ;)
   - Created the Call Masking feature that was later adopted by all product groups inside Gojek. [press](https://www.thejakartapost.com/news/2019/04/23/grab-go-jek-add-features-to-protect-female-drivers-passengers.html)
   - Shipped outstanding balance feature which helped us reduce fraud and earn back lost revenue.
 
-{% include webp-image.html img="vik_reco.png" alt="Vik's reco" %}
-
-(Manager's recommendation on Twitter)
-
 ### Directi (~2 years) ###
 
 - **December 2016 - November 2018**
@@ -180,9 +176,6 @@ Advising another half a dozen startups for fun ;)
   - Led experience of 6 core apps built on Flock’s platform: Mailcast, Notes, Polls, Reactions, Reminders, Favourite.
   - Built 5 third party integrations for Flock App Store: Github, Gitlab, Facebook Pages, Freshdesk, Opsgenie.
   - Created Flock Support, a lightweight Helpdesk inside Flock Messenger, which on-boards users and lets them chat with Customer Support.
-
-{% include webp-image.html img="madhur_reco.png" alt="Madhur's reco" %}
-(Hiring Manager's recommendation on Linkedin)
 
 ### Craftsvilla (~1 year) ###
 
@@ -199,9 +192,6 @@ Advising another half a dozen startups for fun ;)
   - Increased active user base by 200%.
   - Doubled share of mobile app transactions from 25% to 50% of total transactions.
 
-{% include webp-image.html img="ranjit_reco.png" alt="Ranjit reco" %}
-(Hiring Manager's recommendation on Linkedin)
-
 ### CouponDunia (~1 year) ###
 
 - **December 2014 - December 2015**
@@ -215,9 +205,6 @@ Advising another half a dozen startups for fun ;)
 - Led growth for all of CouponDunia products.
   - Ran multiple experiments to improve funnel conversion across the website.
   - Worked with the SEO, Digital Marketing teams to deliver growth goals.
-
-{% include webp-image.html img="sameer_reco.png" alt="Sameer reco" %}
-(Hiring Manager's recommendation in the form of a mail sent to the company)
 
 ### Kore (~1.5 years) ###
 
