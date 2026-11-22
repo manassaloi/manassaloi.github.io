@@ -21,21 +21,20 @@
   top: calc(var(--edge) + 44px + env(safe-area-inset-top, 0px));
   bottom: calc(84px + env(safe-area-inset-bottom, 0px));
 
+  // Every drawing gets the same spot: the stage's bottom-right corner, its right edge on the margin
+  // under the date and its feet on one floor line above the nav. Wide drawings fill the width; tall
+  // ones stop at 85% of the height, leaving room under the date. The files are trimmed to the ink,
+  // so the corner is the drawing's own corner, and there's no paper edge left to hide.
   img {
     position: absolute;
-    left: 0;
-    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 85%;
+    object-fit: contain;
+    object-position: right bottom;
     // Paper goes black, ink goes cream.
     filter: invert(1) sepia(0.35) brightness(0.9);
-    // Soften the scan's edges.
-    -webkit-mask-image:
-      linear-gradient(to right, transparent, #000 7%, #000 93%, transparent),
-      linear-gradient(to bottom, transparent, #000 7%, #000 93%, transparent);
-    -webkit-mask-composite: source-in;
-    mask-image:
-      linear-gradient(to right, transparent, #000 7%, #000 93%, transparent),
-      linear-gradient(to bottom, transparent, #000 7%, #000 93%, transparent);
-    mask-composite: intersect;
     opacity: 0;
     transition: opacity 0.22s ease;
   }

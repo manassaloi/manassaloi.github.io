@@ -34,13 +34,14 @@ twitter:
   card: summary_large_image
 
 # Footer nav, on every page. `sketch` is the home-page drawing in assets/img/home/ shown on hover.
+# A replaced drawing gets a new file name: browsers keep images for 10 minutes and would show the old one.
 nav:
-  - { label: "Posts", url: "/posts/", sketch: "tile-1" }
-  - { label: "Book Notes", url: "/booksummaries/", sketch: "tile-4" }
-  - { label: "Bookshelf", url: "/bookshelf/", sketch: "tile-2" }
-  - { label: "Proof of Work", url: "/proofofwork/", sketch: "tile-6" }
-  - { label: "Uses This", url: "/usesthis/", sketch: "tile-3" }
-  - { label: "Links", url: "/links/", sketch: "tile-5" }
+  - { label: "Posts", url: "/posts/", sketch: "posts" }
+  - { label: "Book Notes", url: "/booksummaries/", sketch: "book-notes" }
+  - { label: "Bookshelf", url: "/bookshelf/", sketch: "bookshelf" }
+  - { label: "Proof of Work", url: "/proofofwork/", sketch: "proof-of-work" }
+  - { label: "Uses This", url: "/usesthis/", sketch: "uses-this" }
+  - { label: "Links", url: "/links/", sketch: "links" }
 
 # Build settings
 # Built by GitHub Actions (.github/workflows/pages.yml), so _plugins/ runs in production too.

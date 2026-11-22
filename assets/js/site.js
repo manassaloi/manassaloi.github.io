@@ -13,16 +13,8 @@ document.addEventListener("touchstart", () => {}, { passive: true });
   const imgs = {};
   let wanted = null;
 
-  // Size a sketch to fit the stage exactly, so the edge fade lands on the drawing itself.
-  const fit = img => {
-    const W = stage.clientWidth, H = stage.clientHeight;
-    const s = Math.min(W / img.naturalWidth, H / img.naturalHeight);
-    img.style.width = Math.round(img.naturalWidth * s) + "px";
-    img.style.height = Math.round(img.naturalHeight * s) + "px";
-  };
-
-  // Each sketch is added once, then decoded and sized before it can be shown, so it fades in
-  // whole and at its final size instead of popping in at full size mid-download.
+  // Each sketch is added once and decoded before it can be shown, so it fades in whole instead of
+  // drawing in mid-download. CSS places and sizes it (.stage img in _sass/theme/_pages.scss).
   const load = (key, priority) => {
     if (!imgs[key]) {
       const img = new Image();
@@ -30,7 +22,7 @@ document.addEventListener("touchstart", () => {}, { passive: true });
       img.decoding = "async";
       if (priority) img.fetchPriority = priority;
       img.src = "/assets/img/home/" + key + ".webp";
-      imgs[key] = img.decode().then(() => { fit(img); stage.appendChild(img); return img; });
+      imgs[key] = img.decode().then(() => { stage.appendChild(img); return img; });
     }
     return imgs[key];
   };
@@ -42,8 +34,6 @@ document.addEventListener("touchstart", () => {}, { passive: true });
       stage.querySelectorAll("img").forEach(el => el.classList.toggle("on", el === img));
     }, () => {});
   };
-
-  addEventListener("resize", () => stage.querySelectorAll("img").forEach(fit));
 
   const rest = links[Math.floor(Math.random() * links.length)].dataset.sketch;
   load(rest, "high");
