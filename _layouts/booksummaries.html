@@ -8,6 +8,7 @@ layout: default
   <p>{{ books.size }} books{% if page.updated %} · updated {{ page.updated }}{% endif %}</p>
 </div>
 <main class="index" aria-label="Book notes">
+  <h1 class="visually-hidden">{{ page.title }}</h1>
   {%- for post in books -%}
     {%- include row.html url=post.url date=post.date_mash title=post.book_title author=post.book_author -%}
   {%- endfor -%}

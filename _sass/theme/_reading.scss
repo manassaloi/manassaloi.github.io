@@ -1,5 +1,5 @@
-// Reading pages: blog posts and book notes share one type setting (Lilex at 14.5px, open leading,
-// about 62 characters a line).
+// Reading pages: blog posts and book notes share one type setting (Lilex at the body size, open
+// leading, about 62 characters a line).
 
 @use "hover" as *;
 
@@ -10,9 +10,8 @@
   flex-direction: column;
   gap: 6px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: var(--text-small);
 
-  time { letter-spacing: 0.08em; font-variant-numeric: tabular-nums; }
   a { color: var(--fg); }
   @include hover { a:hover { color: var(--red); } }
   .gap { height: 10px; }
@@ -25,7 +24,7 @@
   font-family: var(--display);
   font-weight: 400;
   color: var(--fg);
-  font-size: 64px;
+  font-size: var(--title-2);
   line-height: 0.95;
   letter-spacing: -0.035em;
   max-width: 13em;
@@ -42,7 +41,7 @@
 
 .note .preface {
   color: var(--muted);
-  font-size: 12.5px;
+  font-size: var(--text-small);
   line-height: 1.6;
   max-width: 62ch;
   margin: 0 0 48px;
@@ -55,7 +54,7 @@
 .prose,
 .clips {
   font-family: var(--mono);
-  font-size: 14.5px;
+  font-size: var(--text-body);
   line-height: 1.72;
   max-width: 62ch;
   color: var(--fg);
@@ -71,15 +70,36 @@
   strong { font-weight: 400; color: #fff; }
   em { font-style: italic; }
 
+  // Headings step down one level at a time. The top level a post uses is the red label, the level
+  // under it is a plain line at body size, and the one under that is a grey label. Most posts use a
+  // single level, so most headings are the red label.
   h2, h3, h4 {
     font-family: var(--mono);
     font-weight: 400;
-    font-size: 11px;
+    font-size: var(--text-label);
     letter-spacing: 0.16em;
     text-transform: uppercase;
     color: var(--red);
     margin: 2.6em 0 1em;
   }
+
+  // Second level: h3 under h2, or h4 under whichever of h2 and h3 the post uses on its own.
+  // (:where adds no specificity, so the conditions don't outrank the gap rule below.)
+  &:where(:has(h2)) h3,
+  &:where(:has(h2):not(:has(h3))) h4,
+  &:where(:not(:has(h2)):has(h3)) h4 {
+    font-size: var(--text-body);
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--fg);
+    margin: 2em 0 0.6em;
+  }
+
+  // Third level: h4 in a post that uses both h2 and h3.
+  &:where(:has(h2):has(h3)) h4 { color: var(--muted); }
+
+  // A heading straight under its parent heading keeps only the parent's gap.
+  :is(h2, h3) + :is(h3, h4) { margin-top: 0; }
 
   blockquote {
     margin-left: 0;
@@ -104,10 +124,11 @@
   ol > li::before { content: counter(li) "."; position: absolute; left: 0; color: var(--muted); }
   li ul, li ol { margin-top: 0.8em; }
 
-  code { font-family: var(--mono); font-size: 0.95em; background: var(--line); padding: 0.1em 0.35em; }
-  pre { font-size: 13px; line-height: 1.5; background: var(--line); padding: 16px; overflow-x: auto; }
-  pre code { background: none; padding: 0; font-size: inherit; }
-  table { border-collapse: collapse; font-size: 13px; display: block; overflow-x: auto; }
+  // Code and tables keep the body size: the body is already monospaced.
+  code { font-family: var(--mono); background: var(--line); padding: 0.1em 0.35em; }
+  pre { line-height: 1.5; background: var(--line); padding: 16px; overflow-x: auto; }
+  pre code { background: none; padding: 0; }
+  table { border-collapse: collapse; display: block; overflow-x: auto; }
   td, th { border-bottom: 1px solid var(--line); padding: 6px 12px 6px 0; text-align: left; }
   hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
 }
@@ -140,7 +161,6 @@
   gap: 24px;
   margin-top: 72px;
   max-width: 640px;
-  font-size: 13px;
 
   a { color: var(--muted); max-width: 48%; }
   a span { color: var(--fg); display: block; margin-top: 2px; }

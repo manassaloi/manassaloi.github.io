@@ -51,7 +51,7 @@
   h2 {
     font-family: var(--display);
     font-weight: 400;
-    font-size: 44px;
+    font-size: var(--title-3);
     line-height: 0.92;
     letter-spacing: -0.03em;
     margin: -5px 0 12px;
@@ -60,11 +60,11 @@
     max-width: 9em;
   }
 
-  .count { color: var(--muted); font-size: 12px; }
+  .count { color: var(--muted); font-size: var(--text-small); }
 }
 
 .sub {
-  font-size: 11px;
+  font-size: var(--text-label);
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--muted);
@@ -111,10 +111,10 @@
   border-top: 1px solid var(--line);
 
   &:last-child { border-bottom: 1px solid var(--line); }
-  a { transition: color 0.12s ease; }
-  @include hover { a:hover { color: var(--red); } }
+  // Linked names and links in the reason both carry the underline, so a linked name reads as a link.
+  a { border-bottom: 1px solid var(--muted); transition: color 0.12s ease, border-color 0.12s ease; }
+  @include hover { a:hover { color: var(--red); border-color: var(--red); } }
   .why { color: var(--muted); }
-  .why a { border-bottom: 1px solid var(--muted); }
 }
 
 // ---------- proof of work ----------
@@ -141,8 +141,8 @@
   border-top: 1px solid var(--line);
 
   &:last-child { border-bottom: 1px solid var(--line); }
-  .when { color: var(--red); font-size: 12px; letter-spacing: 0.04em; margin-bottom: 6px; }
-  .title { font-size: 15px; margin: 0 0 6px; max-width: 60ch; }
+  .when { color: var(--red); font-size: var(--text-small); letter-spacing: 0.04em; margin-bottom: 6px; }
+  .title { margin: 0 0 6px; max-width: 60ch; }
   .desc { color: var(--muted); margin: 0 0 6px; max-width: 62ch; }
 }
 
@@ -158,12 +158,12 @@
   margin: 12px 0 0;
   columns: 2;
   column-gap: 28px;
-  font-size: 13px;
+  font-size: var(--text-small);
 
   li { break-inside: avoid; padding: 2px 0 2px 14px; position: relative; }
   li::before { content: "·"; position: absolute; left: 2px; color: var(--muted); }
-  a { color: var(--muted); font-size: 11px; margin-left: 4px; }
-  @include hover { a:hover { color: var(--red); } }
+  a { color: var(--muted); font-size: var(--text-label); margin-left: 4px; border-bottom: 1px solid var(--muted); }
+  @include hover { a:hover { color: var(--red); border-color: var(--red); } }
 }
 
 .intro {
@@ -187,7 +187,6 @@
 // ---------- plain pages (404 and any page without sections) ----------
 
 .plain {
-  font-size: 14.5px;
   line-height: 1.72;
   max-width: 62ch;
 

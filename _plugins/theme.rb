@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # Works out everything the theme shows that isn't typed in by hand, on every build:
-# book-note titles and authors, mashed dates, each post's neighbours and older/newer links,
+# book-note titles and authors, mashed and long dates, each post's neighbours and older/newer links,
 # and the sections of Bookshelf, Proof of Work, Uses This and Links.
 #
 # Nothing here is typed in by hand, so new and edited content stays correct on every build.
@@ -9,6 +9,7 @@
 # (the _redesign/ mockup and its checklist) is in git history, in commit 8ed31e2.
 
 require "cgi"
+require "date"
 
 module ManasTheme
   BOOK_TAG = "booksummaries"
@@ -29,9 +30,39 @@ module ManasTheme
     (Array(doc.data["tags"]) + Array(doc.data["categories"])).include?(BOOK_TAG)
   end
 
-  # 18112026: day, month, year run together (epilepsywarning style, Indian order).
+  # Two date formats, and only two. List rows use the compact mash; every other date is long.
+
+  # 18112026: day, month, year run together (epilepsywarning style, Indian order). List rows only.
   def mash(date)
     date.strftime("%d%m%Y")
+  end
+
+  # 18 Nov 2026: every date that isn't in a list row.
+  def long(date)
+    date.strftime("%-d %b %Y")
+  end
+
+  # A hand-typed date ("05 June 2025") in the long format ("5 Jun 2025"). Text that isn't a date stays as typed.
+  def long_text(text)
+    long(Date.parse(text))
+  rescue ArgumentError
+    text
+  end
+
+  MONTHS = %w[jan feb mar apr may jun jul aug sep oct nov dec].freeze
+
+  # "April 2024 - April 2025" -> "Apr 2024 – Apr 2025": the long format without the day, en dash
+  # between. Months match on their first three letters, so "Septmber" still reads as Sep. Anything
+  # else stays as typed.
+  def month_range(text)
+    ends = text.split(/\s+[-–]\s+/).map do |part|
+      m = part.strip.match(/\A([A-Za-z]{3})[A-Za-z]*\.?\s+((?:19|20)\d{2})\z/)
+      month = m && MONTHS.index(m[1].downcase)
+      return text unless month
+
+      Date.new(m[2].to_i, month + 1, 1).strftime("%b %Y")
+    end
+    ends.join(" – ")
   end
 
   # "The Untethered Soul - Michael Alan Singer" -> ["The Untethered Soul", "Michael Alan Singer"]
@@ -74,6 +105,7 @@ module ManasTheme
         title = doc.data["title"].to_s
         doc.data["is_book"] = is_book
         doc.data["date_mash"] = ManasTheme.mash(doc.date)
+        doc.data["date_long"] = ManasTheme.long(doc.date)
         doc.data["book_title"], doc.data["book_author"] = ManasTheme.split_book(title) if is_book
       end
 
@@ -97,9 +129,10 @@ module ManasTheme
 
     # ---------- section pages ----------
 
-    # Moves the "(Last updated: …)" line out of the body; the layout shows it in the header.
+    # Moves the "(Last updated: …)" line out of the body; the layout shows it in the header, as a long date.
     def take_updated(page)
-      page.data["updated"] = page.content[LAST_UPDATED, 1]&.strip
+      typed = page.content[LAST_UPDATED, 1]&.strip
+      page.data["updated"] = typed && ManasTheme.long_text(typed)
       page.content = page.content.sub(LAST_UPDATED, "")
     end
 
@@ -201,7 +234,7 @@ module ManasTheme
         if (top = line.match(/\A- (.*)\z/))
           text = top[1].strip
           if (when_line = text.match(/\A\*\*(.+)\*\*\z/))
-            role = { "when" => when_line[1], "title" => nil, "desc" => [], "ship" => [] }
+            role = { "when" => ManasTheme.month_range(when_line[1]), "title" => nil, "desc" => [], "ship" => [] }
             roles << role
           elsif role
             role["title"] ? role["desc"] << inline(text) : role["title"] = inline(text)

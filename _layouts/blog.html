@@ -3,6 +3,7 @@ layout: default
 ---
 {%- include header.html big=true -%}
 <main class="index" aria-label="Posts">
+  <h1 class="visually-hidden">{{ page.title }}</h1>
   {%- for post in site.posts -%}
     {%- unless post.is_book -%}
       {%- include row.html url=post.url date=post.date_mash title=post.title -%}

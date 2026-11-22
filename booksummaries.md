@@ -1,6 +1,6 @@
 ---
 layout: booksummaries
-title: Summaries
+title: Book Notes
 permalink: /booksummaries/
 ---
 (Last updated: 28 July 2025)

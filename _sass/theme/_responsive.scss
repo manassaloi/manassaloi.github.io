@@ -27,8 +27,8 @@
 @media (max-width: 760px) {
   :root { --edge: 16px; }
 
-  // Same size on every page here too: 64px, as on the home page.
-  .mark { font-size: 64px; --mark-lift: 0px; }
+  // Each display element drops one step of the type scale. The wordmark is still one size on every page.
+  .mark { font-size: var(--title-2); --mark-lift: 0px; }
 
   .mark--fixed {
     position: static;
@@ -82,11 +82,9 @@
     margin: 28px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px));
   }
 
-  .post h1, .note h1 { font-size: 44px; }
-  .prose { font-size: 14px; }
-  .clips { font-size: 14px; }
+  .post h1, .note h1 { font-size: var(--title-3); }
 
-  .sec-label h2 { font-size: 36px; }
+  .sec-label h2 { font-size: var(--title-4); }
   .sec + .sec { margin-top: 64px; }
   .gear { grid-template-columns: minmax(0, 1fr); }
   .career { grid-template-columns: minmax(0, 1fr); gap: 0; }

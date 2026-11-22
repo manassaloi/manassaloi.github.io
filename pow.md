@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POW
+title: Proof of Work
 permalink: /proofofwork/
 ---
 (Last updated: 05 June 2025)

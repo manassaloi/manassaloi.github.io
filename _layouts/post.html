@@ -29,11 +29,11 @@ layout: default
         {%- if page.book_author != "" %}
         <span>{{ page.book_author | escape }}</span>
         {%- endif %}
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_mash }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_long }}</time>
         <span class="gap"></span>
         <a href="{{ "/booksummaries/" | relative_url }}">← All book notes</a>
         {%- else %}
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_mash }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date_long }}</time>
         <span>{{ minutes }} min read</span>
         <span class="gap"></span>
         <a href="{{ "/posts/" | relative_url }}">← All posts</a>

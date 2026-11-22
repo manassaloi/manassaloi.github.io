@@ -14,7 +14,7 @@
   time {
     flex: 0 0 auto;
     width: 8.4ch;
-    font-size: 11px;
+    font-size: var(--text-label);
     letter-spacing: 0.08em;
     color: var(--muted);
     font-variant-numeric: tabular-nums;
@@ -65,12 +65,12 @@
   left: max(var(--edge), env(safe-area-inset-left, 0px));
   top: 220px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: var(--text-small);
   line-height: 1.55;
 
   p { margin: 0 0 10px; }
-  a { color: var(--fg); }
-  @include hover { a:hover { color: var(--red); } }
+  a { color: var(--fg); border-bottom: 1px solid var(--muted); }
+  @include hover { a:hover { color: var(--red); border-color: var(--red); } }
 }
 
 // ---------- small-wordmark header (every other page) ----------
@@ -88,7 +88,9 @@
   padding-right: 48px;
   min-width: 0;
 
-  p { margin: 0 0 8px; max-width: 58ch; }
+  // The page's name is its h1, set like the text under it.
+  p, h1 { margin: 0 0 8px; max-width: 58ch; }
+  h1 { font: inherit; }
   .dim { color: var(--muted); }
 
   a {

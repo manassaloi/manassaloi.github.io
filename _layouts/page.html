@@ -3,8 +3,9 @@ layout: default
 ---
 {%- comment -%}
   Bookshelf, Proof of Work, Uses This and Links: each section's name pinned on the left, its items on
-  the right. page.kind and the section data come from _plugins/theme.rb. Any other page falls back to
-  plain content in the right column.
+  the right. page.kind and the section data come from _plugins/theme.rb. The 404 sets kind: notfound
+  itself: its words go in the header and the latest posts below. Any other page falls back to plain
+  content in the right column.
 {%- endcomment -%}
 {%- assign name = page.title -%}
 {%- for item in site.nav -%}
@@ -12,7 +13,7 @@ layout: default
 {%- endfor -%}
 
 {%- capture mid -%}
-  <p>{{ name }}</p>
+  <h1>{{ name }}</h1>
   {%- case page.kind -%}
     {%- when "bookshelf" -%}
       <div class="dim">{{ page.intro_html }}</div>
@@ -22,6 +23,8 @@ layout: default
       <p class="dim">Updated {{ page.updated }}</p>
     {%- when "pow", "links" -%}
       <p class="dim">Updated {{ page.updated }}</p>
+    {%- when "notfound" -%}
+      <div class="dim">{{ content }}</div>
   {%- endcase -%}
 {%- endcapture -%}
 {%- include header.html mid=mid -%}
@@ -97,7 +100,8 @@ layout: default
         {%- if group.label != "" %}<p class="sub">{{ group.label }}</p>{%- endif %}
         <div class="gears">
           {%- for item in group.items %}
-          <div class="gear">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}<span>{{ item.name }}</span>{% endif %}<span class="why">{{ item.why }}</span></div>
+          {%- comment -%} The name sits in a span so a linked name stays inline: its underline follows the text, not the grid cell. {%- endcomment %}
+          <div class="gear"><span>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</span><span class="why">{{ item.why }}</span></div>
           {%- endfor %}
         </div>
       {%- endfor %}
@@ -114,12 +118,23 @@ layout: default
         {%- case entry.kind -%}
           {%- when "say" -%}<p class="say">{{ entry.html }}</p>
           {%- when "post" -%}{%- include row.html url=entry.url date=entry.date title=entry.text -%}
-          {%- else -%}{%- include row.html url=entry.url date="↗" title=entry.text external=true -%}
+          {%- else -%}{%- include row.html url=entry.url title=entry.text external=true -%}
         {%- endcase -%}
       {%- endfor %}
     </div>
   </section>
   {%- endfor %}
+
+{%- when "notfound" %}
+  {%- assign latest = site.posts | where_exp: "post", "post.is_book != true" %}
+  <section class="sec split">
+    <div class="left sec-label"><h2>Latest posts</h2></div>
+    <div class="right">
+      {%- for post in latest limit: 6 -%}
+        {%- include row.html url=post.url date=post.date_mash title=post.title -%}
+      {%- endfor %}
+    </div>
+  </section>
 
 {%- else %}
   <div class="split">
