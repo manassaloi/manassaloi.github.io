@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Amazon Choosing Robert Pattinson Taught Me About Venture Capital"
+title:  "Robert Pattinson and Venture Capital"
 ---
 
 For more than sixty years, the James Bond franchise had one strict rule: never cast an established star. The audience needed to see the actor as Bond, without any past baggage.
