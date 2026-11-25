@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "No, Vig?"
+---
+
+First things first: I'm a big [@Novig](https://x.com/Novig) fan, so let me say that before anything else.
+
+Novig is the only real challenger to Polymarket and Kalshi with a genuinely different strategy. They built the supply side first: the podcasts, the events, and a network of sharp bettors they slowly pulled over from Pinnacle and the other sharp books. That's the hardest part of building an exchange, and they did it brilliantly.
+
+Once supply was fixed, they went after demand in a big way. Say what you want about the Sydney Sweeney ad, but it was the fastest way to get retail to discover the platform. I remember [@BigBuckHunterrr](https://x.com/BigBuckHunterrr) and [@Flupnolide](https://x.com/Flupnolide) teasing the campaign for weeks in their podcast before it launched.
+
+About three months after launching its regulated exchange in August, Novig is the #3 US-regulated prediction market.
+
+So this isn't a dunk. It's me trying to figure out why a company just did something that looks like it goes against its own name.
+
+Okay, let's begin.
+
+Novig, a company named after not charging vig (the cut a sportsbook builds into every line), just announced a fee on pre-game trades, which used to be free.
+
+Novig already charged a 0.06 taker fee on live trades all along, but now pre-game trading has a fee too. Starting December 1, takers on pre-game lines pay about 1.5% of their stake on a 50/50 contract. Makers still pay nothing.
+
+As expected, the Twitter timeline is calling it a betrayal. "Their name is literally No-Vig." People are calling Novig greedy.
+
+I don't think it's greed. I think Novig is caught between the only two ways to make money running a trading product.
+
+The first is the toll booth approach.
+
+An exchange with its own desk has a shortcut: make it harder for outside market makers to compete so most retail flow lands with your desk. Then you collect house-sized margins and fund the VIP program from the spread. You become a sportsbook with an exchange license.
+
+The second is the house. You take the other side of the trade and keep the spread. That's a sportsbook: DraftKings, FanDuel.
+
+Each has a trade-off. The toll is safe but small. The house earns fat margins but has bad weeks and public markets price that in.
+
+DraftKings trades at ~1.4x EV/revenue. ICE, which owns the New York Stock Exchange, trades at ~10.8x.
+
+Novig started closer to the house.
+
+The pitch was free trading for fans. Novig planned to make its money by charging institutional market makers, and running its own trading arm, MAG. MAG trades on Novig's exchange as well as other venues.
+
+Zero/low fees pull in flow, and an in-house desk gets to trade against it. Novig doesn't say how much of its revenue came from MAG.
+
+Variational, a crypto perps venue, has a similar setup and they call their model: "Robinhood and Citadel built on top of each other". Cheap for the user, with the house's own dealer on the other side.
+
+This model has two problems, and both showed up this fall.
+
+The first is chalk (betting slang for favorites). In NFL Week 9, favorites won 13 of 14 games on Sunday, a week BetMGM's trading manager called "by far our worst NFL week of the year and probably the last two years".
+
+[Confession: I learned about this recently as I don't trade a lot of sports.]
+
+When you're the house, weeks like that can be brutal.
+
+It is all doom and gloom if you listen to any sports betting podcast. Garage band market makers are getting killed out there. Novig doesn't publish MAG's numbers, so we don't know how it fared.
+
+The second problem is the CFTC.
+
+In July it proposed banning exchanges' own trading firms from trading on their exchanges, unless they act as genuine market makers: quote both sides at all times, never take a view on who wins, get filled last at every price, accept an outside monitor, and let every customer be told about them each session before trading. MAG would only get filled after everyone else had passed, which is mostly when it's wrong, so it keeps the downside of being the house and loses the upside.
+
+Note: this is still a proposal. But from January, Democrats control both the House and the Senate, and oversight hearings on exchanges that trade against their own customers would be an easy headline.
+
+So Novig is moving toward the toll. Takers now pay, while outside makers stay free and earn rebates for keeping the book deep.
+
+The fee isn't even big. It's under half of Kalshi's 0.07 coefficient. A standard sportsbook line is -110 on both sides (bet $110 to win $100), which leaves the book about 4.5%. Novig's fee on a coin flip is about 1.5%.
+
+But small isn't the same as nothing.
+
+In Free, Chris Anderson writes about the "penny gap": the jump from free to one cent loses more users than any price rise after it. Novig lived on the free side of that gap until now. The first to feel it will be arbers (traders who profit from price gaps between venues) and sharp takers, and they're the ones keeping Novig's lines honest.
+
+On the recent Risk Takers Podcast, the hosts [@goldenpants013](https://x.com/goldenpants013) and [@Sports__Proj](https://x.com/Sports__Proj) made an interesting point. Sharps (makers or takers) don't need rewards. A winning trader on a platform stays anyway. The ones who churn are high volume squares, who lose over time and have every reason to leave.
+
+That's why sportsbooks spend heavily on VIP programs: personal hosts, dinners, game tickets, trips. Keeping a losing customer happy is expensive, and sportsbooks can only afford it because it keeps ~4.5% on a standard -110 line.
+
+A 1.5% toll doesn't pay for many dinners.
+
+An exchange with its own desk has a shortcut: make it harder for outside market makers to compete so most retail flow lands with your desk. Then you collect house-sized margins and fund the VIP program from the spread. You become a sportsbook with an exchange license.
+
+Novig isn't doing that. It's paying outside makers to compete, and the CFTC's "filled last" rule would close that shortcut anyway.
+
+That leaves Novig in an awkward spot: a fee too small to fund what keeps squares around, and a desk too boxed in due to regulatory issues to earn house margins.
+
+The middle is the hardest place to be.
+
+My guess: Novig either keeps raising fees until it's a real toll booth, or finds its way towards being the house if the CFTC allows it.
