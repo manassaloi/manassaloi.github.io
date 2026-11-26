@@ -39,7 +39,7 @@ So this isn't "who paid more". It's "if you got paid the same, which company's s
 | 10 | Google / DeepMind lifer | $16M |
 | 11 | Meta lifer | $15M |
 
-Across all 25,756 paths: median $66M, best $797M, worst $12M. All eight employers did well, so the median leans high.
+Across all 25,756 paths: median $66M, best $797M, worst $12M. All eight employers did well, so the median leans high. Labs that lost their teams to bigger companies, like Inflection and Adept, aren't in it.
 
 Where the lifers rank among all paths:
 
@@ -98,7 +98,7 @@ The median path with three moves ($66M) beats the median with one move ($57M) an
 
 ### 4. A 2020 Nvidia share did almost as well as a 2020 OpenAI unit.
 
-A 2020 OpenAI unit is up about 28×, and a 2020 Nvidia share about 25×. The lifers end up further apart, $104M against $61M, because OpenAI's later grants grew far more. Still, the Nvidia lifer got about 60% as much, in shares they could sell any day.
+A 2020 OpenAI unit is up about 28×, and a 2020 Nvidia share about 25×. At the reported $1.25T, the OpenAI unit would be up about 40×. The lifers end up further apart, $104M against $61M, because OpenAI's later grants grew far more. Still, the Nvidia lifer got about 60% as much, in shares they could sell any day.
 
 ### 5. The 2025 mega-offers were paid in the worst stock.
 
@@ -110,7 +110,7 @@ Here is what a $40M offer made in July 2025 is worth today:
 | OpenAI equity | Oct 2025 tender ($500B) | ~$58M (1.46×) |
 | Anthropic equity | Sep 2025 Series F | ~$235M (5.87×) |
 
-Meta's offers were bigger because it had to outbid the labs. To come out ahead, though, a Meta offer had to be about 7× an Anthropic offer, or 1.7× an OpenAI one. The headline number is only half an offer; the other half is the stock it's paid in.
+Meta's offers were bigger because it had to outbid the labs. To come out ahead, though, a Meta offer had to be about 7× an Anthropic offer, or 1.7× an OpenAI one. Meta's real packages cleared the OpenAI bar: taking one still roughly beat staying at OpenAI, even paid in a falling stock. The headline number is only half an offer; the other half is the stock it's paid in.
 
 ---
 
@@ -130,6 +130,10 @@ A strong senior researcher, not a cofounder or a named star.
 - When you quit: whatever hasn't vested is gone.
 
 Someone who stays from 2020 receives about $10.6M of equity in total: a $1.5M joining grant plus $9.1M of yearly top-ups.
+
+"Don't people get bought out when they switch?"
+
+Often, yes: senior hires get extra equity to cover what they leave behind. We leave that out, so moving looks a little costlier than it was. Adding a 20% buyout didn't change the ranking.
 
 "Would Anthropic really have given a new hire $2M of equity in 2021?"
 
