@@ -18,8 +18,8 @@ At these companies, equity is where the money is. In our model a researcher who 
 To make the comparison fair, we made everything else identical:
 
 - Same equity grant everywhere. Each year's grant is worth the same dollar amount at every company. The only thing that changes is which company's stock it buys.
-- Same salary, bonus and sign-on bonus everywhere. So we leave them out, since they cancel.
-- No selling. Every share is valued at today's price.
+- Same salary and bonus everywhere. So we leave them out, since they cancel. Sign-on bonuses are left out too. Only people who move get one, so movers come out slightly low.
+- No selling. Every vested share is valued at today's price. Shares still vesting don't count.
 
 So this isn't "who paid more". It's "if you got paid the same, which company's stock did you want to be paid in, and when?"
 
@@ -39,7 +39,7 @@ So this isn't "who paid more". It's "if you got paid the same, which company's s
 | 10 | Google / DeepMind lifer | $16M |
 | 11 | Meta lifer | $15M |
 
-Across all 25,756 paths: median $66M, best $797M, worst $12M.
+Across all 25,756 paths: median $66M, best $797M, worst $12M. All eight employers did well, so the median leans high.
 
 Where the lifers rank among all paths:
 
@@ -94,11 +94,11 @@ Every time you quit, you give up your unvested equity, worth whatever it would h
 
 ### 3. Moving isn't bad in itself.
 
-The median path with three moves ($66M) beats the median with one move ($57M) and the median for staying put ($39M). More moves meant more chances to land somewhere cheap. What cost money was leaving Anthropic, not moving.
+The median path with three moves ($66M) beats the median with one move ($57M) and the median for staying put ($39M, from only four paths, since the other four employers didn't exist yet in 2020). More moves meant more chances to land somewhere cheap. That only works because all eight employers did well. Add a lab that failed, and more moves would also mean more chances to land there. What cost money was leaving Anthropic, not moving.
 
-### 4. Staying at Nvidia was almost as good as staying at OpenAI.
+### 4. A 2020 Nvidia share did almost as well as a 2020 OpenAI unit.
 
-Nvidia lifer: $61M. OpenAI lifer: $104M. A 2020 OpenAI unit is up about 28×, and a 2020 Nvidia share about 25×. You could sell the Nvidia shares any day.
+A 2020 OpenAI unit is up about 28×, and a 2020 Nvidia share about 25×. The lifers end up further apart, $104M against $61M, because OpenAI's later grants grew far more. Still, the Nvidia lifer got about 60% as much, in shares they could sell any day.
 
 ### 5. The 2025 mega-offers were paid in the worst stock.
 
@@ -110,7 +110,7 @@ Here is what a $40M offer made in July 2025 is worth today:
 | OpenAI equity | Oct 2025 tender ($500B) | ~$58M (1.46×) |
 | Anthropic equity | Sep 2025 Series F | ~$235M (5.87×) |
 
-The headline number on an offer is a price; what matters is the stock it's paid in.
+Meta's offers were bigger because it had to outbid the labs. To come out ahead, though, a Meta offer had to be about 7× an Anthropic offer, or 1.7× an OpenAI one. The headline number is only half an offer; the other half is the stock it's paid in.
 
 ---
 
@@ -118,7 +118,7 @@ The headline number on an offer is a price; what matters is the stock it's paid 
 
 "Nobody gets the same grant at Google as at OpenAI."
 
-True. Labs paid far more equity than Big Tech. We held it equal on purpose so you can compare the stocks. In real life the gap between labs and Big Tech is bigger than our table shows.
+True. Labs usually paid far more equity than Big Tech; Meta's 2025 offers were the exception. We held it equal on purpose so you can compare the stocks. In real life the gap between labs and Big Tech is bigger than our table shows.
 
 "Who is this researcher?"
 
@@ -143,7 +143,7 @@ Yes. In 2021 Anthropic was a new lab started by people who had left OpenAI, and 
 
 Mostly not yet.
 
-- Anthropic staff could sell up to 10% of locked shares on IPO day. Most of the $797M is still locked.
+- Anthropic staff could sell up to 10% of locked shares on IPO day. Most of the $797M is still locked. Anthropic would have to fall more than 80% before the winner dropped below the best path without Anthropic ($123M).
 - OpenAI pays out only through occasional tender offers, where the company or investors buy employee shares, with per-person caps.
 - Nvidia, Google and Meta stock is liquid.
 
@@ -182,7 +182,7 @@ We blocked that. If a lab raised a new round within three months of your grant, 
 
 "What about taxes?"
 
-They're ignored, and treated the same for everyone.
+All numbers are before tax. Public-company shares are taxed as they vest, and private ones mostly at a sale or IPO, so after-tax totals would differ. None of that changes the winner.
 
 "So where should I join today?"
 
