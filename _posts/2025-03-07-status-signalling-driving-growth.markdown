@@ -46,7 +46,7 @@ The earlier in the funnel your product appears (example: as a link in bio), the 
 
 Can you go even earlier?
 
-The game here is about hacking visibility through user-driven placements—bios, profile pictures, and social behaviors.
+The game here is about hacking visibility through user-driven placements: bios, profile pictures, and social behaviors.
 
 If your users are on Twitter, then for anyone landing on home you would want them to see the banner of your app. But of course, Twitter is not going to do it for you. They are going to upsell the user to Twitter premium instead. You can't have that screen estate. So what can you do?
 

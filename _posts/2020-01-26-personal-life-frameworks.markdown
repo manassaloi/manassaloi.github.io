@@ -36,7 +36,7 @@ Some of the most important frameworks/models/principles I learned in the last fe
 
 14. [Life is short](http://www.paulgraham.com/vb.html): How you live affects how long you live. Most people could do better.
 
-15. [Life is a Picture, But You Live in a Pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html): You doesn’t live in the picture’s broad strokes, you live at all times in a single pixel of the image—a single Today.
+15. [Life is a Picture, But You Live in a Pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html): You doesn’t live in the picture’s broad strokes, you live at all times in a single pixel of the image: a single Today.
 
 16. [The Work Required to Have an Opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/): The work required to hold an opinion means that you can argue yourself better than others can.
 
@@ -90,7 +90,7 @@ Some of the most important frameworks/models/principles I learned in the last fe
 
 41. [Build a life/career which can't be cancelled](https://www.nytimes.com/2020/05/25/opinion/joe-rogan-spotify-podcast.html); “When you have something that can’t get canceled, you can be free,” - Joe Rogan.
 
-42. [Improve your maximum taste](https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/); The theory of maximum taste says that each person’s mind is defined by its upper limit—the best that it habitually consumes and is capable of consuming.
+42. [Improve your maximum taste](https://www.theatlantic.com/ideas/archive/2020/05/commencement-address-too-honest-have-been-delivered-person/611572/); The theory of maximum taste says that each person’s mind is defined by its upper limit: the best that it habitually consumes and is capable of consuming.
 
 43. [Focus on the work, not the person](https://sive.rs/you-not-them); All that matters is what you do with the ideas, no matter the source. Apply them to your own life in your own way.
 

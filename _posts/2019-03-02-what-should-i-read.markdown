@@ -61,7 +61,7 @@ fav: [Lessons Learned from 20 Years at the Leading Edge of SaaS](http://tomtungu
 
 ## 13/ Steve Blank. [https://steveblank.com/](https://steveblank.com/)
 
-fav: [“Speed and Tempo” — Fearless Decision Making for Startups](https://steveblank.com/2009/04/10/good-enough-decision-making/)
+fav: [“Speed and Tempo”: Fearless Decision Making for Startups](https://steveblank.com/2009/04/10/good-enough-decision-making/)
 
 ## 14/ Derek Sivers. [https://sivers.org/](https://sivers.org/)
 

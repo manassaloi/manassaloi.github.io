@@ -33,7 +33,7 @@ Now this same card can have different info and serve different business needs.
 2. Continue where you left *(very common feature in ecom)*. Surprisingly most ride hailing companies don't do it. Extremely high ROI. So many times you cancel because of long ETA. Try competitors. Come back and have to go through the same flows again. This one click experience is far better.
 3. Return booking for office commuters. One tap to return home in the evening. Works for cases where you can predict non commute return trips too.
 4. One tap booking for trips you can predict because you have personal info. Let's say you have access to the user's calendar.
-5. Take users to popular places (impossible to do, probably doesn't work, but when we can predict popular events — let's say some cricket match in a stadium).
+5. Take users to popular places (impossible to do, probably doesn't work, but when we can predict popular events, let's say some cricket match in a stadium).
 
 Basically, one platform feature that can support multiple uses and can dynamically transform to show the relevant info to drive up conversion.
 

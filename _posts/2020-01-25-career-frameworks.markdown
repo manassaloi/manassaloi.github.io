@@ -124,7 +124,7 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 58. [Your network is your net worth](https://mobile.twitter.com/chrishlad/status/1382348905950679044); Build a world-class network.
 
-59. [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1); It’s overrated—both financially and emotionally.
+59. [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1); It’s overrated, both financially and emotionally.
 
 60. [Get a CS degree and work at 3 breakout series B/C startups for 3 years each as an engineer/PM](https://mobile.twitter.com/BrennerSpear/status/1333457906696646660); How to retire by 31 while working fun jobs.
 
@@ -148,7 +148,7 @@ Important frameworks/models/ideas I learned in the last few years which have hel
 
 70. [Don't fall for the promotion trap](https://www.productlessons.xyz/article/looking-good-vs-getting-good); Don't lose the courage to try new things.
 
-71. [Career is not a ladder, it's a game](https://mobile.twitter.com/kevinyien/status/1298223507571081216);  Those who treat it like a game will collect the resources, find the people, and build the skills that compound — and have fun doing it.
+71. [Career is not a ladder, it's a game](https://mobile.twitter.com/kevinyien/status/1298223507571081216);  Those who treat it like a game will collect the resources, find the people, and build the skills that compound, and have fun doing it.
 
 72. [How to choose which startup to join](https://mobile.twitter.com/cjc/status/1454234168800415755); What company you select matters far more than any other factor (title, scope of role, salary, etc.)
 

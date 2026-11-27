@@ -11,7 +11,7 @@ Every day you see startups reporting
 - 10000 transactions on their App
 - Growth of 100% in GMV
 
-I consider all of these vanity metrics. **Vanity metrics are numbers that make you feel and look good — but do not validate your original business hypothesis/actual growth.**
+I consider all of these vanity metrics. **Vanity metrics are numbers that make you feel and look good, but do not validate your original business hypothesis/actual growth.**
 
 Imagine a hyper local start up which just raised a huge round of funding. The first impulse would be to increase their spends on Hiring and Customer Acquisition. Instead of spending 15–30 Rs. CPI on Facebook campaigns (like you did earlier when money was tight and optimizing your marketing efforts were a priority) you now scale up and spend much much more. Your total App installs increase and due to the increase in the number of new users(each day), your DAUs go up too. You start giving massive discounts and your transactions as well as GMV becomes 3/4 fold. Your VCs are happy. So are your users who can now gorge on delicious Chicken Biryaani for <100 INR (including delivery costs).
 

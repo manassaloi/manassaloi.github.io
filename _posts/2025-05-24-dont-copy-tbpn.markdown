@@ -13,7 +13,7 @@ Similarly, when the All in podcast was blowing up during the pandemic, a bunch o
 
 Nikita's humor, which works brilliantly on Twitter, just didn't translate to the podcast arena. Their dynamic felt forced. The chemistry wasn't there. Consequently, the whole thing came off like a weak copy of the All in crew.
 
-Ironically, Logan actually did become a good podcaster — but only after the others left. He leaned into what he's uniquely good at: his takes as a VC, his ability to ask smart questions, and his access to top tier guests willing to come and share real alpha. That's when his podcast clicked and it became his thing.
+Ironically, Logan actually did become a good podcaster, but only after the others left. He leaned into what he's uniquely good at: his takes as a VC, his ability to ask smart questions, and his access to top tier guests willing to come and share real alpha. That's when his podcast clicked and it became his thing.
 
 The truth is, just because you're good at shitposting on Twitter doesn't mean you'll be good on a podcast. Every platform amplifies different strengths. Moreover, if you're just trying to copy a format without knowing what your strengths are, you'll end up sounding like a knockoff.
 

@@ -69,21 +69,21 @@ I know, I know. Another end of the year listicle. Grrrr… In all probability yo
 
 * *“TREAT THE GYM LIKE A SPA.*
 
-*Yes. It has to feel good. I tell people this a lot — go to the gym, and just sit there, and read a magazine, and then go home. And do this every day. Go to the gym, don’t even work out. Just GO. Because the habit of going to the gym is more important than the work out. Because it doesn’t matter what you do. You can have fun — but as long as you’re having fun, you continue to do it. But what happens is you get a trainer, your whole body is sore, you can’t feel your legs, and you’re not coming back the next day — you might not come back for a year! I worked my way up to 2 hours a day. I ENJOY my workouts. They are my peace, my joy — I get my whole head together! I value that time more than my shower! And it really gets me together. But it’s a habit.*
+*Yes. It has to feel good. I tell people this a lot: go to the gym, and just sit there, and read a magazine, and then go home. And do this every day. Go to the gym, don’t even work out. Just GO. Because the habit of going to the gym is more important than the work out. Because it doesn’t matter what you do. You can have fun, but as long as you’re having fun, you continue to do it. But what happens is you get a trainer, your whole body is sore, you can’t feel your legs, and you’re not coming back the next day: you might not come back for a year! I worked my way up to 2 hours a day. I ENJOY my workouts. They are my peace, my joy. I get my whole head together! I value that time more than my shower! And it really gets me together. But it’s a habit.*
 
-*There are times when — I’m not even kidding — there are times when I”m in the middle of a work out, and actually woke up because i am so engrained with going to the gym and being there — it’s that much of a habit to me. The first thing I do in the morning is work out — I lay out my workout clothes the night before, and just hop in ’em. So lay out your clothes, and go to the gym, and relax.*
+*There are times when, I’m not even kidding, there are times when I”m in the middle of a work out, and actually woke up because i am so engrained with going to the gym and being there. It’s that much of a habit to me. The first thing I do in the morning is work out: I lay out my workout clothes the night before, and just hop in ’em. So lay out your clothes, and go to the gym, and relax.*
 
 *HaAHAHAH!*
 
 *But sooner or later, you WILL work out.”*
 
-— Terry Crews
+(Terry Crews)
 
 The mindset to persist with something (even if you don’t enjoy it in the beginning) is the most important thing in the world. Be it reading, working out or doing side projects. You don’t have to work out everyday. Just try showing up at the gym instead for half an hour.
 
 * *“If you don’t do something well don’t do it unless you are willing to spend time improving it”*
 
-— Triple H (WWE Wrestler)
+(Triple H, WWE Wrestler)
 
 Earlier I used to spend hours daily reading random blog posts on any topic under the sun. Be it Dev, Data Sciences, Marketing or Sales: I had to read it all. Over the past year I have tried my best to cut down on junk reading and only focus on Product, Strategy and UX.
 
@@ -97,7 +97,7 @@ Apart from that, In 2017:
 
 * *“If you have a 10-year plan of how to get [somewhere], you should ask: Why can’t you do this in 6 months?”*
 
-— Peter Thiel
+(Peter Thiel)
 
 I like setting personal and professional goals for myself. [I have yearly goals which I sometime post online](https://www.quora.com/What-do-you-want-in-2015/answer/Manas-J-Saloi). One of them is to visit at least 10 countries by the time I turn 30. Due to various reasons I could never find time to take long holidays over the last few years. This time I cut down on short holidays, took fewer leaves and managed to do a [2 week backpacking trip across South East Asia](https://solitarywankers.quora.com/Banana-Pancake-Trail-Vietnam).
 
@@ -105,7 +105,7 @@ This lesson is not simply about compressing 10 year goals into 6 months. Think o
 
 * *“Instead of focusing how the world will be in 20 years think about what won’t change in that time frame”*
 
-— Jeff Bezos
+(Jeff Bezos)
 
 This is not just a solid business advice; it can be a thought exercise for your life too. Forget what you would want over the next 2 decades. Ask: What would you not want instead.
 
@@ -123,13 +123,13 @@ Hence I would rather focus on those aspects instead of worrying about when AI is
 
 * *“Strong views weakly held”*
 
-— Paul Safe
+(Paul Safe)
 
 If you open Twitter now, you will find a bunch of people arguing with each other on the basis of their opinions (inspite of facts which state otherwise). Go to any company and you will find at least a few leaders who are unwilling to accept that they are wrong and keep holding on to their beliefs. Your beliefs should be subject to change on the basis of fresh evidence.
 
 * *“Skin in the game”*
 
-— Nassim Nicholas Taleb
+(Nassim Nicholas Taleb)
 
 A lot of people giving startup advice on Twitter (including new VCs) have never even worked for a startup. They have not slept at night wondering where the next round of funding would come from to keep the lights on.
 
@@ -137,7 +137,7 @@ Don’t make decisions for others, spew opinions without having skin in the game
 
 * *“Greatness comes from compound interest, whether it’s in investments or it’s in relationships.”*
 
-— Naval Ravikant
+(Naval Ravikant)
 
 Long term thinking matters. Instead of transactional short term relationships it is wise to invest in things which build over time.
 

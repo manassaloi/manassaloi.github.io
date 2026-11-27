@@ -78,7 +78,7 @@ I have been obsessed with start-ups since I got introduced to the world of start
 
 1. A key activity of a founder is to keep sharing the company vision with her employees. In the darkest times people will still stand by you if they trust your vision.
 
-1. One of the toughest things to do as a Manager is to say ‘No’ to new tasks/features. With so many things happening at startups it becomes almost impossible to prioritise and focus on a few goals. It becomes even more difficult to say No to requests from senior management. But if there is one quality which separates good managers from bad ones it is this — Ruthless Prioritisation. [Learn how to say No and stand your ground.](http://blog.intercom.io/product-strategy-means-saying-no/)
+1. One of the toughest things to do as a Manager is to say ‘No’ to new tasks/features. With so many things happening at startups it becomes almost impossible to prioritise and focus on a few goals. It becomes even more difficult to say No to requests from senior management. But if there is one quality which separates good managers from bad ones it is this: Ruthless Prioritisation. [Learn how to say No and stand your ground.](http://blog.intercom.io/product-strategy-means-saying-no/)
 
 1. Most start-up cultures are defined by the founding team (especially the CEO). If your CEO is data obsessed it is more than likely that most of the team’s decisions will be data driven. If your CEO is a workaholic who works long hours you will find other employees doing the same. [Culture is one of the most important factors that can make or break your startup.](http://www.linkedin.com/pulse/startup-culture-going-beyond-fancy-offices-bhavin-turakhia) As a founder it is critical you are setting a strong culture.
 

@@ -28,9 +28,9 @@ With the ideas of Premature Scaling, Consistent and Inconsistent Start-ups clear
 
 1. Founders equate start-up culture with fancy offices and employee perks. Culture is much more than that. [Bhavin Turakhia wrote a post ](http://www.linkedin.com/pulse/startup-culture-going-beyond-fancy-offices-bhavin-turakhia)on how one can think beyond TT tables to create a culture of mutual respect and a place where employees can give their 100% every day.
 
-1. PR stories do not equate success. It is hard not to think of yourself as the next big thing when you have the attention of the press (and paid PR posts never hurt). Losing focus will lead you to chase the next shiny product feature, hire (which will get you more press) and you will stop caring about the only dimension which matters the most — your own customers.
+1. PR stories do not equate success. It is hard not to think of yourself as the next big thing when you have the attention of the press (and paid PR posts never hurt). Losing focus will lead you to chase the next shiny product feature, hire (which will get you more press) and you will stop caring about the only dimension which matters the most: your own customers.
 
-1. Too many product features do not breed customer loyalty. But that is what most start-ups seem to be doing — mindlessly adding new shiny features. Coupons/discounts will help you increase your GMV (another vanity metric) but do nothing to improve retention. Ruthless prioritisation is the key here. Focus on the problem you were trying to solve with your product. Talk to your customers. Figure out the [main causes for churn and fix them.](http://andrewchen.co/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
+1. Too many product features do not breed customer loyalty. But that is what most start-ups seem to be doing: mindlessly adding new shiny features. Coupons/discounts will help you increase your GMV (another vanity metric) but do nothing to improve retention. Ruthless prioritisation is the key here. Focus on the problem you were trying to solve with your product. Talk to your customers. Figure out the [main causes for churn and fix them.](http://andrewchen.co/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
 
 **Related posts:**
 

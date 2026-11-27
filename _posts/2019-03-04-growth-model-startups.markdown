@@ -6,7 +6,7 @@ title:  "A simple Growth Model for your Start-Up"
 
 (Get me some good old growth hacking yo!)
 
-- The term ‘Growth Hacking’ has become pretty mainstream. It also makes a lot of people flinch. We can debate on semantics but one thing I’m sure we all unequivocally agree on — Every startup needs a framework/model for growth; a focused approach for scaling its organisation and user base. And let’s face it, ad hoc experiments or ‘hacks’ that worked for someone else on the Internet are far from it.
+- The term ‘Growth Hacking’ has become pretty mainstream. It also makes a lot of people flinch. We can debate on semantics but one thing I’m sure we all unequivocally agree on: Every startup needs a framework/model for growth; a focused approach for scaling its organisation and user base. And let’s face it, ad hoc experiments or ‘hacks’ that worked for someone else on the Internet are far from it.
 
 - Andy John, VP of growth at WealthFront who has been on the early growth teams at Facebook, Quora, Twitter has come up with a simple foundation model to measure growth:
 
@@ -14,7 +14,7 @@ title:  "A simple Growth Model for your Start-Up"
 
 - You need to be able to drive users to your site and convert a significant percentage of them to paying users.
 
--  There has to be magic/aha moment which leads to a user understanding the value of a product — as a key to growth (Read more about aha moments here: [Facebook’s Aha Moment Is Simpler Than You Think](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/))
+-  There has to be magic/aha moment which leads to a user understanding the value of a product, as a key to growth (Read more about aha moments here: [Facebook’s Aha Moment Is Simpler Than You Think](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/))
 
 -  The product has to solve a real problem and there has to be a sizable market for it (Read more about Product-Market fit here: [Product/Market Fit: What it really means, How to Measure it, and Where to find it](https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b#.ox1f953hn))
 
@@ -72,7 +72,7 @@ Come up with a list products that are missing from your site/app but are availab
 
 **e) Traffic to site/app and engagement**
 
-User growth (over any given period) = New user signups + Reactivations of current users — Deactivation of current users — Churn
+User growth (over any given period) = New user signups + Reactivations of current users - Deactivation of current users - Churn
 
 I found this really interesting formula for user growth in this blog post : [Build a Growth Machine Like Andy Johns](https://medium.com/mobile-growth/build-a-growth-machine-like-andy-johns-83c8dcc9b40a#.dp5tpmcmz)
 
@@ -115,25 +115,25 @@ Your SEO should not always be just changing keywords and descriptions. Spend tim
 
 [Here is an interesting post](https://www.reddit.com/r/SEO/comments/2y1r8z/rseo_sucks_lately_i_want_to_make_it_better_here/) on dividing SEO activity time. It says:
 
-- **40% of time should be spent doing On-page SEO** — Content, internal links, breadcrumbs, schema/microdata. Structure your site in a way which will help your SEO. Title, meta description, content on h1,h2 tags are given more priority by Google crawlers than something in your body. So make sure they contain the major keywords. While I was at CouponDunia I saw competitors go the extra mile to improve SEO traffic. One of our competitors (let’s call them ABC) had divided their site into 2 parts as they realized the importance of the keywords ‘coupons’ and ‘promo code’ for Uber. Their h1 had UBER Coupons and their h2 had UBER India Promo Codes. If you checked any other brand/merchant page the h1 and h2 would be different.
+- **40% of time should be spent doing On-page SEO**: Content, internal links, breadcrumbs, schema/microdata. Structure your site in a way which will help your SEO. Title, meta description, content on h1,h2 tags are given more priority by Google crawlers than something in your body. So make sure they contain the major keywords. While I was at CouponDunia I saw competitors go the extra mile to improve SEO traffic. One of our competitors (let’s call them ABC) had divided their site into 2 parts as they realized the importance of the keywords ‘coupons’ and ‘promo code’ for Uber. Their h1 had UBER Coupons and their h2 had UBER India Promo Codes. If you checked any other brand/merchant page the h1 and h2 would be different.
 
 - A complete SEO panel needs to be built as part of your CMS which can help our SEO team change Title, Description for categories/ merchants easily if you are an e-commerce site. The option has to be there for uploading templates with important keywords. But if someone wants to change meta data for individual merchants/ categories it should be possible too.
 
 - Make it easier for your users to navigate the site. Have breadcrumbs.
 
-- **Spend 20% time on link building** — Make your site a trusted website by getting high quality links.
+- **Spend 20% time on link building**: Make your site a trusted website by getting high quality links.
 
 [Footer links don’t work as well](https://moz.com/blog/footer-link-optimization-for-search-engines-user-experience) as having a back link from the body.
 
-- **20% on Social media** — Learn to leverage it to your benefit. Post frequently to Instagram, Facebook, Twitter, G+. You can use [Buffer](https://buffer.com/).
+- **20% on Social media**: Learn to leverage it to your benefit. Post frequently to Instagram, Facebook, Twitter, G+. You can use [Buffer](https://buffer.com/).
 
 - Radio Virgin Lebanon is one page which has been doing it consistently well. Their content is funny/engaging and they are crushing it on facebook.
 
 - Ask yourself why your users would ‘Like’ or ‘Share’ your content.
 
-- **10% Page optimization** — Speed is one of the few things you can control in the SEO world. Ask yourself if you really need to load one extra image just for the heck of it. How you can make sure that the user is not frustrated and does not bounce. Make sure your site is fast. Use [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) for analysis.
+- **10% Page optimization**: Speed is one of the few things you can control in the SEO world. Ask yourself if you really need to load one extra image just for the heck of it. How you can make sure that the user is not frustrated and does not bounce. Make sure your site is fast. Use [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) for analysis.
 
-- **10% Experiment** — Try new techniques, test landing pages, try new ideas.
+- **10% Experiment**: Try new techniques, test landing pages, try new ideas.
 
 - Focus on crawl errors rectification. Keep an eye on Webmasters and check for crawl errors. Remove 404 errors.
 
@@ -147,7 +147,7 @@ Test different subject lines as well as preview text to help improve open rate f
 
 - Other things to figure out : What is the time when most people shop on App/ Desktop? Is it affected by Push notifications/ emails?
 
-- Have a user life cycle campaign set up where you on board users with a series on push/email. I have seen that for most apps the highest usage/transactions is during the first one week after which engagement goes down. So instead of sending generic push notifications send pushes based on how long the user has been active on your app. For my current startup we send a series of pushes — 2 hours, 1 day, 3 days, 5 days after the user installs the app. Earlier we used to send on the 7th day too but we realized the open rate and transactions were far lower and so we stopped. Keep checking engagement for all these push notifications and stop if they are not working out. Try image pushes, text pushes. Try deep linking to a particular screen. The goal is to learn what works and what doesn’t.
+- Have a user life cycle campaign set up where you on board users with a series on push/email. I have seen that for most apps the highest usage/transactions is during the first one week after which engagement goes down. So instead of sending generic push notifications send pushes based on how long the user has been active on your app. For my current startup we send a series of pushes: 2 hours, 1 day, 3 days, 5 days after the user installs the app. Earlier we used to send on the 7th day too but we realized the open rate and transactions were far lower and so we stopped. Keep checking engagement for all these push notifications and stop if they are not working out. Try image pushes, text pushes. Try deep linking to a particular screen. The goal is to learn what works and what doesn’t.
 
 - Send an email when a user has **abandoned items on his shopping cart.** This should ideally go within 1 hour, 3 hours, after a day (you can test the timings and see what works for your app). You can give a discount coupon in the mail too if there is a chance it will increase conversion. And if the user is on app you can send a push deep linked to the cart screen. Again you have to see what works and what does not. Try different things. Discard the ones which don’t work and double down on the things that do.
 

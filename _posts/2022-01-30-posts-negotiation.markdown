@@ -11,7 +11,7 @@ title:  "Resources on negotiating your job offer"
 - [How someone negotiated a $300,000 job offer in Silicon Valley](https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 - [How someone got a $375K Instagram PM offer](https://productlessons.substack.com/p/how-i-got-a-375k-instagram-pm-offer)
 - [Ten Rules for Negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/)
-- [Salary negotiation strategies everyone in tech already knows — but you don’t](https://candor.co/guides/salary-negotiation)
+- [Salary negotiation strategies everyone in tech already knows, but you don’t](https://candor.co/guides/salary-negotiation)
 - [You got the startup job offer! Now what?](https://rishitaparia.com/writing/negotiatingyouroffer)
 - [How not to bomb your offer negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/)
 - [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://www.youtube.com/watch?v=u9BoG1n1948)

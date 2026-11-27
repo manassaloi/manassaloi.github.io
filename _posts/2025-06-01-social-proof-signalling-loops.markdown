@@ -14,7 +14,7 @@ These streaks, basically anything you can screenshot and be flexed online, are t
 
 Nobody knows what "Intermediate Spanish" or "Limited Working Proficiency" means anyway. A 90/100 score in German is easier to brag about.
 
-All the stuff that keeps popping up on my timeline —
+All the stuff that keeps popping up on my timeline:
 * Fasty's fasting screenshots
 * Whoop's biological age vs actual age
 * Strava's heat maps

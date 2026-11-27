@@ -10,21 +10,21 @@ This post has been in drafts for over a year now. I wrote this as a response to 
 
 **I have worked at:**
 
-1. [IOCL](https://www.iocl.com/) (Summer Intern, May 2011 — Jul 2011, 3 months)
+1. [IOCL](https://www.iocl.com/) (Summer Intern, May 2011 to Jul 2011, 3 months)
 
-1. [NGOSphere](https://www.facebook.com/NgoSphere/) (Attempt at starting up, Nov 2011 — Jul 2012, 9 months)
+1. [NGOSphere](https://www.facebook.com/NgoSphere/) (Attempt at starting up, Nov 2011 to Jul 2012, 9 months)
 
-1. [Redbus](https://www.redbus.in/) (Summer Intern, May 2012 — Jul 2012, 3 months)
+1. [Redbus](https://www.redbus.in/) (Summer Intern, May 2012 to Jul 2012, 3 months)
 
-1. [Avaya](https://www.avaya.com/en/) (Final Semester Intern, Jan 2013 — Jul 2013, 6 months)
+1. [Avaya](https://www.avaya.com/en/) (Final Semester Intern, Jan 2013 to Jul 2013, 6 months)
 
-1. [KonyLabs](https://www.kony.com/) (Full time, Aug 2013 — Sept 2013, 2 months)
+1. [KonyLabs](https://www.kony.com/) (Full time, Aug 2013 to Sept 2013, 2 months)
 
-1. [Kore.ai](https://kore.ai/) (Full time, Oct 2013 — Nov 2014, 1 year 2 months)
+1. [Kore.ai](https://kore.ai/) (Full time, Oct 2013 to Nov 2014, 1 year 2 months)
 
-1. [CouponDunia](https://www.coupondunia.in/) (Full time, Dec 2014 — Dec 2015, 1 year 1 month)
+1. [CouponDunia](https://www.coupondunia.in/) (Full time, Dec 2014 to Dec 2015, 1 year 1 month)
 
-1. [Craftsvilla](https://www.craftsvilla.com/) (Full time, Jan 2016 — Sept 2016, 9 months)
+1. [Craftsvilla](https://www.craftsvilla.com/) (Full time, Jan 2016 to Sept 2016, 9 months)
 
 1. [Directi](http://www.directi.com/) (Full time, Since Dec 2016, Current)
 

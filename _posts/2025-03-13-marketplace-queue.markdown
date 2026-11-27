@@ -28,4 +28,4 @@ Users who pay a premium receive faster service allocation. Others can opt for st
 Restaurant Reservations:
 At peak times, users may pay extra (a cover charge or premium) to secure prime time slots. Conversely, restaurants offer discounts during off-peak hours to attract customers when demand is low.
 
-Summary: Marketplace efficiency relies on a dynamic queue system—where a user's position is determined by how much they're willing to pay and how long they're willing to wait. The same applies to suppliers. This is a way to maximize revenue and optimize utilization.
+Summary: Marketplace efficiency relies on a dynamic queue system, where a user's position is determined by how much they're willing to pay and how long they're willing to wait. The same applies to suppliers. This is a way to maximize revenue and optimize utilization.

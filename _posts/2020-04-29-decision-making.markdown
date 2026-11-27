@@ -11,7 +11,7 @@ The template is inspired from the following resources I have read on decision ma
 - [DACI](https://www.atlassian.com/team-playbook/plays/daci)
 - [Eisenhower matrix](https://jamesclear.com/eisenhower-box)
 - [This Matrix Helps Growing Teams Make Great Decisions](https://firstround.com/review/this-matrix-helps-growing-teams-make-great-decisions/)
-- [Make Product Decisions Without Doubt — My Lessons from Twitter and Slack](https://firstround.com/review/make-product-decisions-without-doubt-my-lessons-from-twitter-and-slack/)
+- [Make Product Decisions Without Doubt: My Lessons from Twitter and Slack](https://firstround.com/review/make-product-decisions-without-doubt-my-lessons-from-twitter-and-slack/)
 - [Durable Decisions](https://medium.com/swlh/durable-decisions-ceed2e93ee0b)
 - [Decision Disagreement Framework - How we encourage disagreements at Matter](https://matterapp.com/blog/decision-disagreement-framework-how-we-encourage-disagreements-at-matter/)
 - [Making Good Decisions as a Product Manager](https://blackboxofpm.com/making-good-decisions-as-a-product-manager-c66ddacc9e2b)

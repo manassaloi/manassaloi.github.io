@@ -20,7 +20,7 @@ The classic essay on the role of product management and what makes a good PM by 
 
 ## [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/)
 
-In this post, Todd Jackson, ex VP of Product and Design at Dropbox explains how startups can define the type of PMs they need, source candidates, ask the right interview questions — and, perhaps most importantly, convince them to come work for you
+In this post, Todd Jackson, ex VP of Product and Design at Dropbox explains how startups can define the type of PMs they need, source candidates, ask the right interview questions, and, perhaps most importantly, convince them to come work for you
 
 ## [Top 75+ Resources for Product Managers](http://www.sachinrekhi.com/top-resources-for-product-managers)
 

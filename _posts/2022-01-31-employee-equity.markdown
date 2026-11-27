@@ -14,4 +14,4 @@ title:  "Resources on employee equity"
 - [Don't take non-recourse loan to exercise options](https://mobile.twitter.com/thisisgrantlee/status/1468084888171696133)
 - [Employee equity by Sam Altman](https://blog.samaltman.com/employee-equity)
 - [How much equity should I ask for? a HN thread](https://news.ycombinator.com/item?id=9516991)
-- [9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
+- [9 Terms You'll See In Your Startup Equity Offer (And What They Actually Mean)](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)

@@ -13,7 +13,7 @@ Even during vacations, the responsibility doesn't vanish. If something breaks, I
 
 In this environment, no one dictates your schedule. You define your own OKRs (Objectives and Key Results), set your goals, and determine when and how you achieve them.
 
-Take this tweet, for instance. I'm writing it during a break from working on performance reviews. However, this thread will only take about 5 minutes—similar to the duration of a quick smoke break at the office.
+Take this tweet, for instance. I'm writing it during a break from working on performance reviews. However, this thread will only take about 5 minutes, similar to the duration of a quick smoke break at the office.
 
 My perspective is simple: as long as I'm accessible and can provide prompt responses (I've set my turnaround time to be within X minutes), and my team and I consistently deliver results, I'm content.
 

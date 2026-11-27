@@ -30,12 +30,12 @@ However, the challenge is that after a while, Claude repeatedly prompts you to s
 Currently, people have figured out solutions, such as asking the model itself to explain and give a summary of the current chat window, and then copy-pasting the summary as context for the new chat they have to start.  But it is time-consuming. And not intuitive enough.  People might not write the right prompt to summarise the chat, and we know how much the model can fail to accurately summarise a previous discussion. Therefore, the question is, where do you build a summarizer? How do you improve this workflow?
 
 Ideally, in a good workflow, the solution to fix the model's decreased performance as the chat window grows should be require input from the user.  If I am working on a coding project I would probably want that chat window to continue. It is not easy to go through past chats. It is not fun to leave midway and start a new chat. Have multiple chat windows for the same project.  Yes, you can break down your work. Create smaller tasks. Have a chat open for each task. Move to a new chat for the next chat. But again it is sub optimal.  I don't want Claude to repeatedly prompt me to start a new chat. 
- How can we have a single view?  Each chat has a unique identifier (chat ID), and when you start a new chat, it’s treated as a completely new session, with context limited to that specific conversation—not your entire chat history for that project. But what if there were a middle layer to manage this transition more seamlessly?
+ How can we have a single view?  Each chat has a unique identifier (chat ID), and when you start a new chat, it’s treated as a completely new session, with context limited to that specific conversation, not your entire chat history for that project. But what if there were a middle layer to manage this transition more seamlessly?
 
 It will be an automatic summarisation layer.
 
 Imagine a system where users can continue working within a single long-form chat, but behind the scenes, the conversation is periodically summarised and stored. Rather than opening a new chat when Claude suggests starting fresh, the system could generate a summary, start a new chat in the background with a new chat ID, append the summary, and pass that condensed context forward. This way, the model retains relevant information without overwhelming its context window, and users don’t have to worry about managing multiple chat sessions.
 
-This approach could significantly improve the user experience—keeping conversations fluid while ensuring model performance remains stable.
+This approach could significantly improve the user experience, keeping conversations fluid while ensuring model performance remains stable.
 
 While this is a high-level idea, it would be interesting to see how Claude and OpenAI are thinking about solving this problem.

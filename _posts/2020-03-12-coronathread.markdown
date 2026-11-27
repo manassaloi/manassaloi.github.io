@@ -107,7 +107,7 @@ Books to read if you want to understand Growth more
 
 39/ [Mega thread on Eric Weinstein's insights](https://mobile.twitter.com/z3nblack/status/1009243719298502656)
 
-40/ [Statistical Tests — When to use Which ?](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
+40/ [Statistical Tests: When to use Which ?](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
 
 41/ Blogs of a few people I want to read
 
@@ -139,7 +139,7 @@ I am currently doing this course for undergrads, Spring 2020
 
 51/ [Paper on the Psychology of Security by Bruce Schneier](https://www.schneier.com/academic/paperfiles/paper-psychology-of-security.pdf)
 
-52/ [Katie Swindler - Animation in UX — The subconscious influence of motion](https://vimeo.com/255578630?ref=tw-share)
+52/ [Katie Swindler - Animation in UX: The subconscious influence of motion](https://vimeo.com/255578630?ref=tw-share)
 
 53/ [Ryan Singer, “Designing with Forces: How to Apply Christopher Alexander in Everyday Work”](https://vimeo.com/10875362)
 

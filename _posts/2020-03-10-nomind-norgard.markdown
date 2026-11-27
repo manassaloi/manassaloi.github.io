@@ -22,4 +22,4 @@ Notes from [Pomp's interview of Brian Norgard](https://podcasts.google.com/?feed
 - Don't teach users how to use your product. Brian does not believe in on boarding. Users should be able to educate themselves
 - Match your product with the correct attention span of the user
 - All physical technologies follows a similar trend: over time, its size goes from big to medium, from medium to small, and from small to invisible
-- People love podcasts because of multimodal consumption — you can listen while driving, running, walking to work, etc
+- People love podcasts because of multimodal consumption: you can listen while driving, running, walking to work, etc

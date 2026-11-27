@@ -9,7 +9,7 @@ Airbnb has to be in founder mode because it is a seasonal business facing headwi
 
 If you see tweets on Airbnb, it will mostly be people complaining about cleaning fees and how Airbnbs have become far more expensive than hotels.
 
-Brian Chesky has no choice but to be in founder mode — or what Papa Horowitz calls wartime mode.
+Brian Chesky has no choice but to be in founder mode, or what Papa Horowitz calls wartime mode.
 
 Instead of founder mode vs manager mode, it is better to frame it as wartime vs peacetime mode.
 

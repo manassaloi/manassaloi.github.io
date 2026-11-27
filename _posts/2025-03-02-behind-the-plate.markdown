@@ -9,7 +9,7 @@ Swiggy should do a series called "Behind the Plate" where they showcase the actu
 
 The idea is simple. Each episode features one chef from a restaurant you order from. Make the chef the hero of the story.
 
-Think of this less like Chef’s Table or Nikhil Kamath inviting restaurant owners to discuss French patisserie techniques. The goal, the audience, and the format are different here. Chef’s Table tells the story of restaurant owners perfecting their craft—not the young cook from UP who moved to Bengaluru with big dreams and now supports his family back home by making chole kulche. This will focus on the latter.
+Think of this less like Chef’s Table or Nikhil Kamath inviting restaurant owners to discuss French patisserie techniques. The goal, the audience, and the format are different here. Chef’s Table tells the story of restaurant owners perfecting their craft, not the young cook from UP who moved to Bengaluru with big dreams and now supports his family back home by making chole kulche. This will focus on the latter.
 
 No script, just real conversations about their journey, struggles, and what drives them to cook. 
 Show them actually making their signature dishes. Let viewers see the care that goes into the food they order with a few taps on their phone.

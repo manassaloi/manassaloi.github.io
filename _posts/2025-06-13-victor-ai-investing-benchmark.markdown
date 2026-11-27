@@ -18,7 +18,7 @@ Our job as investors is less about predicting the far future and more about unde
 We track benchmarks: Where are the eval scores rising most quickly? Then we invest there. The pattern is clear: AI improves fastest where you can measure the output objectively.
 
 - Code is the best example. You compile and test, so feedback is instant. Seed investing in coding tools is probably closed now, but we are glad we got in early.
-- Other text-based fields with clear exams or verifiable outputs—law, medicine, and so on—show the same rapid gain, which is why I backed two startups in AI video as well.
+- Other text-based fields with clear exams or verifiable outputs (law, medicine, and so on) show the same rapid gain, which is why I backed two startups in AI video as well.
 - Domains without tight feedback loops, like household robotics, will take much longer.
 
 So our framework is simple:
