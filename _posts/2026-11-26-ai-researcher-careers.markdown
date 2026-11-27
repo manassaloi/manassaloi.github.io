@@ -3,25 +3,26 @@ layout: post
 title:  "26,000 AI researcher careers"
 ---
 
-For the last six years, top AI researchers have moved between OpenAI, Anthropic, Google DeepMind, Meta, xAI and newer labs. Most went back and forth, took nine-figure offers, while some stayed back. Who played it right, the people who were loyal or the job hoppers?
+For the last six years, top AI researchers have moved between OpenAI, Anthropic, Google DeepMind, Meta, xAI and newer labs. Most went back and forth, took nine-figure offers, while a few stayed back. 
 
-So we tested every path.
+Who played it right: the people who were loyal or the job hoppers?
+
+To answer this we tested every path.
 
 Note: We is doing a lot of heavy lifting here, it is mostly Claude, Gemini, and Grok.
 
 We took one researcher who starts work in January 2020 and modelled every career they could have had across eight employers up to today. That comes to 25,756 paths, and we valued each one as of 25 November 2026.
 
-The best path had exactly one move in it. Start at OpenAI in 2020, join Anthropic in July 2021 and never leave, and your equity is worth about $797M today. Staying at OpenAI the whole time gets you about $104M, and staying at Google about $16M. What you made depended almost entirely on the share price on the day you got your equity, and on not leaving before it grew.
 
-## Why only equity
+The best path had exactly one move in it: Start at OpenAI in 2020, join Anthropic in July 2021 and never leave, and your equity would be worth about $797M today. Staying at OpenAI the whole time gets you about $104M, and staying at Google about $16M. 
 
-At these companies, equity is where the money is. A researcher in the model who stays from 2020 gets about $10.6M of it, valued at the time of each grant. Even a $400K salary adds up to under $3M over the same seven years, and it can't grow 300×.
+What you made depended almost entirely on the share price on the day you got your equity, and on not leaving before it grew.
 
-To keep it fair, the researcher gets paid exactly the same everywhere. Every year they get the same dollar amount of equity at every company, and the only thing that changes is whose stock that money buys. Salary and bonus are identical too, which is why we left them out. We ignored sign-on bonuses as well. Only people who move get one, so this makes movers look slightly worse than they were. And nobody sells anything. Every vested share is valued at today's price, and shares that haven't vested yet don't count.
+Why only equity? At these companies, equity is where the money is. A researcher in the model who stays from 2020 gets about $10.6M of it, valued at the time of each grant. Even a $400K salary adds up to under $3M over the same seven years, and it can't grow 300×.
+
+To keep the math simple, we assume the researcher gets paid exactly the same everywhere. Every year they get the same dollar amount of equity at every company, and the only thing that changes is whose stock that money buys. Salary and bonus are identical too, which is why we left them out. We ignored sign-on bonuses as well. Only people who move get one, so this makes movers look slightly worse than they were. And we assume nobody sells anything. Every vested share is valued at today's price, and shares that haven't vested yet don't count.
 
 What's left is a question of whose stock you wanted to be paid in, and when.
-
-## The ranking
 
 | Rank | Career path | Equity value today |
 |---|---|---|
@@ -41,8 +42,6 @@ The median path is worth $66M and the worst $12M. It's that high because all eig
 
 The lifers are all over the place. The OpenAI lifer beats 70% of all paths and the Nvidia lifer 46%, while the Google and Meta lifers beat only 1% and 0.5%.
 
-## What $1 of equity became
-
 | Granted | $1 is worth today |
 |---|---|
 | Anthropic, mid-2021 | $322 |
@@ -54,9 +53,7 @@ The lifers are all over the place. The OpenAI lifer beats 70% of all paths and t
 
 A dollar of Anthropic equity granted in mid-2021 is worth $322 today, which is why every path at the top of the ranking goes through Anthropic in 2021.
 
-## What I didn't expect
-
-Where you started barely mattered. If you moved to Anthropic in July 2021, starting at OpenAI gets you $797M, Nvidia $794M, Google $782M and Meta $781M. When you joined Anthropic mattered a lot more:
+What I didn't expect to find is that where you started barely mattered. If you moved to Anthropic in July 2021, starting at OpenAI gets you $797M, Nvidia $794M, Google $782M and Meta $781M. When you joined Anthropic mattered a lot more:
 
 | Joined Anthropic | Best path |
 |---|---|
@@ -104,7 +101,7 @@ So where should you join today? I don't know, and the model can't tell you. Gran
 
 ---
 
-## How we built it
+## How we built it & more assumptions
 
 The researcher is a strong senior one, not a cofounder or a named star. Their going-rate grant each year is $375K (2020), $500K, $600K, $1M, $1.5M, $2.5M and $3M (2026). When they join a company they get four years of that year's rate, vesting over four years with nothing in the first year, and every work anniversary adds one more year at the current rate. When they quit, whatever hasn't vested is gone. Someone who stays from 2020 gets about $10.6M of equity in total, a $1.5M joining grant plus $9.1M of yearly top-ups.
 
