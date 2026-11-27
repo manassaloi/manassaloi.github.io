@@ -3,9 +3,13 @@ layout: post
 title:  "26,000 AI researcher careers"
 ---
 
-For six years, top AI researchers have moved between OpenAI, Anthropic, Google DeepMind, Meta, xAI and newer labs. Some went back and forth, and some took nine-figure offers. Everyone has a theory about who played it right.
+For the last six years, top AI researchers have moved between OpenAI, Anthropic, Google DeepMind, Meta, xAI and newer labs. Most went back and forth, took nine-figure offers, while some stayed back. You might wonder who played it right: the people who were loyal, or the job hoppers.
 
-So we tested every path. We took one researcher who starts work in January 2020 and modelled every career they could have had across eight employers until today: 25,756 paths. We then valued each one as of 25 November 2026.
+So we tested every path. 
+
+Note: We is doing a lot of heavy lifting here, it is mostly Claude, Gemini, and Grok. 
+
+We took one researcher who starts work in January 2020 and modelled every career they could have had across eight employers until today: 25,756 paths. We then valued each one as of 25 November 2026.
 
 The short answer: the best path had exactly one move. Join Anthropic in July 2021, then never leave. That researcher's equity is worth about $797M today. Staying at OpenAI the whole time gives about $104M, and staying at Google gives about $16M.
 
@@ -21,7 +25,9 @@ To make the comparison fair, we made everything else identical:
 - Same salary and bonus everywhere. So we leave them out, since they cancel. Sign-on bonuses are left out too. Only people who move get one, so movers come out slightly low.
 - No selling. Every vested share is valued at today's price. Shares still vesting don't count.
 
-So this isn't "who paid more". It's "if you got paid the same, which company's stock did you want to be paid in, and when?"
+So this isn't "who paid more". 
+
+It's "if you got paid the same, which company's stock did you want to be paid in, and when?"
 
 ## The ranking
 
@@ -63,7 +69,7 @@ Everything in the ranking follows from this table.
 
 ## Five things we didn't expect
 
-### 1. Your first job barely mattered. Timing your move did.
+### 1. Your first job barely mattered. It was all about timing your move.
 
 If you moved to Anthropic in July 2021, where you started barely changed the result:
 
@@ -94,7 +100,7 @@ Every time you quit, you give up your unvested equity, worth whatever it would h
 
 ### 3. Moving isn't bad in itself.
 
-The median path with three moves ($66M) beats the median with one move ($57M) and the median for staying put ($39M, from only four paths, since the other four employers didn't exist yet in 2020). More moves meant more chances to land somewhere cheap. That only works because all eight employers did well. Add a lab that failed, and more moves would also mean more chances to land there. What cost money was leaving Anthropic, not moving.
+The median path with three moves ($66M) beats the median with one move ($57M) and the median for staying put ($39M, from only four paths, since the other four employers didn't exist yet in 2020). More moves meant more chances to land somewhere where equity was cheap. That only works because all eight employers did well. Add a lab that failed, and more moves would also mean more chances to land there. What cost money was leaving Anthropic, not moving.
 
 ### 4. A 2020 Nvidia share did almost as well as a 2020 OpenAI unit.
 
